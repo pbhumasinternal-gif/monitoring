@@ -13,9 +13,9 @@ import urllib.request as urlreq
 # ── Kata kunci (3 topik) ─────────────────────────────────────────────────────
 KEYWORDS = [
     {"id": "danadesa", "label": "Dana Desa", "query": "Dana Desa"},
-    {"id": "bumdesa",   "label": "BUM Desa", "query": "Badan Usaha Milik Desa BUM Desa"},
+    {"id": "bumdesa",   "label": "BUM Desa", "query": "BUM Desa"},
     {"id": "daerahtertinggal", "label": "Daerah Tertinggal", "query": "Daerah Tertinggal"},
-    {"id": "kemendesa", "label": "Kemendesa PDT", "query": "Kementerian Desa dan Pembangunan Daerah Tertinggal Kemendes PDT"},
+    {"id": "kemendesa", "label": "Kemendesa PDT", "query": "Kemendes PDT"},
 ]
 
 HEADERS = {
