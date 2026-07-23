@@ -17,9 +17,10 @@
   --border2: #d1d5db;
   --text:    #111827;
   --muted:   #6b7280;
-  --mbg:     #d97706;
-  --sppg:    #059669;
-  --kopdes:  #dc2626;
+  --danadesa:     #d97706;
+  --bumdesa:    #059669;
+  --daerahtertinggal:  #dc2626;
+  --kemendesa:  #dc2626;
   --accent:  #d97706;
   --r: 10px;
   --font: "Segoe UI", system-ui, -apple-system, sans-serif;
@@ -44,7 +45,7 @@ a:hover { text-decoration:underline; }
 .header-text { flex:1; min-width:220px; }
 .header-text h1 {
   font-size:clamp(1.35rem, 2.6vw, 2rem); font-weight:800; letter-spacing:-.4px;
-  background:linear-gradient(100deg, var(--mbg) 0%, var(--sppg) 55%, var(--kopdes) 100%);
+  background:linear-gradient(100deg, var(--danadesa) 0%, var(--bumdesa) 55%, var(--daerahtertinggal) 80%, var(--kemendesa) 100%,);
   -webkit-background-clip:text; background-clip:text; color:transparent;
   line-height:1.15;
 }
@@ -91,9 +92,10 @@ a:hover { text-decoration:underline; }
 }
 .tab:hover { color:var(--text); }
 .tab[data-topic="all"].active   { border-color:#6b7280; color:#374151; }
-.tab[data-topic="mbg"].active   { border-color:var(--mbg);    color:var(--mbg); }
-.tab[data-topic="sppg"].active  { border-color:var(--sppg);   color:var(--sppg); }
-.tab[data-topic="kopdes"].active{ border-color:var(--kopdes); color:var(--kopdes); }
+.tab[data-topic="danadesa"].active   { border-color:var(--danadesa);    color:var(--danadesa); }
+.tab[data-topic="bumdesa"].active  { border-color:var(--bumdesa);   color:var(--bumdesa); }
+.tab[data-topic="daerahtertinggal"].active{ border-color:var(--daerahtertinggal); color:var(--daerahtertinggal); }
+.tab[data-topic="kemendesa"].active{ border-color:var(--kemendesa); color:var(--kemendesa); }
 .tab-dot { width:8px; height:8px; border-radius:50%; background:currentColor; flex-shrink:0; }
 .tab-badge {
   background:var(--border); border-radius:20px; padding:1px 7px;
@@ -101,9 +103,10 @@ a:hover { text-decoration:underline; }
 }
 .tab.active .tab-badge { color:#fff; }
 .tab[data-topic="all"].active   .tab-badge { background:#6b7280; }
-.tab[data-topic="mbg"].active   .tab-badge { background:var(--mbg); }
-.tab[data-topic="sppg"].active  .tab-badge { background:var(--sppg); }
-.tab[data-topic="kopdes"].active .tab-badge { background:var(--kopdes); }
+.tab[data-topic="danadesa"].active   .tab-badge { background:var(--danadesa); }
+.tab[data-topic="bumdesa"].active  .tab-badge { background:var(--bumdesa); }
+.tab[data-topic="daerahtertinggal"].active .tab-badge { background:var(--daerahtertinggal); }
+.tab[data-topic="kemendesa"].active .tab-badge { background:var(--kemendesa); }
 
 /* ── Insights row: word cloud + heatmap ── */
 .insights-row {
@@ -190,15 +193,17 @@ a:hover { text-decoration:underline; }
 .article-card::before {
   content:""; position:absolute; left:0; top:0; bottom:0; width:4px;
 }
-.article-card[data-topic="mbg"]::before    { background:var(--mbg); }
-.article-card[data-topic="sppg"]::before   { background:var(--sppg); }
-.article-card[data-topic="kopdes"]::before { background:var(--kopdes); }
+.article-card[data-topic="danadesa"]::before    { background:var(--danadesa); }
+.article-card[data-topic="bumdesa"]::before   { background:var(--bumdesa); }
+.article-card[data-topic="daerahtertinggal"]::before { background:var(--daerahtertinggal); }
+.article-card[data-topic="kemendesa"]::before { background:var(--kemendesa); }
 
 .article-meta { display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:5px; }
 .badge { font-size:10px; font-weight:700; text-transform:uppercase; letter-spacing:.4px; padding:2px 8px; border-radius:4px; }
-.badge.mbg    { background:#fef3c7; color:#92400e; }
-.badge.sppg   { background:#d1fae5; color:#065f46; }
-.badge.kopdes { background:#fee2e2; color:#991b1b; }
+.badge.danadesa    { background:#fef3c7; color:#92400e; }
+.badge.bumdesa   { background:#d1fae5; color:#065f46; }
+.badge.daerahtertinggal { background:#fee2e2; color:#991b1b; }
+.badge.kemendesa { background:#fee2e2; color:#991b1b; }
 .article-source { font-size:11px; color:var(--muted); font-weight:600; }
 .article-date   { font-size:11px; color:var(--muted); margin-left:auto; }
 .article-title  { font-size:13px; font-weight:600; line-height:1.45; margin-bottom:4px; }
@@ -243,9 +248,10 @@ a:hover { text-decoration:underline; }
 .stat-num   { font-size:26px; font-weight:800; line-height:1.1; }
 .stat-label { font-size:10px; color:var(--muted); margin-top:2px; text-transform:uppercase; letter-spacing:.4px; }
 .stat-item.total  .stat-num { color:var(--text); }
-.stat-item.mbg    .stat-num { color:var(--mbg); }
-.stat-item.sppg   .stat-num { color:var(--sppg); }
-.stat-item.kopdes .stat-num { color:var(--kopdes); }
+.stat-item.danadesa    .stat-num { color:var(--danadesa); }
+.stat-item.bumdesa   .stat-num { color:var(--bumdesa); }
+.stat-item.daerahtertinggal .stat-num { color:var(--daerahtertinggal); }
+.stat-item.kemendesa .stat-num { color:var(--kemendesa); }
 .stat-spark { height:16px; width:100%; display:block; margin-top:5px; }
 
 /* Charts */
@@ -456,22 +462,22 @@ a:hover { text-decoration:underline; }
             <div class="stat-label">Total</div>
             <svg class="stat-spark" id="spark-total"></svg>
           </div>
-          <div class="stat-item mbg">
+          <div class="stat-item danadesa">
             <div class="stat-num" id="stat-danadesa">0</div>
             <div class="stat-label">Dana Desa</div>
             <svg class="stat-spark" id="spark-danadesa"></svg>
           </div>
-          <div class="stat-item sppg">
+          <div class="stat-item bumdesa">
             <div class="stat-num" id="stat-bumdesa">0</div>
             <div class="stat-label">BUM Desa</div>
             <svg class="stat-spark" id="spark-bumdesa"></svg>
           </div>
-          <div class="stat-item kopdes">
+          <div class="stat-item daerahtertinggal">
             <div class="stat-num" id="stat-daerahtertinggal">0</div>
             <div class="stat-label">Daerah Tertinggal</div>
             <svg class="stat-spark" id="spark-daerahtertinggal"></svg>
           </div>
-            <div class="stat-item kopdes">
+            <div class="stat-item kemendesa">
             <div class="stat-num" id="stat-kemendesa">0</div>
             <div class="stat-label">Kemendesa PDT</div>
             <svg class="stat-spark" id="spark-kemendesa"></svg>
@@ -613,7 +619,7 @@ function animateCounter(el, target, duration=800) {
 
 // ── Counts (selalu dari seluruh data, bukan filtered) ─────────────────
 function updateCounts() {
-  const c = { mbg:0, sppg:0, kopdes:0 };
+  const c = { danadesa:0, bumdesa:0, daerahtertinggal:0, kemendesa:0 };
   for (const a of allArticles) if (a.topic in c) c[a.topic]++;
   animateCounter(document.getElementById("count-all"),    allArticles.length);
   animateCounter(document.getElementById("count-danadesa"),    c.danadesa);
@@ -621,9 +627,9 @@ function updateCounts() {
   animateCounter(document.getElementById("count-daerahtertinggal"), c.daerahtertinggal);
   animateCounter(document.getElementById("count-kemendesa"), c.kemendesa);
   animateCounter(document.getElementById("stat-total"),   allArticles.length);
-  animateCounter(document.getElementById("stat-danadesa"),     c.danadesa);
-  animateCounter(document.getElementById("stat-bumdesa"),    c.bumdesa);
-  animateCounter(document.getElementById("stat-daerahtertinggal"),  c.daerahtertinggal);
+  animateCounter(document.getElementById("stat-danadesa"), c.danadesa);
+  animateCounter(document.getElementById("stat-bumdesa"), c.bumdesa);
+  animateCounter(document.getElementById("stat-daerahtertinggal"), c.daerahtertinggal);
   animateCounter(document.getElementById("stat-kemendesa"),  c.kemendesa);
 }
 
@@ -1091,7 +1097,7 @@ function buildExportRows() {
 document.getElementById("btn-excel").addEventListener("click", () => {
   const wb = XLSX.utils.book_new();
   XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(buildExportRows()), "Berita");
-  XLSX.writeFile(wb, "monitor-mbg-" + new Date().toISOString().slice(0,10) + ".xlsx");
+  XLSX.writeFile(wb, "monitor-kemendesa-" + new Date().toISOString().slice(0,10) + ".xlsx");
 });
 
 document.getElementById("btn-csv").addEventListener("click", () => {
@@ -1102,7 +1108,7 @@ document.getElementById("btn-csv").addEventListener("click", () => {
   ).join("\n");
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob(["\uFEFF"+csv],{type:"text/csv;charset=utf-8;"}));
-  a.download = "monitor-mbg-" + new Date().toISOString().slice(0,10) + ".csv";
+  a.download = "monitor-kemendesa-" + new Date().toISOString().slice(0,10) + ".csv";
   a.click();
 });
 
