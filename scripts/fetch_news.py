@@ -1,7 +1,7 @@
 """
 fetch_news.py — Monitor Berita Dana Desa, BUM Desa, Daerah Tertinggal dan Kemendesa PDT
 Ambil dari Google News RSS, akumulasi ke docs/data/news.json (tidak ditimpa).
-Jalankan via GitHub Actions tiap 6 jam.
+Jalankan via GitHub Actions tiap 60 menit .
 """
 
 import json, hashlib, re, time, xml.etree.ElementTree as ET
