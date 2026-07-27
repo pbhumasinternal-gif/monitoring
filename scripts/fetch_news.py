@@ -5,10 +5,13 @@ Jalankan via GitHub Actions tiap 60 menit .
 """
 
 import json, hashlib, re, time, xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta # <--- Penambahan baru
 from pathlib import Path
 from urllib.parse import urlencode, urlparse, parse_qs, unquote
 import urllib.request as urlreq
+
+# ── Konfigurasi Zona Waktu (GMT+7 / WIB) ────────────────────────────────────
+WIB = timezone(timedelta(hours=7))
 
 # ── Kata kunci (3 topik) ─────────────────────────────────────────────────────
 KEYWORDS = [
@@ -50,13 +53,16 @@ def make_id(title: str, source: str) -> str:
 
 def parse_rss_date(date_str: str) -> str:
     if not date_str:
-        return datetime.now(timezone.utc).isoformat()
+        return datetime.now(WIB).isoformat()
     for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z", "%d %b %Y %H:%M:%S %z"]:
         try:
-            return datetime.strptime(date_str.strip(), fmt).astimezone(timezone.utc).isoformat()
+            # Mengonversi waktu RSS (apapun offset asalnya) ke GMT+7 (WIB)
+            return datetime.strptime(date_str.strip(), fmt).astimezone(WIB).isoformat()
+            # ini yang awal return datetime.strptime(date_str.strip(), fmt).astimezone(timezone.utc).isoformat()
         except ValueError:
             continue
-    return datetime.now(timezone.utc).isoformat()
+    #return datetime.now(timezone.utc).isoformat()
+    return datetime.now(WIB).isoformat()
 
 
 def fetch_rss(keyword: dict) -> list:
@@ -92,7 +98,6 @@ def fetch_rss(keyword: dict) -> list:
     except Exception as e:
         print(f"  [ERROR] {keyword['id']}: {e}")
     return articles
-
 
 def main():
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
