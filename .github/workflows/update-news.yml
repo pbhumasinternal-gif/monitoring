@@ -2,7 +2,7 @@ name: Update Berita Monitor Kemendesa
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "44 * * * *"
   workflow_dispatch:
 
 permissions:
