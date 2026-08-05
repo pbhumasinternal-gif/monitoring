@@ -16,7 +16,7 @@ WIB = timezone(timedelta(hours=7))
 # ── Kata kunci (4 topik) ─────────────────────────────────────────────────────
 KEYWORDS = [
     {"id": "danadesa", "label": "Dana Desa", "query": "Dana Desa"},
-    {"id": "bumdes",   "label": "BUM Desa", "query": "BUMDes"},
+    {"id": "bumdesa",   "label": "BUM Desa", "query": "BUMDes"},
     {"id": "daerahtertinggal", "label": "Daerah Tertinggal", "query": "Daerah Tertinggal"},
     {"id": "kemendesa", "label": "Kemendesa PDT", "query": "Kemendes PDT"},
 ]
