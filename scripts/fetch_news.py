@@ -1,11 +1,11 @@
 """
 fetch_news.py — Monitor Berita Dana Desa, BUM Desa, Daerah Tertinggal dan Kemendesa PDT
 Ambil dari Google News RSS, akumulasi ke docs/data/news.json (tidak ditimpa).
-Jalankan via GitHub Actions tiap 60 menit .
+Jalankan via GitHub Actions tiap 30 menit .
 """
 
 import json, hashlib, re, time, xml.etree.ElementTree as ET
-from datetime import datetime, timezone, timedelta # <--- Penambahan baru
+from datetime import datetime, timezone, timedelta #<--- Penambahan baru
 from pathlib import Path
 from urllib.parse import urlencode, urlparse, parse_qs, unquote
 import urllib.request as urlreq
@@ -13,7 +13,7 @@ import urllib.request as urlreq
 # ── Konfigurasi Zona Waktu (GMT+7 / WIB) ────────────────────────────────────
 WIB = timezone(timedelta(hours=7))
 
-# ── Kata kunci (3 topik) ─────────────────────────────────────────────────────
+# ── Kata kunci (4 topik) ─────────────────────────────────────────────────────
 KEYWORDS = [
     {"id": "danadesa", "label": "Dana Desa", "query": "Dana Desa"},
     {"id": "bumdes",   "label": "BUM Desa", "query": "BUMDes"},
@@ -21,7 +21,7 @@ KEYWORDS = [
     {"id": "kemendesa", "label": "Kemendesa PDT", "query": "Kemendes PDT"},
 ]
 
-HEADERS = {
+HEADERS = { 
     "User-Agent": (
         "Mozilla/5.0 (X11; Linux x86_64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
