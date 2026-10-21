@@ -13,6 +13,19 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
+    "id": "da53555b1254",
+    "title": "Kepala MTsN 2 Desa Parbangunan Bungkam soal Dana Bos tahun anggaran 2024 dan 2025. - Kicaunews",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUUhkMk50cFFGd2ZraVJneTRic2JleWl0dE1uQmhacjhpemQ1akVGNVBFcld0Tkg2Mm1Pbzktd2Vvek9qQ0lxSVYzZl85ZVhYQUtNQTE3NDdwVE45Vm9GQ3FkdEZPQ0NVWWl5TlM3eWlncWxQdFNrWXFLQy1UczYwbnpZX0hoTmhaRDlQX2lva3FBTWlsT2t4NHBYWmFoMEpEUWM5VE1WRFAzZEhGMktnamlLRFB4Zw",
+    "source": "Kicaunews",
+    "pub_date": "2026-10-21T16:50:29+07:00",
+    "desc": "Kepala MTsN 2 Desa Parbangunan Bungkam soal Dana Bos tahun anggaran 2024 dan 2025.&nbsp;&nbsp;Kicaunews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -5,
+    "sentiment_tag": "Sorotan Transparansi"
+  },
+  {
     "id": "6eba8c6ea29e",
     "title": "Yandri Targetkan 80000 Koperasi Desa Merah Putih Beroperasi - Lensa Hukum",
     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1QTUxoU2d5VW5VVGhMT2R4T2diSnNTcXFnMHNEdkFEVm9ZS1hkVVpubUdxQzJrdVV5c1RpVkhSSFBzQ09Id184amZhUm93amF5SE5LTHlkQmFqREkxQXpzdV95Ny04ZFg4",
@@ -47,6 +60,19 @@
     "desc": "Bupati SBT Diminta Tegur Keras Pejabat Negeri Wunin Eldedora&nbsp;&nbsp;Ombudsman Republik Indonesia",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "dcd4b9401335",
+    "title": "Rapat BUMDes Kelarik Air Mali Bahas Rencana Usaha Minyak Tanah - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOG9TZHJ1Y2tyN3dUc0ZnVjVGb05TdDB4dVhndkZFVjlFazFWbjZWSkRwNkkxVWw0RTdPOW9wVngzSzJudmhWLTJUdFNfWEI5dmViODAwTlRhZzc1OGxKNFlkU3BzYWRDNnl0QVFEN1NsTkdyU1NpOXIxNERrd3ZxREJ3UUx5UHpXcWF6c2oyRW11U29ObU1JUzJIcFdTd0J6c0JCNlhVbw",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-21T15:50:00+07:00",
+    "desc": "Rapat BUMDes Kelarik Air Mali Bahas Rencana Usaha Minyak Tanah&nbsp;&nbsp;RRI.co.id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
