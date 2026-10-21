@@ -85,25 +85,178 @@ NEGATION_PREFIXES = {"tak", "tidak", "belum", "kurang", "bukan", "tanpa", "gagal
 
 
 def analyze_sentiment(title: str, desc: str = "") -> dict:
-    """
-    Analisis semantik kontekstual berbahasa Indonesia untuk pemberitaan desa.
-    Mengembalikan dict: {sentiment, sentiment_score, sentiment_tag}
-    """
     text = f"{title} {desc}".lower()
     text = re.sub(r"&nbsp;|&amp;|<[^>]+>", " ", text)
 
     score = 0
     matched_tag = None
 
-    # 1. Evaluasi frasa komposit positif terlebih dahulu
     for pattern, weight, tag in POSITIVE_PHRASES:
         if re.search(pattern, text):
             score += weight
             if not matched_tag:
                 matched_tag = tag
 
-    # 2. Evaluasi frasa komposit negatif (kecuali jika dalam konteks pencegahan/antikorupsi)
     for pattern, weight, tag in NEGATIVE_PHRASES:
         match = re.search(pattern, text)
         if match:
-            # Cek 3 kata sebelum frasa negatif, apakah ada kata mitigasi/
+            start_idx = max(0, match.start() - 35)
+            prefix_context = set(re.findall(r"[a-z]+", text[start_idx:match.start()]))
+            if prefix_context.intersection(MITIGATION_PREFIXES):
+                score += 2
+                if not matched_tag:
+                    matched_tag = "Mitigasi & Pengawasan"
+            else:
+                score += weight
+                if not matched_tag or weight <= -3:
+                    matched_tag = tag
+
+    tokens = re.findall(r"[a-z0-9-]+", title.lower())
+    for i, token in enumerate(tokens):
+        prev_words = set(tokens[max(0, i - 3):i])
+
+        if token in POSITIVE_WORDS:
+            if prev_words.intersection(NEGATION_PREFIXES):
+                score -= 2
+                if not matched_tag:
+                    matched_tag = "Kendala & Sorotan"
+            else:
+                score += POSITIVE_WORDS[token]
+
+        elif token in NEGATIVE_WORDS:
+            if prev_words.intersection(MITIGATION_PREFIXES):
+                score += 2
+                if not matched_tag:
+                    matched_tag = "Mitigasi & Pengawasan"
+            else:
+                score += NEGATIVE_WORDS[token]
+
+    if score >= 2:
+        sentiment = "positif"
+        final_tag = matched_tag or "Capaian & Pemberdayaan"
+    elif score <= -2:
+        sentiment = "negatif"
+        final_tag = matched_tag or "Sorotan & Evaluasi"
+    else:
+        sentiment = "netral"
+        final_tag = "Informatif & Regulasi"
+
+    return {
+        "sentiment": sentiment,
+        "sentiment_score": score,
+        "sentiment_tag": final_tag,
+    }
+
+
+def normalize_url(url: str) -> str:
+    try:
+        parsed = urlparse(url)
+        if parsed.netloc == "news.google.com":
+            qs = parse_qs(parsed.query)
+            if "url" in qs:
+                return normalize_url(unquote(qs["url"][0]))
+        return parsed._replace(query="", fragment="").geturl().rstrip("/")
+    except Exception:
+        return url.split("?")[0].rstrip("/")
+
+
+def make_id(title: str, source: str) -> str:
+    return hashlib.md5(f"{title.strip().lower()}|{source.strip().lower()}".encode()).hexdigest()[:12]
+
+
+def parse_rss_date(date_str: str) -> str:
+    if not date_str:
+        return datetime.now(WIB).isoformat()
+    for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z", "%d %b %Y %H:%M:%S %z"]:
+        try:
+            return datetime.strptime(date_str.strip(), fmt).astimezone(WIB).isoformat()
+        except ValueError:
+            continue
+    return datetime.now(WIB).isoformat()
+
+
+def fetch_rss(keyword: dict) -> list:
+    params = urlencode({"q": keyword["query"], "hl": "id", "gl": "ID", "ceid": "ID:id"})
+    url = f"https://news.google.com/rss/search?{params}"
+    articles = []
+    try:
+        req = urlreq.Request(url, headers=HEADERS)
+        with urlreq.urlopen(req, timeout=20) as resp:
+            root = ET.fromstring(resp.read())
+        channel = root.find("channel")
+        if channel is None:
+            return articles
+        for item in channel.findall("item"):
+            title  = (item.findtext("title") or "").strip()
+            link   = normalize_url((item.findtext("link") or "").strip())
+            pub    = parse_rss_date(item.findtext("pubDate") or "")
+            desc   = re.sub(r"<[^>]+>", "", item.findtext("description") or "").strip()
+            src_el = item.find("source")
+            source = src_el.text.strip() if src_el is not None and src_el.text else ""
+            if not title or not link:
+                continue
+
+            sem = analyze_sentiment(title, desc)
+            articles.append({
+                "id":              make_id(title, source),
+                "title":           title,
+                "link":            link,
+                "source":          source,
+                "pub_date":        pub,
+                "desc":            desc[:300],
+                "topic":           keyword["id"],
+                "topic_label":     keyword["label"],
+                "sentiment":       sem["sentiment"],
+                "sentiment_score": sem["sentiment_score"],
+                "sentiment_tag":   sem["sentiment_tag"],
+            })
+    except Exception as e:
+        print(f"  [ERROR] {keyword['id']}: {e}")
+    return articles
+
+
+def main():
+    DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+
+    existing = []
+    if DATA_PATH.exists():
+        try:
+            existing = json.loads(DATA_PATH.read_text(encoding="utf-8"))
+            print(f"Data lama: {len(existing)} artikel")
+            backfilled = 0
+            for art in existing:
+                if "sentiment" not in art or "sentiment_tag" not in art:
+                    sem = analyze_sentiment(art.get("title", ""), art.get("desc", ""))
+                    art["sentiment"]       = sem["sentiment"]
+                    art["sentiment_score"] = sem["sentiment_score"]
+                    art["sentiment_tag"]   = sem["sentiment_tag"]
+                    backfilled += 1
+            if backfilled:
+                print(f"  [SEMANTIK] Berhasil melengkapi sentimen pada {backfilled} artikel lama.")
+        except Exception as e:
+            print(f"  [WARN] Gagal membaca data lama: {e}")
+
+    seen_ids  = {a["id"] for a in existing}
+    seen_urls = {normalize_url(a["link"]) for a in existing}
+    new_articles = []
+
+    for kw in KEYWORDS:
+        print(f"Fetching: {kw['label']} ...")
+        count = 0
+        for art in fetch_rss(kw):
+            if art["id"] in seen_ids or normalize_url(art["link"]) in seen_urls:
+                continue
+            new_articles.append(art)
+            seen_ids.add(art["id"])
+            seen_urls.add(normalize_url(art["link"]))
+            count += 1
+        print(f"  +{count} artikel baru")
+        time.sleep(1)
+
+    all_articles = sorted(existing + new_articles, key=lambda a: a["pub_date"], reverse=True)
+    DATA_PATH.write_text(json.dumps(all_articles, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"\nTotal: {len(all_articles)} artikel ({len(new_articles)} baru) → {DATA_PATH}")
+
+
+if __name__ == "__main__":
+    main()
