@@ -1,0 +1,2017 @@
+<!DOCTYPE html>
+<html lang="id" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Media Monitoring — Isu Desa, BUM Desa & Dana Desa</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #f8fafc;
+  --surface: #ffffff;
+  --surface-hover: #f1f5f9;
+  --surface-subtle: #f8fafc;
+  --border: #e2e8f0;
+  --border-strong: #cbd5e1;
+  --text: #0f172a;
+  --text-secondary: #475569;
+  --muted: #64748b;
+
+  /* Warna Kategori Topik */
+  --all: #4f46e5;
+  --danadesa: #d97706;
+  --bumdesa: #059669;
+  --daerahtertinggal: #e11d48;
+  --kemendesa: #7c3aed;
+
+  --accent: #0f172a;
+  --accent-primary: #2563eb;
+  --accent-soft: #eff6ff;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.04);
+  --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.06), 0 2px 4px -2px rgba(15, 23, 42, 0.04);
+}
+
+[data-theme="dark"] {
+  --bg: #0b1120;
+  --surface: #1e293b;
+  --surface-hover: #334155;
+  --surface-subtle: #0f172a;
+  --border: #334155;
+  --border-strong: #475569;
+  --text: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --muted: #94a3b8;
+  --accent: #f8fafc;
+  --accent-primary: #3b82f6;
+  --accent-soft: rgba(59, 130, 246, 0.15);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.5;
+  min-height: 100vh;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+a { color: inherit; text-decoration: none; }
+
+/* ── Topbar / Header ── */
+.header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  backdrop-filter: blur(10px);
+}
+.header-inner {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.brand-icon {
+  width: 42px;
+  height: 42px;
+  border-radius: 11px;
+  background: linear-gradient(135deg, #2563eb, #059669);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  box-shadow: 0 4px 10px rgba(37, 99, 235, 0.25);
+  flex-shrink: 0;
+}
+.brand-title h1 {
+  font-size: clamp(1.1rem, 2vw, 1.35rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text);
+  line-height: 1.2;
+}
+.brand-sub {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 2px;
+  flex-wrap: wrap;
+}
+.live-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10b981;
+  display: inline-block;
+  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-left: auto;
+}
+.meta-pills {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.meta-pill {
+  background: var(--surface-subtle);
+  border: 1px solid var(--border);
+  padding: 5px 11px;
+  border-radius: 99px;
+  font-size: 11.5px;
+  color: var(--text-secondary);
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.meta-pill b { color: var(--text); font-weight: 700; }
+
+.theme-btn {
+  background: var(--surface-subtle);
+  border: 1px solid var(--border);
+  color: var(--text);
+  width: 36px;
+  height: 36px;
+  border-radius: 9px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  transition: all 0.15s;
+}
+.theme-btn:hover { background: var(--surface-hover); }
+
+/* ── Ticker ── */
+.ticker-bar {
+  background: var(--surface-subtle);
+  border-bottom: 1px solid var(--border);
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+  height: 34px;
+}
+.ticker-badge {
+  background: #2563eb;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0 12px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.ticker-window { overflow: hidden; flex: 1; }
+.ticker-track {
+  display: inline-flex;
+  white-space: nowrap;
+  animation: ticker 160s linear infinite;
+}
+.ticker-bar:hover .ticker-track { animation-play-state: paused; }
+.ticker-item {
+  padding: 0 24px;
+  color: var(--text-secondary);
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.ticker-item b { color: var(--text); font-weight: 700; }
+.ticker-item::after { content: "•"; margin-left: 16px; color: var(--border-strong); }
+@keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+
+/* ── Container ── */
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 20px 24px 40px;
+}
+@media (max-width: 768px) {
+  .container { padding: 14px 14px 32px; }
+  .meta-pills { display: none; }
+}
+
+/* ── KPI Topic Cards (Sekaligus Filter Kategori) ── */
+.kpi-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+}
+@media (max-width: 1100px) { .kpi-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 640px)  { .kpi-grid { grid-template-columns: repeat(2, 1fr); } }
+
+.kpi-card {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: all 0.18s ease;
+  box-shadow: var(--shadow-sm);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.kpi-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--border-strong);
+}
+.kpi-card::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 3.5px;
+  background: var(--card-color, var(--all));
+  opacity: 0.45;
+  transition: opacity 0.18s;
+}
+.kpi-card.active {
+  border-color: var(--card-color, var(--all));
+  background: var(--surface);
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.08);
+}
+.kpi-card.active::before { opacity: 1; height: 4px; }
+
+.kpi-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+.kpi-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.kpi-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--card-color, var(--all));
+}
+.kpi-value-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+.kpi-num {
+  font-size: 24px;
+  font-weight: 800;
+  color: var(--text);
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+.kpi-sub {
+  font-size: 11px;
+  color: var(--muted);
+  font-weight: 500;
+}
+.kpi-spark {
+  width: 72px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+/* ── Collapsible Insights Panel (Word Cloud & Heatmap) ── */
+.insights-toggle-bar {
+  margin-bottom: 16px;
+}
+.insights-btn {
+  width: 100%;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 10px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  color: var(--text-secondary);
+  font-family: var(--font);
+  font-size: 12.5px;
+  font-weight: 700;
+  box-shadow: var(--shadow-sm);
+  transition: background 0.15s;
+}
+.insights-btn:hover { background: var(--surface-hover); }
+.insights-drawer {
+  display: none;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+  margin-top: 12px;
+}
+.insights-drawer.open { display: grid; }
+@media (max-width: 960px) { .insights-drawer { grid-template-columns: 1fr; } }
+
+/* ── Main Layout ── */
+.main-grid {
+  display: grid;
+  grid-template-columns: 1fr 330px;
+  gap: 20px;
+  align-items: start;
+}
+@media (max-width: 1024px) { .main-grid { grid-template-columns: 1fr; } }
+
+/* ── Filter Panel ── */
+.filter-panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: var(--shadow-sm);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.filter-top-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.search-wrap {
+  position: relative;
+  flex: 1;
+  min-width: 220px;
+}
+.search-wrap svg {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--muted);
+  pointer-events: none;
+}
+.input-search {
+  width: 100%;
+  background: var(--surface-subtle);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  padding: 9px 32px 9px 36px;
+  font-family: var(--font);
+  font-size: 13px;
+  color: var(--text);
+  outline: none;
+  transition: all 0.15s;
+}
+.input-search:focus {
+  border-color: var(--accent-primary);
+  background: var(--surface);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.clear-search {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 14px;
+  display: none;
+}
+
+.select-ctrl, .date-ctrl {
+  background: var(--surface-subtle);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  padding: 8px 11px;
+  font-family: var(--font);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--text);
+  outline: none;
+  cursor: pointer;
+  transition: border-color 0.15s;
+}
+.select-ctrl:focus, .date-ctrl:focus {
+  border-color: var(--accent-primary);
+}
+
+/* Quick Period Chips */
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.filter-group-label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  min-width: 70px;
+}
+.chips-wrap {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  flex: 1;
+}
+.chip {
+  padding: 6px 12px;
+  border-radius: 99px;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid var(--border-strong);
+  background: var(--surface-subtle);
+  color: var(--text-secondary);
+  transition: all 0.15s;
+  user-select: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+.chip:hover {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
+.chip.active {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: #ffffff;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
+}
+
+/* Dynamic Date Range Row */
+.dynamic-date-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding-top: 12px;
+  border-top: 1px dashed var(--border);
+}
+.date-range-box {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--surface-subtle);
+  border: 1px solid var(--border);
+  padding: 5px 10px;
+  border-radius: var(--radius-sm);
+  flex-wrap: wrap;
+}
+.date-range-box span {
+  font-size: 11.5px;
+  color: var(--muted);
+  font-weight: 600;
+}
+.date-range-box .date-ctrl {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  padding: 5px 9px;
+  font-size: 12px;
+}
+
+.month-year-box {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.btn-reset {
+  margin-left: auto;
+  background: #fee2e2;
+  color: #b91c1c;
+  border: 1px solid #fecaca;
+  padding: 6px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  gap: 5px;
+  transition: opacity 0.15s;
+}
+.btn-reset:hover { opacity: 0.85; }
+
+/* Active Filter Summary Bar */
+.feed-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+.feed-count {
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+.feed-count strong {
+  color: var(--text);
+  font-weight: 800;
+}
+.active-filter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--accent-soft);
+  color: var(--accent-primary);
+  border: 1px solid rgba(37, 99, 235, 0.2);
+  padding: 4px 11px;
+  border-radius: 99px;
+  font-size: 11.5px;
+  font-weight: 700;
+}
+
+/* ── Article Cards ── */
+.article-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.article-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--topic-color, var(--all));
+  border-radius: var(--radius-md);
+  padding: 14px 18px;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.article-card:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+  border-color: var(--border-strong);
+  border-left-color: var(--topic-color, var(--all));
+}
+.article-card[data-topic="danadesa"] { --topic-color: var(--danadesa); }
+.article-card[data-topic="bumdesa"] { --topic-color: var(--bumdesa); }
+.article-card[data-topic="daerahtertinggal"] { --topic-color: var(--daerahtertinggal); }
+.article-card[data-topic="kemendesa"] { --topic-color: var(--kemendesa); }
+
+.article-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.topic-badge {
+  font-size: 10.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 2.5px 8px;
+  border-radius: 6px;
+}
+.topic-badge.danadesa { background: rgba(217, 119, 6, 0.12); color: #b45309; }
+.topic-badge.bumdesa { background: rgba(5, 150, 105, 0.12); color: #047857; }
+.topic-badge.daerahtertinggal { background: rgba(225, 29, 72, 0.12); color: #be123c; }
+.topic-badge.kemendesa { background: rgba(124, 58, 237, 0.12); color: #6d28d9; }
+
+[data-theme="dark"] .topic-badge.danadesa { color: #fbbf24; }
+[data-theme="dark"] .topic-badge.bumdesa { color: #34d399; }
+[data-theme="dark"] .topic-badge.daerahtertinggal { color: #fb7185; }
+[data-theme="dark"] .topic-badge.kemendesa { color: #a78bfa; }
+
+.source-pill {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-secondary);
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.article-time {
+  margin-left: auto;
+  font-size: 11.5px;
+  color: var(--muted);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.time-rel {
+  font-weight: 600;
+  color: var(--text-secondary);
+}
+
+.article-title {
+  font-size: 14.5px;
+  font-weight: 700;
+  line-height: 1.45;
+  color: var(--text);
+}
+.article-title a:hover {
+  color: var(--accent-primary);
+}
+.article-desc {
+  font-size: 12.5px;
+  color: var(--muted);
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── Pagination ── */
+.pagination {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.page-btn {
+  min-width: 34px;
+  height: 34px;
+  padding: 0 10px;
+  background: var(--surface);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-sm);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 12.5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.page-btn:hover:not(:disabled) {
+  border-color: var(--accent-primary);
+  color: var(--accent-primary);
+}
+.page-btn.active {
+  background: var(--accent-primary);
+  border-color: var(--accent-primary);
+  color: #fff;
+}
+.page-btn:disabled { opacity: 0.4; cursor: default; }
+
+/* ── Sidebar & Cards ── */
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+.card-header {
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  font-size: 11.5px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-secondary);
+  background: var(--surface-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-header .sub-hint {
+  font-size: 10.5px;
+  text-transform: none;
+  font-weight: 500;
+  color: var(--muted);
+}
+.card-body { padding: 15px 16px; }
+
+/* Quick Day Summary Mini Grid */
+.day-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+.day-box {
+  background: var(--surface-subtle);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 10px 8px;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color 0.15s, transform 0.15s;
+}
+.day-box:hover {
+  border-color: var(--accent-primary);
+  transform: translateY(-1px);
+}
+.day-box-num {
+  font-size: 20px;
+  font-weight: 800;
+  color: var(--accent-primary);
+  line-height: 1.1;
+}
+.day-box-label {
+  font-size: 10.5px;
+  color: var(--muted);
+  font-weight: 600;
+  margin-top: 3px;
+}
+
+/* Charts & Sources */
+.chart-wrap { height: 180px; position: relative; }
+.trend-wrap { height: 130px; position: relative; }
+
+.source-list { display: flex; flex-direction: column; gap: 8px; }
+.source-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  cursor: pointer;
+  padding: 3px 4px;
+  border-radius: 6px;
+  transition: background 0.15s;
+}
+.source-row:hover { background: var(--surface-hover); }
+.source-name {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 600;
+  color: var(--text);
+}
+.source-bar-wrap {
+  width: 68px;
+  background: var(--border);
+  border-radius: 99px;
+  height: 6px;
+  overflow: hidden;
+}
+.source-bar {
+  height: 100%;
+  background: var(--accent-primary);
+  border-radius: 99px;
+}
+.source-count {
+  color: var(--muted);
+  min-width: 26px;
+  text-align: right;
+  font-weight: 700;
+  font-size: 11.5px;
+}
+
+/* Export Buttons */
+.export-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.btn-export {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 9px 12px;
+  border: none;
+  border-radius: var(--radius-sm);
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.15s, transform 0.1s;
+}
+.btn-export:hover { opacity: 0.9; transform: translateY(-1px); }
+.btn-excel { background: #059669; color: #fff; }
+.btn-csv   { background: #2563eb; color: #fff; }
+
+/* Tagcloud & Heatmap */
+.tagcloud {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: center;
+  gap: 6px 12px;
+  padding: 6px 4px;
+  min-height: 110px;
+}
+.tag-word {
+  cursor: pointer;
+  font-weight: 700;
+  line-height: 1.1;
+  transition: transform 0.15s ease, opacity 0.15s ease;
+}
+.tag-word:hover { transform: scale(1.1); opacity: 0.85; }
+.heatmap-scroll { overflow-x: auto; padding-bottom: 4px; }
+.heatmap-legend-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: var(--muted);
+  margin-top: 8px;
+}
+.heatmap-legend-row .sq { width: 10px; height: 10px; border-radius: 2px; display: inline-block; }
+
+/* Empty / Loading State */
+.state-msg {
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px dashed var(--border-strong);
+  border-radius: var(--radius-md);
+}
+.state-msg .icon { font-size: 34px; margin-bottom: 8px; }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<header class="header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-icon">📡</div>
+      <div class="brand-title">
+        <h1>Monitor Pemberitaan Desa, Dana Desa &amp; BUM Desa</h1>
+        <div class="brand-sub">
+          <span class="live-dot"></span>
+          <span>Pemantauan Media Otomatis · Pembaruan terakhir: <strong id="last-updated" style="color:var(--text)">—</strong></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="header-actions">
+      <div class="meta-pills" id="hero-insights"></div>
+      <button class="theme-btn" id="theme-toggle" title="Ubah Mode Tampilan">🌙</button>
+    </div>
+  </div>
+</header>
+
+<!-- News Ticker -->
+<div class="ticker-bar">
+  <div class="ticker-badge">▸ TERBARU</div>
+  <div class="ticker-window">
+    <div class="ticker-track" id="ticker-track"></div>
+  </div>
+</div>
+
+<!-- Main Container -->
+<div class="container">
+
+  <!-- Interactive KPI Topic Cards -->
+  <section class="kpi-grid" id="topic-nav">
+    <div class="kpi-card active" data-topic="all" style="--card-color: var(--all)">
+      <div class="kpi-top">
+        <span class="kpi-label"><span class="kpi-dot"></span> Semua Topik</span>
+      </div>
+      <div class="kpi-value-row">
+        <div>
+          <div class="kpi-num" id="count-all">0</div>
+          <div class="kpi-sub">Total Berita</div>
+        </div>
+        <svg class="kpi-spark" id="spark-total"></svg>
+      </div>
+    </div>
+
+    <div class="kpi-card" data-topic="danadesa" style="--card-color: var(--danadesa)">
+      <div class="kpi-top">
+        <span class="kpi-label"><span class="kpi-dot"></span> Dana Desa</span>
+      </div>
+      <div class="kpi-value-row">
+        <div>
+          <div class="kpi-num" id="count-danadesa">0</div>
+          <div class="kpi-sub">Berita</div>
+        </div>
+        <svg class="kpi-spark" id="spark-danadesa"></svg>
+      </div>
+    </div>
+
+    <div class="kpi-card" data-topic="bumdesa" style="--card-color: var(--bumdesa)">
+      <div class="kpi-top">
+        <span class="kpi-label"><span class="kpi-dot"></span> BUM Desa</span>
+      </div>
+      <div class="kpi-value-row">
+        <div>
+          <div class="kpi-num" id="count-bumdesa">0</div>
+          <div class="kpi-sub">Berita</div>
+        </div>
+        <svg class="kpi-spark" id="spark-bumdesa"></svg>
+      </div>
+    </div>
+
+    <div class="kpi-card" data-topic="daerahtertinggal" style="--card-color: var(--daerahtertinggal)">
+      <div class="kpi-top">
+        <span class="kpi-label"><span class="kpi-dot"></span> Daerah Tertinggal</span>
+      </div>
+      <div class="kpi-value-row">
+        <div>
+          <div class="kpi-num" id="count-daerahtertinggal">0</div>
+          <div class="kpi-sub">Berita</div>
+        </div>
+        <svg class="kpi-spark" id="spark-daerahtertinggal"></svg>
+      </div>
+    </div>
+
+    <div class="kpi-card" data-topic="kemendesa" style="--card-color: var(--kemendesa)">
+      <div class="kpi-top">
+        <span class="kpi-label"><span class="kpi-dot"></span> Kemendesa PDT</span>
+      </div>
+      <div class="kpi-value-row">
+        <div>
+          <div class="kpi-num" id="count-kemendesa">0</div>
+          <div class="kpi-sub">Berita</div>
+        </div>
+        <svg class="kpi-spark" id="spark-kemendesa"></svg>
+      </div>
+    </div>
+  </section>
+
+  <!-- Collapsible Insights Drawer (Word Cloud & Heatmap) -->
+  <section class="insights-toggle-bar">
+    <button class="insights-btn" id="toggle-insights">
+      <span>📊 Tampilkan Peta Kata Kunci Populer &amp; Kalender Intensitas Pemberitaan</span>
+      <span id="insights-arrow">▼ Buka</span>
+    </button>
+    <div class="insights-drawer" id="insights-drawer">
+      <div class="card">
+        <div class="card-header">
+          <span>Kata Kunci Populer (Sesuai Filter)</span>
+          <span class="sub-hint">Klik kata untuk memfilter</span>
+        </div>
+        <div class="card-body">
+          <div class="tagcloud" id="tagcloud"></div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header">
+          <span>Kalender Intensitas Pemberitaan</span>
+          <span class="sub-hint">Aktivitas harian</span>
+        </div>
+        <div class="card-body">
+          <div class="heatmap-scroll"><svg id="chart-heatmap"></svg></div>
+          <div class="heatmap-legend-row">
+            Sedikit
+            <span class="sq" style="background:#e2e8f0"></span>
+            <span class="sq" style="background:#fde68a"></span>
+            <span class="sq" style="background:#fbbf24"></span>
+            <span class="sq" style="background:#d97706"></span>
+            <span class="sq" style="background:#92400e"></span>
+            Banyak
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Grid -->
+  <div class="main-grid">
+
+    <!-- Left Column: Filter + News Feed -->
+    <div>
+      <div class="filter-panel">
+
+        <!-- Row 1: Search + Sort + Per Page -->
+        <div class="filter-top-row">
+          <div class="search-wrap">
+            <svg width="15" height="15" fill="currentColor" viewBox="0 0 16 16">
+              <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.099zm-5.242 1.156a5.5 5.5 0 1 1 0-11 5.5 5.5 0 0 1 0 11z"/>
+            </svg>
+            <input type="text" class="input-search" id="search-input" placeholder="Cari kata kunci judul berita atau nama media..." />
+            <button class="clear-search" id="clear-search" title="Hapus pencarian">✕</button>
+          </div>
+          <select class="select-ctrl" id="sort-select">
+            <option value="newest">Terbaru dulu</option>
+            <option value="oldest">Terlama dulu</option>
+          </select>
+          <select class="select-ctrl" id="per-page-select">
+            <option value="25" selected>25 / hal</option>
+            <option value="50">50 / hal</option>
+            <option value="100">100 / hal</option>
+            <option value="9999">Semua</option>
+          </select>
+        </div>
+
+        <!-- Row 2: Quick Period Chips (Termasuk 1 Hari Lalu & 2 Hari Lalu) -->
+        <div class="filter-group">
+          <span class="filter-group-label">Waktu Cepat</span>
+          <div class="chips-wrap" id="quick-chips">
+            <div class="chip active" data-preset="all">Semua Waktu</div>
+            <div class="chip" data-preset="today">Hari Ini</div>
+            <div class="chip" data-preset="1d_ago">1 Hari Lalu</div>
+            <div class="chip" data-preset="2d_ago">2 Hari Lalu</div>
+            <div class="chip" data-preset="7d">7 Hari Terakhir</div>
+            <div class="chip" data-preset="30d">30 Hari Terakhir</div>
+            <div class="chip" data-preset="90d">90 Hari</div>
+          </div>
+        </div>
+
+        <!-- Row 3: Dynamic Custom Date Range + Month/Year -->
+        <div class="dynamic-date-row">
+          <span class="filter-group-label">Rentang Dinamis</span>
+
+          <div class="date-range-box">
+            <span>📅 Dari</span>
+            <input type="date" class="date-ctrl" id="date-from" title="Tanggal Mulai" />
+            <span>s/d</span>
+            <input type="date" class="date-ctrl" id="date-to" title="Tanggal Akhir" />
+          </div>
+
+          <div class="month-year-box">
+            <select class="select-ctrl" id="filter-month">
+              <option value="0">— Bulan —</option>
+              <option value="1">Januari</option>
+              <option value="2">Februari</option>
+              <option value="3">Maret</option>
+              <option value="4">April</option>
+              <option value="5">Mei</option>
+              <option value="6">Juni</option>
+              <option value="7">Juli</option>
+              <option value="8">Agustus</option>
+              <option value="9">September</option>
+              <option value="10">Oktober</option>
+              <option value="11">November</option>
+              <option value="12">Desember</option>
+            </select>
+            <select class="select-ctrl" id="filter-year">
+              <option value="0">— Tahun —</option>
+            </select>
+          </div>
+
+          <button class="btn-reset" id="btn-reset-period">✕ Reset Filter</button>
+        </div>
+
+      </div><!-- /filter-panel -->
+
+      <!-- Toolbar Info & Active Badge -->
+      <div class="feed-toolbar">
+        <div class="feed-count">
+          Menampilkan <strong id="shown-count">0</strong> pemberitaan
+        </div>
+        <div id="period-badge" style="display:none;">
+          <span class="active-filter-pill" id="period-text">—</span>
+        </div>
+      </div>
+
+      <!-- Article List -->
+      <div class="article-list" id="article-list">
+        <div class="state-msg"><div class="icon">⏳</div>Memuat data pemberitaan…</div>
+      </div>
+
+      <!-- Pagination -->
+      <div class="pagination" id="pagination"></div>
+    </div>
+
+    <!-- Right Column: Sidebar -->
+    <aside class="sidebar">
+
+      <!-- Ringkasan Harian Cepat (Klik untuk langsung filter) -->
+      <div class="card">
+        <div class="card-header">
+          <span>Pantauan Harian Cepat</span>
+          <span class="sub-hint">Klik untuk filter</span>
+        </div>
+        <div class="card-body">
+          <div class="day-summary-grid">
+            <div class="day-box" onclick="triggerPreset('today')" title="Lihat berita Hari Ini">
+              <div class="day-box-num" id="stat-day-0">0</div>
+              <div class="day-box-label">Hari Ini</div>
+            </div>
+            <div class="day-box" onclick="triggerPreset('1d_ago')" title="Lihat berita 1 Hari Lalu (Kemarin)">
+              <div class="day-box-num" id="stat-day-1">0</div>
+              <div class="day-box-label">1 Hari Lalu</div>
+            </div>
+            <div class="day-box" onclick="triggerPreset('2d_ago')" title="Lihat berita 2 Hari Lalu">
+              <div class="day-box-num" id="stat-day-2">0</div>
+              <div class="day-box-label">2 Hari Lalu</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Ekspor Data -->
+      <div class="card">
+        <div class="card-header">
+          <span>Unduh Laporan Monitoring</span>
+          <span class="sub-hint">Sesuai filter aktif</span>
+        </div>
+        <div class="card-body">
+          <div class="export-grid">
+            <button class="btn-export btn-excel" id="btn-excel">⬇ Excel (.xlsx)</button>
+            <button class="btn-export btn-csv" id="btn-csv">⬇ File CSV</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Sebaran Topik -->
+      <div class="card">
+        <div class="card-header">
+          <span>Proporsi Topik</span>
+          <span class="sub-hint" id="donut-subtitle">Semua data</span>
+        </div>
+        <div class="card-body">
+          <div class="chart-wrap"><canvas id="chart-donut"></canvas></div>
+        </div>
+      </div>
+
+      <!-- Tren Harian -->
+      <div class="card">
+        <div class="card-header">
+          <span>Tren 30 Hari Terakhir</span>
+        </div>
+        <div class="card-body">
+          <div class="trend-wrap"><canvas id="chart-trend"></canvas></div>
+        </div>
+      </div>
+
+      <!-- Top 10 Media -->
+      <div class="card">
+        <div class="card-header">
+          <span>Top 10 Sumber Media</span>
+          <span class="sub-hint">Klik untuk filter</span>
+        </div>
+        <div class="card-body">
+          <div class="source-list" id="source-list"></div>
+        </div>
+      </div>
+
+    </aside>
+
+  </div><!-- /main-grid -->
+</div><!-- /container -->
+
+<script>
+// ── State Global ──────────────────────────────────────────────────────
+let allArticles  = [];
+let filtered     = [];
+let currentTopic = "all";
+
+// Mode Periode: "all" | "today" | "1d_ago" | "2d_ago" | "7d" | "30d" | "90d" | "custom" | "monthyear"
+let periodPreset = "all";
+let dateFrom     = ""; // YYYY-MM-DD
+let dateTo       = ""; // YYYY-MM-DD
+let filterMonth  = 0;
+let filterYear   = 0;
+
+let currentPage  = 1;
+let perPage      = 25;
+let searchQuery  = "";
+let sortOrder    = "newest";
+
+let chartDonut   = null;
+let chartTrend   = null;
+
+const TOPIC_LABELS = {
+  danadesa: "Dana Desa",
+  bumdesa: "BUM Desa",
+  daerahtertinggal: "Daerah Tertinggal",
+  kemendesa: "Kemendesa PDT"
+};
+const TOPIC_COLORS = {
+  danadesa: "#d97706",
+  bumdesa: "#059669",
+  daerahtertinggal: "#e11d48",
+  kemendesa: "#7c3aed"
+};
+const MONTHS_ID = ["","Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+
+const STOPWORDS_ID = new Set([
+  'yang','dan','di','ke','dari','untuk','dengan','pada','ini','itu','akan','tidak','ada','atau',
+  'juga','oleh','para','dalam','tersebut','sebagai','adalah','telah','secara','terkait','dua','satu',
+  'tahun','hari','lebih','saat','jadi','bisa','harus','sudah','belum','masih','mereka','kami','kita',
+  'saya','anda','dia','nya','per','vs','versus','usai','soal','usut','ungkap','buat','bikin','bakal',
+  'karena','sebab','antara','bagi','saja','begini','begitu','agar','apa','apakah','bagaimana',
+  'jika','kalau','maka','namun','tetapi','tapi','serta','hingga','sampai','sejak','ketika','via',
+  'the','kasus','diduga','terduga','dugaan','warga','kata','halaman','com','net','id','news'
+]);
+
+// ── Helper Tanggal Lokal (WIB/Browser) ────────────────────────────────
+function toLocalDateKey(d) {
+  const dt = (d instanceof Date) ? d : new Date(d);
+  if (isNaN(dt)) return "";
+  const y = dt.getFullYear();
+  const m = String(dt.getMonth() + 1).padStart(2, "0");
+  const day = String(dt.getDate()).padStart(2, "0");
+  return `${y}-${m}-${day}`;
+}
+
+function getOffsetDateKey(daysOffset) {
+  const d = new Date();
+  d.setHours(0, 0, 0, 0);
+  d.setDate(d.getDate() - daysOffset);
+  return toLocalDateKey(d);
+}
+
+function formatReadableDate(ymd) {
+  if (!ymd) return "";
+  const [y, m, d] = ymd.split("-").map(Number);
+  return `${d} ${MONTHS_ID[m]?.slice(0,3) || ""} ${y}`;
+}
+
+function relativeTimeID(dateStr) {
+  const d = new Date(dateStr);
+  if (isNaN(d)) return "";
+  const diffSec = Math.floor((Date.now() - d.getTime()) / 1000);
+  if (diffSec < 60) return "Baru saja";
+  const diffMin = Math.floor(diffSec / 60);
+  if (diffMin < 60) return `${diffMin} menit lalu`;
+  const diffHr = Math.floor(diffMin / 60);
+  if (diffHr < 24) return `${diffHr} jam lalu`;
+  const diffDay = Math.floor(diffHr / 24);
+  if (diffDay === 1) return "Kemarin";
+  if (diffDay < 7) return `${diffDay} hari lalu`;
+  return "";
+}
+
+// ── Pembersih Judul & Deskripsi Redundan ──────────────────────────────
+function cleanArticleContent(a) {
+  let cleanTitle = (a.title || "").trim();
+  const src = (a.source || "").trim();
+  if (src && cleanTitle.toLowerCase().endsWith(" - " + src.toLowerCase())) {
+    cleanTitle = cleanTitle.slice(0, -(src.length + 3)).trim();
+  }
+
+  let rawDesc = (a.desc || "")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/<[^>]*>/g, "")
+    .trim();
+
+  if (src && rawDesc.toLowerCase().endsWith(src.toLowerCase())) {
+    rawDesc = rawDesc.slice(0, -src.length).replace(/[-–—\s]+$/, "").trim();
+  }
+
+  // Sembunyikan deskripsi jika sama persis dengan judul
+  const normTitle = cleanTitle.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const normDesc  = rawDesc.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const showDesc  = normDesc && normDesc !== normTitle && !normTitle.includes(normDesc);
+
+  return { cleanTitle, cleanDesc: showDesc ? rawDesc : "" };
+}
+
+// ── Load Data JSON (Kompatibel dengan data/news.json & news.json) ──────
+async function loadData() {
+  try {
+    let res = await fetch("data/news.json?_=" + Date.now());
+    if (!res.ok) {
+      res = await fetch("news.json?_=" + Date.now());
+    }
+    allArticles = await res.json();
+    if (!Array.isArray(allArticles)) allArticles = [];
+
+    populateYearSelect();
+    updateGlobalCounts();
+    updateDailyQuickStats();
+    updateLastUpdated();
+    buildHeroInsights();
+    buildTicker();
+    buildSparklines();
+    buildHeatmap();
+    applyFilters();
+    renderTrendChart();
+  } catch (e) {
+    document.getElementById("article-list").innerHTML =
+      `<div class="state-msg"><div class="icon">⚠️</div>
+       Gagal memuat data berita.<br><small>Pastikan file <code>data/news.json</code> tersedia.</small></div>`;
+  }
+}
+
+// ── Dropdown Tahun (Hanya tahun valid >= 2020) ────────────────────────
+function populateYearSelect() {
+  const years = [...new Set(
+    allArticles
+      .map(a => new Date(a.pub_date).getFullYear())
+      .filter(y => !isNaN(y) && y >= 2020)
+  )].sort((a, b) => b - a);
+
+  const sel = document.getElementById("filter-year");
+  years.forEach(y => {
+    const opt = document.createElement("option");
+    opt.value = y;
+    opt.textContent = y;
+    sel.appendChild(opt);
+  });
+}
+
+function updateLastUpdated() {
+  if (!allArticles.length) return;
+  const latest = allArticles.reduce((a, b) => a.pub_date > b.pub_date ? a : b);
+  document.getElementById("last-updated").textContent =
+    new Date(latest.pub_date).toLocaleString("id-ID", {
+      day: "2-digit", month: "short", year: "numeric", hour: "2-digit", minute: "2-digit"
+    }) + " WIB";
+}
+
+function animateCounter(el, target, duration = 650) {
+  if (!el) return;
+  const startTime = performance.now();
+  function tick(now) {
+    const p = Math.min(1, (now - startTime) / duration);
+    const eased = 1 - Math.pow(1 - p, 3);
+    el.textContent = Math.round(target * eased).toLocaleString("id-ID");
+    if (p < 1) requestAnimationFrame(tick);
+    else el.textContent = target.toLocaleString("id-ID");
+  }
+  requestAnimationFrame(tick);
+}
+
+function updateGlobalCounts() {
+  const c = { danadesa: 0, bumdesa: 0, daerahtertinggal: 0, kemendesa: 0 };
+  for (const a of allArticles) if (a.topic in c) c[a.topic]++;
+  animateCounter(document.getElementById("count-all"), allArticles.length);
+  animateCounter(document.getElementById("count-danadesa"), c.danadesa);
+  animateCounter(document.getElementById("count-bumdesa"), c.bumdesa);
+  animateCounter(document.getElementById("count-daerahtertinggal"), c.daerahtertinggal);
+  animateCounter(document.getElementById("count-kemendesa"), c.kemendesa);
+}
+
+function updateDailyQuickStats() {
+  const keyToday = getOffsetDateKey(0);
+  const key1dAgo = getOffsetDateKey(1);
+  const key2dAgo = getOffsetDateKey(2);
+
+  let c0 = 0, c1 = 0, c2 = 0;
+  allArticles.forEach(a => {
+    const k = toLocalDateKey(a.pub_date);
+    if (k === keyToday) c0++;
+    else if (k === key1dAgo) c1++;
+    else if (k === key2dAgo) c2++;
+  });
+
+  animateCounter(document.getElementById("stat-day-0"), c0);
+  animateCounter(document.getElementById("stat-day-1"), c1);
+  animateCounter(document.getElementById("stat-day-2"), c2);
+}
+
+function buildHeroInsights() {
+  const wrap = document.getElementById("hero-insights");
+  const sources = new Set(allArticles.map(a => a.source).filter(Boolean));
+  // Filter tahun >= 2020 agar tidak terkena bug epoch 1970 (20747 hari)
+  const validDates = allArticles
+    .map(a => new Date(a.pub_date))
+    .filter(d => !isNaN(d) && d.getFullYear() >= 2020);
+
+  let spanDays = 1;
+  if (validDates.length) {
+    const min = Math.min(...validDates);
+    const max = Math.max(...validDates);
+    spanDays = Math.max(1, Math.round((max - min) / 86400000) + 1);
+  }
+
+  wrap.innerHTML = `
+    <div class="meta-pill">📰 <b>${sources.size.toLocaleString("id-ID")}</b> Media</div>
+    <div class="meta-pill">🗓️ <b>${spanDays.toLocaleString("id-ID")}</b> Hari Data</div>
+  `;
+}
+
+function buildTicker() {
+  const track = document.getElementById("ticker-track");
+  const latest = [...allArticles].sort((a, b) => b.pub_date.localeCompare(a.pub_date)).slice(0, 10);
+  if (!latest.length) {
+    track.innerHTML = '<span class="ticker-item">Belum ada berita terbaru.</span>';
+    return;
+  }
+  const html = latest.map(a => {
+    const { cleanTitle } = cleanArticleContent(a);
+    return `<a href="${esc(a.link)}" target="_blank" rel="noopener" class="ticker-item"><b>${esc(a.source)}</b> ${esc(cleanTitle)}</a>`;
+  }).join("");
+  track.innerHTML = html + html;
+}
+
+// ── Sparklines 14 Hari ────────────────────────────────────────────────
+function buildSparklines() {
+  const days = 14;
+  const dayKeys = [];
+  for (let i = days - 1; i >= 0; i--) {
+    dayKeys.push(getOffsetDateKey(i));
+  }
+  const topics = {
+    total: "#4f46e5",
+    danadesa: TOPIC_COLORS.danadesa,
+    bumdesa: TOPIC_COLORS.bumdesa,
+    daerahtertinggal: TOPIC_COLORS.daerahtertinggal,
+    kemendesa: TOPIC_COLORS.kemendesa
+  };
+
+  Object.entries(topics).forEach(([topic, color]) => {
+    const counts = dayKeys.map(k => allArticles.filter(a => {
+      if (toLocalDateKey(a.pub_date) !== k) return false;
+      return topic === "total" ? true : a.topic === topic;
+    }).length);
+    renderSparkSVG("spark-" + topic, counts, color);
+  });
+}
+
+function renderSparkSVG(id, counts, color) {
+  const svg = document.getElementById(id);
+  if (!svg) return;
+  const w = 72, h = 22, pad = 2;
+  const max = Math.max(1, ...counts);
+  const step = (w - pad * 2) / (counts.length - 1 || 1);
+  const pts = counts.map((c, i) => {
+    const x = pad + i * step;
+    const y = h - pad - (c / max) * (h - pad * 2);
+    return `${x.toFixed(1)},${y.toFixed(1)}`;
+  }).join(" ");
+  svg.setAttribute("viewBox", `0 0 ${w} ${h}`);
+  svg.innerHTML = `<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>`;
+}
+
+// ── Trigger Preset Periode (Hari Ini, 1 Hari Lalu, 2 Hari Lalu, dst) ──
+function triggerPreset(preset) {
+  periodPreset = preset;
+  filterMonth = 0;
+  filterYear = 0;
+  document.getElementById("filter-month").value = "0";
+  document.getElementById("filter-year").value = "0";
+
+  const todayKey = getOffsetDateKey(0);
+
+  if (preset === "all") {
+    dateFrom = "";
+    dateTo   = "";
+  } else if (preset === "today") {
+    dateFrom = todayKey;
+    dateTo   = todayKey;
+  } else if (preset === "1d_ago") {
+    const k1 = getOffsetDateKey(1);
+    dateFrom = k1;
+    dateTo   = k1;
+  } else if (preset === "2d_ago") {
+    const k2 = getOffsetDateKey(2);
+    dateFrom = k2;
+    dateTo   = k2;
+  } else if (preset === "7d") {
+    dateFrom = getOffsetDateKey(6);
+    dateTo   = todayKey;
+  } else if (preset === "30d") {
+    dateFrom = getOffsetDateKey(29);
+    dateTo   = todayKey;
+  } else if (preset === "90d") {
+    dateFrom = getOffsetDateKey(89);
+    dateTo   = todayKey;
+  }
+
+  document.getElementById("date-from").value = dateFrom;
+  document.getElementById("date-to").value   = dateTo;
+
+  document.querySelectorAll("#quick-chips .chip").forEach(c => {
+    c.classList.toggle("active", c.dataset.preset === preset);
+  });
+
+  applyFilters();
+}
+
+// ── Apply Filters ─────────────────────────────────────────────────────
+function applyFilters() {
+  filtered = allArticles.filter(a => {
+    // 1. Filter Topik
+    if (currentTopic !== "all" && a.topic !== currentTopic) return false;
+
+    // 2. Filter Waktu / Tanggal
+    const articleDate = new Date(a.pub_date);
+    if (isNaN(articleDate)) return false;
+    const articleKey = toLocalDateKey(articleDate);
+
+    if (periodPreset === "monthyear") {
+      if (filterYear > 0 && articleDate.getFullYear() !== filterYear) return false;
+      if (filterMonth > 0 && (articleDate.getMonth() + 1) !== filterMonth) return false;
+    } else {
+      if (dateFrom && articleKey < dateFrom) return false;
+      if (dateTo   && articleKey > dateTo)   return false;
+    }
+
+    // 3. Filter Pencarian Kata Kunci / Media
+    if (searchQuery) {
+      const q = searchQuery.toLowerCase();
+      const matchTitle  = (a.title || "").toLowerCase().includes(q);
+      const matchSource = (a.source || "").toLowerCase().includes(q);
+      if (!matchTitle && !matchSource) return false;
+    }
+
+    return true;
+  });
+
+  filtered.sort((a, b) => sortOrder === "oldest"
+    ? a.pub_date.localeCompare(b.pub_date)
+    : b.pub_date.localeCompare(a.pub_date)
+  );
+
+  currentPage = 1;
+  updatePeriodIndicator();
+  renderArticles();
+  renderDynamicSidebar();
+  renderWordCloud();
+}
+
+// ── Update Badge Indikator Filter Aktif ───────────────────────────────
+function updatePeriodIndicator() {
+  const badge = document.getElementById("period-badge");
+  const text  = document.getElementById("period-text");
+  const reset = document.getElementById("btn-reset-period");
+
+  const presetLabels = {
+    today:  `Hari Ini (${formatReadableDate(dateFrom)})`,
+    "1d_ago": `1 Hari Lalu / Kemarin (${formatReadableDate(dateFrom)})`,
+    "2d_ago": `2 Hari Lalu (${formatReadableDate(dateFrom)})`,
+    "7d":   `7 Hari Terakhir (${formatReadableDate(dateFrom)} – ${formatReadableDate(dateTo)})`,
+    "30d":  `30 Hari Terakhir (${formatReadableDate(dateFrom)} – ${formatReadableDate(dateTo)})`,
+    "90d":  `90 Hari Terakhir (${formatReadableDate(dateFrom)} – ${formatReadableDate(dateTo)})`,
+  };
+
+  let info = "";
+  if (periodPreset === "monthyear" && (filterMonth > 0 || filterYear > 0)) {
+    if (filterMonth > 0 && filterYear > 0) info = `Bulan: ${MONTHS_ID[filterMonth]} ${filterYear}`;
+    else if (filterMonth > 0) info = `Bulan: ${MONTHS_ID[filterMonth]} (Semua Tahun)`;
+    else info = `Tahun: ${filterYear}`;
+  } else if (periodPreset in presetLabels) {
+    info = presetLabels[periodPreset];
+  } else if (periodPreset === "custom" && (dateFrom || dateTo)) {
+    if (dateFrom && dateTo) {
+      info = dateFrom === dateTo
+        ? `Tanggal: ${formatReadableDate(dateFrom)}`
+        : `Rentang: ${formatReadableDate(dateFrom)} s/d ${formatReadableDate(dateTo)}`;
+    } else if (dateFrom) {
+      info = `Mulai: ${formatReadableDate(dateFrom)}`;
+    } else if (dateTo) {
+      info = `Sampai: ${formatReadableDate(dateTo)}`;
+    }
+  }
+
+  const hasActiveFilter = Boolean(info || searchQuery || currentTopic !== "all");
+  reset.style.display = (info || searchQuery) ? "inline-flex" : "none";
+
+  if (info) {
+    text.textContent = "🗓️ " + info;
+    badge.style.display = "block";
+    document.getElementById("donut-subtitle").textContent = "Sesuai filter";
+  } else {
+    badge.style.display = "none";
+    document.getElementById("donut-subtitle").textContent = "Semua waktu";
+  }
+}
+
+// ── Render Daftar Artikel ─────────────────────────────────────────────
+function renderArticles() {
+  document.getElementById("shown-count").textContent = filtered.length.toLocaleString("id-ID");
+
+  const start = (currentPage - 1) * perPage;
+  const page  = perPage >= 9999 ? filtered : filtered.slice(start, start + perPage);
+
+  if (!page.length) {
+    document.getElementById("article-list").innerHTML =
+      `<div class="state-msg">
+         <div class="icon">🔍</div>
+         <strong>Tidak ada berita yang ditemukan</strong><br>
+         <span style="font-size:12px">Coba ubah rentang waktu, topik, atau kata kunci pencarian Anda.</span>
+       </div>`;
+    document.getElementById("pagination").innerHTML = "";
+    return;
+  }
+
+  document.getElementById("article-list").innerHTML = page.map(a => {
+    const d = new Date(a.pub_date);
+    const dateStr = d.toLocaleDateString("id-ID", { day: "2-digit", month: "short", year: "numeric" });
+    const timeStr = d.toLocaleTimeString("id-ID", { hour: "2-digit", minute: "2-digit" });
+    const relStr  = relativeTimeID(a.pub_date);
+    const label   = TOPIC_LABELS[a.topic] || a.topic_label || a.topic;
+    const { cleanTitle, cleanDesc } = cleanArticleContent(a);
+
+    return `
+      <article class="article-card" data-topic="${esc(a.topic)}">
+        <div class="article-meta">
+          <span class="topic-badge ${esc(a.topic)}">${esc(label)}</span>
+          <span class="source-pill">📰 ${esc(a.source)}</span>
+          <span class="article-time">
+            ${relStr ? `<span class="time-rel">${esc(relStr)}</span> · ` : ""}
+            <span>${dateStr}, ${timeStr}</span>
+          </span>
+        </div>
+        <h3 class="article-title">
+          <a href="${esc(a.link)}" target="_blank" rel="noopener">${esc(cleanTitle)}</a>
+        </h3>
+        ${cleanDesc ? `<p class="article-desc">${esc(cleanDesc)}</p>` : ""}
+      </article>`;
+  }).join("");
+
+  renderPagination(filtered.length);
+}
+
+function renderPagination(total) {
+  const pg = document.getElementById("pagination");
+  if (perPage >= 9999 || total <= perPage) { pg.innerHTML = ""; return; }
+  const totalPages = Math.ceil(total / perPage);
+  let html = `<button class="page-btn" ${currentPage === 1 ? "disabled" : ""} onclick="goPage(${currentPage - 1})">‹</button>`;
+  let pages = [], prev = null;
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages || Math.abs(i - currentPage) <= 2) { pages.push(i); prev = i; }
+    else if (prev !== "…") { pages.push("…"); prev = "…"; }
+  }
+  for (const p of pages) {
+    if (p === "…") { html += `<span style="color:var(--muted);padding:0 4px">…</span>`; continue; }
+    html += `<button class="page-btn ${p === currentPage ? "active" : ""}" onclick="goPage(${p})">${p}</button>`;
+  }
+  html += `<button class="page-btn" ${currentPage === totalPages ? "disabled" : ""} onclick="goPage(${currentPage + 1})">›</button>`;
+  pg.innerHTML = html;
+}
+
+function goPage(p) {
+  currentPage = p;
+  renderArticles();
+  window.scrollTo({ top: 220, behavior: "smooth" });
+}
+
+// ── Sidebar Dinamis (Donut & Top Media) ───────────────────────────────
+function renderDynamicSidebar() {
+  renderDonutChart();
+  renderTopSources();
+}
+
+function renderDonutChart() {
+  const c = {};
+  const sourceData = filtered.length ? filtered : allArticles;
+  for (const a of sourceData) c[a.topic] = (c[a.topic] || 0) + 1;
+  const keys   = Object.keys(c);
+  const labels = keys.map(t => TOPIC_LABELS[t] || t);
+  const data   = keys.map(t => c[t]);
+  const colors = keys.map(t => TOPIC_COLORS[t] || "#64748b");
+
+  if (chartDonut) chartDonut.destroy();
+  chartDonut = new Chart(document.getElementById("chart-donut").getContext("2d"), {
+    type: "doughnut",
+    data: {
+      labels,
+      datasets: [{ data, backgroundColor: colors, borderWidth: 2, borderColor: "transparent" }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { position: "bottom", labels: { color: "#64748b", font: { size: 11, family: "Plus Jakarta Sans" }, boxWidth: 10 } }
+      },
+      cutout: "64%"
+    }
+  });
+}
+
+function renderTrendChart() {
+  const buckets = {};
+  for (let i = 29; i >= 0; i--) {
+    buckets[getOffsetDateKey(i)] = 0;
+  }
+  for (const a of allArticles) {
+    const k = toLocalDateKey(a.pub_date);
+    if (k in buckets) buckets[k]++;
+  }
+  if (chartTrend) chartTrend.destroy();
+  chartTrend = new Chart(document.getElementById("chart-trend").getContext("2d"), {
+    type: "bar",
+    data: {
+      labels: Object.keys(buckets).map(d => d.slice(5)),
+      datasets: [{ data: Object.values(buckets), backgroundColor: "#3b82f6", borderRadius: 4 }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: "#94a3b8", maxTicksLimit: 6, font: { size: 10 } }, grid: { display: false } },
+        y: { ticks: { color: "#94a3b8", font: { size: 10 } }, grid: { color: "rgba(148,163,184,0.15)" }, beginAtZero: true }
+      }
+    }
+  });
+}
+
+function renderTopSources() {
+  const c = {};
+  for (const a of filtered) if (a.source) c[a.source] = (c[a.source] || 0) + 1;
+  const sorted = Object.entries(c).sort((a, b) => b[1] - a[1]).slice(0, 10);
+  const max = sorted[0]?.[1] || 1;
+
+  document.getElementById("source-list").innerHTML = sorted.length
+    ? sorted.map(([src, n]) => `
+      <div class="source-row" onclick="filterBySearch('${src.replace(/'/g, "\\'")}')" title="Klik untuk filter media ${esc(src)}">
+        <span class="source-name">${esc(src)}</span>
+        <div class="source-bar-wrap"><div class="source-bar" style="width:${Math.round(n / max * 100)}%"></div></div>
+        <span class="source-count">${n}</span>
+      </div>`).join("")
+    : `<div style="color:var(--muted);font-size:12px;">Tidak ada data sumber media</div>`;
+}
+
+// ── Word Cloud & Heatmap ──────────────────────────────────────────────
+function renderWordCloud() {
+  const container = document.getElementById("tagcloud");
+  const freq = {}, topicHits = {};
+  const list = filtered.length ? filtered : allArticles;
+
+  list.forEach(a => {
+    const { cleanTitle } = cleanArticleContent(a);
+    const words = cleanTitle.toLowerCase()
+      .replace(/[^a-z0-9\s]/gi, " ")
+      .split(/\s+/)
+      .filter(w => w.length >= 4 && !STOPWORDS_ID.has(w) && isNaN(w));
+    const seen = new Set();
+    words.forEach(w => {
+      freq[w] = (freq[w] || 0) + 1;
+      if (!topicHits[w]) topicHits[w] = {};
+      if (!seen.has(w)) { topicHits[w][a.topic] = (topicHits[w][a.topic] || 0) + 1; seen.add(w); }
+    });
+  });
+
+  const entries = Object.entries(freq).sort((a, b) => b[1] - a[1]).slice(0, 36);
+  if (!entries.length) {
+    container.innerHTML = '<div style="color:var(--muted);font-size:12px">Belum cukup data kata kunci.</div>';
+    return;
+  }
+
+  const maxCount = entries[0][1];
+  const minCount = entries[entries.length - 1][1];
+  const minSize = 0.78, maxSize = 1.95;
+
+  container.innerHTML = entries.map(([word, count]) => {
+    const t = maxCount === minCount ? 1 : (count - minCount) / (maxCount - minCount);
+    const size = (minSize + t * (maxSize - minSize)).toFixed(2);
+    const dom = Object.entries(topicHits[word] || {}).sort((a, b) => b[1] - a[1])[0];
+    const color = dom ? (TOPIC_COLORS[dom[0]] || "#475569") : "#475569";
+    return `<span class="tag-word" style="font-size:${size}rem;color:${color}" title="${count} berita" onclick="filterBySearch('${word.replace(/'/g, "\\'")}')">${esc(word)}</span>`;
+  }).join("");
+}
+
+function filterBySearch(term) {
+  const input = document.getElementById("search-input");
+  input.value = term;
+  searchQuery = term;
+  document.getElementById("clear-search").style.display = term ? "block" : "none";
+  applyFilters();
+}
+
+function buildHeatmap() {
+  const svg = document.getElementById("chart-heatmap");
+  const dates = allArticles
+    .map(a => new Date(a.pub_date))
+    .filter(d => !isNaN(d) && d.getFullYear() >= 2020);
+  if (!dates.length) { svg.innerHTML = ""; return; }
+
+  const startOfDay = d => { const r = new Date(d); r.setHours(0, 0, 0, 0); return r; };
+  const today = startOfDay(new Date());
+  let start = startOfDay(new Date(Math.min(...dates)));
+  const earliestAllowed = new Date(today);
+  earliestAllowed.setDate(earliestAllowed.getDate() - 364);
+  if (start < earliestAllowed) start = earliestAllowed;
+  start.setDate(start.getDate() - start.getDay());
+
+  const dayMs = 86400000;
+  const totalDays = Math.round((today - start) / dayMs) + 1;
+  const weeks = Math.ceil(totalDays / 7);
+
+  const countMap = {};
+  allArticles.forEach(a => {
+    const k = toLocalDateKey(a.pub_date);
+    if (k) countMap[k] = (countMap[k] || 0) + 1;
+  });
+  const maxCount = Math.max(1, ...Object.values(countMap));
+
+  function colorFor(c) {
+    if (!c) return "rgba(148,163,184,0.2)";
+    const t = Math.min(1, c / maxCount);
+    if (t < 0.25) return "#fde68a";
+    if (t < 0.5)  return "#fbbf24";
+    if (t < 0.75) return "#d97706";
+    return "#92400e";
+  }
+
+  const cell = 11, gap = 3, leftPad = 26, topPad = 16;
+  const svgW = leftPad + weeks * (cell + gap);
+  const svgH = topPad + 7 * (cell + gap);
+  svg.setAttribute("width", svgW);
+  svg.setAttribute("height", svgH);
+  svg.setAttribute("viewBox", `0 0 ${svgW} ${svgH}`);
+
+  let html = "";
+  const dayLabels = ["", "Sen", "", "Rab", "", "Jum", ""];
+  dayLabels.forEach((lbl, i) => {
+    if (lbl) html += `<text x="0" y="${topPad + i * (cell + gap) + cell - 1}" font-size="8.5" fill="#94a3b8">${lbl}</text>`;
+  });
+
+  let lastMonth = -1;
+  for (let w = 0; w < weeks; w++) {
+    for (let d = 0; d < 7; d++) {
+      const dayDate = new Date(start.getTime() + (w * 7 + d) * dayMs);
+      if (dayDate > today) continue;
+      const key = toLocalDateKey(dayDate);
+      const c = countMap[key] || 0;
+      const x = leftPad + w * (cell + gap);
+      const y = topPad + d * (cell + gap);
+      if (d === 0 && dayDate.getMonth() !== lastMonth) {
+        lastMonth = dayDate.getMonth();
+        html += `<text x="${x}" y="${topPad - 5}" font-size="8.5" fill="#94a3b8">${MONTHS_ID[lastMonth + 1].slice(0, 3)}</text>`;
+      }
+      html += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${colorFor(c)}" style="cursor:pointer" onclick="selectSingleDate('${key}')"><title>${formatReadableDate(key)}: ${c} berita (Klik untuk filter)</title></rect>`;
+    }
+  }
+  svg.innerHTML = html;
+}
+
+function selectSingleDate(ymd) {
+  periodPreset = "custom";
+  dateFrom = ymd;
+  dateTo   = ymd;
+  document.getElementById("date-from").value = ymd;
+  document.getElementById("date-to").value   = ymd;
+  document.querySelectorAll("#quick-chips .chip").forEach(c => c.classList.remove("active"));
+  applyFilters();
+}
+
+function esc(s) {
+  return String(s || "")
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
+// ── Event Listeners ───────────────────────────────────────────────────
+
+// 1. Klik Kartu Topik KPI
+document.getElementById("topic-nav").addEventListener("click", e => {
+  const card = e.target.closest("[data-topic]");
+  if (!card) return;
+  document.querySelectorAll(".kpi-card").forEach(c => c.classList.remove("active"));
+  card.classList.add("active");
+  currentTopic = card.dataset.topic;
+  applyFilters();
+});
+
+// 2. Klik Chip Waktu Cepat (Semua, Hari Ini, 1 Hari Lalu, 2 Hari Lalu, dst)
+document.getElementById("quick-chips").addEventListener("click", e => {
+  const chip = e.target.closest("[data-preset]");
+  if (!chip) return;
+  triggerPreset(chip.dataset.preset);
+});
+
+// 3. Input Rentang Tanggal Dinamis (Dari Tanggal - Sampai Tanggal)
+function onCustomDateChange() {
+  dateFrom = document.getElementById("date-from").value;
+  dateTo   = document.getElementById("date-to").value;
+
+  // Pastikan jika Dari > Sampai, sesuaikan otomatis
+  if (dateFrom && dateTo && dateFrom > dateTo) {
+    dateTo = dateFrom;
+    document.getElementById("date-to").value = dateTo;
+  }
+
+  filterMonth = 0;
+  filterYear  = 0;
+  document.getElementById("filter-month").value = "0";
+  document.getElementById("filter-year").value  = "0";
+
+  document.querySelectorAll("#quick-chips .chip").forEach(c => c.classList.remove("active"));
+  if (!dateFrom && !dateTo) {
+    periodPreset = "all";
+    document.querySelector('[data-preset="all"]').classList.add("active");
+  } else {
+    periodPreset = "custom";
+  }
+  applyFilters();
+}
+document.getElementById("date-from").addEventListener("change", onCustomDateChange);
+document.getElementById("date-to").addEventListener("change", onCustomDateChange);
+
+// 4. Dropdown Bulan / Tahun
+function onMonthYearChange() {
+  filterMonth = parseInt(document.getElementById("filter-month").value);
+  filterYear  = parseInt(document.getElementById("filter-year").value);
+  if (filterMonth > 0 || filterYear > 0) {
+    periodPreset = "monthyear";
+    dateFrom = "";
+    dateTo   = "";
+    document.getElementById("date-from").value = "";
+    document.getElementById("date-to").value   = "";
+    document.querySelectorAll("#quick-chips .chip").forEach(c => c.classList.remove("active"));
+  } else {
+    triggerPreset("all");
+    return;
+  }
+  applyFilters();
+}
+document.getElementById("filter-month").addEventListener("change", onMonthYearChange);
+document.getElementById("filter-year").addEventListener("change", onMonthYearChange);
+
+// 5. Tombol Reset Filter
+document.getElementById("btn-reset-period").addEventListener("click", () => {
+  searchQuery = "";
+  document.getElementById("search-input").value = "";
+  document.getElementById("clear-search").style.display = "none";
+  triggerPreset("all");
+});
+
+// 6. Pencarian
+document.getElementById("search-input").addEventListener("input", e => {
+  searchQuery = e.target.value.trim();
+  document.getElementById("clear-search").style.display = searchQuery ? "block" : "none";
+  applyFilters();
+});
+document.getElementById("clear-search").addEventListener("click", () => {
+  filterBySearch("");
+});
+
+// 7. Sort & Per Page
+document.getElementById("sort-select").addEventListener("change", e => {
+  sortOrder = e.target.value;
+  applyFilters();
+});
+document.getElementById("per-page-select").addEventListener("change", e => {
+  perPage = parseInt(e.target.value);
+  currentPage = 1;
+  renderArticles();
+});
+
+// 8. Buka/Tutup Panel Insights
+document.getElementById("toggle-insights").addEventListener("click", () => {
+  const drawer = document.getElementById("insights-drawer");
+  const isOpen = drawer.classList.toggle("open");
+  document.getElementById("insights-arrow").textContent = isOpen ? "▲ Tutup" : "▼ Buka";
+});
+
+// 9. Dark Mode Toggle
+document.getElementById("theme-toggle").addEventListener("click", () => {
+  const html = document.documentElement;
+  const next = html.getAttribute("data-theme") === "dark" ? "light" : "dark";
+  html.setAttribute("data-theme", next);
+  document.getElementById("theme-toggle").textContent = next === "dark" ? "☀️" : "🌙";
+});
+
+// 10. Ekspor Excel & CSV
+function buildExportRows() {
+  return filtered.map(a => {
+    const { cleanTitle } = cleanArticleContent(a);
+    return {
+      "Topik":   TOPIC_LABELS[a.topic] || a.topic,
+      "Judul":   cleanTitle,
+      "Sumber":  a.source,
+      "Tanggal": new Date(a.pub_date).toLocaleString("id-ID"),
+      "URL":     a.link
+    };
+  });
+}
+
+document.getElementById("btn-excel").addEventListener("click", () => {
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, XLSX.utils.json_to_sheet(buildExportRows()), "Berita");
+  XLSX.writeFile(wb, `monitoring-berita-${toLocalDateKey(new Date())}.xlsx`);
+});
+
+document.getElementById("btn-csv").addEventListener("click", () => {
+  const rows = buildExportRows();
+  const headers = Object.keys(rows[0] || {});
+  const csv = [headers, ...rows.map(r => headers.map(h => r[h]))]
+    .map(r => r.map(v => `"${String(v || "").replace(/"/g, '""')}"`).join(","))
+    .join("\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob(["\uFEFF" + csv], { type: "text/csv;charset=utf-8;" }));
+  a.download = `monitoring-berita-${toLocalDateKey(new Date())}.csv`;
+  a.click();
+});
+
+// ── Jalankan Aplikasi ─────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
