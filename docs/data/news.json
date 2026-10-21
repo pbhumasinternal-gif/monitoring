@@ -1,5 +1,44 @@
 [
   {
+    "id": "9f3c5a1e270e",
+    "title": "Cegah Penyimpangan Dana Desa, Kejari SBT Perkuat Kesadaran Hukum Aparatur Desa - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzhsM1NsanJMUVdHeFR5YmtOR2lSVWFHTE0tVG50SFEwQ2c3VUgza0U4Y2pXNHh5RlNtX0F2akJOYmdydXM0Z3JPZzZfNGpXLVl1S3Fha2RaUW1FZHpTSzhyTEtFeXNzLTVTcy1xSTBjdGdnc0FDOUU0NHJYMEZDUUNsM2xqQnVyRy0xVEJITzRiMTNOSnBxSUFjQkFDcW8za1J2NHMtLW1TZ2tOXzdyM3RXRlVrSXpPb3RXWlQzUWFBdk9qTUE",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-21T21:24:00+07:00",
+    "desc": "Cegah Penyimpangan Dana Desa, Kejari SBT Perkuat Kesadaran Hukum Aparatur Desa&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 6,
+    "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "22b7ff635a5b",
+    "title": "Dugaan Penyalahgunaan Dana Desa di Wunin Eldedora. - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeWI3SVU4a2R2cFBJNU1ZbktKT0RyVzZmSXdrWE5OajRlQW5PWHUxczJVaHBXQ19maXZUT0FxbDBaQnJfNXBBckNZWDctbmZWRlJVQWk0aURIWlZTUC1qb2NxdUt1c25vM0R1WE1SUmloVE5DS1dMWS16UDl0UUgwTFRtZFBvb0pXTVFQcWhIZlhFNWl3VGEyWQ",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-21T21:17:00+07:00",
+    "desc": "Dugaan Penyalahgunaan Dana Desa di Wunin Eldedora.&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fc77149df9d3",
+    "title": "BUMDes Batuah Kelola Ribuan Ayam Petelur, Ketahanan Pangan Desa Terus Diperkuat - Kaltim Faktual",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjQxZ2EyNjRlNUtMNEMwWUNxNk00QUJRTFBmQ2t3SHZLUVhxenlXVDJMTDVYMkdvdXpnMEdaeFkzd1dBU1c0Rl96SGRhRHRFbFpXeTk1YzdVUFh3MlNfLXFFU2pyTVoxRXdraUJJaUJDa1NVdkhQUDVLT0gzeEJqeUhIRXJBWkEwWldNSFF1bGU2VkpNU2pFNmh4UUNqVVBTQTJ6Q192cw",
+    "source": "Kaltim Faktual",
+    "pub_date": "2026-10-21T20:54:26+07:00",
+    "desc": "BUMDes Batuah Kelola Ribuan Ayam Petelur, Ketahanan Pangan Desa Terus Diperkuat&nbsp;&nbsp;Kaltim Faktual",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "c9e474fe61c0",
     "title": "BUMDes Makmur Gedangan Perdalam Tata Kelola Usaha BUMDes Jaya Janti Klaten - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdDAySV9rdUM4VnRmem9DRExzVVkyTXlYVjRRSWtfN2VMZGVyM2dodk9iODBtR1lSSlc2S2d6RkZLQnVsOVQ2dU1Oai1EZU9nSGZfSFZxR1BNVkx0b0NUdDhCcGpuQ0lLcmFURXRFMWQ1X2xFRXpfRkI0SEFNME5CUl9MNy1xbUppTGpxTmFLTXR2cWJUSVRXX3UtY0JKZHBVOFR4c2lEQW1jZVd6M2liYjVrMG9YaElyQlBDVmQxYm1PaVAwVHZsYlVTVGRGTkJNODhkZFpONFU0Vkhob3ZuWXdFN2JyQQ",
@@ -24,6 +63,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "c2b587edcbaa",
+    "title": "DASHAT Desa Walatung cegah stunting sejak dini didukung Dana Desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHZJU0RoNm5TSnVkNmpPNHR4cFlPN1VHenJrcjRMNkdNaGtjcmR6U2U0aDB1engxaktYX3ZSNWlaa0poYWNvSldBMEltVzJnSTZEM1ZmbjlzX3N6QkdSbmF1OWRBdWFLR3Ytd3pJTjU5bTlDYkV3WVItZXFrUElQTi16MDNtX3hKbHN2Q29OdjRkWG5fQkIxczZadmdjMVh6UnlZcWFJT2E0TjI1RkHSAbMBQVVfeXFMTVFNQjVNMHNDQWZmQmRjUkprY251Yzl4cGp6QmhQTzBNb0tVT1M5VFhWTm1aX0gtTDBFd0RSRDZEa0NTUUxtUFV2b3dRZ0k3N2VIMWdVQUhHTjcwNHRtcEI2ZzJMTTMtLWoySXkxNnI1MzI3YUtfTmNseGdidG1NaHdHZV9udWt3SHJuYl9JazhLMF92RmJIazgzTjQ5aVhNUExpZU9qTnRNNzV2dXRkQmZaQ1U",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-21T20:38:02+07:00",
+    "desc": "DASHAT Desa Walatung cegah stunting sejak dini didukung Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Pemberdayaan Masyarakat"
   },
   {
     "id": "b29cd79eeef1",
