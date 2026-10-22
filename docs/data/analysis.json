@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-22 20:01 WIB",
+  "last_updated": "2026-10-22 20:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 1354,
-  "dominant_topic": "Dana Desa (562 berita), BUM Desa (358 berita), Kemendesa PDT (223 berita), Daerah Tertinggal (211 berita)",
+  "total_checked": 1357,
+  "dominant_topic": "Dana Desa (562 berita), BUM Desa (361 berita), Kemendesa PDT (223 berita), Daerah Tertinggal (211 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -12,6 +12,12 @@
       "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
     ],
     "cases": [
+      {
+        "title": "Butuh Kepastian Warga Desa Loning Geruduk Kantor Desa,Dana BUMDes Rp285 Juta Dipertanyakan - DETIK PERISTIWA -",
+        "source": "DETIK PERISTIWA -",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
       {
         "title": "Warga Loning Geruduk Kantor Desa, BUMDes Rp285 Juta Dipertanyakan - patrolinews86",
         "source": "patrolinews86",
@@ -53,12 +59,6 @@
         "source": "ANTARA News",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "KPK catat 869 kasus korupsi dana desa, 15 desa di Aceh raih penghargaan antikorupsi 2026",
-        "source": "Kilas Aceh on MSN",
-        "topic": "Dana Desa",
-        "core_issue": "if(matchMedia(\"(prefers-color-scheme:dark)\").matches){const s=document.createElement(\"style\");document.head.appendChild(s);s.type=\"text/css\";s.appendChild(document.createTextNode(\"body{background:#242..."
       }
     ]
   },
