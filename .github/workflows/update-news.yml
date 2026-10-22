@@ -23,13 +23,13 @@ jobs:
       - name: Fetch & akumulasi berita
         run: python scripts/fetch_news.py
 
-      - name: Jalankan analisis prediktif
+      - name: Jalankan analisis prediktif mendalam
         run: python scripts/deep_predictive_analyzer.py
 
       - name: Commit & push jika ada perubahan
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/news.json
-          git diff --cached --quiet || git commit -m "chore: update berita $(TZ='Asia/Jakarta' date -u '+%Y-%m-%d %H:%M UTC')"
+          git add docs/data/news.json docs/data/analysis.json
+          git diff --cached --quiet || git commit -m "chore: update berita & analisis prediktif $(TZ='Asia/Jakarta' date -u '+%Y-%m-%d %H:%M UTC')"
           git push
