@@ -494,6 +494,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a33c6264f85e",
+    "title": "BUM Desa Dorong Pertumbuhan Ekonomi Pedesaan - TVRI News",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPN2ZxQnA1TXdnOGVmcElZcVdLc2UyQUk0NnBYSVo1Wi1NT3FtUWlkeEZkTEEzWWFWYWI3S0VWQ2hhRm8yQ2VKbXI0QlVPOUVTR09iOGg1ajN1U05URThJNXFPZmpvQTFxRmF3dEZsSmQ0S3JhWlhXWklvclphV3ZRSTh2MXR5SG5pZHpRV1paSXZfaGM",
+    "source": "TVRI News",
+    "pub_date": "2026-10-22T11:23:00+07:00",
+    "desc": "BUM Desa Dorong Pertumbuhan Ekonomi Pedesaan&nbsp;&nbsp;TVRI News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0bae17bab052",
     "title": "Berkas Lengkap, 3 Tersangka Kasus Dana Desa Taliabu Segera Diserahkan ke Jaksa",
     "link": "https://www.cermat.co.id/berkas-lengkap-3-tersangka-kasus-dana-desa-taliabu-segera-diserahkan-ke-jaksa",
@@ -15294,6 +15307,19 @@
     "source": "| Sukabumizone",
     "pub_date": "2026-09-28T14:44:02+07:00",
     "desc": "Pemdes Kertamukti Salurkan BLT Dana Desa kepada 20 KPM&nbsp;&nbsp;| Sukabumizone",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2a5f2aef3b33",
+    "title": "Dana Desa 2027 Rp 77 T, Pemdes Hanya Boleh Gunakan Maksimal 3% untuk Operasional",
+    "link": "https://www.msn.com/id-id/ekonomi/other/dana-desa-2027-rp-77-t-pemdes-hanya-boleh-gunakan-maksimal-3-untuk-operasional/ar-AA2d6aAK",
+    "source": "Katadata on MSN",
+    "pub_date": "2026-09-28T14:28:00+07:00",
+    "desc": "Dana Desa akan difokuskan untuk mendukung penanganan kemiskinan ekstrem melalui Bantuan Langsung Tunai Desa (BLT Desa) serta penyediaan layanan dasar kesehatan.",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
