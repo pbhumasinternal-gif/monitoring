@@ -1,5 +1,18 @@
 [
   {
+    "id": "b31e39ede628",
+    "title": "Lantik DPD FBMP, Wabup Iing Dorong Pengelolaan Bumdes di Pandeglang Unggulkan Potensi Desa - bantentv.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFEzd2o2VGJTUm9yVjNGYWRXcy1wZmgwbWl2MzNVYlVtLTBmR0RzYVBPdmdTZm1wY3psa0xBY1A3TFBCS0VlZjMtcTFUWTdIRHhyMFdkM1M1ZDZiVkVkaXBrNDBfVGlZanYyQjZVaTMzUGRuaENHMDBfUGJEaGt6WWhWZ2N0eUFyeHRhbnNWQWNsWWs5NXVpRVg4MG5UbU1aVHVLWXZFdDR1R21BWG1ZZHpXZndZbGZNU0E",
+    "source": "bantentv.com",
+    "pub_date": "2026-10-22T08:00:00+07:00",
+    "desc": "Lantik DPD FBMP, Wabup Iing Dorong Pengelolaan Bumdes di Pandeglang Unggulkan Potensi Desa&nbsp;&nbsp;bantentv.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f64d7cf586c6",
     "title": "Inspektorat Tindak Lanjuti Dugaan Penggelapan Dana BUMDes Sigar Penjalin - SUARANTB.com",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHE0QXRzMWdNeG93aS1tdHdEa3FPWm15blFnZjc0RWVFc0s4dlRJaTEycUNhLUNNczFiczU3TWIxa1FCRTdya3pzeDhRMUNrUmdfaEhSelNsRURtUlU2emhmaFJrYUtXRG4xNnZqMWVIa0tuOUlWVXZfZVFfaFBtZldza01KeDh5ZWNVUXJDcTRuT3UzaU1NSmgxZ0JncGpkb1R1SGt5c1k",
@@ -11,19 +24,6 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
-  },
-  {
-    "id": "1f864d6ee1f3",
-    "title": "Media: Israel \"unjuk kekuatan\" gelar latihan tempur di perbatasan Iran",
-    "link": "https://www.antaranews.com/berita/5803581/media-israel-unjuk-kekuatan-gelar-latihan-tempur-di-perbatasan-iran",
-    "source": "ANTARA News",
-    "pub_date": "2026-10-22T07:37:14+07:00",
-    "desc": "Puluhan jet tempur Israel, Senin (19/10),&nbsp; melakukan latihan terbang di dekat perbatasan Iran sebagai bentuk ...",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 0,
-    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "3036796bc638",
@@ -76,6 +76,32 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "25b19d7dcbe0",
+    "title": "Bumdes Mati Suri, Wabup Pandeglang Dorong Garap Pasar MBG - BantenNews.co.id",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXFSUFB1RFphOHctZkNxdW1Eem14cFJsMVRhVjJ3Yk9JY2Q5ZDRDY3ZNRnhoTUIzRWQzaG1ZSmVETFVKZW5GZ2VsVUhNbkYxakNacUdkVFZqaW9DT2RSWlNRNUpkUmxkRjd2dFJDUm96Z3liTS04WVhSSWZNVk5iLVZNV2lQdnlIc3E0cTF4cw",
+    "source": "BantenNews.co.id",
+    "pub_date": "2026-10-22T01:03:27+07:00",
+    "desc": "Bumdes Mati Suri, Wabup Pandeglang Dorong Garap Pasar MBG&nbsp;&nbsp;BantenNews.co.id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "776a276d7664",
+    "title": "Dana Desa Bumdes Pagerwojo Dipertanyakan, DPMD Jombang Klaim Sudah Sesuai Prosedur Monev - Kabar Jombang",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXNhUU1sWTJRY0NwUHBMQ2RQQlZXVm9zUGRlMUN4ejNxUmp5STNzaEdjRW5IaXZoMkhKTmEwZFFwRjRVY2o5SWtBbXlQeVQtX092aVF6bF9VdGNxT2tzVGJGQUJWNDQwMENpVVVnaUh5d0JSTFpvN3EwWGJPSWJQbk1HTkJWV1RDM29yX0tvN2tscHdGVkJYdmZWZ0psZ3lvRkpaNlRaZVE0SDk5QmowX2FkVkdHWmZUSDAxM0kyc9IBxAFBVV95cUxPLWhsckxXZUxobUYya2IzaUxjSDdlVWpPdHBCdlNOMHBLRS02NlVFWGVCRXVsZDZIUnZMQnRvR1ZuNHc0NlVQVVpOUi1kYWpYN25qbERMby1rcWVrZjdvbldYdk5NaFEyb3NHd3AtYk1Wdm1sR2VxcjdtT3NhVHYxTHYzLVhsLUpmM0pLMWdYYXRFNW9uUVpkX3M0SWRkLTlyQzRJdlZWQXFQaTNyRzNvc3o0YnVSOF84a2YyOHo5N0FMc0JF",
+    "source": "Kabar Jombang",
+    "pub_date": "2026-10-22T00:52:36+07:00",
+    "desc": "Dana Desa Bumdes Pagerwojo Dipertanyakan, DPMD Jombang Klaim Sudah Sesuai Prosedur Monev&nbsp;&nbsp;Kabar Jombang",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi Publik"
   },
   {
     "id": "53fadff14e28",
@@ -193,6 +219,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "68e72b14ad78",
+    "title": "Kemendes PDT perkuat BUMDes jadi motor penggerak ekonomi desa",
+    "link": "https://www.antaranews.com/berita/5802921/kemendes-pdt-perkuat-bumdes-jadi-motor-penggerak-ekonomi-desa",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-21T20:45:00+07:00",
+    "desc": "Pemerintah melalui Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) terus mendorong penguatan Badan Usaha Milik Desa (BUMDes) sebagai pilar ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "c9e474fe61c0",
@@ -335,6 +374,32 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "39e4061ca5ac",
+    "title": "BUM Desa Diperkuat, Pemerintah Bidik Ekonomi Desa yang Mandiri dan Sejahtera - garuda tv",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQTJiTThJT0FhMUNNU1dKYnVrcXplS0gzRnlJQ1BMSHVZbTdiVDJibWZ1Rm0ySHd5WmxHTnhsc2RGb1lobkpsdi1qSzg0Z21zTXZWMjNaamhCbkRGLU5KMkxFSGlmdWlIMXdDbDVoWVp0bU5yYmU3QXhpbHhnN3AyblB4SjhUMHNGNXdPeXo5Vm9GQUZySGxxMk93",
+    "source": "garuda tv",
+    "pub_date": "2026-10-21T19:37:54+07:00",
+    "desc": "BUM Desa Diperkuat, Pemerintah Bidik Ekonomi Desa yang Mandiri dan Sejahtera&nbsp;&nbsp;garuda tv",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "e4293ccc81f3",
+    "title": "Monev BUM Desa Barokah Mandiri:Menata Aset & Keuangan Desa #KompasianaDesa Halaman 1 - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcFItSHhWdFdfeTJOYVllMDZndjJaLWJKQXZOOUpmS0RwWXhyV21QbERmUmNWa2FoWENmWDduU20wdEpzRXJmWk5xWm5iMUkxWXJnWVJLVER3a0tGa2VFcGdxalNvNEdrdng3TDRob1JDajY2aEg5WlJITnhZR29SYXdMUmtWbjlqTnVRQWdGalVhbERJbVlUMi1lbk5renNSNGxaaXhrWThuYkh3WGtxZ2VPYk9tNHB6V05rMXRVb25jS096VVNfcTdYcFVjYVdzc0cwMnB3",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-21T19:02:56+07:00",
+    "desc": "Monev BUM Desa Barokah Mandiri:Menata Aset & Keuangan Desa #KompasianaDesa Halaman 1&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -585,6 +650,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5f821c721f01",
+    "title": "Badan Usaha Milik Desa: Motor Penggerak Ekonomi Desa",
+    "link": "https://memorandum.disway.id/nasional/read/172764/badan-usaha-milik-desa-motor-penggerak-ekonomi-desa",
+    "source": "Memorandum.co.id",
+    "pub_date": "2026-10-21T15:07:00+07:00",
+    "desc": "Kemendes PDT memperkuat BUM Desa melalui peningkatan tata kelola dan profesionalisme untuk mendorong pertumbuhan usaha serta kesejahteraan masyarakat desa.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b1a184fbd34f",
     "title": "Cegah Stunting, Kemendes PDT Kembangkan Bekicot sebagai Sumber Protein Lokal - BorneoFlash.com",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzgxU1lfdWQxTGUwRGM4TExzRlFMdjFKU0xVdVlyZ0NzTkZGNFRtTng0VHdla1RtcXlHSE4weTZkUWU2WUVWaHlhbU4wVm1FaUxlZWZCV1FtZjJ2WU9TTVRfczlxRlY4V3MybkU1ZnowVGtTU3l2bzJuNjNfYnRnYkZjSTV4VUR3anFpMHg4c2RLd2k4M053N2tCLTNhbFRaOC1JdHRSWnY2ZWJnT3Q0",
@@ -684,19 +762,6 @@
     "desc": "Dana Desa Bumdes&nbsp;&nbsp;ANTARA News Riau",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
-    "sentiment": "netral",
-    "sentiment_score": 0,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
-    "id": "cd3d7f176331",
-    "title": "Menagih Penyelesaian Jalan Perbatasan Tembus Kaltim-Kalbar - Kompas.com",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREZ3RS15TEE4OHJNVG5BYU9HODFPcmptYmx4ZHowZ2sxNHRmLVdBb0JnLWVGMHU3clJhTzNGUVZnQWFkay12dTRZd1RLRl9fbTNiUEwtTFJYQWx0M25sVjVEdGJwVHM1QVR4MExIeHVwMlFlSkpiTk1ROHBQRnByemhDaGM3bkNmdHA2bEJUUEhnS0taZkRqaXhhQm1xU0t2OFJtNjFlM3ZYVDBOaWhVMXJCTm5WeEk",
-    "source": "Kompas.com",
-    "pub_date": "2026-10-21T14:16:00+07:00",
-    "desc": "Menagih Penyelesaian Jalan Perbatasan Tembus Kaltim-Kalbar&nbsp;&nbsp;Kompas.com",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -1482,6 +1547,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "406c241d0745",
+    "title": "Bukan Cuma Telur dan Ikan, Bekicot Kini Dilirik untuk Cegah Stunting",
+    "link": "https://www.viva.co.id/berita/nasional/1937290-bukan-cuma-telur-dan-ikan-bekicot-kini-dilirik-untuk-cegah-stunting",
+    "source": "Viva.co.id",
+    "pub_date": "2026-10-20T16:30:00+07:00",
+    "desc": "Kemendes PDT mencoba mengembangkan bekicot sebagai alternatif sumber protein hewani untuk mendukung pencegahan stunting di Sumba Barat. Baca di sini selengkapnya ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Pemberdayaan Masyarakat"
+  },
+  {
     "id": "f15e33120f73",
     "title": "Bupati Asmar Ingatkan Aparatur Desa Meranti, 64 Peserta Dibekali Penyuluhan Hukum Kelola Dana Desa - Sinkap.info",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLV9PNkZ6MmtfN05xeFdramxpUWwxTXJrdFpxcnR5cURLTV95RG9IeDk2NGd3LWEtdUZVYXQzTlppdEdnZHd5VTdpd1BjN0dWRUN6VjlMQ3BNS3hlR3VuYms0Sk84WnRYQWx0UmRRcDJkajBVbWpMcXhRYXN0ZVdydUJqMGVnc0lpWEh2TmxrX3dldmRoNkgzV0NxMTRySG1wWGl1a01zWGRPVjFSZkFkZnU0bjBoX2s2dHVEeTdzRjcya1Zl",
@@ -2080,6 +2158,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "cc9d4b1b756b",
+    "title": "Monev BUM Desa Mekar Mulia: Akuntabel,Mandiri,dan Solutif #KompasianaDesa Halaman 1 - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXFCVDlJRGFXS2ZMY1J0TmRuOGhlWnRkY3JlbG9ILVlKeVpQc1h3NWl6S3JfbmxOYm5RLUNtVzJxb3MzOGZIdTFtQ2VEakZYLWx6akRhM2tDQ1lIU2tVRUN3VmZieGpIbHphMVRqRzhJSE5PemtnYTVYT1RvaWpTbU5MV0RUVDBreGZlYzF4Umlad2VybFdzZTljXy1pMWI3ZS1vdlZuck9HY2ZQWXJlTzVlak40ZjJ0cWRJNVI5TEYxMjZpYm91YkVsYkVTNUNka3I1NVZn",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-19T22:16:41+07:00",
+    "desc": "Monev BUM Desa Mekar Mulia: Akuntabel,Mandiri,dan Solutif #KompasianaDesa Halaman 1&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "0b200b3841dc",
     "title": "ABPEDNAS Pesawaran Siap Kawal Dana Desa agar Tepat Sasaran - Tribunlampung.co.id",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODV4MUhOT2lSMFZsNG1YUE5HLXhDcU90S0JBM1dha05qejlxbWpHNmtLVl9IdEZmRGhUVnhvU3Y5VlVVMUl4bnJNbmlJT0pWZDR3N2hwTGI5ZmhVLWNRTXdmSUplS1F2V19YOVk4V1BqYjlLRGxtaVJkcWQ1WlZGQ1EtNFBUYUtOVWt5aVNoa1JqTVdGaDNhQ2VMQ2lvWEVhckMwX3hhTmQ",
@@ -2457,14 +2548,14 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
-    "id": "d3f10533775b",
-    "title": "Mendagri Tegaskan Kesejahteraan Warga Perbatasan Adalah Benteng Kedaulatan Negara - NTVNews.id",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZwVVF5dlZXOEd0QUJQY2oyNDkyQjVDZ2k4Ymt2S1l6QWVMOUJsMkowTWo0RTNMY0JLUm5sb0g5V3B0RGpGYVRfREstSHRwR1ZYcDUxc3N3Rnp0U192aGRmb1pRY2VZekkyS19lMkItS1FfOVRISks2UUl4NnZiNi0yV0J3VlB0RTRReHBZT2xqQzJON0MwOC1XQl8wUVhjcElZWTVTOGlxN1I2d0N5VjBiSVkyd2JDNnc",
-    "source": "NTVNews.id",
-    "pub_date": "2026-10-19T16:16:00+07:00",
-    "desc": "Mendagri Tegaskan Kesejahteraan Warga Perbatasan Adalah Benteng Kedaulatan Negara&nbsp;&nbsp;NTVNews.id",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
+    "id": "e88ecc969727",
+    "title": "Kemendes Rancang Proyek Percontohan Transportasi Perdesaan Ramah Lingkungan",
+    "link": "https://www.ntvnews.id/ekonomi/01122354/kemendes-rancang-proyek-percontohan-transportasi-perdesaan-ramah-lingkungan",
+    "source": "NTVNews",
+    "pub_date": "2026-10-19T16:14:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) menggagas rencana strategis untuk menghadirkan proyek percontohan (pilot project) transportasi perdesaan dan daerah tertinggal yang di ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -2626,19 +2717,6 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
-    "id": "4cb0b2651296",
-    "title": "Mendagri: Kesejahteraan warga perbatasan perkuat nasionalisme - ANTARA News",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeE9CLVZrd0kzSHVvMTFBUDZwVzdMOERRZDVZXzdHQW55TUdaRGY2NTVKcGZuTmtvVFBFVTJGTWVSZFBuelhERVJzcVFsUDVyMmpJbG5vQlpsZFJWVTFFeTJ3SUpRX2xRY3B6RDd0Q09CZmdFQ2QtVWRUVmVJeE0tZm5UcGNNeV9pRTkyZE0wWklGR3VKTUJRUHpycnMzWEJfTi03bER30gGrAUFVX3lxTE95Q0p4TU5INFgzSDNKX2RMaXRtT0E3OEYxTmQzSWtLWHhkbzRRd1RCYldkVWRxNEZZWWJpaHVpS0dyY2Jhb19uNE50bTZ5azZtMFE3OEtTZVF3UHdWYURLd0hOOTdQMm9zbGpyekhfX0JuUXNpQWJLWDV4LVhBVTZ4VUJDeVVjSVpBRkExYnA5a2h6SHMzLUlCYWx2SGgzMG9YbWRhNlhkaUpxMA",
-    "source": "ANTARA News",
-    "pub_date": "2026-10-19T14:28:21+07:00",
-    "desc": "Mendagri: Kesejahteraan warga perbatasan perkuat nasionalisme&nbsp;&nbsp;ANTARA News",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 0,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
     "id": "ec04b376bea9",
     "title": "Kumpulan Berita Limpahkan Berkas Kasus Korupsi Dana Desa - ANTARA News Jateng",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVllITlRXWmI5OHZmMWxGTzVtLS1ZelVvS25jUGYyWEdCRjZCcjh1V2JHX1NVX1dlOXF4bjd4clNwQ2tqLVZtQUt0U2FZTGRmbVg3MU5hU0UwY1FYZGpWaS1zeHN1akROOTVsekp4WndaS2JOakZmcUdlb2xBR0ZvTlZqcw",
@@ -2662,19 +2740,6 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
-    "id": "db0b686904d3",
-    "title": "Mendagri: Kesejahteraan Warga Perbatasan Perkuat Nasionalisme - Benuanta",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkZydTlZQnhibThHWnp0bEs3RUZZTjQzSkdGTFZxdlZxYnh6QjY1eXBEbW9MWEFKTnBBbUt3bmd0MGhteWljTWdadVhCNkhrNEFQaG00T3JocG5NcGxtdHlJYUdydEJUb1VlRkxCU0xJZ0dybmpsZmpTa2NsWEx1T2tqSjhqbk85ZTVZU2R0WDc5T3Bqd3NDaEhKYTBGOVRm",
-    "source": "Benuanta",
-    "pub_date": "2026-10-19T14:19:22+07:00",
-    "desc": "Mendagri: Kesejahteraan Warga Perbatasan Perkuat Nasionalisme&nbsp;&nbsp;Benuanta",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -2756,19 +2821,6 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
-    "id": "d5c910d8777d",
-    "title": "Sertijab Kepala BNPP, Mendagri Harap Pengelolaan Perbatasan Lebih Optimal - detikNews",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnJ4V25LTHYxWi0tZEZSSHhJbnByYmZ0S1dkZ2hqWlBCVTlYbV85dXF0SDVBaE4zSUJTQ0U3T0kybHRwX3FtOUU1ckc0NDVMYmdYeVVxWGJxbmNxTDhtYjBBd1pScFR6elpCd2dIMDBOX3phalYtcTRnUUwtM2NBZjQ4OEZhcVY0a21zQXVHeVZpV2hQMU0xVHQ4eGNnQU1zVUxNcmxTeFlrVThXeW53dDNB0gG3AUFVX3lxTE81V0kxZWNmM3BtR1JIbWZaZHFrUlZldFRkY3RBLWEzTUxkY2NqT1FZVE9kalF5M3V1WjZzWHl4TE50blZwSWdKd0ptYTZETW1ZZVZOZENzSGRNa1lWNm54amg5UzM4Z0djZ1gySHQyalotOGtrWHVaWmliTmFIWHV0M3d1TE9LU05vS3dUUTBaelNrWS1PSkU1VnNvUkpZMWRqZlNadjQ1ZWpYb3hfdVUxYWxob2g1SQ",
-    "source": "detikNews",
-    "pub_date": "2026-10-19T13:40:02+07:00",
-    "desc": "Sertijab Kepala BNPP, Mendagri Harap Pengelolaan Perbatasan Lebih Optimal&nbsp;&nbsp;detikNews",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 1,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
     "id": "7c1582b9378b",
     "title": "Kumpulan Berita dana desa sidoarjo - Antara News jatim",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaWm5rZDJxYnlvMXIwZElFVWtybGtsakltbFJfM2ZraDg5RTJPdWJVSXg4S1czb0Z1bHVfZlVfWWRfYVlBbjJ1VEV1U2RTVEd3cHRQRFg2a3NpWlcyUFp2OGpWUQ",
@@ -2777,6 +2829,19 @@
     "desc": "Kumpulan Berita dana desa sidoarjo&nbsp;&nbsp;Antara News jatim",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "72df2596da22",
+    "title": "Pemkab Murung Raya bekali pengetahuan pengurus KDKMP dan wirausaha muda - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdXJhdkJrcGxJMUR1RExVMWZoaW1RbkFleDlWX1RWTkgxZURFcXZpWEhpT05ORU9kOHg5cVMtVE5Icm5oMENxVjl3UURfTWF2QjJrNFdaakZFTWpTWWNLTjdMcWw4aUNhUV9Db1VWbEpEcXh6ZWdJdEl3aU0ya2NjbkpoMHh5WTZQNUxzcFQ4WXJmWXQxSlVPRXJheVA2RVN2Rk5yRTd0cUNCNl92S29pOWdQUy03ajQ",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2026-10-19T13:17:19+07:00",
+    "desc": "Pemkab Murung Raya bekali pengetahuan pengurus KDKMP dan wirausaha muda&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -3237,6 +3302,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "6d908d95f8da",
+    "title": "Wamensos: Skema penyaluran bansos melalui KDKMP masih dimatangkan - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVhCbUhhbDJTWERQOU0yQUUyM3pYUzQ0a25KQmR2RkxKaHZHODFVU1FJS0E5NUljOURHU1VQUTNTdU5Yc1JfWUlOcVRmX1dfYWEzZlg4cXBfMXA4QWRfT05BMUJQUVEtOWVlNmpkTkhfRm0tbFN0SVdKWjFuV202VWhNTm1laFc0cHZhaHBkNUd2cXRPOEJqX0pfTl9sb015dHBJQlZ3SjNOd9IBrAFBVV95cUxPUTd4eC1CN01aUW4xYUNVUUx2UFRyZ2lxbFhmYXBfYm9FV2ZEak9KYVpVUTlSaXV2cnJRRnVSY3E4bFUtY2FENzFsdEV5bzdURmlqbEQ0NHF1LW5Td2pVUTcxU0RZMWlXVXFETVNoSF9DT21RZVlfbW4yVEk5X3dmNmdKbnVqXzg2NFFpZ0pFTTlPNlotNjNEdWxHUFhra0ljN0pOTnZ3NDdVVzQ1",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-18T19:11:38+07:00",
+    "desc": "Wamensos: Skema penyaluran bansos melalui KDKMP masih dimatangkan&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3ede53c22e17",
     "title": "Komentar pembaca berita Kemendes siap terus dampingi desa atasi masalah Dana Desa - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcFl4M2JzakZNVGtPTi1JNVU1bmhSYXNEWmpLUk5OWTFsZWZEU0Z5Nm5xYktPMmdwdTREaDlIVUN0c0M4SkZMaVU5Y3J0QW1HX0xua3BEZHVzejFCdjFkc3N4WnFZaXNHVE9pa0ZURDU3RWtWYnhDWlBLMDE3S09yVENWakQ4OWJDNGQzSzdQSEtxd2pMdWM1THR1VGRfRVp6TFA0",
@@ -3245,6 +3323,32 @@
     "desc": "Komentar pembaca berita Kemendes siap terus dampingi desa atasi masalah Dana Desa&nbsp;&nbsp;ANTARA News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "dceb76f401bb",
+    "title": "KDKMP diperkirakan hemat belanja rumah tangga Rp300.000 per bulan - ANTARA News Gorontalo",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTNIcEFGRzdxSEV0c0VFSzVIQks5dmRZbWlDbWp3S0tHUk5kNG0tNE9FaVdEZU5HMXVBa3hLZTZkWEdrX2tRZXJHSkZQcU9wNnlBeHRuUGk3NnBDbnVIZ2dfSm1YUlNueWVfQU5RX085b1d3eHRQRkZyazUzODRqNzNFWDNwQkZtTWxjaDBFZ0VvbHNiNTltZk1YRlY0WXBGdk43MGk0aERZek1yY1hOadIBtgFBVV95cUxOR01EdnU2VDN2c3NiM3h5eHpXSUVBRHN1cmlqaGd0MmFaVFNJdzU4T3d5NUZDZGNieVFCajhNOEh6YVJMNnFYT2hJdk5NTk9zUlAwdzd0blNWTTRyOEFXMTgweHdXd1l1bWdkNElKUEdQSlEtNzR0V1V6c1JhUnZkZXlZd1JaLW44V05kTzVsakVxWlFPSDhxOFhucllWOWNTYkJrbklMWWRNN2hEWmZxeEFaZFZLZw",
+    "source": "ANTARA News Gorontalo",
+    "pub_date": "2026-10-18T17:46:06+07:00",
+    "desc": "KDKMP diperkirakan hemat belanja rumah tangga Rp300.000 per bulan&nbsp;&nbsp;ANTARA News Gorontalo",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "92cb0269d05d",
+    "title": "Bantuan BUM Desa 2026: Peluang Dan Apa Syaratnya? #KompasianaDesa Halaman 1 - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcVFrWHZrOHVFYjdkei1Vek5TdEVmczdQbnhPVVRnVFE2YlBRbzhqVU5TMFRYdFlRb1VfRFp6MWZPMkxGRWgySUdRNFEzSWdDMExVRl9vUEtJd3dZVUd0OGdNLUM3MU93d0o4QVo1aEdERmFpZmZvSmFuMjRnS2VSLWpBZ05GclEtaUtLTGFLZ0puSVlGNFdFNUN1RV9MRkd3dTNlNXE4elgtNjA1T0dvaWRGd3BoSUQwc2FBcnRNNUU0WDdLS3FXZ1ZR",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-18T17:15:31+07:00",
+    "desc": "Bantuan BUM Desa 2026: Peluang Dan Apa Syaratnya? #KompasianaDesa Halaman 1&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -3744,6 +3848,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2c99d9eff8e3",
+    "title": "Kemendes-Lemhannas sepakati kolaborasi bangun Indonesia dari desa",
+    "link": "https://sumbar.antaranews.com/berita/714336/berita",
+    "source": "ANTARA Sumatera Barat",
+    "pub_date": "2026-10-17T16:58:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) bersama Lembaga Ketahanan Nasional Republik Indonesia (Lemhannas RI) menyepakati kolaborasi memperkuat ANTARA News sumbar 21 ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "da074e837ef6",
     "title": "Raih Penghargaan dari Kemenkeu, Bengkulu Selatan Masuk Dua Besar Penyaluran Dana Desa - Sinarfakta.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSThaRjZUUkZzVm4ySC16cXYtRVFXRWFzcnJfTVNnSUJhNU5OV212ZTVzM2hwUnBCZEFwNjNQNmV4dGdqWDJHaGpxMW05cHp2VnhaQmZSTmJBRmpvOGFuM3ZiZTllTl9TNkt0c1Q5ZFNpa1NPbzNlYzg3NzBqRW1wdEcxVmxNYVA4YUQ0MmFxTmdvamI1UDUyMVJsdlF4YjlwVmoyUk1sVE82QjRpSnE0MDQ0aWphbU51ZUx2QUUyRDc",
@@ -3804,19 +3921,6 @@
     "desc": "APINDO Dogiyai Dampingi 79 Kampung Kembangkan BUMDes Berbasis Potensi Lokal&nbsp;&nbsp;sasagupapua.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
-    "sentiment": "netral",
-    "sentiment_score": 0,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
-    "id": "7e6e3970b5c7",
-    "title": "Pencarian perbatasan - ANTARA News Papua Tengah",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kQkE4d1N5THdDWUZnWnpUeWlqLVN2dGJCYUM1bzBQelpOQmVZdldST2hjOUNoWnRVeFFtOTRjUUdCZElZQ0k0aE9zN3RFczhmYXZrbHpUa3Atd2dkYlZ3ZlVR",
-    "source": "ANTARA News Papua Tengah",
-    "pub_date": "2026-10-17T12:57:42+07:00",
-    "desc": "Pencarian perbatasan&nbsp;&nbsp;ANTARA News Papua Tengah",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -3921,6 +4025,19 @@
     "desc": "Tuntas 5 Tahun Mengabdi! Pengurus BUMDes Pada Idi Desa Palae Sampaikan LPJ Akhir Jabatan&nbsp;&nbsp;BugisPos.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7c7bf2316d2f",
+    "title": "Kemenkop: 2.757 KDKMP sudah menjalankan usaha sejak 2025 - ANTARA News Gorontalo",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYlkxbFp2US0wQ0gzTExNNGJ2TW5USVBhMWlRVDZZZHJVOWVvWjRkZXpTb0hMa2FMNkE5UkhnQ0p4NTFyaVd4bUFGSm5vbDFkSVNLbVVVM0FpSVFwU2ZRNUJiVHVtc1JpUkg3Zlo3eDVuX0JiUUxueEtwVkRWcUZHQWNNUWdKTjRVNWdnYXhmSkV0YUc5Tnl3ZzcxRjh2QlZFZ1VR0gGoAUFVX3lxTE4xM1ZmSzBEdjBlQlNqdkp4ajdwSUhWTktoMzdBNlJqa05uaGlydUJzZ2F6NkNnRGVNTm01TDBJcmpWQW9iVUt6NzhIeGZKUzdzcW5wdU5lT3ZtMVpna2I5UmRTRWVKZmUwYlVvZHUtN0htZnpzRk8waEpaWXo5Ynh2WWZDb0htVTNzNFQtM0FmVXRyUFNNUFhkbG56VXhfZzM0eUI3ZjNDag",
+    "source": "ANTARA News Gorontalo",
+    "pub_date": "2026-10-17T08:09:28+07:00",
+    "desc": "Kemenkop: 2.757 KDKMP sudah menjalankan usaha sejak 2025&nbsp;&nbsp;ANTARA News Gorontalo",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -4836,6 +4953,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a6d09ddd907b",
+    "title": "Wamendes PDT minta produk KDKMP disesuaikan kebutuhan masyarakat lokal - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOek5QUnQzZlZTWks2YTJwZjBkM2lPcW5RbktMZTdYWEo0dUg0bmtTRVhnSUw0VXpPYXlVZkFYaUlsN3NPVDBpNlUyblNWY3VaclByQS13MmxqMWV2TE5uSFpGX0dOYllzdERwbkF5QUMyR2FqT3hxbHgtanIwVkZkNHpDUUVjdlJHb3BzTHhjeTBlN09rdnVEZ1RBSVRWMzNFTTJHQjVkdXFwS25VRThzMQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-16T00:01:17+07:00",
+    "desc": "Wamendes PDT minta produk KDKMP disesuaikan kebutuhan masyarakat lokal&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a41170572328",
     "title": "Menko Pangan Dan Mendes PDT Tinjau KDKMP Di Boyolali - Pemerintah Kabupaten Boyolali",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZjV0V1ZXNWFfWGYzOGkxa1l4VGRKbHpGTDl5T2xvZHFBb3BOQi1zSkFOaUpOQzZIRWZIY1Z0UXJJSExYdzZmeUZuTS0wa0s3TUxObEdDenpBUlNuZGUxMmlSVU1ieHc3cEZfQXBSUy02V1V6VGZJUFA5Nl9ac016NVFJa3dxRjQ",
@@ -4953,6 +5083,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "50f7e28ef29b",
+    "title": "Bulog salurkan 450 ton beras SPHP lewat 33 KDKMP di Provinsi Jambi - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXZWeDlsUXNrd2xQLWdwdXF5cm92NXg3cDVUOFliN1UxNGNHbGNDUkkxRk90ZkpJcTBuNC11MUhWZjlLbENTa1p1SzNLVEZkbnNhUDM3dDd6NVZpLXVIaXJmci11U2ctNDQ3c0NUelBtZjYzS2VrYjdUSXVHY1YwS3RtcXdNWkx1UXBia0JYeGtnV19pajdQZHU5RnZyejgxQ205bHo0RVJGM2xtQmfSAbMBQVVfeXFMTi1rbl85TUlFOW00aXVDYUdNMHFaM1hnV0c1bVVwUTNiVE5KT0hPRGJ3UVRJZlVXNVlSM1MySjZId3lNZGNjS2daUm9BTHBOa0RORkxEOGZQNkI0RlpZa2lzcVFWWWZIWE14eGZ3bzZLYkZCY3ZpZkd5akZWMDVVNFNwNXZVMklKVS1DRUlwNVd6TWZBWDNlc01DRWY2b2pxMWNJZjRmd2o4b1lyaEgxbldoSk0",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-10-15T20:17:46+07:00",
+    "desc": "Bulog salurkan 450 ton beras SPHP lewat 33 KDKMP di Provinsi Jambi&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6675c73cd3a6",
+    "title": "Pemkab Kerinci verifkasi gerai KDKMP menjelang operasional - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVlQwQV9wLTZMaDBrcTRhUjhiOFF4a2NmVHU5WkktbU9aMW90NFBhdHIyN05pU1RkVEZnS05obmk0T3VKdjhPTTdWTTNYemNrM3A2ZTZWN3N4RlpaeDhxcTJZVHFWLVREdjdQNGdDUExlaVhQOVk5djlhRGZuTVhPRHZvVi1Ia1k2dnV5eG92VDlZb0M0azdFbG1MQy1rR2xXYlBV0gGoAUFVX3lxTFBnWm5XVlJtekk0SWhQTmI5eDltZDBXZ25TamJNaEZfUmo0am9YekU5RlJEb0NNbGhnZ052SkhRQklrbndxYlZENl9NM1ZWYkNxZ044LTQ0X0ZfenJ6T3ZaNFlmTEZWX0huY1JXZ0E2bm9XY1V6LTBFTksxUDFCMmhTbThSeWR0cDQ3NHJkNl8xbnFWc1B2U3FfTDRMdFBSWlJ4WGF6RlVLTw",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-10-15T20:15:50+07:00",
+    "desc": "Pemkab Kerinci verifkasi gerai KDKMP menjelang operasional&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8784a9380110",
     "title": "BPKP dan Pemkab Majalengka Perkuat Pengawasan Dana Desa - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVTJxcm5OLXptaUJVMVBiaFFCaUlpVzl4MFpRME91a0hOakVwUEhlY2wwWERQYW9ZcU02M1lQOTNKZ1FUdjA3YkQ1UlE4dzZ0RXA1VDR0bmlIdU9IYXBobTBnWlZnTVVlZkF1ekI5a1pmdzk0T0ZvZU14ZEdJQ2pHWmNBNWJGUzBSYTc1M1VpSnlwWEQ3dHJ5Rks4Njljc28",
@@ -5026,6 +5182,19 @@
     "desc": "BPKP Soroti Akuntabilitas Dana Desa, Pemkab Majalengka Dorong Pembangunan Tepat Sasaran&nbsp;&nbsp;TINTAHIJAU.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "eaa45ec75a4f",
+    "title": "Dukung Misi Dai Dompet Dhuafa Tembus Wilayah 3T dan Luar Negeri, Ini Pesan Menag - Mozaik Islam",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ZjV29HQjBEZzhtcnBnc1U5bnNkX0RrdmpyM1RyUXM1R28tOWdjdE9kR2VZM2k3V0hPMGdZUmNGQXVwcm16MXdFMXBKQWVxem9FSkpjSmZfZWV3LUwtam5VSVZTcm44VmxiTVVHMXh5QmdJdmU4My1scmZNb3FsZXNVazl6YUl0MnFhVjNpWVEzbnhScDVzbmNiTTU4S2NUemNGZlRYc1NTaGFKTHc4",
+    "source": "Mozaik Islam",
+    "pub_date": "2026-10-15T18:40:00+07:00",
+    "desc": "Dukung Misi Dai Dompet Dhuafa Tembus Wilayah 3T dan Luar Negeri, Ini Pesan Menag&nbsp;&nbsp;Mozaik Islam",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -5109,6 +5278,19 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
+    "id": "bdd279fab828",
+    "title": "Pemkab Sumba Timur Ikut Rakor Penguatan Layanan Dasar Wilayah 3T di Mataram - TIMES Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZzlhVVVLTGhhcUZkZGl0OWJZUElwMEJuUFk5MzVkTENJdGRwT25UWVlGUzM3T2pCZEdpWkJISDd2UnVKWW1wdjYyUlZ2OUZKaVdvSW5QSnI3OWkxT3Q0cDZXTXFydEJIdzE3dDVWcUs3VkdwY0RUcHJUNDFhMGVlTHNWdzFZQlNKZ0NtRExuZHZNUTRZTGZoVkJnTkRzanJfSEN5Vk9GS0Z2cW1DTDVXVUJ1OHJoaTFpZUhFU0x4ZDFNY0g5Qzc0",
+    "source": "TIMES Indonesia",
+    "pub_date": "2026-10-15T17:03:00+07:00",
+    "desc": "Pemkab Sumba Timur Ikut Rakor Penguatan Layanan Dasar Wilayah 3T di Mataram&nbsp;&nbsp;TIMES Indonesia",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f669a2aa75bc",
     "title": "Kejari Pesawaran Tetapkan Kades Durian Tersangka Korupsi Dana Desa Rp429 Juta - Tribunlampung.co.id",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORGJPSVVZWHlBY2g3MTY5X1Y2RzZFYTF4dnJYS1dQZkpobjBRSmM3NzFqUUE4OVlLdnhmb0plejNVZHNmQmRhckFuR2J0TWRrdHNVSGxCcTlaUHh0OGI3N3pZY181cFNoYlJMTFZ1NlIxZ0J0SEh6Q2NINXp2YXBsa19Sa2JFQ0dvOE9NN2R6bWdZWldqQVlBaVZmcG95UTZ6Zk51bV91QUhjS19SNXdjZXVlX0VPRWJnU3NSRDJNWHRuUQ",
@@ -5159,6 +5341,19 @@
     "sentiment": "negatif",
     "sentiment_score": -18,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "be7540c9df95",
+    "title": "Maruli jabat Wakil Panglima TNI merangkap Kepala BNPPDT - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY3VQSkNURVRiQ2FOcHl5eFRoaWo2WldBMDdxZ0hxckRidXNwMlpYdEVWTzFJbHk5V3FJN0FRSDFTekEtZXFaXzE3UEhhY0txQWZndFBlNkczZDdra3hTYURBSjRRSHBxYTl5YzBMdXVRUzYzTkVEeFpnY3I1RUU4U2NUWXBzbVFLZjg2eWNSSEpPS0FGYXN3RkRYVDhaU3VL",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-15T16:01:31+07:00",
+    "desc": "Maruli jabat Wakil Panglima TNI merangkap Kepala BNPPDT&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "959867fb82d8",
@@ -5720,6 +5915,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b626241b2778",
+    "title": "BGN Resmikan Hampir 1000 Dapur MBG di Wilayah 3T - Rmol.id",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZG5haENXTFBUM2JTWkpyd2NMOWpTU284UTFYSFluTlBpM1J0Q253aU5OeHZrTDFWSURidUxFSEZ1WENDSlRoSGZaeGp5UUdfYW1rR1hFUmlPRGpqTGNJbkI0aDVRUUtuaU9jWjVuMVgxblBHZFlMdmsyU2tDaTYzOWJ2eDZoSzlZVl9fTDRxdE8",
+    "source": "Rmol.id",
+    "pub_date": "2026-10-15T04:15:00+07:00",
+    "desc": "BGN Resmikan Hampir 1000 Dapur MBG di Wilayah 3T&nbsp;&nbsp;Rmol.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ffd0b3775e3e",
     "title": "Dana Desa Mengalir, BUMDes di Wilayah Lebong Tengah Belum Memiliki Legalitas - Go Bengkulu",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWF9KLUc1aEJMOUQxMTd4RklycVlXa2s3YklEeF90eEJ5Zm9Wc2lYUmlNNS1XSWtST0xYOTd1REJfX1ZyVWJ6NlBpek5Ic1NtTjEzYnhWOHpkVVpuNktkekxHT3Z0RHY2VmpRR3FtWXhyQlR1U2lpeDdGeTk1aDFuNl9nQkJuZzRMRWphTXc1ZTd3dU02UmtMSklxUmFwSE9DdEl0ZUVlMlBlZWpTNUxzQ213dnY",
@@ -5915,6 +6123,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "4c24c0544b2b",
+    "title": "Dukung Pengiriman Dai ke Wilayah 3T dan Luar Negeri, Menag Dorong Penguatan Moderasi Beragama - Kementerian Agama",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSWFSY3N5ZV9kZWRuQko4RXZyemhzQVJwUU9KYjFKbEdlUmhTUDFSeXgtbUZOR1JRWEZHNThWS3RpTVJGbVlVdENIQVoxQy1RWWhjUXRuYTM2NThSR0w4NjFKUWtaNVItMFNVRS1IdXNrUUJFZ3BRVERBMHZKRzQ5MzFHdXgzaHVzTWNMaHNjT1lkdUNQMUJSbWNBWHE4VzFSbVlYYlVJWFJNenc1N3paVUlJNm5xdTJ5d3lZUTAxa1M3UWJ2dnVTaw",
+    "source": "Kementerian Agama",
+    "pub_date": "2026-10-14T20:26:00+07:00",
+    "desc": "Dukung Pengiriman Dai ke Wilayah 3T dan Luar Negeri, Menag Dorong Penguatan Moderasi Beragama&nbsp;&nbsp;Kementerian Agama",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "aad786651e70",
     "title": "Kades Karangsari Banjarnegara jadi Tersangka Dugaan Penyelewangan Dana Desa - Pewarta.co",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGdWM3lfNXpIWXJXTHZqMjlRXzJrS2twOVVSSFpncHAtOGpXeFpLdlllQzB0SzY2YkYxVzZrdWtqS1h5MWZSck15bnJfVXduazFRTlVvQUlSMHg3UzNXZVhOcUJQVGp0dW95cjJwTk1GNmdMWFprdFo3NjF4M3l6elplcnRyX2RfYUpKQ0E0ZGJ3RFRDRUxmTXh4MngyNlBnaGJfV2l1N3U",
@@ -6012,6 +6233,19 @@
     "source": "ANTARA News Aceh",
     "pub_date": "2026-10-14T18:50:36+07:00",
     "desc": "BGN aktivasi 980 SPPG wilayah 3T dan daerah stunting tinggi&nbsp;&nbsp;ANTARA News Aceh",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e0ca91d20db6",
+    "title": "Pemerintah Nabire evaluasi pemerataan guru wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RHN2Z4ekhteDhiTmd4dkxXa0ZVSVBuWl9HR2ZqQzgyWGhkRUZTTFIzdWR0N1h5VmZxZzJCbVJZRFRPVG8wTk5PUkVlM25MWG5fX3ZJUlM1ZmdWaEZRTUJZb3d2R25WT09IbUpKLTN5Q19wRVFDUVlhZkdYQlE3S3BCc0ZMQnJNcEQ0QXBRQzhEYnFwZ0szSXVWZ1g1bHNIVThV0gGoAUFVX3lxTE1BMkxXMXFGYlZiN3BuRGlSZ2s4cDF2eFRkTDRwekFVLW5ETkVLLUpmczlfMFhod3lXeDVTRkhwNWZCMHg1ZTFoQnhfRWc4bDJoa3RidTNXVVFyN1FMVWxKRW9EOFhjYlp5YmJMdmpRWk9RYzQtVm9YQ3pJOXN0UTZnNHl2emMzTDkyZnNISVd2LW10U0oybGcwR280UGJsamFZSFJTUzFvRg",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-10-14T18:42:28+07:00",
+    "desc": "Pemerintah Nabire evaluasi pemerataan guru wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -6196,6 +6430,32 @@
     "desc": "Dana Desa Musi Rawas 2026 Capai Rp58 M, 186 Kades Ikuti Workshop Pengelolaan Keuangan Desa - linggaupos.disway.id&nbsp;&nbsp;Linggaupos",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "197994daa305",
+    "title": "Pemkab Nabire Genjot Mutu Pendidikan dan Pemerataan Guru di Wilayah 3T - Tribunpapuatengah.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWlRrWHNvaWozcjhxRGw2VGo4bldCWmRHd2V2Rk1sRW43TGZ2LWxQRFd5eGF0T2YtS2d6c0VsNld1YTBFNGRpcGdBNklYWEJlWWlxaFRzdVViQ3htYUhwZmlHdlc2d0N2YW40ZmtTNGFhQTBfTDNfeU9FdHhCTG9hNHJ3anZwYW5NRGk5UUViM19mOGNYOWluSW4xTl93bEhVYmdBRFJNd2JVZG96eWF0RVdiM3NaMzFa",
+    "source": "Tribunpapuatengah.com",
+    "pub_date": "2026-10-14T14:51:06+07:00",
+    "desc": "Pemkab Nabire Genjot Mutu Pendidikan dan Pemerataan Guru di Wilayah 3T&nbsp;&nbsp;Tribunpapuatengah.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b9dd06e2db38",
+    "title": "BGN Resmikan 980 Dapur MBG di Wilayah 3T, Wanti-wanti Praktik Calo - afb tv kupang",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVS1CbFhFX2tRcXppUVBRenlUSk9vUmd2aVRsdzFZMEpscG84M211R0UzazJqck5KYjB1WlZIZC1UNDFSZ1Z6cWN0MUdPREw1S0tlazY3Qk9raDhILWtsMGVVdUdydnE0S3J1SkNZMkFRYmtvNDRWSTlwZ3d6NVRKcWhRel9hUE1oUGFUZUdBakJaMEp2aWxpZGNWN2plcU1HQ0Zobw",
+    "source": "afb tv kupang",
+    "pub_date": "2026-10-14T14:44:12+07:00",
+    "desc": "BGN Resmikan 980 Dapur MBG di Wilayah 3T, Wanti-wanti Praktik Calo&nbsp;&nbsp;afb tv kupang",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -7163,6 +7423,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "aac48acef695",
+    "title": "Bank Jago Terjunkan Fasilitator Kesehatan Finansial ke Wilayah 3T, Ini Misinya - Infobanknews",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEwyWkhfRG1LZklib1I1RWhvODhhNU0xUkNUWmFGT0NkUHFBeTgybWhxXzRoQkJ4MmlvRDEyR2dfMk9zQjhrQ01pMXJKV3k0TElmRVpvaVIzSTIwZl9CNm95M0pmRGwzOERoN0hqblVtd1hDd2toSHJ5TnZqV2xNbEZTOVpnbUFrTFFfOTBDaVN2aGVlY3N4VHdHY0MzcTFIVW9BeQ",
+    "source": "Infobanknews",
+    "pub_date": "2026-10-13T14:26:00+07:00",
+    "desc": "Bank Jago Terjunkan Fasilitator Kesehatan Finansial ke Wilayah 3T, Ini Misinya&nbsp;&nbsp;Infobanknews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8ba5e1575c6f",
     "title": "Anggaran Dana Desa Terbatas, Camat Sumberjambe Tekankan Prioritas dan Transparansi - Pemkab Jember",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObzg4TEZPUFR4dTVHd0ZSSE1Db0VPdklNbHE4cWcwV1l6UUxWcU45Ri1YYlg5NWZJdXBFbDJjUVZ0bTlPaDRBTXdKbFAxZEtKYW9NXzNmbGQtbFFOYnhzTnNETlNFVGpjdG5Landsb0pJUWNZM254N1FHM19SdEIxRUJBTkpoNTdKQlZZRHhua1JDYnhRdkRxUVZfZm5DdkNuaFBWX2JFTVdqUmpNNW5N",
@@ -7251,6 +7524,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a80f5eac78a6",
+    "title": "Kemendes PDT Dorong Peningkatan Potensi Desa di Jalur Anyer-Panarukan",
+    "link": "https://www.ntvnews.id/news/01121645/kemendes-pdt-dorong-peningkatan-potensi-desa-di-jalur-anyer-panarukan",
+    "source": "NTVNews",
+    "pub_date": "2026-10-13T11:55:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) berupaya mendorong kemajuan ribuan desa yang berada di sepanjang jalur bersejarah Anyer-Panarukan.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -8398,6 +8684,19 @@
     "sentiment_tag": "Penguatan Ekonomi"
   },
   {
+    "id": "e4f60ad7daad",
+    "title": "Perusahaan logistik perluas jangkauan pengiriman hingga wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbjQ1WUZNejZJYVR1Wm1MMURRU2l3SEFwa1VZanROWmFxeXFjOWphaHpGTFF1TFJuamNRcFFidGFUaERjQUJhTERhbDdlRG03TktBdGdfNlBvOEkwY0tHV1A3YVdXMGFmc2ZpZ2NFOW1XM1ZKbVY0aERBUWNHeWNXQ0xxaHlZbHlzVF9mLUNlV0w5Q0d1bHhuNERaMEpNZzd2M2pxSzI4MWE5SGQ30gGvAUFVX3lxTE15eU1KcmxTYzNFM1hBLUJvUHljYU05VWFIUkVrbGU2Tlhrd21YNk82TURkS0ZsQ3lSeGpXRzJKbjlVTHM4cWo3NkxiNlY0V3RLTWgtWHQzamlaOWo3ckRyQkxoZFE5VFVkUlVMR2ExcFZDZVQ1enEzcVUzaDhqX1U3U1ZGdXhiRnRjREZKMk80bnpuUkdiUDQzNUNYak9CaHRQY3M5TUNWYnNUbWF2R1U",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-10T19:09:46+07:00",
+    "desc": "Perusahaan logistik perluas jangkauan pengiriman hingga wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "88ee187bf4cf",
     "title": "DPMD Kukar Dorong BUMDes Kembangkan Usaha melalui Kerja Sama Lintas Sektor - Poskota Kaltim",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeVNEZ240VUlNMjFodi1icWN2TWQ5Qk5jTVNYekMybHdTVlItcWhzbndXNklmbUt1Vm9lT1lTMzRwakhUN2YxTVlvNHF1dENONWMzRUk5aUc0WlRGaGFZMEVGRWVPYTMxRUlkNzdVTU5ZUmhQR3NsLUpMcWF1Z0ExNG5LMS1STGlCNFN2VUl6TlZGdXhBd1FQTDhuOEY4MXRqVk81N3Y1UU5VSm1aa3FwWnlfQXBjdw",
@@ -9386,6 +9685,32 @@
     "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
+    "id": "389e8734648a",
+    "title": "Dua Tahun Prabowo-Gibran, MBG Diperluas hingga Wilayah 3T Papua - Rmol.id",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObjJmMFVXbUJ5TWk3X0N3V3gtTVFWMXZ0NlNLRGwybTFDYjh4WjhUaGtQT3UzSGVzU3ppU1ZabmVCRk81TF9UcEtFa09DQ0xZNkU5S3IzUDVNQ25iQmlNcGs0Uk9KVGpPem5nYVJyQnE1YTNibW1FRVF1Mld2M0taa09qWURuU0p2blpKY3dBY3BpOVVRVDVoaHJTQ1V0SGpuZ19GV2pIb19wUFE2ZFE",
+    "source": "Rmol.id",
+    "pub_date": "2026-10-08T14:00:00+07:00",
+    "desc": "Dua Tahun Prabowo-Gibran, MBG Diperluas hingga Wilayah 3T Papua&nbsp;&nbsp;Rmol.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e2ca11e61c36",
+    "title": "Dari Desa Tertinggal Jadi Mandiri, Oro-Oro Ombo Kembangkan Wisata dan Usaha untuk Dorong Ekonomi Warga - JurnalPost",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGdLZzdjN1lpWEI0M0pwVkc2S1Q1UHlsQWo3a1p0LVFGajY5VC1jczRfU3lObFBvczBZT0FrTm1aWHVHeFVkZldzSG1NTzFySElCTnhFN3QwM0VXemp4OEZBRmZ3eTNQS2pKaS1UV1MyaUNvSG1xUjRUNFNiWmNXelBfRjVxNlltYl9wRm03by1uN0VZcWZUODBMZVMwSEJoemJaYWVtRE41MGVjUTlqT1hCNEJrRjM1ZlIyTmI4SkgtMHBpUThnMFJuWQ",
+    "source": "JurnalPost",
+    "pub_date": "2026-10-08T14:00:00+07:00",
+    "desc": "Dari Desa Tertinggal Jadi Mandiri, Oro-Oro Ombo Kembangkan Wisata dan Usaha untuk Dorong Ekonomi Warga&nbsp;&nbsp;JurnalPost",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "46ec8c001df3",
     "title": "Stiper STA Jayapura Terpilih Penerima Award Dari Kementerian Desa dan Pembangunan Daerah Tertinggal - Kilas Papua",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDlHNVlfMmlGT0FNLUNtRnEybVRtcHluWm92aUhjdXl0LWxMcTVTbjEyQjZ5eloxd2c3VXVNMm5CRXA2LVc5TTlwTzEyQzRxRUxyX1ppbUpDcGkwRjIzYmtSSHpVZXJPcVM0WFc4bE1CcTNIS0xFbGdpQkZsZGJ1X1lZWkpxRnFfRzhfWEFkaUxra0NjYU5KelBvaXNub1JGRVVCcEdWdVpDbHpJeVdIR2xEeUlLLUdYWUFKZzkyRDFtektRTElkM3hn",
@@ -9945,6 +10270,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2afc4a8a25e6",
+    "title": "Apa Solusi BGN Mengawasi Dapur MBG di Wilayah 3T - Tempo.co",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkFTXzh6TkYyYllwTDVIZmROaHFrVXZDMmk0UWQzMXBMdUVMa2NadVQ5eW1tdlFwb2NTeXRVWGtFVkdHX0ZrdmtnX21ZZm5LSG1mRzQxTTYzd3I3bjBSVllLaXpVNUI4bWx5VV8xeHdCaGtPOVNZZm92cEdzMlZzU2k1WUdwZGE3alN5U0VR",
+    "source": "Tempo.co",
+    "pub_date": "2026-10-07T14:00:00+07:00",
+    "desc": "Apa Solusi BGN Mengawasi Dapur MBG di Wilayah 3T&nbsp;&nbsp;Tempo.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1dc5b1f2935e",
     "title": "Kejari Ogan Ilir dan BKAD 4 Kecamatan Gelar Sosialisasi Dana Desa dan Pemutakhiran Data Aplikasi Jaga Desa - sumeks.disway.id - Sumeks",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSERiX19lemdaS0tYeWFJS2Q0TDJGYzhqdmhzU0o5YTk5QUxJTEZnU0QtWUNFNWJoYVFBb1YtS1FNbGdIS1AzVEVXb1FWTkhzRjdfdThXWnJWSlNsV29LM240RUhYVElhVzlKY2xaaDRUWUdEcnE0aDRFUzE3Mmo3Y29TaEttM3MtQWM4VXJDNUZDU21OZTE4NjFoanF3c1BMZ1duT3FkdUc5MTVVUjNmMWthWjVfcGxNVnMwejNGYUtSSXNZalhDZnNQSVZGSGNDXzEtOXZHTFBCOEVBb2s1ejh0d0_SAdoBQVVfeXFMT1pJUzRHZHF1NlNLa0NyT3NMWmlLU3ZkZFRGX0VKeGJ2NjBDZ1BnUWt5LVNYN293X1drd3VGWkF3YmJVSzNqQzhYX2NnU2U5RGNUQkhwUWxsYU1iMGNNZXppWEk0VVBxQ1NfN0V6a21qenYxU1JIUUFnY2pNYlBGVHgwT2tzQlRrQkVURG1semNWbUN0U1h0Tk5uVUMzQjE0THJWTC02YjNoYWNKblVjZk91cDNrNmctWUVIaGFIV0RhbHFxMkljRU1xQjhVMDNUZnhkZzdrZG5uRWc",
@@ -10462,6 +10800,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b9e7933f1b6e",
+    "title": "Perkuat Akses Digital di Wilayah 3T, Lapas Geser dan Telkom-BAKTI Jalin Sinergi Pemeliharaan Jaringan - Direktorat Jenderal Pemasyarakatan",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONlhrSDJaMG82Sk9EN2hheGFnNndGZHRxUHFYeVZxMVV5OXo3bG5lSFA5STE3U1hiOEhheXh2NHUya0NQUjhWRVhZcHhNc0VPTm5yaWdhT2ttdWgtOEluWVRydVZvQ2JnX19QTTBiOVJEOU1kd2otZy04cUo3Zzdqd2gtU2VmWkFkTXp1UGpSaVB3ZTg4MnlGcWRaankwTVd6bGtENi1RbDF3OGszNXI1XzNTSFlEQk9lZllkdDZUTzdqZkxLekxF",
+    "source": "Direktorat Jenderal Pemasyarakatan",
+    "pub_date": "2026-10-06T14:00:00+07:00",
+    "desc": "Perkuat Akses Digital di Wilayah 3T, Lapas Geser dan Telkom-BAKTI Jalin Sinergi Pemeliharaan Jaringan&nbsp;&nbsp;Direktorat Jenderal Pemasyarakatan",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -11154,6 +11505,45 @@
     "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
+    "id": "d2a9f568dad9",
+    "title": "Video Bupati Viral, Wapres RI Kirim Tim Khusus ke Wilayah 3T Siak - Pemkab Siak",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1czTU9BWU5rWWxVUmkyNVdlY21YRUd0UEFIeDZmZGlxOFQyQUlFRjRITHgtdVNzNTBiVk5QdUc1OUF1bm00TFZLcU1iaDVZTVFpUzZxQnYyN2RnRHp4V05iRjBteFpNMVhVSXg3eVRqOXFiaDU5SGZkeE1WS0VUckV1cjZ0dFgwZE9Uc2FLdw",
+    "source": "Pemkab Siak",
+    "pub_date": "2026-10-04T14:00:00+07:00",
+    "desc": "Video Bupati Viral, Wapres RI Kirim Tim Khusus ke Wilayah 3T Siak&nbsp;&nbsp;Pemkab Siak",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "aa5ca3b61004",
+    "title": "Badan Gizi Nasional Aktifkan 480 SPPG di Wilayah 3T - disdikbudbalikpapan.id",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mc3cxejhLUGNGeGREdVpZOVhPSkJ4STYxc0M0YXp3M3J4Yk9qU2RLbm90QV82bkE3emxuVkVXRnIyLW5DTzBHSzVsS0RIZXRiVU9HQ1p4SUVYT1JjZlotRzVsZWhlNXBzTHc4",
+    "source": "disdikbudbalikpapan.id",
+    "pub_date": "2026-10-04T14:00:00+07:00",
+    "desc": "Badan Gizi Nasional Aktifkan 480 SPPG di Wilayah 3T&nbsp;&nbsp;disdikbudbalikpapan.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5054dcc6c75b",
+    "title": "Dapur MBG Tambah Lagi usai 480 SPPG Dibuka Serentak di Wilayah 3T, Kini Ada 27.022 SPPG - Informasi.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT3NSMkxkOEswSGhvSVBxc00zSndvU2lxRGtTV2xsbEVCb3ZQRTF6WkdhVmprb3V2b3RacHlXeGpSUDg5aEJWTDlIMldyOXZ2dHg0Rk8tbTQzcFR1QW10c0psU0JQbWJ1Smw2ZXJ2Q2tUaW42RWZfSFpvNmN4ZC0xX1lrWVY1SmduaVdoTjlxeGJkbWFhQlJ0VDZsaWtBcXlJR3dtblJlZlEzQVFycEtRa3E5enZkT296WlRfa2t3LS1MUDd5OC1kXw",
+    "source": "Informasi.com",
+    "pub_date": "2026-10-04T14:00:00+07:00",
+    "desc": "Dapur MBG Tambah Lagi usai 480 SPPG Dibuka Serentak di Wilayah 3T, Kini Ada 27.022 SPPG&nbsp;&nbsp;Informasi.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ab4393033b84",
     "title": "BUMDes Dewasari Kembangkan Petik Melon, Dongkrak Ekonomi Desa - MediaSakti",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnlJc1V1VElmMVVNem5aT0ZMc1BkcWw5TTEyOFY0TTZ0T2JWNm5EWkRtS0ZNYjNlc0JPOHQ5Zm9FMkRvTWVvWXRhS0doVVNLYnR3NHIxbW1wTGtCU2pQVzJDYWFPR1B3ZWttd2JvN0NHS2VwM3FhYkpjTzlWT0xpWHQtVG44MGNZS1JyaGNYY3IxUVgtemhLcGVB",
@@ -11175,6 +11565,19 @@
     "desc": "Daftar Lengkap Bantuan Pemerintah 2026: PKH, BPNT, BLT Dana Desa, PIP, Subsidi Listrik, dan Program Baru&nbsp;&nbsp;Industry.co.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e9fd2f99e594",
+    "title": "Video Bupati Siak Viral di Medsos, Wapres Gibran Kirim Tim Khusus ke Wilayah 3T - Media Center Riau",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1VxbUxqUFRHd0xTWUN4cnZWZUdFRDVQZ01TVU9HUlVpbElsWHV2UUI2WVVfdm5OU1pEMFdDOWJVRkRzQ0tLXzR6RUphaGR1YzBwZEtmTXhCRnJraVMybWo4dFFDTE4zMldQd09ad0dXX2hEWnRrbnViVEV0Y2ZKaVlFV0RjNXhZOVROMDdSMzN3YzgxSVZ6RlJ4WWc5LXd6NTd4WENEMUEwcURaUGF4REljT2JLM3dNd01UZzRyeUF6UQ",
+    "source": "Media Center Riau",
+    "pub_date": "2026-10-04T11:37:00+07:00",
+    "desc": "Video Bupati Siak Viral di Medsos, Wapres Gibran Kirim Tim Khusus ke Wilayah 3T&nbsp;&nbsp;Media Center Riau",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -11321,6 +11724,32 @@
     "sentiment": "positif",
     "sentiment_score": 5,
     "sentiment_tag": "Apresiasi & Penghargaan"
+  },
+  {
+    "id": "0b76f84c02f0",
+    "title": "Direktur Distribusi PLN dorong penguatan layanan hingga wilayah 3T Maluku Malut - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWlBXYXh0dG8yWTNUODJNVHAycm8zT2ZWLWdXMUpFMzNLbEFyLXdqNXdUdmJFVE5FbHMtZHV1cHhuY0lialZQakE3ekx5dXJLSW1vT1Z3MmV4NVY2Tmd5QkRYekowdkdwRm14d2xkRkZYT19EaUF5STY2dzFhbVVGZDJNU3ctT3cxN3VveXhTT3FGRGlDOUxJZUpUTGR0S05VR0hyYUpHMGJUdGszc0FKQU80ZkRLYVBFMkhjbW9BQdIBxAFBVV95cUxQSVk2TU56T1oxSC1rcl9Pc1E3dHZYelJxS0pfYXMzaFhIaHN1QjZicHlGdEx5czFESUFsLTRVSnZfa0RrMTFYbUstSXNOSHZZWVljNFpxQnlOVEVCLTcwWGxpSUZsTDFzd0lnSWtfRjI0TXd6MzYzQ1p4ekpUQnpIYVRYdG1ZRDFBc3NadFFnM3pjZ1pLVm01U3NMcVZ1MklnMlVzNkFJNDFua3JORDR5cndiLXRKTGtMUmtHeU1qQlU1NzZf",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-03T14:00:00+07:00",
+    "desc": "Direktur Distribusi PLN dorong penguatan layanan hingga wilayah 3T Maluku Malut&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f4323cd9ceeb",
+    "title": "BGN Resmikan 10 SPPG di Wilayah 3T Kabupaten Jayapura - Tribunpapuatengah.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONkFYZ3l0NEhSaTVibUI0TkR4NEYwb3JVU0tSVkh0YVg0WXdjVTRkN1ZTT3kwYVhaTWVuTlFIV2xaSE10MkhKNFRReXIzV1lTN1RGRUlXWDBibnFqQ3lqMlg2MGpjZ2UzX2ZPSGZsaWRDMHpBMTgwcHZkaUVKX1MtZWJhamx3X01UZTMtTWR5eWNWcEg0ZjF6ZVdqWmZrUkgwZDlZRQ",
+    "source": "Tribunpapuatengah.com",
+    "pub_date": "2026-10-03T14:00:00+07:00",
+    "desc": "BGN Resmikan 10 SPPG di Wilayah 3T Kabupaten Jayapura&nbsp;&nbsp;Tribunpapuatengah.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "d42d7e1a2273",
@@ -11667,6 +12096,84 @@
     "source": "Kompas.com",
     "pub_date": "2026-10-02T14:00:00+07:00",
     "desc": "BGN Aktifkan 480 SPPG di Wilayah 3T, 15 di Antaranya di Papua Barat Daya&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "dd7fb725ccfd",
+    "title": "Bukan Sekadar Formalitas Makan Siang, BGN Fokus Kejar Kecerdasan Anak di Wilayah 3T - Pemprov Maluku Utara",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzBPR1ZuSmliOWVKWlVoNHdvZ3BIRUVfc1gwbWpnNEZyY18yQW9UaFNaVndncE56SmpWc0lHanRBRHVmUjdQWVlwc0ZsOXB2d1BxWE5ZTFozVENZN3JwLUl2czZOdVdyMzVzajgwbzBzNHRXYks0aXlvRnRudzNySVUyUl9EQ3NEdm84N09yXzRKTXB0TDlIVnhVU05PMVNUUUZkRDhGWk5nQQ",
+    "source": "Pemprov Maluku Utara",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "Bukan Sekadar Formalitas Makan Siang, BGN Fokus Kejar Kecerdasan Anak di Wilayah 3T&nbsp;&nbsp;Pemprov Maluku Utara",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "012b8cc9c6fd",
+    "title": "Dukung MBG di Wilayah 3T, Wagub Idah Dorong SPPG Dibuka di Pinogu - Pemerintah Provinsi Gorontalo",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQUtYbjJZZkxPZUlzUURiQnJ5NURLbVVKNVZKSmlQazdEcVM1dlU1UHg3OXBWdVptLS1acTl2M3M0Y1JZNXlreFZvang1VERUSnR0T3hFQmd1UmxXOHZzZnpxcUJiZjNqZ0lUZFdoU0x0R0I1ajh2NDl4NW1aUFFYQ0hhd29FQ1lMcTUyZDROMFJlWkdlNnoyM194aGtEcXBmTkJDbEVTWVd4R3hWLUNYRQ",
+    "source": "Pemerintah Provinsi Gorontalo",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "Dukung MBG di Wilayah 3T, Wagub Idah Dorong SPPG Dibuka di Pinogu&nbsp;&nbsp;Pemerintah Provinsi Gorontalo",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b6f36ba7dc81",
+    "title": "Pemprov Papua Selatan Dorong Penerapan Program MBG di Wilayah 3T - Pemerintah Provinsi Papua Selatan",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFl3SkhjOWhHT0FIZjZRbjFiaDZBSFlKZVhHWjYyYTVVZmJrQjFRd19TaXdOR09FY3JjcnFfcFVsNnRXczZ5SnN5eUhXWGlVT0hCV3JaeWtnSHFPLUVGN3hiSGZTTlNldkpRZ0QtZVZsMlJzUUo2cGpvVXNMaWQ0SDVjalgxMTd2XzFVNXRGUVIzakQtb3FEcXdDSXRxRnprSUxzMFFTUF9iRVVZYmpr",
+    "source": "Pemerintah Provinsi Papua Selatan",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "Pemprov Papua Selatan Dorong Penerapan Program MBG di Wilayah 3T&nbsp;&nbsp;Pemerintah Provinsi Papua Selatan",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "89661e4977da",
+    "title": "Pemprov Papua Selatan Dorong MBG Perluas Layanan Hingga Kampung dan Wilayah 3T - Suara Merauke",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU3lTN0FVLVMzYXR5Vi0zVUlIcFk1Y1hBRGtNN29GM1lCMHV6Zkt1Uk94X2VZejhiU21PTjhRaWFaeTZEcjFKWklfZEZhekU0Wi1KSVE0XzdxdUtMalBIRFFINHItMDhKZEtVdDltaW1CSmsyNjhIcUZHeGRjZWphTmFBWVR0UXg4emZaVkszZFZZMmRqSU9PQndXWlFvX2dTNWtwU0xUX1hOTFFZM2JJLWk2aEdTdVJxamVGeEtR",
+    "source": "Suara Merauke",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "Pemprov Papua Selatan Dorong MBG Perluas Layanan Hingga Kampung dan Wilayah 3T&nbsp;&nbsp;Suara Merauke",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8fbefe796a18",
+    "title": "BGN Buka 480 SPPG di Wilayah 3T, Pastikan Keamanan Pangan dan Prioritas Kelompok 3B - Kompas.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeU1yNllhOGF1ZnNQWVNONE9ELW5wLTNuV3ZMZHpFVHJzRWRwNm9yZER1N2Q2ZnQ3Wm5QWjRSMS05NEp0Wm1qbVBlamtCTXlFUEtweW5zNmJsNUhSeGtRVDNqU00yb2JYNDg2RmUxQ2F0ZkJMUlJvUXQ3WXRYVTd6M1FZdF8xNTNHUVpsdUxWUF85Y2JUNHFGYWhhbkpYYTRfTFRnbTVnX0RuNFU2S0RMZ2tR",
+    "source": "Kompas.id",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "BGN Buka 480 SPPG di Wilayah 3T, Pastikan Keamanan Pangan dan Prioritas Kelompok 3B&nbsp;&nbsp;Kompas.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "06b32f20d26d",
+    "title": "BGN Matangkan Rencana SPPG Wilayah 3T di Kabupaten Mimika - seputarpapua.com",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzRqU0FXc1lpVng0S1Y1RlFjNWNLSm9IOVRVUG5UakxfNkZ2dkwtOWtwc2FUUFMyUDRWb2h4LVVvTlJ4N2xldEk1TmNwdlgzVnBwbndjd01IT0xDVVFWdmo0blNoenl1aVZKdDBzQzBlZUdtQWRQUE9sVndBUFJMLTlEMGJqNlhRbnZHSndQV3ZDRDRuTUY4",
+    "source": "seputarpapua.com",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "BGN Matangkan Rencana SPPG Wilayah 3T di Kabupaten Mimika&nbsp;&nbsp;seputarpapua.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -12350,6 +12857,58 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8aae06f34f07",
+    "title": "Mulai Besok, Makan Bergizi Gratis Sasar Wilayah 3T - TVRI News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlFNaWZCVGh6WF90OERzMm9wMDd4WE4yNjZaZFZkdHd4ZlJyVnhybjlxVVhkS0E2TU8yRTRqLVA5UDVmcEptYTlpUDRtejR1ekFqNkJyNVN4bDZpc2s1TlptVnJMQjJ3VTdlMFMzSF9zd0VtWTR3OElRczRiMUlvVHVSaVMxY0poUER1RHQyZ0g1dGNoZjlPeTV3",
+    "source": "TVRI News",
+    "pub_date": "2026-10-01T14:00:00+07:00",
+    "desc": "Mulai Besok, Makan Bergizi Gratis Sasar Wilayah 3T&nbsp;&nbsp;TVRI News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "323a1310c351",
+    "title": "Menilik Potensi PLTS Menggantikan Pembangkit Diesel Di Wilayah 3T - Validnews",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTVZiY09laEt6cEtQaHBkUFVnTGVNVElXMUkzd2NZWVBqM1JPaUtPdTJrVVVoRlh2QnFiLXl6RmZpRE0tZkpHTmFOWktFUWpsVXAxcThmMzJsR0tKeXlQZ2FFUkZkVXZmMjlZQnRDMlV2MW1sSG1oSXRMNUh3MXpHVHh0XzJRSkxrYWRsUWZWT0FSbVlHa3Nyb0xGdjBQWndqQTl4QVlMdENmU3JvWnR0ay1ydk9JSzh5ZUxsRnpB",
+    "source": "Validnews",
+    "pub_date": "2026-10-01T14:00:00+07:00",
+    "desc": "Menilik Potensi PLTS Menggantikan Pembangkit Diesel Di Wilayah 3T&nbsp;&nbsp;Validnews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3815ef57e01f",
+    "title": "Sasar Wilayah 3T, BGN Aktifkan 480 Dapur SPPG di 16 Provinsi Indonesia Timur - news.okezone.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZGZ5Z1E2MkJWa0RhRm9scGdLeFFNTktuNEE1ZDNEanVqXzAzQldza2RIS29MR21YMUZfZFdUenpaVFUtSnF0WUVaQ3ctdWRSQ0dBX2taOUljdDd5UnNEa3pyeDdrVWNhTEpyVHIzaXZFU2VBQ0J3WmNRNGdXUjdXMXJvUWFOUy1ncWdwdGpieWp6X3VfSEM3MURqLWw5NjdzODdhcGU2dTduWWxBNnhQN3A3cHNMQ3BxLXA5cjFULVlVRnpvNGcw0gHGAUFVX3lxTE1jUWlCNTBvSmtMNWRjT1djMFJZTHVXRWdZX0p4UHh0TGZUTFJWOU5DdVprdDJ1SjlUR2dObG1mc2pPVGtIWW1ibW9GMWhXZ1B0OTkwdW9USXgwWjlHVUplRndNN1FxTDlWSUlrQ0FZaHBYQTl3YlM1TzdSUnJvV2VDeVBWMWg2RFdpbndxakJFTmIwRE5odUpnYS1OVVE3VDBNZTBLOUdYSE5IUjUyUnNLVkJmR2lOcVA4U0hwZXBXYkdRSy1QQQ",
+    "source": "news.okezone.com",
+    "pub_date": "2026-10-01T14:00:00+07:00",
+    "desc": "Sasar Wilayah 3T, BGN Aktifkan 480 Dapur SPPG di 16 Provinsi Indonesia Timur&nbsp;&nbsp;news.okezone.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5acb178b5def",
+    "title": "Mulai 2 Oktober, BGN Aktifkan 480 SPPG di Wilayah 3T Indonesia Timur - VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSWhjN3Excm5SNkZ5R0x3LXVQb09qQVQ5NC03Yi04MUItajlQbzdtcnhWR1pYbGc1RFB0VGZIamw2a3JXQVBjS0dqU2g0SW9nbDZNbDg5TnYtWDVzUVNPUnhSeEJJdGEzNUlBX1daLXRsYnZuUWZuVUFLVFpneEVqYU5lZUo4cjBHQTdmeW9hVDJMT0RMS2VfQ3NLOGfSAZgBQVVfeXFMUGZNUzRULVdCallSQTIyS2d5Mll3T2ExQW1KdXo2anRWeXBxTTZmUXF2Y2p1RDFEMHN0UFEwU2lZZ3V1RmRMbXBqVTNHUk1PV2JlYm5iNDd2cUM1bDhWQ1Q3LW5uTF8zVTNRRGwzZzVZakROVVluWGc2RG15TWJmLVhDT3VOSDFyWWMyVlAydW16Q3NVOE5RTGw",
+    "source": "VOI.ID",
+    "pub_date": "2026-10-01T14:00:00+07:00",
+    "desc": "Mulai 2 Oktober, BGN Aktifkan 480 SPPG di Wilayah 3T Indonesia Timur&nbsp;&nbsp;VOI.ID",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "fe19c43a67c1",
     "title": "BUMDes Makmur Gedangan dan UPPD Samsat Ungaran Resmi Perpanjang MoU - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTUZvc0VmblNWSUJ0dk5iZkQxaUgzVU5YM0pYNUhUVXBSNFhrSmZWSGFaNDFYRERBd1BMQkd5ZkhZeW51RDFXU21xWndPRjhxbXVrc2VxQk9ZQmtuZ2FKcWhlblhITFNqRmdBbFJIRVFJRkJyQmZPS0p4YnBYQzlFZlpOLWUtQ0xxa1dSR0RlN2dlbzNneWUwVHQ0YjlMeE8xR0YySFJjSEV0MlZIOEdDbTBYOEltMkJDeHpLeWJsbjdnZ0ZRUTB2YmhfQThwbm1PZFJ1ejRzQUVZdXkt",
@@ -12597,6 +13156,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ed472f6bfc4e",
+    "title": "PLN dan Pemkab Talaud perkuat sinergi kelistrikan wilayah 3T - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVUMtS3diX1dZT25KVXkyN3pxcjlCX1FJaW1Ba3NVa3VydXdNN3BvWlA1UnFRYkttRUtIY0ZRSWNFd09mNFl3Z096QkEtcWZmUWJyTndYaWEtNjVZY2lBSlNBZGxBRHdpODk3TG93Vkk4TnFfS0VQTk9PVFRFcFhUeXhOa3BXbFVhM3RBbTgtb2EyRnFOcVIwTlpxeWhJdnJDSG1CNnMtMA",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-09-30T20:28:54+07:00",
+    "desc": "PLN dan Pemkab Talaud perkuat sinergi kelistrikan wilayah 3T&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2755add70e02",
     "title": "Inspektur Tebo Pastikan Ada Temuan Audit Dana Desa Sungai Rambai, Hasil Audit Dilimpahkan ke Polres - JambiOtoritas",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVlAyVDl4SW1CcDc1OWdrUlc3VGdUZVdxRFYwZ05VQUZpWFhVdXlndThFODBXbmI0ZnM4bTRYYzRfazktNVJRTE1LcXVUcS1vc3BXdTE4T0Mxb0lsSU9wUGdwTUJrNVE5S0RyQ2FibURFekUybkc0a3RLLWtRRm82amFYNXFEVlZRcS1XeDBIck1sUjhrZUtXQ085UlFCTy1tLUlPeUdETzJmZXlIams1ZS1WVm40VHhJdmdIUWRtUjdsOU9vWWJNX3BwQ1dKZWVjcHJIMDhGTQ",
@@ -12738,6 +13310,71 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "3f1151a60f0e",
+    "title": "PLN UIW MMU perkuat akses pendidikan di wilayah 3T Maluku tingkatkan literasi siswa dan kapasitas digital guru - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOM3QzQWs1bENKQ1NaZGZGUF9JbWcwYllGLXAzdWg0ZEdXM29rZDNJaFhaZUdCRnFiQWpqUG5sWjNHTFo4ODRuY1Q0VktvTnh0Uk9CMTN6MVNDX1JLbE1zdG5DNnhxazFaZGQwcVluem13enNGeEgzRjdwbkxDZWlUUkt4N0J2VG81Mk9xNUNDSTJIdV9NcVB2OEtiUS1pYld5UU1zYzZlNFhoTDBiLWlhanBwY1UtbUJRampTWFdIaTF3NWdKQkRvaFBiakxKRVlNdmMyRS1fbHlfbktaX2VtdTBMWlVCRkJy0gHuAUFVX3lxTFBEVVpLZkFXZmJMbk8xX1lPLV9YLWlXVVZPRjBCYWJVa0s5eWhyaXM5MWRNaTJtMXliNWJUSUd5X0JQdXVjd1NIOTNWSUVSdldHTVZjYjNpaDZSd3pzUldjRFFINDNJN09DNkx1bDh1enJCcUZUWWNxTGVKY29SZ2RBbVJSS1RyZHRIbC1CaTczQzZEX3E4MWh0Y0VQTmhWeURNWDZpbENDbHFmM0t5U2tFTklFaC0tWGUzYmJ5d2J2SW00Mjg3SlFBeVg5RVdIZHF5ZVlya01XQy1CVlh1UTZhX0pqeUZoQi1RTnk4bGc",
+    "source": "ANTARA News",
+    "pub_date": "2026-09-30T14:00:00+07:00",
+    "desc": "PLN UIW MMU perkuat akses pendidikan di wilayah 3T Maluku tingkatkan literasi siswa dan kapasitas digital guru&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d4c35a1f9e9b",
+    "title": "Perluas MBG ke Wilayah 3T, BGN Aktifkan 480 Dapur SPPG Mulai 2 Oktober 2026 - InvestorTrust",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbjAxc21Zc0M0anBNb21iTXM2M2J5RFAyckZzaGVkcTZKZGVTa0cyeE1RVzJHd1F4Y1VmZnk0cFI2YklITU92VFhVdC02TVdmU1o0OFZmS3o0UmprOGtlb3BYMDFXY2dUVVRkMFFJd3pGZUltSFpzOFNWbENYd0lDeVJvYTNkaHMtX3gtanhiZC1yYWlGM3JEdFQtRzE3QUZMbTJTTTRkRnJIMW1QZFZxeU1CY0VUdw",
+    "source": "InvestorTrust",
+    "pub_date": "2026-09-30T14:00:00+07:00",
+    "desc": "Perluas MBG ke Wilayah 3T, BGN Aktifkan 480 Dapur SPPG Mulai 2 Oktober 2026&nbsp;&nbsp;InvestorTrust",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6673a3dc0938",
+    "title": "Pemerintah Siapkan Rp5 Triliun untuk Pilot Project Sekolah Gratis di Wilayah 3T - Warta Ekonomi",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeFVkN2NIMVFkZzA3SFVDc1k4WDNURVZ0LWNSNVpXRTNQMXJWWXcwM2RaY2V0VHY3UVptT0JyYmtyaWZLaFVfWE1YVi15VTgyektsMC1xS1g1VndUenRibnVrb1hZSXRWV3RJbEN0VnY4UjBYdEQyN3JXM051ak0wcDc4WFJqMERybHBNejFGODlOZzRza0FFcVF5MnVxaTZUdjg1bFZWOGRjUkpVNWFPZmhPblJlSVU20gG-AUFVX3lxTE5oc1FIQnp3dlV1WG56VmI5VUNFWjBHUXlhX3habXh1VXBJRGIxdWx6bGlRVUh3NnpNSElKMXFudEVydTlXOWtNdkJUREMwZF9GSUhTVDhWaWFqRENxTlhkcEEteUYyOUt0OG9WdEozRDZwX2FSU2ZsNlMwQnd4ZUFpLXREblBfNkFRZkVNRjRjY0ZwVG5YM3luRWtYaGtkelppbTlPUXB2Zk1NTkoySDBhdHdLd0J2TlZIbEJGMnc",
+    "source": "Warta Ekonomi",
+    "pub_date": "2026-09-30T14:00:00+07:00",
+    "desc": "Pemerintah Siapkan Rp5 Triliun untuk Pilot Project Sekolah Gratis di Wilayah 3T&nbsp;&nbsp;Warta Ekonomi",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "541200580784",
+    "title": "BGN Aktifkan 480 Dapur SPPG di Wilayah 3T Mulai 2 Oktober - Bloomberg Technoz",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcWJudy1sNV81ajVKNlhHZGpad2h6OFM5WHJfQmpiaXp2MHYwODBmcjJxbFRVREMwbUZoUjdVNWpmZk85QXRidDA5ZEV0cnFueHpqR2VRc0FCQzNweHdMZ2d5Rm9hSWhKQkRyNzFQQjdoRTNvQlFOSFpSUHpRd0laVTlRLTZSTDRpMmtzbjAtMnBFdXBnY3dYdWJUdWp2U3BILWV0VVFKN1ZCa09ieGc",
+    "source": "Bloomberg Technoz",
+    "pub_date": "2026-09-30T14:00:00+07:00",
+    "desc": "BGN Aktifkan 480 Dapur SPPG di Wilayah 3T Mulai 2 Oktober&nbsp;&nbsp;Bloomberg Technoz",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "42bfabb41bb9",
+    "title": "BGN Aktivasi 480 Dapur MBG di Wilayah 3T Mulai 2 Oktober, Ini Tahapannya - Suara Surabaya",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3F6VjNabzlDLW5raHNYVG1aMFpwU2tXT0dReFM2NDNnU1hRYkxPdkhsYmNuakZFc003RVNLOEJ1bGFUeVpOU3QzZG1xcTlIVFo2VWhNUjZndlJmUkhIdGREb2N5cVFPY25ZMFFHd3VCMlhJaFZKYnNfeG9WY1RqTE5fTWlERnhtSTIwc2RDOEtfNVpNT1lNQ21MM04yTHYwSUhGaVFmV25uMjRyQlV4ZGVaVWgtajlRUWc",
+    "source": "Suara Surabaya",
+    "pub_date": "2026-09-30T14:00:00+07:00",
+    "desc": "BGN Aktivasi 480 Dapur MBG di Wilayah 3T Mulai 2 Oktober, Ini Tahapannya&nbsp;&nbsp;Suara Surabaya",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "da3b3ed614a4",
@@ -13154,6 +13791,19 @@
     "sentiment": "positif",
     "sentiment_score": 3,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "d4ccfd699662",
+    "title": "Pakar UGM Tawarkan Konsep Archipolis untuk Kelola Wilayah 3T di Indonesia - Spatial Highlights",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0hmc2VXRjJ1T19ubXlheXZtR3RURmM2MGZRN0NvaDJnbnVqMkwyVU5TTW1ZQnFYN1MwRUdlbmU2bnlaaVJleURoajRrM1BXWDZKNlhYbXZXZlJpQWxQdHREdkplS3d2RS1wSEdpZi1ld24wZ19NN1NDblhVa0NBV3BHdmdIVXNSU29mbXhHYnNnVVF0U1duRjBwd2RsVDNwVWQxYlZmR2lDa09K",
+    "source": "Spatial Highlights",
+    "pub_date": "2026-09-29T14:00:00+07:00",
+    "desc": "Pakar UGM Tawarkan Konsep Archipolis untuk Kelola Wilayah 3T di Indonesia&nbsp;&nbsp;Spatial Highlights",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "d984df09ac8c",
@@ -13819,6 +14469,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "70c8ed15750e",
+    "title": "Dinas PMD Rejang Lebong dorong peningkatan status dua desa tertinggal - ANTARA News Bengkulu",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXzhhazM2VXFZZ25UVUxjREhuMnpzcTVDVGotM2NPRVpTWFlyV3dIekJsZS01S2dGWm5RbUxZTXFpNHlBZ2RYZVRndUVMSmJiWWtEQXZaZlUyU3hsb3dLd0MwaVJ2cjFSZWNMLWgtM3R4UEZScTJxU29wdGlNRGp1Mm9Dd2xtQV9OY3NKcDlWeHkteHhYNmMyQVJSbmphRkpZV0V0RjBNZ2pwSE5TalhGQVVXZndEUdIBuwFBVV95cUxQOENCaWk5RG9YUU52ZTJTd21YbllseE83N0gzaUxxVVh0aFNzUGpZbkVyNXB3UkFQRXBCdjIxMFc3THdraGN4WW4wNU9jZWg3MkVBMVFrUjdqNW9UQ3lSX0pGaFFqMkN2S25oek0tMjNpYWszS2tMRVFWTzdlNWdBbm9BQWI1QkJWZEw5Y2FkeWlRTjdCUUJsa0t4M3ljblFRLTdCZ0RtNkxTdnFFOVAzTjdFc3o4TXdnTXFR",
+    "source": "ANTARA News Bengkulu",
+    "pub_date": "2026-09-27T14:00:00+07:00",
+    "desc": "Dinas PMD Rejang Lebong dorong peningkatan status dua desa tertinggal&nbsp;&nbsp;ANTARA News Bengkulu",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4807f1d88a8a",
     "title": "BPK RI Dorong Pengelolaan Dana Desa di Lamongan Lebih Transparan dan Akuntabel - Harian Bhirawa",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNankzTjl0X28xaE1yQ1NmdGliVkI2QzFnYjlMdzJmV1d6Y19PamFIRHJiTE85Q0QzX01SazJjdk44NlV0VlZoWEtlVmNTXzJoaUN3dzRYVFYzM0ZTTHpDaWdueGNUZ3RReWM4emZqWVF5YmpGUTFqWjJlMnhQNlEzUWRIaFBfTkR0bk9CVlBSaWJVR1RNa2xsdEdnZS1ISmxZaW81azQ2UmFPYWc",
@@ -14232,19 +14895,6 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
-    "id": "bfabfea7cead",
-    "title": "BNPP RI Rumuskan Strategi Percepatan Pembangunan Desa di Perbatasan - nasional.tvrinews.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFI3YTBpX2lSREoxc09OZ3dQRks0b2dnRHlQcHl3MG1sMkY1dlNGYkluTkxNZ3MtQTBEemNwdVpXN1lIN1NkZXRmamdfcFJTM2NiLTZ1Qi1oaHlIMF9uT2dZU1VhT1NueVFVeFdlUmxjR1pycFhRbEZtbHVERTFXUjlPSEZUd3Nxcmpzd05SZ1VJbGVHT3ppLTY4bEJrVzhILXcyRDhCYUFWc012aG41dUFR",
-    "source": "nasional.tvrinews.com",
-    "pub_date": "2026-09-25T20:55:49+07:00",
-    "desc": "BNPP RI Rumuskan Strategi Percepatan Pembangunan Desa di Perbatasan&nbsp;&nbsp;nasional.tvrinews.com",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -17103,6 +17753,19 @@
     "desc": "Perluas Inklusi Keuangan Desa, BRI Trenggalek Dorong BUMDes Jadi BRILink Agen - memorandum.disway.id&nbsp;&nbsp;Memorandum.co.id",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3443d645c10f",
+    "title": "Papua Tengah pastikan guru Mapega aktif mengajar di wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNb3dMUmNja1FXNVMxbXlVdlQ5T1VYb3BHMkZ5NnhpTGNlX05RTEg2NlFMOVhpX0ZaeGM4cXE3WlFIOGRubVRXM0JncUFncFVKRzl1X0lwMmhnY2lnUHNIbnF0Uzd2b3FVWmJlYllhTUYxeFdBQ1BtOHZiVC1KWkdBNi1rb0F0QkQtazAzcFRLbjZEXzZpNFp4ekhwOW1zTFBXS0JiZWVJbkVDRDVQeFBR0gG0AUFVX3lxTE1xWUZMUk1sdDBKY2FUalpoMGxtRnJUd3AwQjNadGN1clA3YTV3b1E2dWtISG9PT1MycUc1emdMQ1RqTzdiNENxNlJvMHFaNmJCTXU0eVY4OGxtZmZZMFVIZHNKZGFBcDZSUnFXcDdOVW9ZVXlzV083ZW5HUnlPSUk3Y1VCOXJJelpCRnVEWjR4c3BVR25OeHc3WHBQNG41UGtWcllVTjlCdmNRT2wtNGRRYXROSw",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-09-19T14:00:00+07:00",
+    "desc": "Papua Tengah pastikan guru Mapega aktif mengajar di wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -22113,6 +22776,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "88dcbd89aadf",
+    "title": "Papua Barat Daya perjuangkan perluasan MBG ke wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDVLUzZKSjdkeGpmZFc3WUNySmgtTXl5Y193aTN1aVEtNC1UT29ua2Nzd3NHSTZ5SXpkV2RRM0NZZ2RPZTBOdnF5UzY2MlZKX2ZvY2hlMnc3T2QyTHdGVHNIYTFIVk9BZ3pXN20zdHdfVllYWktaLXJqTGZHZjVsZGRadVF1WHk5ckxXc0NfVXRIS3JQZGxCT3AyVDlOeGtGSjNQcjd5c9IBrAFBVV95cUxQNlBxcHBlQ0l5cVctZjROdXc5RGYyTThlWTFnQmVITEl6WUttQ2daaXB5eXRRZUk3M2t4TlZrMnNkWFB0OU9JRU9oODNDc3o0b0hfR2dxOVdLeGowRnNIVGlMeHFpVmM3V1pvdldjTFVzejBkWFZGNW5mekYzUHo1eklab05wYmlDeWVqMlctLXQ5MUJWQ3pxSVRYNzhLOUwzZ0JEZlhMRW15Q3hk",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-09-09T14:00:00+07:00",
+    "desc": "Papua Barat Daya perjuangkan perluasan MBG ke wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6281352d64ec",
     "title": "Ketua LSM Korek Desak Kejati Aceh Usut Dugaan Penyalahgunaan Dana Desa Aceh Tenggara - MODUS ACEH",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFhRYURjVTN6T1VvOURwdEJlQktqWHdYaHNIV0h6WVNwXzFPU3NCNHZSVW5lU0FPWnhxVEhZejZaYjR1S2tEbkYta0t4STdsWWVWVlZSNFBOLUxHTXBIdllDUURBd1hpMS1mYWs5RzJfSTV6OFlpcFNRZGVTX1V4cTRPbm5YT2ZweExqbC1VM2FfLTlZazZBeWhSa1VOa0ExcldFcWpNemdVaThuMXpyX2Vta2d2YnN6djdvTHl3",
@@ -25291,6 +25967,19 @@
     "source": "detikNews",
     "pub_date": "2026-09-03T14:00:00+07:00",
     "desc": "SPPG di Wilayah 3T Jadi Perhatian Khusus Pemerintah, Ini Kata Zulhas&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a2f74c3f083f",
+    "title": "Pemerintah prioritaskan aktivasi 111 SPPG wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR0Zpa2EyRlVucUFDeVg5SFB6SHRoUWZKZmk3ak5CX29qR0FFUlp6YTdIbFd1SGdabDM2dzMwMjVNeVJ6V2hTdFpJOGpMLXZXTW50V1o3UE5WT1FiM2Y4UUR5MjJtY0t2clFDTk5GcXppQ2ZCOXBtSVpQTXZOcVNvVGlsTkpBM1VsSkJqYUlPTWVveG9mcEFfdEpmNNIBoAFBVV95cUxOSktvbzZEYTlmMmk4ZjAtOW1IQ3QxdDFueU5JLXZGVzRuRGNrbkNnaUkwbzdQd29iejBXZ2V3N0ZWWS1ncnpQYk82eF9KbldYOUg4dVBnaDA4aVI0SVp1ZVIwa1VCd3g5MnlZelcxRE9xUE1oTVdfRmtMMEFfa1RGenM5NHd0WlFLOVB1b2ptNFdRZmdsb3c5TVo1NXdReHF5",
+    "source": "ANTARA News",
+    "pub_date": "2026-09-03T14:00:00+07:00",
+    "desc": "Pemerintah prioritaskan aktivasi 111 SPPG wilayah 3T&nbsp;&nbsp;ANTARA News",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -34320,6 +35009,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "978b012df0f6",
+    "title": "Kodam XXII komitmen dukung pembangunan hingga wilayah 3T Sulteng-Sulbar - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbmtLU0lMMGdab3RlaFRKcEFVdmdZRTZYUlJMcEVYOWFMSnpsRTRicVRXcUVqNzNNOXQzMWVvNFdUSVBEMDJhT19nVmluVHZqZ3A2ZFVtU212V1dQSEhvS2ZWMFI2bUZsWENzYlppRnlJS0dhZXc3U1ZpZWd0RWtnU3hlMUxqY2QxTGVMb3NfMUZySldzSXpERXdCX3ZlbzVzeURnRnZ4VDVOOW93N3BMQUhlR2xtM2c",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-08-16T14:00:00+07:00",
+    "desc": "Kodam XXII komitmen dukung pembangunan hingga wilayah 3T Sulteng-Sulbar&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4f2f4e491f35",
     "title": "Daerah Tertinggal - ANTARA Foto",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBySGx2UXc5bzJPWjlLNEh4VjRUM3NrOWlBTVpfUlEybUItVjZQbXFxejhlTE03dTYteEZOWVFKRHM1NnI0UkdZOEdKLWVDREJJY29RZ3VTaV8zRU1pbF9TaHMteDFrWVRLbFZGVGs0LTc5X2M",
@@ -39533,6 +40235,19 @@
     "sentiment_tag": "Penguatan Ekonomi"
   },
   {
+    "id": "dded2c12f497",
+    "title": "Pemerintah pertajam sasaran MBG, percepat layanan gizi di wilayah 3T - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQXhibnZjMlJuSGxZVXdLd1NWcU9aVmJENTBkOTFEa2pNV2Ezc0JhSzlPbWpSQXF1WTB1QzB5Zlk2LWNPYUFIXzZ0bmlSU0tPTllNMEN6S2gwa1hIeHZ0WnIzc2kwZjhNeFVqR1o5N1hsVU1TWVpUVWNFOS14VmFneTIwOC1LTWQwRXU1UG9MRWVPX0U3OUxMSHBLUmdGUWhSRGt6QkgxLXA3Q1VaTjFHNQ",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2026-08-07T14:00:00+07:00",
+    "desc": "Pemerintah pertajam sasaran MBG, percepat layanan gizi di wilayah 3T&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a4bcaa8a5d41",
     "title": "Pemkab Buton Utara Dukung Budidaya Ayam Petelur BUMDes Waode Buri - kendaripos",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkJEYkh5ckJDS1lSVWtVTlIyZlloamlRVmljNEstdlRmVUxrTVZEanRDbEtMZ19kNWJ6UXVsR3ZUV2U1UlNtOFNoOUdUT3plX3dlMGc1RlNfN1NJODBiaGxGN1lKenFWUkk1a25CRGtUOWRJYzlnZ05MUlVULU5BMHF1clNiMjhfaHdkTllNWml4SE40a2ZQMTdSQUlaeGx5ckk3dS1NeEJRT2dh",
@@ -43849,19 +44564,6 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
-    "id": "5b212cc5fed2",
-    "title": "Bupati Karimun Perjuangkan Kesejahteraan Dokter Spesialis di Daerah Tertingal, Perbatasan dan Kepulauan - Batamtoday.com",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2d1NV96Q1NTeDhTZ1VDU3F3aldfQ05VekxaLUlzOHF3eFp5anZuRXg1NUxTcHpnbUpLclNRSDZTdm5iRVk3bF9QSDlqNF9PalVobVF2SWJsTng0NjZTYkpfMEpxVjdubDNHVHlnU0RWUlhqSUhtNWNoWHlzanJveGdfblpaY0lndWt6Smt4c3FRRTRZYTl2ekxzUzR2VUFEV0NSQ2NEbG5XbER1Q0s2NVFtRFJJQzJaNmk2b20wVE44R29xaVFMSUlR",
-    "source": "Batamtoday.com",
-    "pub_date": "2026-07-27T05:48:00+07:00",
-    "desc": "Bupati Karimun Perjuangkan Kesejahteraan Dokter Spesialis di Daerah Tertingal, Perbatasan dan Kepulauan&nbsp;&nbsp;Batamtoday.com",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 0,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
     "id": "c627c3168924",
     "title": "Dana Desa Diefisiensi, Warga Teluk Kuali minta BPD Perketat Pengawasan Ponton Penyeberangan - Lingkaran Istana",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOVVCci1OcUhUVS1CMUxjaVhVMzRybTFsR2doOU5tVVpZUElVbGFvaDdPT3dlbEVpNklGZ1Z4WmpaRDBFTmJIMXBxekcxUlpXSW1QSmUzNVVCUEo1N1R3Vkp0VkZkR3Npd1lTTEptNWFfcnZLcVRTdGVPUzJQZ2t0QTJWakJKQjlwTDFIZ3prRjhkdG1DSXBFakJXZ3NwaG9kSW1aelVlTFhDRzIxSUdKcEFWTnVIOW1pX3dKejVHNWdyVjBNel9PeQ",
@@ -44650,6 +45352,19 @@
     "desc": "Bupati Sergai Dorong Optimalisasi Transparansi Pengelolaan Keuangan Desa Lewat Program Jaga Desa&nbsp;&nbsp;Metro Rakyat News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "07b8fdd343fd",
+    "title": "Kepemimpinan baru BGN diharapkan percepat layanan gizi wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2paVjBkVDMwN0dpbHRLSzdQc0R2elRhc1FvbnpqWG5UMFBwN3o2aFpBMXJPVFZXRzMyd3FyTWNIa3Bsck9NejNxd3NUZTFHc1BReTQ5YzNSSWNPTlhjN1JUQlRGYi1CRXRnSndFdDY5cnp0Q2ttcnkwQkFNN0VKc05ZdnhuV25DcTZsZnJGUTB2V0M2SHM0cXp3RU1YYzF2WDZyUTJkc3FyV3oxVEtrMERjONIBuAFBVV95cUxPUU5uZXR3TlZYRFZ1RmlrZGFPeDVwT2xFd2M4YTFnQ3FINHl4UkZKMDBBSWt2ODFCYmQ3Mm13YlUtbmVEaDM4eHFxUVpYdTZzTDEtTWh6NUt3YzM1TFk1ajNmSmVUQk90SWlyLTNnOGZzcGlYdmdYT0w5WXBkTFlqTkNmWmM0MFJicHBPVVVZUEFCOGtnYWxacHB1Tk5WR0hXY2t0RHVQZTdWdkRSN3hvX25kR1JpazZC",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-07-23T14:00:00+07:00",
+    "desc": "Kepemimpinan baru BGN diharapkan percepat layanan gizi wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -45682,6 +46397,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8b0a3636b193",
+    "title": "NTB Minta Jatah 135 Dapur MBG untuk Wilayah 3T, Distribusi Pakai Trail-Speedboat - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmlYT3VySjd6Qm5YVVpwQXpVX0NwTVVvSW42OHZucXE5YXJKXzNtcUYzWWx5cklCTzRoMnd4eTJjNnBBdTBObHhMUHRlRmZNMGs3YUxsNzFBZHl1MDJFUENhQlBXU19CVWlIZVNuUVc5S29DanBsZDNvSVU0N2FfcG5DZnFZSFo5ZWxUZzYzQTVzd05KbWVGV0NJSXVzaWhQeEIwME9QVEpqSzVFVlZCbnVsRUNHLW1DVC1KbDFBRdIBxAFBVV95cUxOeFhKb1JsbmZtWVAzMDZrcUJpRDV5MGFDeE9rMnNGTkNjcEE3YWVUWXl4dXdhc3g1VnlWZWdhbTJ2WDQ1VUhIVDFVaG0wWXhtanMwLUc5TGlMOWtOWlU1bDJPckdDOGNmNzNLeDJlVDRnWUhwZVlWVF80Ny1Rc0VHT0c0UlNrZkF1TDRkMl9VVVhyLU5NYWNoaE4tWjgxaU5ndmFuQzIwdW5NYVQzOV9vR2xiR25NRHJ2QlFhYU90R0FiQThr",
+    "source": "detikcom",
+    "pub_date": "2026-07-17T14:00:00+07:00",
+    "desc": "NTB Minta Jatah 135 Dapur MBG untuk Wilayah 3T, Distribusi Pakai Trail-Speedboat&nbsp;&nbsp;detikcom",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2de8009b9a38",
     "title": "Eks Kades Ini Tilap Dana Desa Rp 387 Juta demi Selingkuhan - detikNews",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDJWZVN4cFVPRTRkTUpRZXJvVnhZLWpFWmRHMkNJMFlkQ3ZwVnhCejMtbmM4dFpuSXZVZHo4UHhwS0NnWUdHUkJXZUVfYUZfSW1rMDhHVEpRa1JiMWoxbmlVUEw5TzdHWDkyQUl3Y3RRbTZwdDQyb3B5MU9QQlpVR1lNTlZ5SFBiMkc3TkZqUUE4eUtvS3ZuWnhEalM2S2_SAaQBQVVfeXFMTTF0Vm1CblFUaEpMeWZUejQya19zbmdnaXVLNWJFRzlkV1paV05McWEybHVVRlhOM3RQQ3VBdlVaeU9RLXRxVU04X3Q5RmE5dHBVSmF4cTA3WG8zc2FReTZQUThES2dacEFnWXp4eDY2ZG1fMDZTdXRNNEFfMFdmZXIyS2RQZkpyaWpydktRdWk0bk0yQXlEXzZybFNkcG5Nb0d1cTU",
@@ -46527,6 +47255,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "de634f7aafaf",
+    "title": "BPJS Kesehatan hadirkan layanan di wilayah 3T - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWFhtUE1UMjFQSzlMMFNEcWNtRE12N0VRamt6SUtRa0R3emFPdWo0Ti13Vk9lLVRoV2czWHlCdnpnc0hzTFdYSkk0Z3ZueGZxY0dRTm91aDd5RlhONklncXRxQU9ncUY1aU03MkNsN2Nmd1BsTDFxM0dsVmdvQWRlTXQ5NUZOZ3I2MEJiY1M1Wm5fQQ",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-07-13T14:00:00+07:00",
+    "desc": "BPJS Kesehatan hadirkan layanan di wilayah 3T&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "10915e23bab3",
     "title": "Pemkab Buol tingkatkan pemahaman kades kelola dana desa - ANTARA News Sulteng",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0lHVmFoX2E5NlpzV1BzV3pwZGFDZjN2LURJMGR3QWk1QmpnNkxnRXBPeUViNFZDbFFsWC1kbDhLQTcyanN5TFVlbExreFhJeTRGZl9MTDNzMnJDanI0NG1wSFFZbFNrRnI1N0UwUEQzb0ZDQXlQNTFaZFRUNkd1QzUyaWdDVWJ5b1RoOWtaZ0pwVlV4a0puZTZzNHdkZmtJTVE",
@@ -46667,6 +47408,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8f196972a698",
+    "title": "Kalbar bebas dari status desa tertinggal - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzZQYmM2VVhtdS1hYXhzbl9xb1UwcDR2c1F6ZjBodUF4Q2xOaVVEUWtMdFdld1dIaHBVaG13RWRGVlh4X2V6SFdmazFUVWlpOURBUEFxaTYtYjNtZ3dReEllX2NPZDg4N2Fhb1kzNmVndy1EQWFEMURfcmRUYTY1REZVUFAzcXlWNzVJSdIBkgFBVV95cUxQWkpRNm56a2VMTVBMTDlmV2FOeXBxdnZXX3lQdTdXTzQ4QlZiYWZMVkFwUDJNSkZaY2lFWjVEQS1TemRQM1ZqUEFfeDBqZkdYRC1qZTVxa0xKdngzTkxmZjNwY3o5cnk5aXdqTXVVdW9SUnptWUQyLTBiYjRsN1NyTkxaUkFSV0NKRDNpaG1fZXFtUQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-07-10T14:00:00+07:00",
+    "desc": "Kalbar bebas dari status desa tertinggal&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -47162,6 +47916,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
+    "id": "bb2042440f32",
+    "title": "BUMDes Gempol Mandiri Ubah Sampah Jadi PADes dan Peluang Kerja - Portal Resmi Kabupaten Cirebon",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUVRbVkxVlppWExQQzF5ZnVVU3FrNkx3MHdYMnBURjlWNWpIR3VDbDhqSjcyZjZNT2llR1ZqX09FNk11Ykt2S1ZWaURxazVJbzJ6VmtnOXBBSkUyeW01eXhYNkNOMWFjSGN4WGZ3aC0ySmNqS1Y5dk5jdklET3FkS3NZdUc1NndVZlQxb3JveFF4dw",
+    "source": "Portal Resmi Kabupaten Cirebon",
+    "pub_date": "2026-07-06T15:26:19+07:00",
+    "desc": "BUMDes Gempol Mandiri Ubah Sampah Jadi PADes dan Peluang Kerja&nbsp;&nbsp;Portal Resmi Kabupaten Cirebon",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "ff4c24d25b9f",
@@ -47731,6 +48498,32 @@
     "desc": "Kawal Penyaluran BLT Dana Desa, Bhabinkamtibmas Polsek Tanah Jawa Pastikan Bantuan Tepat Sasaran dan Berjalan Kondusif&nbsp;&nbsp;DIVISI HUMAS POLRI",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "cc8fabe94b6f",
+    "title": "Pemerintah Indonesia evaluasi Program MBG untuk kelompok 3B dan wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeVZtSkNWUWd2X2FwaVE3TmZvZktZYXVIR1F0TXFLSWU0dWZhVFFwdmxqWi1LSTJiLUcwVjJfRk1rMkstd0ROdlI1V3NDRzdfQzlhUG9pNHREUWZmc3hKUGZHeXFlUjFFNDM1ZWlGbkxXekhPTjVuQ0hTYXU5RHhyQjNCMHJveWRSdmhQMllUcUl1a2Mwanp3VklRc1VQQmZ3bEgyRVhvcmFkS185bS1GaXVsZ1FtRENUT0x3WUVaNNIBxAFBVV95cUxPY0dMbGJ5dFJtVGxfcDN1N3hKdU5ISTFTZXRvZWhXRjduODBpN2pWQWh2MTFDNEFMR1lxSF9vZFJLT0lHY04tTjNEakM2QVNJdzFob1I1d1ZtbGRHb28tR1ZXWUl3MW5NYTQteXZVeTFBLWVZdkZFM3pkanRNQ05uRHhlS0hoSE9oRjdaLTQtUXJpOWNKaDFSMkxmY0xacDJMR1FaZGN6NUo4bHg2SFRyNkYtSFJ5T29RWU82YmNRRWxGcXd3",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-06-26T14:00:00+07:00",
+    "desc": "Pemerintah Indonesia evaluasi Program MBG untuk kelompok 3B dan wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "423c9087beaf",
+    "title": "Pemerintah Indonesia siapkan skema khusus MBG untuk wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkRzNkRDS2gxY1gxYUJ0V3IzU1Z2a1JIbzR5dGhoMHVLRHNSSGdTX091OVVTOGZnb1BOX3BmODkzTk5XZlFnMXBkZktVSV9SZlBVYmdHYjVZQ21xbGVxaXI3NlVjbFRqWnRnblM2WHZfNTd2ZEhTMkFFLW9NcU9OcGhScGZETTJmUnVkMjN5NDRLcGJyZ3BJWVVaQnNtS0NEZUljdnl5SVkzUlRTR2VV0gG0AUFVX3lxTE01QlkwTXFUSGxGUllFdDBhdkIwNm9MSkZFbkdmQkxMNFBMNExFNXV3dnpseGtCenpLTTlyNFB5WjlPN0xCNU5pZGotMVktZ21GdGNFbG9IQWhVQXVUUk5GVEFxRVRoYzA2aUUzQ2RqMGlXSWlqZk92N1dLRW9Eb1h1cDNNV240SVp4QnNSekNQNjY3dnE2ejdMYy1ZR1h4RWlFdWNpdWZfTjZaVGFvaC1TWTFLag",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-06-26T14:00:00+07:00",
+    "desc": "Pemerintah Indonesia siapkan skema khusus MBG untuk wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -50245,6 +51038,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "264ac13d335e",
+    "title": "Disdikbud Papua Tengah tempatkan 500 guru Mapega di wilayah 3T - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMjFMcVpRXzEwV09wQVhZZi1VVWp3MXFUNEg5TkZZa3k2WFFLZzlwSlQ1X283ME1fSkx1V2M3c1ZrUklYY3UteGRpLThtSXZGcEw0UHRIcEFiVGtiYm50X1M5UFgwUmVHOExTY1oxOTJhUDZlWFRCSUllb1RJTkNxOGtJQWdqelBPUExFSzhqSTVWSVk4MFIxeW1ITkR2MG5tS3VqZ1RUOE5hSUNzOHBF0gG0AUFVX3lxTFBXMFdXSzNSQ1I1Sjd4bVZvX2txSnBxQ1hoNGZsQW1NUU1ZR3NiOVc0a192MlpHUnhJOTlEXzdiZWNNLVNEb0JsNmJNZ3RPQ19ZVnBsTHJMNjZsTW5WRTZ6TDQxTzhtR2FYQk9tSDEtTHlQbFAxLVBvSFUtS0o4cmNuWHFVSzB6ZVhXYnAySUp0alRINlE1bGNDRjR1VDZyTVVCTXg4eG1WMXF0Y0JzSm1zRVVaYg",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-05-09T14:00:00+07:00",
+    "desc": "Disdikbud Papua Tengah tempatkan 500 guru Mapega di wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6498e54a95b8",
     "title": "percepatan pemeringkatan BUMDes/BUMDesma 2026 - Purworejokab.go.id",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUEZPMEdPQVlGQjgzUi1fTTZKdHJoemJXd01ZUkprN3h2Q3ZweF9HYXJFNTZZMndTVFBmc0UtSnFZLWhLZ1A3Rm9BZjRLRjdRVGJndVFtMzlMSVNmd0NIdUpXelItTERfRlFacFFTdks1NHI3cktHeW53OFFmbVlIcmpZVTBJNWNJZGRn",
@@ -50459,6 +51265,19 @@
     "source": "Kemendikdasmen",
     "pub_date": "2026-05-05T09:27:27+07:00",
     "desc": "Press Release: Dari Keterbatasan Menuju Transformasi: Kisah Guru Menghadapi Tantangan di Wilayah 3T&nbsp;&nbsp;Kemendikdasmen",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "76116db6bf29",
+    "title": "Mandenas: Perlu percepatan MBG di wilayah 3T Papua Tengah - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV1N5OE90aG1mLTEwbU84YlhreXg0WjdRZXpDVFJSUnpqeTVpTUlUZFhEYkZBbGUtZm1ZRE1FRlB2SGhVMWJST2F2UzB0Qm5hMmJpLW1uSGZSU3U4V3dZemRfXzVZc3phcElhc09ma1VUVXlhdUw1WU1mSDdQOTlyclA0SzVYZTk3VVh2YXBnXzhaSHB5eTBHVG1wOTg3NjNIZ0VlSHhkUdIBrAFBVV95cUxPTEtmX2ZZS3ZOWDdxN3RXTVBIaXJfY29fdENmenpITnVReHpGQ1MtdVR5eGtEZWpjbUxKaVN0eG9lbng1bnlRVUhNdjQxSHFNUERneG9YaHJ3UV9QdnJ4bE9MRUp3SEZuRjJXVnFHbHVsZlg5bVZaZVJiQUVXYzBpaEpsTkctQWNyUFZzZnJWNUJzSlNPYWFYYXJKQnRCcEdMZDloa1NYTG9ERFMx",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-05-04T14:00:00+07:00",
+    "desc": "Mandenas: Perlu percepatan MBG di wilayah 3T Papua Tengah&nbsp;&nbsp;ANTARA News Papua Tengah",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -51038,6 +51857,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a8bf04eaf706",
+    "title": "Kaltim fokus perluasan layanan kesehatan di wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm92VUx4ZFJaanp3UTYtd2hTZ1hrUl9KOEtuRXBMZHlodFlya3NvNTJobFpsYkRKNWRoellfbGpfaE83Ym1zczFlZW9VZGtIVnpQMUJpQ2pwX2F6R1U4Qlk5bF9FeUV0TlJtMGpjTDc2R2J1NEdXUTQ5Umw3V05wVGZJQ0VRUnRTYVkzd3I0WmlZMHBVeVJwVlRNYng4NlXSAaQBQVVfeXFMT0RCanRYd2tzNmVXZUhwdXhIRkNHNUpaYjJoVWFOa1RpZWx2V3U2YmdsWDNnVjdndTI5M3ZCVDJ5WmFZMzNfbTlOQktNTk1OcFR5T2lhZFNwakRRMjFCSzNOZDQweFJuNmdLd2dKMkVDY3VSQWpmS3UyQmZSNHJIU04wMjZPUDdESFp3VmNHTjRiNllTLW5Ud1ZvRERMNVphTzBlOFo",
+    "source": "ANTARA News",
+    "pub_date": "2026-04-18T14:00:00+07:00",
+    "desc": "Kaltim fokus perluasan layanan kesehatan di wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c90c1c11202a",
+    "title": "BGN segera operasikan 900 SPPG di Wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMHByOVplcUJmRzRtMUVaQUhzSU8wZWdSTTM0Q2pkSmhwM2JfU2FXUURfU2dySXR4ampfWUNGcE9DSm5YR2NUWjgtV2FPUV85NDFqSHpZaEJ3WnNNVlBlSHQzbTNvN2VWeVRJdlZwcFpTVFJZS1BNUHhxampnRkdjelh2aGVBakVMTHdoOGFyM0RVZ9IBlwFBVV95cUxQLWpLdWhfV3hFbzRHUjRqR05mQWRxVlNKR05Xb09xTlRIWVdBRWd6RXoyeUZfNXpjS3phQnU3cndocGdSemctZUtNQVA4VlMzQ1JwYnJJZ200Z2RoaTZKNlFrTkhVblNUU05aMGh3SU5JcElROF81MUtsOW9LYWpZOWpCc1ZWRWc1NF9WWkRUQUIwd1JpOFhJ",
+    "source": "ANTARA News",
+    "pub_date": "2026-04-18T14:00:00+07:00",
+    "desc": "BGN segera operasikan 900 SPPG di Wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b0d802254ebf",
     "title": "Kemendes PDT Dukung Pemuda NTB Ikuti Program Magang di Jepang - infopublik.id",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sM09mYmZCZlZ4d2dwOGdvQjRjWXp2M2FMOXhOOXZKWDVOOG9LVnV6ZEZseUlTTC1xSnkxVUtOcnlZcFp2ZXlDa2pybHZzMXFpZjE4MXYtTUxub1JvckVVMjZXUmJmVzVpQWpGZUQtR1BJXzJpUGNEY2UwUQ",
@@ -51174,6 +52019,19 @@
     "source": "detikInet",
     "pub_date": "2026-04-17T14:00:00+07:00",
     "desc": "Operator Selular Terkooperatif dan Solutif di Wilayah 3T: XLSmart&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5e119b87822b",
+    "title": "TNI Jadi Mitra Pendukung Pembangunan Konektivitas di Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkJNWl9aTWxmRzBWWjhqSUJPUVQwejdSOGdEMWZVeFVkcFVpb2llSXdTSkdpWk9FTlZXLW5QcGFrdXlzUGJpY3NPZGpXTjNQLW9LczRRM016THNHT0hlT2l1OHJiRGY2RXFEaU5GS1d1SV92R1pKTXlOb0c2bk5IRWdTaEJOdTB2TWxxa0Q5amdGQ3R1RVRMWmlhWmZJX1lqdXdjVXFGNENTaUtFSTBGT2ZsMEPSAboBQVVfeXFMTUJ6Vjk2RHdYME1KNUdHRmJFanQ3UXJZeTg4WHc2aUVqY1pCR01NM1V4UkhQa2N4WFZBY1RDYjlRbEw0Si1uMUI0TzdsVXByQzVEeU1uRm02TGhQeTBaUHFEZGtNQXZhVGRtcmtCT0M0aDgyUExqSWZYREFyZUxwbllvTmVXS1lsdFpZNjZtY001M1gxemZWZUtXNVdDTURnQmI4QUVreVEtdktTXzZ1YVExZl9oOTRWZ2h3",
+    "source": "detikInet",
+    "pub_date": "2026-04-17T14:00:00+07:00",
+    "desc": "TNI Jadi Mitra Pendukung Pembangunan Konektivitas di Wilayah 3T&nbsp;&nbsp;detikInet",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -52273,6 +53131,19 @@
     "sentiment_tag": "Penguatan Ekonomi"
   },
   {
+    "id": "4df385eb8f28",
+    "title": "Pemkab Jayawijaya selaraskan program percepatan daerah tertinggal - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTVlVS1RZT2hrdkUzbGpkU2FQbmpFZTZxamdMWmt0WXpPVzFzU2RsYkNhZk1Pb0VWS1RyOHIwSzEtS1RMUktKSkJwa3hnT2ZWT0plUjY1TGVWREhrbW9BMnB0R0p0Q0RtLVRHX015RW9HeUJIMm5BdVpYMWpEYkZzWkVGWDBGeVBYMTc2N3ZXLVR3cHl4MldxWmljV2tRUnhuY1I1TElsZVlVMzZC",
+    "source": "ANTARA News Papua",
+    "pub_date": "2026-02-28T15:00:00+07:00",
+    "desc": "Pemkab Jayawijaya selaraskan program percepatan daerah tertinggal&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2ceedd20334b",
     "title": "[FOTO] Presiden Prabowo Tegaskan Prioritas Pemerataan Digitalisasi Pendidikan hingga Daerah 3T - Presiden RI",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkhiUHZmeGVvdWVJcURhTjRVbnlscEkxVlo4dWZKTDhMTkRNZzdVU1BDWUNybFNoTzBxV3ltNWxJWl9WRS1kRllnREZOWlBJSUdZU3pnem9fT210UUQ2NmVlaG1EUnpYZUtCdmNXWWdJemhTZGNSeDZZX2NTVUxpY0Fibm1XSHZCc3ZGeUNfSHppeHJBMUxNVDRJQnlWVEtySTQydTlGd0RUbUNqaTlMa09HMnV5QjZYc0E",
@@ -52832,6 +53703,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b96875c6abce",
+    "title": "Kemenag menugaskan 96 dai melayani wilayah 3T di NTT selama Ramadhan - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUjNXRW1ienZhb3ZHVFVjcS05WWU1anhmblAzeW1sUnNfTFVmcmY2UmRFSlJfbzdKcVhOVzRTWVFscTFCR1JYX3N6NTNJT3d5OTdNOWdNa0VvWVlZR1dybWpFTU1kNlNYRmlndDRRUUJ2ZGJDcXMzcVRrZUdCWWJRUkhXRXgxclg5NWkyU25OUzBSNEttV0d2cjhSMVJpSkJuTmwyLW9YMUVtXzVsTWJDNTdB",
+    "source": "ANTARA News",
+    "pub_date": "2026-02-19T15:00:00+07:00",
+    "desc": "Kemenag menugaskan 96 dai melayani wilayah 3T di NTT selama Ramadhan&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d6b857b479b3",
     "title": "Mensesneg Yakini Penggunaan Dana Desa untuk Kopdes Merah Putih Tak Ganggu Pembangunan - Kementerian Sekretariat Negara",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdHprOE5HOGZlSEJqekRlV2NrSzFoT09SUGpHci02U21CNVJ1cTZZbVM1V2NnOF9HV0duWk92QjlMM21tcXhUUlpWMlNxV05WRkcxQy0yTVJJZFdFb3B3djV0ZktVWmZqNkhieDZwVGt0X0Q0X0ZReF9jQVFWczVPQkFSNmlrRXZRZDd4bEMxZnAzNVlSVGNfNTRUZ0poX2hTOHF4dUstMjBqbXR0Y0ZLLTJxeldpcmxtQV9vUjN3",
@@ -53022,6 +53906,19 @@
     "desc": "Foto : Mau Bangun SPPG di Wilayah 3T, Polri: Banyak Anak Belum Nikmati MBG Halaman 1&nbsp;&nbsp;Kompas.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "aba445d24b85",
+    "title": "Bupati Magetan Mengukuhkan Forum BUMDes dan BUMDesma Magetan Masa Bakti 2026-2029 - https://magetan.go.id/",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQzZEQ3BCejNTRC1UZnhJSFFpdE1td2Q5TWxnUktpNEF6OGRnSE1JNV9RWDFKeEVlNGxfQUhHaVFRV1JSUmRfS2lFdFVxNUpSclhVZ0dBckZKWmRDdjItSjFNQU9GdGIzZXZBMkdiM2RzQ19mbnlLa2pUakFCSjBNV1lQRl83TnIyY2tGaDB3WHE0RUdKWHlLcTZRRXUzQ2hPOGh0djBENA",
+    "source": "https://magetan.go.id/",
+    "pub_date": "2026-02-13T15:00:00+07:00",
+    "desc": "Bupati Magetan Mengukuhkan Forum BUMDes dan BUMDesma Magetan Masa Bakti 2026-2029&nbsp;&nbsp;https://magetan.go.id/",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -53495,6 +54392,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "4b4d6f49bed3",
+    "title": "Pemkot Palangka Raya siapkan 16 Dapur SPPG jangkau wilayah 3T - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT1dnQnJObGlsWE1CUjItZERERGNhU19TMFlyYnNVd05iSENBX0Y5aHZXUjU2VS1xS19CdTBZTUZEZXo4czBZMTBqUnpRd1JvRzFjOTJneUQwbDFfTXJkQ2FVNkpidWlMeWFWZWZzc3lkRDVpWmt6WDU5ZE1YUTBENFZHZGpON2l5VldXNE9qX1BmNGJtZTZubmVCYWNSQk1DZk8xb2pMdDRZdw",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2026-01-26T15:00:00+07:00",
+    "desc": "Pemkot Palangka Raya siapkan 16 Dapur SPPG jangkau wilayah 3T&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "56c0f4f4ba09",
     "title": "Program MBG Wajib Serap Produk UMKM dan BUMDes Lokal - bgn.go.id",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHFDVl9CbHNUTnlSQzNWTFBCcXVmVEpnaWpSZFRNN2Vib2JvQkFOZkNQd3cyZm5iNGEzSjZCT1JTOWtsUUNSREJjdWN1MDMyYVlEMHR2SjBJV1NQRlJlSDZoMTVFeU1ZVHpITk0yNE4yMlZFa3BLbmp0ZzNBdE9aTC1Wa0pkOFdScFVfOEl6dw",
@@ -53685,6 +54595,19 @@
     "desc": "Lewat Festival Film, Mendes PDT Yandri Saksikan Karya Sineas Anak Desa&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c4d6f4e90829",
+    "title": "Pemkab Bekasi Optimalkan Peran BUMDes Dukung Program MBG di Kabupaten Bekasi - bekasikab",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXlsTUJTLVVyeFh4OXlBcEs3ZkpWUVpHOEJCSjZyUHVJaF9MVXNJR04wLV9hY3pfbmotWG5CS0VrSWVMNmdVbTFtY0RXOUpJR1VCNmIySV9IVEJFWHpwRFU5Nzh6Y0h1a0tTNnFYS2xTcnR6UlVYN1JIamh2TVdEbTdRR1k2bnZhQl9SMXluejJLYnFRdFVqLWtkc080Wm5BQUE",
+    "source": "bekasikab",
+    "pub_date": "2026-01-15T15:00:00+07:00",
+    "desc": "Pemkab Bekasi Optimalkan Peran BUMDes Dukung Program MBG di Kabupaten Bekasi&nbsp;&nbsp;bekasikab",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -54112,6 +55035,19 @@
     "source": "detikHealth",
     "pub_date": "2025-12-12T15:00:00+07:00",
     "desc": "BGN Mulai Fokus Beri MBG di Wilayah 3T, Wajib Ada Dapur Meski Siswanya Sedikit&nbsp;&nbsp;detikHealth",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2b34f5790ea3",
+    "title": "Punya Satelit BRIsat, Layanan Perbankan BRI Mampu Jangkau Wilayah 3T - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTYzYzZ4WVM2MVdOSllhTEw4d3gyNDZZalVObDFzdnhFVWo2TEVIYXQwV1JkMjZ4c0lTYlRCVEhOc0dYdW80WVRUcU9iQjB1WnllNzVtRnptcFgxOXplbkFwNHNWTDVaR25zbGZyYXhIVVh2R2tEcVhYMXBSczE3Uk9DYjZsWVlPaXFDaHlvaFM0aXY2NW5VdFZUNjR5dnBEMlNTUjJuS0doWDBlT1FqcXI1QzBHUElsR05GR3otWXVEUFnSAcgBQVVfeXFMT2R4dU5TNFJQZ1NhUHZLRktLNVVYVTJ4aWpId2cwNGdJQUR0T1BCeDlQekhYSl8zVUhNZ01iTUZCZXBRcFh4b2d3dmpYT1BhbVd4TzRpODFmeENrb2VRbGJvY284MWpJWEhZT3ZzLV9kUS1ZbnY2bC1iSDd4aFFuR1FOXzctSTFhVUdkbDBmcHFSMGJxVHl1RkVWU2FFMUg3TWhFUExpRnUwSFoxcDZDdnVnN2NucEJlajR6ODBwRlNEc2oxRDNCSnE",
+    "source": "detikFinance",
+    "pub_date": "2025-12-11T15:00:00+07:00",
+    "desc": "Punya Satelit BRIsat, Layanan Perbankan BRI Mampu Jangkau Wilayah 3T&nbsp;&nbsp;detikFinance",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -54834,6 +55770,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "273be34eb9ac",
+    "title": "Operasikan BTS di wilayah 3T, Kemkomdigi manfaatkan energi surya - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNG0tcHozc3dpUFJCX1ctRnJpamFsb25zMEJEdHpOaDliamVBWVRfOEN4LTA0UEZETDhtcWxROWtFcWQwQnkyQTJaazJsbFZ2NmlJUk0zM18zMzVSMlJOWFhGR0pveEFOTTZ2Tkluem10Ri10WTVyeVU4VWtZZG14YnlvcnVIX2hwQ21ZcmgtNlh6cmVCQU1GYl9EelRQNUkzUVlWVGVOU2lNMFlS",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2025-10-31T14:00:00+07:00",
+    "desc": "Operasikan BTS di wilayah 3T, Kemkomdigi manfaatkan energi surya&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "78ee9669c107",
     "title": "Bangkit dari Kebakaran Omah Pring: PKN STAN Dukung Penguatan Tata Kelola BUMDes Kujati Perdana - Politeknik Keuangan Negara STAN",
     "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1icWtYaTdUdGdrNko3dDI3MGMwd2RNRGh3SGRsMHlSY1phcjlaYkRoaXlHZUNUSFJ3cE1KOEJJeFJETC1Ua191WjhYbzBZQQ",
@@ -55299,6 +56248,32 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "182a6fe7e595",
+    "title": "Kemendes Dapat Opini WTP 9 Kali Berturut-turut dari BPK - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbkl3eUZfN1BxaVlTbDZGV3VXQXJTMXpRU3RmWHNHLVRudXBOeklfQXVQS1JYaThtVXZZd2V0NFFCbEF4N21La2pYMFYxX1FhejVwZjJFeTk3YmF0QzctbE5qRElQTGhYak9mVFpLMXhVeE5LSlBPb3NubEZSSVZpeDBxMVliN1A2eklVbVZfZF9Tc2VJSFRiazVFaVQ0VHJZTGJlSU1zeVQ2Y0Z6MG96LW1vONIBuAFBVV95cUxPUlkwNTdQRWJubU5DMVM4N1ZoLTFFbC1WRDFZSU10el9XT1RSUFg2aVExdk94S3gxWThic1MtSkxGLU1xWkJaeTNiNm82Z2lWeEtjcG00dGtDUFZqanZLRjRFaVMzbTZNOXBOZzNocTZ3OG1BRXlpa3RwODVTS3VQT3lud2JLM0pCbmdXcmx2cEpoUFRWVG4wMWNZYmkwemZfOV9NTGtTM1hBc1pzaUVPNzhFSWNYVVRr",
+    "source": "detikFinance",
+    "pub_date": "2025-09-25T14:00:00+07:00",
+    "desc": "Kemendes Dapat Opini WTP 9 Kali Berturut-turut dari BPK&nbsp;&nbsp;detikFinance",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "aa32341f111d",
+    "title": "Tekad Rafiqan Peraih Adhyaksa Awards 2025 Jaksa Pengawal Daerah Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOXJHUGdYWnRRMVYtdGpBRDhVOEJvZVpQVGxhN2FsY0JHMmJaVnJOX3h1SHpURjlFbUtXTGotOUMtbGdmUTNPZVpqM2F0Rk9WQmpxOEU5RFozRXRwamVIMEdPT1lXT1gtRDVPeDlXRjAwWjYwNGgzbGk2ZVdZTDNvam9fa3M4RFJXd3dZWjd5b1dOQ0FTZ0syME1CaXloVDJ5cWNvWWJGak1RY0dNTjRqT3ZhdFrSAboBQVVfeXFMT0taTFRSUmF5T3VrWEdvUWhOdHNJUldqcHNCWnBTM2xuSDdoa19tRHo4bDE1aUEzUVVyUVEtTXVXS1M3NkZvZWxreHdBM3JiQU5YZmp2NGljSkFNYnpBd3RFMWJzTEhTWTBESlc3TTkzVjg1Z2d6OVhXbk1OLWRFYkctQ0RVc1RMSm9mLW5hdmZOM1VHSGhsdkFmdUxDM0ZKYi1LODRxUVphV3RrV1hOd2JkTFpqQ3VrMHlR",
+    "source": "detikNews",
+    "pub_date": "2025-09-24T14:00:00+07:00",
+    "desc": "Tekad Rafiqan Peraih Adhyaksa Awards 2025 Jaksa Pengawal Daerah Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -55965,6 +56940,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "c0f1d55090ca",
+    "title": "Bahas Desa Tertinggal di NTT, Mendes Yandri Cerita Masa Kecil tanpa Listrik - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWZWQjhJOV9JVE53eUkwalJ2X1NFTF9qM3UyVmh5czBDYVhrMmo5QXVyeU1IYTFrZk41cGhRLVdVOURtbDd2NU40T0hOWDgtdUdUa2ZTZzVheHNIRzQ2YXZQNWk4Z25LVmNiWG1BVm1BS0FKWnoyT3FMcnZYQ3hTcWlaSWwxTzE1NTV5SEhPbU92U0lVdXg5U0xPTHIwSDV0Rkt6Ti0tU3RiZUUtSjI5WnA2dWxoNjA30gG-AUFVX3lxTFAxMjBnN1MtQlR3MHlhckVuYkFrcV9IWGEtdTZKbnFkY3pyNTAyZXBpM01LbDgxeThBNHJtSURkOUVIaVJfbW1VZ3NpRU5wU20wSXFBNzNwRzdDcDVTZ2dvbnNRSjliTm83RXRLM093ZDNHQ1o3bVdOa3NHT2VpanFQWTVkTlY3QnlkV3Z3bERXczlzMWdFUUlrcnRFSHBKZmtpOWFZYWxfVUNTRDl2OTVaRUszQ3BHU01NVU5Yc1E",
+    "source": "detikcom",
+    "pub_date": "2025-06-23T14:00:00+07:00",
+    "desc": "Bahas Desa Tertinggal di NTT, Mendes Yandri Cerita Masa Kecil tanpa Listrik&nbsp;&nbsp;detikcom",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ee658336dfca",
     "title": "10 Tahun Dana Desa - Direktorat Jenderal Perbendaharaan",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWFTalBZMlpIbTVoOVdWekJPZnZia3F6NGg1WFJheGhMeEVrTjNPRkhCbktIdjZjZW9DWld5YWxTWVhlV1I2VjlZb3NabG9fVnhiekQzZW9QSnh6a1RYSGhGcG5rc1YxV2xTeFg3VzBGX3otcktrRHIxVGFqejVtc2FxMjA4RHdQS3htbnJHTWkwOFZIN1FEZWY1clJ5M2s",
@@ -56298,6 +57286,19 @@
     "desc": "Keberlanjutan Badan Usaha Milik Desa&nbsp;&nbsp;Kompas.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7b925b4df92c",
+    "title": "Memperjuangkan pendidikan yang setara di wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVndKRFdSWE5RdHZZb0dFQ3V5Nld2dHEwZ0I5UzBNYWo4Z0hhYUREa1ZXc1MxaTNQelBCb3hHMEtkbFdwU3NPNWozQi1tcThGVnp5VV9TVHpxMEE2alRicE1lX2FiRkgzb3JBbjVrS3FWWHBxejAwWm1yRFV4TWF0azM2NXR6NVVNd3JFRjFmNExRcXpUWjRkaWNJd9IBoAFBVV95cUxOT0JGTnVpVGc2d1NvVXVZNmUxbmduVy1tazVYeWw2ZHo0a2wtS251blFOVjI0cFBCU1k0VmNFR3FnQlgybHhmTHI4YTJQY1NxRDU3dWpQSjF0OVJhWk9aazBNaWVib1BTYWRURFlpRF9yM01OUGNhbTU5c3FucjBKMHRiYzJDTkhFaGZTX0ExV25JZkdZdGRfeGFwWklyX0VC",
+    "source": "ANTARA News",
+    "pub_date": "2025-05-14T14:00:00+07:00",
+    "desc": "Memperjuangkan pendidikan yang setara di wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -56693,19 +57694,6 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
-    "id": "a9bae1ff318e",
-    "title": "Dompet Dhuafa Kirim Tim Kemanusiaan dan 300 Dai ke Palestina dan Wilayah 3T - Kompas.com",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVENOTU4tWE1HazRUd1BNMnBObUlsRW1oQUJmMnU4R0NJeUdUaFRTeUM0TVpGWmF5aWVwRHluSXZIMjVudlJsMVZ6aDRuODVuakt1bk90eVZKckNqbDlGVDlBRDRmby1BN2hFZEFzcDZmNE5BdURGWVZudVlTRktZTGRpN3BmcWt1UEVuUEU3STdrWmZaZGk2dHhtcHpQb0xzT1o4SE16aXBOTHZKZU52LXg1UEN3c1dNZnQ3bDM3UlVGeDg2eG9tSjE5cDM4eXNvRnQ4",
-    "source": "Kompas.com",
-    "pub_date": "2025-03-01T15:00:00+07:00",
-    "desc": "Dompet Dhuafa Kirim Tim Kemanusiaan dan 300 Dai ke Palestina dan Wilayah 3T&nbsp;&nbsp;Kompas.com",
-    "topic": "daerahtertinggal",
-    "topic_label": "Daerah Tertinggal",
-    "sentiment": "netral",
-    "sentiment_score": 0,
-    "sentiment_tag": "Informatif & Regulasi"
-  },
-  {
     "id": "5a0b55d43ef7",
     "title": "Kolaborasi BPOM dan Kemendes PDT Perkuat Pengawasan dan Tata Kelola Pemerintahan untuk Wujudkan Asta Cita ke-6 - Badan Pengawas Obat dan Makanan",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeFNXa0NiSmdCTFV6bzJMWk5kUy0yZ3pRWEZmdnlXVEJQQjk4eXI2Wk5zeExRZjZPazVfUF9lV2dDMzl0dDduckx0Mm82N2ZvZ3doaXIxWmgzX1VEZmY1bVN1UnI3UTN4YWEtMDBEcF9mQ0xvZUxvQmVyemdHcWlTSk5tdVR5akdyS3JlMnotZXVDbXl6LUtpTTJpRVVSUmlmY3hDSXFndVM0TlR6bktENjhic3BrQmI0MEVJZGEyRVFDYUFTYmZsakdOUEtwWnB5RFdNMVlB",
@@ -56753,6 +57741,19 @@
     "desc": "KPK Ingatkan Dana Desa Rawan Penyalahgunaan Jika Minim Pengawasan&nbsp;&nbsp;kpk.go.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "69946ad9d517",
+    "title": "Satgas Madago Raya salurkan paket MBG kepada siswa di wilayah 3T - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTI1MktLam0tZzc0V3dNWlJ3Q2V5V2s0WHZyVHVfc0ZjRWpoTi1vVlhzYjl4eWM5STRId0tjSWh2T1B3R3VyaTlGMmhJYS1kc2RWYzQyVUdDdW1oSmxrbXQzUkFjTmVoYTIzUE02c2FxNXlIanNVS29jcDZUMVlDMGV4cUxnOGlOYnNqTHFRNzZxWkFyT3pBVE10dW9mV0laYUxXLTVweWw1UUFTT2c",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2025-02-24T15:00:00+07:00",
+    "desc": "Satgas Madago Raya salurkan paket MBG kepada siswa di wilayah 3T&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -57278,6 +58279,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a13f09db0942",
+    "title": "PKN STAN DAMPINGI PENYUSUNAN LAPORAN KEUANGAN BUM DESA SEPIKUL AGUNG WATUAGUNG KABUPATEN TRENGGALEK PROVINSI JAWA TIMUR - Politeknik Keuangan Negara STAN",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qNjF0djFMeHlFcmZPMjdmNUtfei1xVC1WczBxRkVsdWJJNDBhdmg3X0VWRy1ueDFfSm1VQ2k3WV9jcXJ2d1l2eDJBTQ",
+    "source": "Politeknik Keuangan Negara STAN",
+    "pub_date": "2024-12-12T20:51:07+07:00",
+    "desc": "PKN STAN DAMPINGI PENYUSUNAN LAPORAN KEUANGAN BUM DESA SEPIKUL AGUNG WATUAGUNG KABUPATEN TRENGGALEK PROVINSI JAWA TIMUR&nbsp;&nbsp;Politeknik Keuangan Negara STAN",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3427b3717afd",
     "title": "Dana Desa Untuk Aceh Tahun 2025 Sebesar RP 4,73 TRILIUN - DPMG Aceh",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTFM2VnFpejQyUWNkemV4RTc0M2ZwS2MwVkFWN0dCWnlKNEgwWnZVNVVNbElzU2Zkdm44UFZkVHNwcVRaSHUwQk1MMXRnMlA1bEsxNnF3N3NZTGNqZF9wejJUMmZ1UlJtY2pfZXl5WTZHTlZVbEVfS2tyZnJ4QXRyZi1tdkRFdDhNbEZ1aHgxU0VRQlJJUmpRd0RfUDFTT2pSaWRRSDJrUDRaNi0xdzFGOA",
@@ -57341,6 +58355,19 @@
     "sentiment": "negatif",
     "sentiment_score": -10,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "7b425cf63b0a",
+    "title": "Tangkal Hoax! Polisi di Wilayah 3T Kini Manfaatkan Internet untuk Edukasi Masyarakat - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVlVWXptZE82U0NyUWsxZVJsSDMydDJfdDFTWUFvSkhmVEx4dS02YXJDUlV1dWRiQlpNYlR3OUhneS1uV2RfbUpIdm1aWWxvQkg0WDBxNURXVE1kNktRTFJLVGtGTl9PLXlKcXZoVnAwMUw4UU10QTFLa0g4MzAxTEJpN2dFWVI5TUJLckx6bXhkNjc3MC1FaXFhMDItU2RsRFhaVUY1bFhQWVZIU0VrbmlnRTk2UTFubGh2dVdwZkJyeDFwMjY0RWxFeVBkb2Ru",
+    "source": "20detik",
+    "pub_date": "2024-12-09T15:00:00+07:00",
+    "desc": "Tangkal Hoax! Polisi di Wilayah 3T Kini Manfaatkan Internet untuk Edukasi Masyarakat&nbsp;&nbsp;20detik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "091bd1753f0c",
@@ -57416,6 +58443,19 @@
     "desc": "Mendes Yandri Serahkan 67 Bantuan Alat Berat dari BUMDes ke Warga Kaltim&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "93e388e948a0",
+    "title": "Palapa Ring Dorong Peluang Bisnis ISP Lokal Bawa Internet ke Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRjZ2eGZOWkN1Z1d4VERRdGJZcHlsaUJZOHdlSEtkUVJZZVlhM1RBWS1pb0VicXF2Qm1HVzJUU0lEbUxJSXF3WWlndUg4ZkRJdlVIZVhGc2o3Ni12VUNKQjh4OUZ6cnBSdC1tNVloNEVocnI5V0xXWklaczQ5cTFXdlFiY2RFVk5DRWpycThjWE9oLV84cnR5THQyLTBWOG0ybVp5d2hrd2NYTVZhbUpiSnMwZmI0bkJab3lDRjJUd9IBxAFBVV95cUxNZFlkMUEzQzI1bEd5c19kTHZmazVhcjRlZ1NMOXJsbGI5Y0ZpY1VibFJEWHVaS1VkYWFPeGY0cE5QQkQweExLbVpmczBka24xYUZ1VlFmZHZzbldCdnZQTjI5VW9hQldWX1JtRWhQTF85UW85anBEYmNoV09iNnZTX3NtZThkVkVzcGQ2eGw2MFdqV3lRaFV2ajJhNjBXY0M5dlpwZlgwd280TDF5aFRobXN1M045MGt6M2tzTWtta2pYWDEz",
+    "source": "detikInet",
+    "pub_date": "2024-12-06T15:00:00+07:00",
+    "desc": "Palapa Ring Dorong Peluang Bisnis ISP Lokal Bawa Internet ke Wilayah 3T&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -57499,6 +58539,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "700d30b5a073",
+    "title": "Upaya BRI Dorong Perekonomian Lokal di Wilayah 3T Merauke - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNempITUI1MWdTQmxQSVMyTDA1cUplb29zTDR1UlNoaHllMnhDOFVseElxYnlaRnhtVmVhQm5ibThCcXlTU0ZHZERmRzBMeDhYcHlJY0lwbzhNWUZtUWpjWWU4b3ZjMHpqNGhySnBLMnFqU1hlU3dUbGdmTVBwSHFZUWdYRHRXaHkzSTZ5Y1hrSHJzQWs0UFZOZGszeUdrVHJvOVNxbHdoY0pfcHN2b3hzc284TjhmUdIBuwFBVV95cUxNSy1maDRTcEhJWGM5Y2cxMlZZRHRBdWVpYXZXdmVqVEtoeXZLSzEwVHR0WGdnaGtOY01sdUYtNDRIeVFpYzZPYUdvRk54SnBuT1c1bDJwOGdnV2FjOURhTjhYMzFkeHRWOXBFN0g1dGN1bV91bk5LeEk2ZlNTRl9JRlJjLUNNV04xVl9INmgwUTJHUjRKb0tuZHdscnIycUotSzZsZ1pKWFhrcHdJS0NuTlVBQVhncHBpeHh3",
+    "source": "detikFinance",
+    "pub_date": "2024-11-28T15:00:00+07:00",
+    "desc": "Upaya BRI Dorong Perekonomian Lokal di Wilayah 3T Merauke&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "59aa5245df30",
     "title": "KP2KP Wonogiri Sosialisasikan Pajak BUMDes - Direktorat Jenderal Pajak",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qc2d1aW9VS0FzeXQyRXhndFpwQWJSQWp4X1B5Zi04a0J1aHpoMVZiU2JQNnkyNnVQQVdPaHMtOF9peWJkc1pmQ2VjMU51SEdtQmhmOHoxQ3VCYm45ZHlFWnlfczdSTmYzUWJNeHN2cktNalRLSVV2LWptb3o",
@@ -57551,6 +58604,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ad4f3782a4ee",
+    "title": "Internet di Wilayah 3T Bantu Akselerasi Layanan Kesehatan - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaVg0U25tYjl4RlVrM3ZlYllBN1dZYXQ0VjZHZElaeEdhLUZJY0Y3LTBXTzFhQUJkMGo3TFBkVm8xMmdneV9xQjdYUlN5N3FxcVpveER3eW5Rd2JBTTQ0S0o3NWtfZmFoN2hPckFSUlpGbF91Tmt0NUxwSEhmWURGcUJxZlpZd1hIeF9wRm5hSk9lUTZtN3VMSkNJR0R2aXdSdGJPZGlvajhZWkxu0gGyAUFVX3lxTE9BWWFWc0tIaHVURTVZUEN0Uk5PNlpIQWg4bklQQ1BlTVJyQWNsMVViMHhBbk1BM1BCY1E5NnkwX01qaDExWWZDYzNuX2pBQ01XZDJvQVA0Ymtzc29mSXZ4STJzRnVGanRaQVluVWEyTUF1TllZYmRYN3JKTDJsQlJ5OEUtelA1ZUV2RTgyaGNuSU9JNmRuYnNUR29Ba3NtQmQ5cmxYR19RVEhZV2RqTDBITGc",
+    "source": "detikInet",
+    "pub_date": "2024-11-19T15:00:00+07:00",
+    "desc": "Internet di Wilayah 3T Bantu Akselerasi Layanan Kesehatan&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0bb5298e633c",
     "title": "Bermalam di Rumah Warga Lampung, Menteri Yandri Sebut Jamur Tiram Jadi Produk Unggulan BUMDes - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVE3QzJ1ZndBa1NXU25MejIzSnUtS3BpN1h5RzRTMDI4MTlfNDlxTk9saFg4R0ZqWTkwcTVwQWM2bVF3d3IxWHVaZ0JwTG5GNTFuLTFjOHlOUjRlQnZKamFmb1RVdW9LQ3A1V2JjTFlQSzlYM3dCMlJnckFQS1ZBNm5nWkhzOU1JalFqMlIxMFNKSGhrdWcxT3F3MFJPX0R0NzJRMWk0d09FWGdMamtQdHJaU2lBdzRPb3JadUIxVFI",
@@ -57598,6 +58664,32 @@
     "desc": "Kementrans dan Kemendes PDT Raih Peringkat Terbaik I dalam Penilaian Kepatuhan Pelayanan Publik 2024&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "91087e50ed66",
+    "title": "Meski di Wilayah 3T, Birokrasi Sat-set Berkat Internet di Kantor Desa - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHgtZWNRS3l1TGNwWU9mY190MTUxWEdhamtudk4wSkJ2T25MTDgwVWxFZ1pVYVRlSGVrUWMxUDRIa1VRcjNwQWJrTGFrU3ByMjdLbVpyWjJ1NmYzWkJQSW9FUGwyU2VUTHlMYWJMQlBrNFhjY3N6YTlwQXRlWlBKUlhxcXFqZ1FKbE9QRkhYYjVyU2JxSnJVTjg5MFpiQklzSmJQWWMwbzR5a3BMNUdzZGZXQXlFbVJjV0xz0gHAAUFVX3lxTE9vSmtacUR1UzBBRElCdjA5T3BoR0g5NHgxYnkxeWRGQmRQRXktREhwbElQeVQ1bnBpYjVCVkJ1eXBHQnlPNDdDRHdDbnFIQVRXNllLZ29pNWxVWXBxRG1JaEd3VkRYb0p0Rnh1ZkxxeExfV3NWSkhLNlhqa0gyVFJwOFJsOUtsMHNNUks4dG1xOUFsdlBUaXctTXM2TUN1VElVQUluX2hlaDFRd2R3Qm9mTU5jTW13UUQ3YXh2QnBvYQ",
+    "source": "detikInet",
+    "pub_date": "2024-11-15T15:00:00+07:00",
+    "desc": "Meski di Wilayah 3T, Birokrasi Sat-set Berkat Internet di Kantor Desa&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "38f226fc75a6",
+    "title": "Kapolri Dorong Polisi Diperbantukan Jadi Tenaga Pengajar di Wilayah 3T - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPakszZ2FmR0FrZ283T1FCckxjMHhDcy1KWW94SktjTDlRM3NOS0lhSHBWZU1nZ2VGcVc3SkQza3h1SllXZkNJSnY4bjNsMFh2dWsyemlGdWFuTlRLbDZoRUxjYjlzWnVLSXdxM1lDSlVWMk1kbDMwSm9sYjQ0dTAwcjJwRXF1bzZselFQelZ3NGxkVEN2RDZHSjlCanNTcV9NUjF5WXJYQ0tWVmdaXzlv0gG0AUFVX3lxTFBBUHc4STRvekZSVXZBeTQ5b3lZNGtwSXVaM0hrNVo5bUFtNUhIU2U1cGJ4bmVMNTBXNW1lT1ltWWZNcEhaRWl1X0pmaFN1TTU4RFJPMUZpa2YxZmlRX01NNDhHNzVDYjJTMTBRREdTZnNiUEYtMzYtNmxyZ1J3WE9KamdOeWlYQmdsNWRpaEZRaERqQVhZczdLeDB0akxPbC1waW94aV9La0NMM29xNkF0el9ySQ",
+    "source": "detikNews",
+    "pub_date": "2024-11-12T15:00:00+07:00",
+    "desc": "Kapolri Dorong Polisi Diperbantukan Jadi Tenaga Pengajar di Wilayah 3T&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -57746,6 +58838,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "508948b2dfaf",
+    "title": "Disdikbud Kaltim tingkatkan infrastruktur sekolah wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbEVlY3hjQURoVy1VUHhRMmkxeDdEYTNmbi1zLThrRkszQjBIV3ByMEI4aVF2WlBYaThKSzUwVkJnV1Ria2cxbU5XRnY0RnFsdFBzblZFb1cwdHFOTjk2WGwwYl9EMjJRVmltUlpOTy1rSW1TaXVMT1o3UVZtd3c3LWF0UndSaTVpZkVKU2xaekwzLXRsbFk0VzdzNXljYnM1OFpPdmpjWdIBrAFBVV95cUxQZGFMREEySllLNFV6VXQxN1BtX1U2azV6MXR2cWF1R3dEU2xWeG8zQ3JXT2VVbXgyUGt2bGZSMjNubldFTWpiaHlGampobFdPUXJtSVhaTzBRaWg4QzJib3psVmFiSFEyUTVKWnJsWkp3RFZ3clBvZHdxbGRZaFNnVnNmdFZkS2c2SndTdjdnSFhsRVlteExEOXBRbHdqNHBQb1o0cFI4VGpOaTFy",
+    "source": "ANTARA News",
+    "pub_date": "2024-10-28T14:00:00+07:00",
+    "desc": "Disdikbud Kaltim tingkatkan infrastruktur sekolah wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3b01a6665900",
     "title": "Video Ramai soal Kop Surat Kemendes, Yandri Janji Lebih Hati-hati ke Depan - 20detik",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnBVVUh5NlloVmJrSXJXMUFqRkgzLVA0T1lFanZndDZfaFgwQURSSGw3cUdtRWhfelFzRzNxU3BBbmV1a3FOTWRlMklTWXFiYlRTZC11ZE9ER0xqQzJVdlIzSkdWZHd2Z1pRajZmY0c1Qkw4T0doZjFHbmxZcGZMQmpzY2tlQnlBUTEzbng3OWdfTkxBZG11RHNaWlNuNW1wTURKa1ROZkJTZE9ITDllRGZIeER4eGl6bUczNi1falZPdW8",
@@ -57863,6 +58968,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "83215065b85e",
+    "title": "Andra Soni Janji Tak Ada Lagi Daerah Tertinggal di Banten: No One Left Behind - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzlnRTRjXzNxUERQbmVRVzNnLTR2MTZlV2wyYXJkZE1NTlZZcmxjVmdnQjBEQ3lpSzhzNS02NGljMlhIZGIyMFp5Z0k0RkJELURRZUJCVnpzbC01NTFCQ19MdVZJei1KV243OG90TUxucGdTcGhtb0w2RmlXS1MwWjN3bU9keFRabjB2NGhhMkUyb2hWSDdHNDVvV1JWNVhfYlRRa1BjdC1TejA0eDBlTF80T245RVBx0gG-AUFVX3lxTE8ySXBUcDVOY2ZWenVNcF9ZVXcxZzBTbU5MT2hxRGVfUXhwT0hSRmw2dDZmMFUxVXQxaExtbkhjTzV4SEZQUlhRTEpvbktBQzBSZHc0S3p1NlZ5ejQyTDBiNm1pYkotR3JpaVhEMk5rcWVPZExQOVNfZ0xSaEFmd2poaGd4VkFJVGVjM29XRjVtOHBDSEMxOUVFbzhRYWZla3FPNmNVMW9oS2gyOEE0ZVRwT3RCMG1YbVdJcTRfdmc",
+    "source": "detikNews",
+    "pub_date": "2024-10-16T14:00:00+07:00",
+    "desc": "Andra Soni Janji Tak Ada Lagi Daerah Tertinggal di Banten: No One Left Behind&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c37a60fc13a7",
     "title": "Yandri Susanto Ungkap Bahas soal Desa Saat Bertemu Prabowo: Saya Siap - detikNews",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeml4SFM4WmlTMlNiV3V3bnZvcjlqRlljSE5jd3BLbFJGQ0FtNGhVRF93a3hxeFNtM0dHNlhDdFBwWjZBUmIzbEE3NU5udjljSmpfd19hbHlPZGN4dk9YSTAwcC1POGVVYVlYVEMxdWstRFJuMThnZnQ4UGFUOE9yWm96WjR2c0Z6UXNySGF2RngxZjZnYjdzcWZPcTBLbHd6VDJwOUNLM3BRVVdF0gGyAUFVX3lxTFBRR3ZhSEplZFdZdTZCZFBvZjNaUmVvM2hBSV9PZDdLWDB3X0FPQXExUzRmeHFKanN6M0tzX1NaT1VfYWk0WlgtNTdZeF9neGdDN0oydEtERkl3dXhlalM4WE5EN3dadUxJX0I2bkc3ZVBLVi1IaDVhNDYxNHlNb016OU5iR3FZazdSLVM3NzlMRTQ1TFNaYWt3cUN3eXdGV2lqU3JHaEhja2hvVW0yalJKS0E",
@@ -57886,6 +59004,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b44f8d144244",
+    "title": "Ada Satelit-BTS 4G BAKTI Kominfo, Warga Wilayah 3T Bisa Akses Internet - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNVVuN2FyejJWbTRxMnVyZnJ4UmwwRldNQzlSR1hkbml1NmZnUjFiRFdQYzdKVko2OXVsOWIxNEN5VVpmczJRcWE0SFRlNkhqcVNEYmVFZkFuTDBDbGFNWnZJVmtyNElSaGxKOGtCX3ZvQmlWa19NdUZhcVVZaDNZOTZZNGpMcGw0cUc5bm5YRHloQ2hhQlM2N1NMWU9TdDFiVlBrazQ3WW0zWGpaS3JBV1k5ME1EaEFKUC00a9IBwgFBVV95cUxOZkRTRWZjSS1YUld1U3BQWXBmV2ZmUUVhdTJIbFVjWlRmU0U5a282TE43MUlhNjRfdHFUdTE4UmFlaUtGODNGQXIzdUNKVDc3SmNqTjZwanI4VjdRc0tkaEhqYlJNd0VvaXpHMWFlb05fRGxLNlozbjdnOTA4YjV2Z09YUjM4c3NLYUZNNDFHelBNeEZDWFFocGkyU21YekxwY1NESWZKRkcyckY5N09oOTJtWGJnUHJ3ZXQ3a216bkMydw",
+    "source": "detikInet",
+    "pub_date": "2024-10-07T14:00:00+07:00",
+    "desc": "Ada Satelit-BTS 4G BAKTI Kominfo, Warga Wilayah 3T Bisa Akses Internet&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -57965,6 +59096,45 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "01cebd237df4",
+    "title": "Internet Tak Beri Dampak ke Ekonomi Pariwisata di Daerah Tertinggal - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbENub3JwS0ZSblpXNmMxd3dtSHJfWlJ4djlMNm9LeUNQWm5TRFQtUDA4el9VYk4zZmZlMExWRlB6VW9IaXIxUVVmWVdsdEhnNGd5bGQzZVE0di0yRWZ6MWgzWVVMRE1pdVh3dDBLSkJRUFprdS00STdsTnMtOWFUNkJ4TnQ1ZTdDaEdINXJ2REJQclY2dXhYbnc0TVFWWWxQRkVlSEx5NFN2ZGdmallF0gG0AUFVX3lxTFBkSjZmb2huQV9zLVFzZF9RQ09qVS1rVFRoMlpZMERtM3M0RFZiQW5CVmNfTWFCZDRoX05qMTVReldJSkp3eFdMVWpQUkVldVBLUXRXOF85U2EyalZkVDlJR1oxRFhvZWFHVzBoYkJ4Z0RUbTlaRGpDTzNkZDlGUkM0a0JPWjF1MkdQcXlOMU12aTZnanRoQm5SaF92cV95X1o1NWdyWWZSRmdUaGtCZHgteG04Zw",
+    "source": "detikInet",
+    "pub_date": "2024-09-17T14:00:00+07:00",
+    "desc": "Internet Tak Beri Dampak ke Ekonomi Pariwisata di Daerah Tertinggal&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bac68d77c164",
+    "title": "64,9% Warga Daerah Tertinggal Tidak Pakai Internet Gratis BAKTI - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZlM1NDNpZGswaWJyRXhFV3lIRVpqRDg5N0xyYVFJRWhTdHpSZGVGUWJuZl9JWkZqSEd5ZWFCRGJpQ0pGNy1yZy1ORDJBZGlFYS1LUmVxWFh2T2RuMEh3WFJJQVNZbFFkNWJOWDVaSVZ4Yk5qWXVNeGZRYmxLZGxySE1hc3I5MEpXTksxUUZwY2hrTzlQYXZVdHN6cTAxTmF3ZzNqVFAwZHnSAa4BQVVfeXFMT01sNndqdkFFVkxfdlNwcXFyc2VQZEpmWVhGcWN5eUdEODliYlN0UDU1cFhzZEEwM3lISjJ2TEdpeVlsRno5WHpVQVo3cGJsclpUU3F1dmgtUmNEUlBKbC13TTQwZjNDSFN5V1J0YlJqRnJyejhhRHN0OGo5X2N4bkhsLWRaYnFkV3lJX1I3TkZBMTkteUZyZkFnY1pfQzRxNFZjU2pMeWFTXzh6TktB",
+    "source": "detikInet",
+    "pub_date": "2024-09-17T14:00:00+07:00",
+    "desc": "64,9% Warga Daerah Tertinggal Tidak Pakai Internet Gratis BAKTI&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0a655f819d85",
+    "title": "45,5% Warga Daerah Tertinggal yang Coba Judi Online Dipicu Penasaran - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenY5YTZvaGNTNUV3RHBYNDBzZ2tRZVo0X2tZemxPb21fRnQ5alRRUzBuWkwzc3BhV09FeVdYTlR5c2Y2d0swTklFaEI2OWVSZzRDTmpPamRfSzdhSUNXU1h1RkZUdnBrSFdJMy1WZ1dUV2N1elViV29uVTVxZldCcDB4a3RYNVQtTGNBaEgwOTZCY0JVNHlqaHdfMjF0S29jZEhhNUdaRDVkNWF0NjVPWHNadmNpQdIBuwFBVV95cUxQY1huejU5ZU92ZV9vZ3VFSE1lYWFvNndXazJNMU1HS1E3eGstdGh1SjF0aUdnMFM5WTV6aG5kWVlpeGt4WnNtZ3dOUnVXQnhzMkcwVzJaa2NUWld6eGJzYUpXSFNRM1UyZjN1Ykg2d1lsTzRRRm1jSWNwUXhSaDh6MWo0VHR3cUw2eV9XMkt5R1FFMmxMQkZYR2hwaGExVHQ0b09wSmc3aHQ0bEcycW02UDZBckpPSklQTUtn",
+    "source": "detikInet",
+    "pub_date": "2024-09-17T14:00:00+07:00",
+    "desc": "45,5% Warga Daerah Tertinggal yang Coba Judi Online Dipicu Penasaran&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "negatif",
+    "sentiment_score": -5,
+    "sentiment_tag": "Penyalahgunaan Anggaran"
   },
   {
     "id": "36b2040b5d2c",
@@ -58747,6 +59917,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "dc2b6dea2c50",
+    "title": "PLN Dapat Hibah Rp 15,6 Miliar untuk Studi Infrastruktur EBT di Wilayah 3T - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTExhMDFGWjFXR0R2MUVVNUdWR3owUWRkVkd3eUpHTnFpV3VsZUdMZDczb0JtQzVPM1Vwa1VaNllHS19YZ1FuWkxhUlF4RVhnZnh6QWQ4dG05bndsOEVCRGloN0dYSnk3VXlQTy1kZmx0RjFWX25jbHgwaDFQeEQ3MEJQTDhCVWRRdDZ6NXR0U1U1SnhFWnFJbzQwNkQ2U2FjVGFFblNvNFJQQnVobDVwbWFyNk82TURU0gG-AUFVX3lxTE1USWcwSnowT0dPa0NnYmxpYldRN0lWQlhfVE9KTmlaOUxaeEVxb0NQT3BhbVZBMjVTalJ3WDhvOUc1c21ySGpONW1uNEg3N0tSMWpFbHNITjA0b3FzZFA5aVZLUktRbGZDTmRhaVpRX0kwNDladEk1VmZBUENCdmFoOU5tT25QRDVHMHdzZDNvRGhiVll5SzVfSF90b1JxVmlSWVh5RU1FeWVPZDFnZUpUZHFjTDhsdmdteDN2WkE",
+    "source": "detikFinance",
+    "pub_date": "2024-02-14T15:00:00+07:00",
+    "desc": "PLN Dapat Hibah Rp 15,6 Miliar untuk Studi Infrastruktur EBT di Wilayah 3T&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6fec7fe7df51",
     "title": "Kemenko PMK Terima Audiensi Dirjen Percepatan Pembangunan Daerah Tertinggal Kementerian Desa PDTT terkait Pelaksanaan Dana Insentif Fiskal (DIF) yang Terkoordinasi | Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan - Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMWk1M01JZ2ZFZnNYV3BjekZzWUF6MTNaeXhtVkhfaGM5OUhqaDlSV2JRXzh1TjE2M2ZxdUFMRVRHbjlXTDBrUDdQT3NERDVXWUU3UTlEM0ozN3JWVXJiZkxRRnZvS3c4ZlBwWW9jb2ZBSExlM1FsQ0JicG1PazY3UEZHdWx1R29YUzFLa0tSS1NLOW85eVNMOUNEdjExMnBxOTlaVUw4V2pCTFZXd3JLNXlWQTlRMi1CWXp2RWNZcmNnZXlM",
@@ -58942,6 +60125,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8bff9beea088",
+    "title": "PNS Bisa Naik Pangkat Cepat Asal Mau Ditempatkan di Daerah Tertinggal-Terluar - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSERjZGlKNk1CTlA5VlVhSUk4N1ZfOXhRVkdIRW1qWFNWWDlETktjMzhmaE44YWdOWDdTT1IwcmotNzBEYVFLRm9VRFJfbDYzOFk5OC03UzhzQ0pLX1E2OEZHa2M0R2VsQ0ZaVXJKZ0s4UDg2UVhsSXgtRHlaN0tnSEpRdXV2RV9sOG5sSlp3Z0tQM3pVUEpWaF9GYk4xLXdobkVsQ2VxUGVJa2YyZzhsbThmc3JENW9uNlhETU9xR1JLZUd6SkxrYWZUaUQ5SEdM0gHWAUFVX3lxTE9TbzBscjFTLUVOUGx1QWdDQVlGb3ExenN5dGEwZDFsUDV2QUtmY3prMjJqUzN0MnZCSjBtWlNKVXNUcjBHcC1WZHV2Sk95ci15eUZOb3NsYkJIc0gxcEd5Q3ZfWXRtRlVGeWFPMnQtM2M4X2tscC02Ry1HcHNpajAySDNUeGZ5alVLZDJOX0k4bEtIZEpubUlPMDJHOERxMzBhZlF1Q2hScUt4MHNrOGRxQjBicGc3U294ZlYxOFhCLVZKaEF4T0d3bEhXWHNReHZHekVHc2c",
+    "source": "detikFinance",
+    "pub_date": "2024-01-05T15:00:00+07:00",
+    "desc": "PNS Bisa Naik Pangkat Cepat Asal Mau Ditempatkan di Daerah Tertinggal-Terluar&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "40ebae51f3b5",
     "title": "Kisah Sukses Alumni IPB University Bangkitkan Perekonomian Desa Sebagai Direktur Bumdes Wringinputih - IPB University",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZHRaVG1DZFlBNC1SeXBOQUZ1LW5henZSWEtHT0NtUF91RGg5TWxiU0FpQWxNU2phLWxOR2s2QVdESGxvOGcxeElvcWNCaVFISDlYQUR2V1JHeld1aEZPRFhJckctQlVnbmFhek1WZDI2dmNjSHpXdi1kSXhfLUdROTRWTWs4X0hhZzdOX3ltUTJwbi13QnZTT0V0clFwaHRHSW1FR204NExfRzhoUWpadTJsbGhYUkNjMktHcmRWYzBGTTJ2cENMRVZ4XzF4dkp1WTlRa1phdGhnQQ",
@@ -58961,6 +60157,19 @@
     "source": "detikInet",
     "pub_date": "2023-12-28T15:00:00+07:00",
     "desc": "Hari Ini 4.988 BTS 4G On AIr, Wilayah 3T RI Akhirnya Merdeka Sinyal Internet&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fa574c614776",
+    "title": "Satelit Satria-1 dan BTS 4G Genjot Akses Internet di Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkhGa21hSk9faDE5WFI2VlFoNEJvUzhMcFJjS3M5MlBhTzVPOG1Mb3EzRS0xWEcxS0lkRmpLdzl2a1pySlJkSzhnOUtWSjYyUHEydnBxcXprczBoczlYWl9fWV83V3h0TVdBem91QWdScFQxUHYtVlEwVWs4dUU4YURHSWZhV1VxOFdYckJidG04aWdKV001Z0RVYW9XN1RKbzhQSlVpX012RHNtd3M0TNIBtgFBVV95cUxNUzloOUk0eUJYOWgxNkcwSlYtZG54N0lKYUM0VENnSmlYeHk5TjFrWmFYZDE3M1B3YkFodkIxb2VKd1BzWFJTNTZfSEN0YmZrMWNfWkx1VklIcW0zRHp0UDdTeXV3WjFtYl9wTERJN25SMmxfX3NZZW9qVlduUkJnREdld1YyQ1FMMi1WYjNNRWNOR3hyQk9yWWJtd2plei1IX25EU19xY1FaVHF5YlNzbTRaTFRCZw",
+    "source": "detikInet",
+    "pub_date": "2023-12-28T15:00:00+07:00",
+    "desc": "Satelit Satria-1 dan BTS 4G Genjot Akses Internet di Wilayah 3T&nbsp;&nbsp;detikInet",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -59015,6 +60224,32 @@
     "desc": "Yandri Susanto Kagumi Warga Madura Hidup Rukun-Tentram di Serang&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ec7c4dfe30eb",
+    "title": "Satelit Satria-1 Perkuat Jaringan Internet di 37 Ribu Titik Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUFVrTS1wbW1Ia0dpLVBNa3Btc3BocVgxcDBVOG5hM1FZZWloU25yZ1VYdGV0VGtvVUhmblBzRy1SbnZPcmU4MXFGX19SazFTWDV2aVJwMl9RSEJQT3hDRDNVWFU2NjlJX1JJNFRDeDdNT21NcV9jTzNzT1Z1a1I2UjVEbUoya1BMY0ZmNUxmaFd6Y3JzUW5lN0tuWlc3Qi1tZHE4djNZcXRaMXdWZ2JRR2h4Zy1YR0s0ZmgtdjhB0gHDAUFVX3lxTE9uaFVFd0w1SGRiUmVJVWJsTzFVYndWb3NzUl9UTVFqdXZiQlpzVzRUMmlyOEZyeW1icTgxYUx2SnZERng1R1BhYUFQQzNNQzNtdHpFNkdJMXMyYk9VeUJVYlBqbGx6QzZBWG1COTdzM3p1eW9aQjlUdWp2SGQ2Nzg1UVI3LUhSd2lvM2lkWmszei14TzFKSWc5RzQtUndkTm1CSGFHTmxuamxFb1Vycl85akVydWxIV2tobUUtRkNFazE3Yw",
+    "source": "detikInet",
+    "pub_date": "2023-12-14T15:00:00+07:00",
+    "desc": "Satelit Satria-1 Perkuat Jaringan Internet di 37 Ribu Titik Wilayah 3T&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4831c83e6bd7",
+    "title": "Satelit Satria-1 Bakal Penuhi Kebutuhan Internet di Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONEx4cks2Nks0c0Fva3hGbm9xaDVrbGgySjFDc3NOMlFiUDlTQnFBM3pzMWV6UFBUUmdMV05lVnlGamhPN0FSN29LdFh2RDd3MkNfSTVJdG5iclAyNGdUamJBdWQ0UFU2cDhUTjlTUW9Ya25Fc0o3ZDV3QlROQTg0QVFNTnp4T251SlVjWmNrWklKa1VMTFRDM285UHFMTk10cGc4eDRhVmh1MjNObmhibzFUa9IBuAFBVV95cUxQVXR5MlZCMWV0ZGZVVV9xVE50bVAwejg1Y21TUW1Oam9iSGpEd3dDTmxSUGI2T1JiQlpGczdSNHlEdHgtZk5SYVFMSlNYSmlSTHhwWElJTTVhZ2pRTTRRQUQ3Z3RWZi04MldiVWJpdjlKYjVZeFI2c1VfeVBjVW5BenkwWWVPeWlfdFdTRm1PU2VvLWV4S0c1YTcwQjgtZFh0V0ltT0RlckIyY1dwTGZTM0dxdHpvdUVH",
+    "source": "detikInet",
+    "pub_date": "2023-12-13T15:00:00+07:00",
+    "desc": "Satelit Satria-1 Bakal Penuhi Kebutuhan Internet di Wilayah 3T&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -59423,6 +60658,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "99312338d721",
+    "title": "Petinggi PBB Mengundurkan Diri hingga Wilayah 3T Bersiap Dapat Akses Internet Gratis - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2RMUGVvREJBZWk2T2haTkRSODluRVlYODE0ZHhyTEdYTEdKZUZBcTBQNndab0hiOW00cEpGbGJnUDRzNW81OHBVLTh5VDRQRHpUWk1xNXBCNHgtZmFMZ0RqTjFPOVJaMThQdUNVSmtCejhadk5hSkVXc2k4VmtNVzlrRm9zNEpFVFJiS2p5SFJzaUNtNzFnMUlaNGYwOGxwbnFreG5DdWdIeHlKX3B1SzJMVk5DSm1vTWFKUV9IX1RVQdIBxwFBVV95cUxPX18yNU5WTEtjems4LUFGVnNlb3ZyNHhHOTBxU0FETVJLUG1oQjdZaUpJR0prQTV1WmpKaU5KWU9nMXB6QXliWTNPVkVEdnM3ZEVQamZvaC1qSWZSQ19TZER6eElyUTlvSTR4X3NoQTN6c3NHUlJqUVVsSjdCUVhaX0pqSWR5NFdTdzgxeUp6U1ZMR3ZLMW5WbzJEZHd4eHZsS19UTlM4aGR2em1mcnVTYnpCMTJIcXJDVXBkNFFZMUQwbENlUFI4",
+    "source": "detikNews",
+    "pub_date": "2023-11-02T14:00:00+07:00",
+    "desc": "Petinggi PBB Mengundurkan Diri hingga Wilayah 3T Bersiap Dapat Akses Internet Gratis&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "09ca51746594",
     "title": "Kemendes PDDT Dorong Percepatan Digital di Daerah Tertinggal - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0dNNGc0N1hwemFoM0w3SHh1U041MElfLTRCdHY4ajBrWEh5SzZDd3VMdnNQX1o1RGRwVXU4c1NVdmZiZjJXS2c0WVhhNmF0alVUSWRLX2hxNk1TajNCM0tRdG0xNUtOczlzY1FyQnRnd1kxNWxCd25uRmRfdVA5NFlMVDRQLVVIS2FCZTZRa1ZUZVdwV1lFSHMyd3cwc1FxZk50QkxGS2pZd2F6MENJYkN1RQ",
@@ -59486,6 +60734,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "9da85f210b3b",
+    "title": "Kemenhub Gelar Raker soal Pentingnya Angkutan Perintis di Wilayah 3T - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFZXNll5bTAyclF2MDRRWnlEcjBpOS0zbC16V1JFWlBfdFFrTjh6V3NHd2ladVdjTDdwNC02SlhrcWE1RjVQb0poUEMwVnk5Z3RabU4xRVVKX21zb2oxay1RZjdXVGRpblM3bGVZZXhfWXQybHZwSFFzelRZUm1KdWtySnVvSHNCLUV3ZS1UMnQtVmZFWUViQnJubUFEX1lMUnNtTVo5LXdQdzBJ0gGyAUFVX3lxTE0zTE9EcW5sS2JodWtTOEdFRjNDY3hvUEgzbF91MDl3SE5rb0laTHhLUWhSNU53NGJ1Nl9OYU9SczM2emE5dXdTZGxkZV8wM0J1Qnk3YjNWQkpLUXR2ZW15NlhrTWNDOWhhQS1ucHQ5ajBGMlpfNW44Tk9iRDdERDRFM0hpQzYxTUE4QTBuUnZ0NkU1ZXhYMG1fQnZLcFN4VE9tblNJY2hYOElVazRpTllZZ2c",
+    "source": "detikNews",
+    "pub_date": "2023-10-19T14:00:00+07:00",
+    "desc": "Kemenhub Gelar Raker soal Pentingnya Angkutan Perintis di Wilayah 3T&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "110663d2aa78",
@@ -59574,6 +60835,19 @@
     "desc": "Kemendesa PDTT Buka Formasi PPPK 2023, Ada untuk Disabilitas&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7b97f5bc78ec",
+    "title": "Smartfren Gaet Telkomsat, Pakai Starlink Buat Layani Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFZWRnB4aEh0MktHaXNTSjFHZmJFdUY1ZlpHaGFNTXVWMG5GWnVOQVFESmlpNGNBSUkyaEJFMGppWEIxYVk0VTBmam1ONDJ4cWZsZnZTbnZCakRjMlVGNE81RGVaWTg4aVNmcktCQ2VzOUVoWGMtT3U4cFdyLTA5SFlneUlMVjBFcUQ0TW5IRGZDejE3MlBxQm5DZ0Vra201bWdheXN1V2lGOElrMmstSnBsQdIBuAFBVV95cUxOTUZsbVBrc29lVnhNTWZ5SS1lbXRPZ3lRTzJvU1didDB0WXIyckh5a19zS3IyYjZtb2xqLWxFYVVGc0Y0Rk9hVVc2bmRVUWowY0VKX0pNakFGUnZkUW1aUDFjS0NnYUJlbkxWbzM2UG0wN1RGcW1xZE1xLTM5Q2VycWQ4WXM5NktJcXB3SE56X3drZ2xYMHA1T21rZnV0dVhxbzNRWU1YZnNQQVZzbFpiOW04eVA2Ykt5",
+    "source": "detikInet",
+    "pub_date": "2023-09-18T14:00:00+07:00",
+    "desc": "Smartfren Gaet Telkomsat, Pakai Starlink Buat Layani Wilayah 3T&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -59761,6 +61035,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "456aac4e273f",
+    "title": "Hakim Dilarang Izinkan Nikah Beda Agama, Yandri Susanto: Terima Kasih MA - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGEtWVZRNWxXZGRKb3RXcUF1WEhmTGg5NTJnRFdqT1UzbjFtNG1QWlBJQm05elE4SFhiTG5WdnZwZXVPV21sNFhDbFFDTEEyb2tsekRkbVBPdjc2b0JMODVvOUJmamtMS3p6Rm5RMFRMZlNEZmROQ2d4MVhnN3ZDbk9PWTdfZ0FnX2V0Y3hQSWtBbWFwbjVPY3VnRHh2OFdkUFd6Z09KZzRyam1VVXFB0gG0AUFVX3lxTFBIeGMyNzFCZVlHU3paRDlYODRlZ0stdlBfcFZ6RFhXaS1QYUlfbkN4R1h0V2JBXzRqOHlSbkpld2NaeEF5enBjV1RfcWE0ei1aejdVaTg5NmZsRHJCY1dDM2o1QUt0NU44Y3h2b3IzazU5S1NHRW02SFV6cnZ3MkJfODBiSk5rcXlJV0tPTnEtZHNnQ2RkZHUtS2EyMm5XeEZBejdWcXhqMVI2aFhYVnZydHBadA",
+    "source": "detikNews",
+    "pub_date": "2023-07-20T14:00:00+07:00",
+    "desc": "Hakim Dilarang Izinkan Nikah Beda Agama, Yandri Susanto: Terima Kasih MA&nbsp;&nbsp;detikNews",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b2109667399d",
     "title": "Foto : Tugas Berat Menkominfo Rampungkan Proyek BTS di Wilayah 3T... Halaman 2 - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1BJODlZQmw2Zm1YcGdBUjBMX0ZlUUxQUUhmVnA2MDZOU3dBU1BTakZ5VmIyR1hFb0RvLTBBVjlSNFR5QUpvd2VPOEpTUExaOU9teHZfY0VqcFk4TFNlOGZ0ZFpLWGh3bi0yRWlMUkhtLW9mdENxLVowUDFyQzVkRV9QRmo1YVdMTjVBN292Njg4MGV1SkhZUDFGTGFkOTRBWTRlR1BsSjdtSmZZSmhKVEZqU2hST0E",
@@ -59806,6 +61093,19 @@
     "source": "Kompas.com",
     "pub_date": "2023-07-11T14:00:00+07:00",
     "desc": "Kemendesa PDTT Sebut Butuh Aksi Global Lintas Negara untuk Capai Target SDGs 2030&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "938e466871ed",
+    "title": "Yandri Susanto Datangi MA, Minta Batalkan Izin Pernikahan Beda Agama - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUEluSGZZeGFZU1VCZHU2MDZFLTBYaU9VRm82Rkg1UUIyNXMzRUFXa2c4VmFjYWFEQ09YazdTdDRzWGttajhJQzhBdmgxXzNTa1FmR0RKOWQ5NGl0VklKQkFocGloY3daZWRGTDBvb2pjOUNKX2V6dHNObWJiVENxc3NUV3RSLXpOWC1OYmxBakpSM0g1aFFMd1M2TWcycjB4NVpya1haTld2ZVXSAbABQVVfeXFMTzZaSTdjdkZBRkhuNklSZERnS0dOWUhYUkp0czBYUkJKclpUZXI4MldiSXNJYV9heXE5bzRIRHdOWERlNWJDZnN3VG84UDBXWFpTT21xZUI0OUU1X1FuSjlrY2dwYXBWajFRU2s1RFRtdDZtSGtDdjFFS0haNVFaQmtxR1Y2QU1YNmNpNDJBRkVjX0k5YXVxS2xEMXFjZ3RmSFNTQ0VaeXRKUlBrdzg2aE8",
+    "source": "detikNews",
+    "pub_date": "2023-07-11T14:00:00+07:00",
+    "desc": "Yandri Susanto Datangi MA, Minta Batalkan Izin Pernikahan Beda Agama&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -60034,6 +61334,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "b26c202ca721",
+    "title": "Kemendes PDTT & BKPM Fasilitasi BUMDes Peroleh Nomor Induk Berusaha",
+    "link": "https://news.detik.com/berita/d-6718344/kemendes-pdtt-bkpm-fasilitasi-bumdes-peroleh-nomor-induk-berusaha",
+    "source": "detikNews",
+    "pub_date": "2023-05-13T10:53:00+07:00",
+    "desc": "Kementerian Desa Pembangunan Daerah Tertinggal dan Transmigrasi (Kemendes PDTT) bersama Badan Koordinasi Penanaman Modal (BKPM)/Kementerian Investasi memfasilitasi perolehan Nomor Induk Berusaha (NIB) ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "29795956818d",
     "title": "Dukung Distribusi Uang di Wilayah 3T, BI Bawa Uang Rp 13 Miliar ke Pulau Wakatobi - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ0tiTzBncThHTmdIMDdBeHpJRVdZTDdZVmVvYnRIekpTd3Bna2doQmdVVHZHbUNzQk03VnRQaUpXUHhFUGVCcks4YVR0WHZnbTg0MnEtQm1MZU5CZnJCTTd5c09KU1p2WXd3RkRnYkRWS01PeUF0c3ljRl8yai1tMlc3WlI2Q3JvZkhWdEN3cUNWNTJNSGdJRlE3ZXpXc2tRX05maENLcV93MmZoZkY5MUlSWnhOYUg0cWc",
@@ -60079,6 +61392,19 @@
     "source": "mpr.go.id",
     "pub_date": "2023-04-10T14:00:00+07:00",
     "desc": "Butuh Konsistensi dalam Peningkatan Kualitas SDM di Wilayah 3T&nbsp;&nbsp;mpr.go.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "09831b26905b",
+    "title": "Waket MPR Nilai Genjot Kualitas SDM di Wilayah 3T Butuh Konsistensi - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWk0wb3gtbjY0LUYzTHBuUENKVW5CdHpWdW0waXYtSWFncXJkSTB0RGlWMVFXSlA0eUZIc2s5NDVwN2hTYjV3S3UxVnlyQ093bXIzMlBINmJwOEVzelViTkVQeVA4UklXbHJYZXZfWEJPM1FzNDhLZHBCcVMtNVBHV25INEQ4WkFhdmlXT0ZWMldpWGZ0RS1JYWhrYVIzMzU0WnN4UVFyUUlpdFXSAbABQVVfeXFMT2dyYUg4UWlQMVJXYzM2UE1KcFZkTFRPTnRLNExldTJNVU0xM082ckF3aDFOeXBOOVpZa1IzRHNkb3RRZHlaNGdHNFBLX1BNV0xuQUtCMVU1andMX0x0aGdiOEdPeHQ3ZnFDd29rYVJmQ0t4SGRXNG5ja0l5Wjl3cGx2M2l3eV9rVU1FeTVlY0I0MnV0MGNqUlVzdGh4LXBIdThPVTM4OFlueHJ6dXlrQlA",
+    "source": "detikNews",
+    "pub_date": "2023-04-10T14:00:00+07:00",
+    "desc": "Waket MPR Nilai Genjot Kualitas SDM di Wilayah 3T Butuh Konsistensi&nbsp;&nbsp;detikNews",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -60268,6 +61594,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "46662d0ad065",
+    "title": "Langkah Profesional BUM Desa, Pemeringkatan - Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15aWpUNE9WbkxSR0ZrY3ZNbWRjTmtPQnFER3NlZGFDOGN0alB5RW44MGgwWlgzcVZWWXdBc25iWDJGbkRaeWs4UFhJTmdFTm1PVkZqcy1iRkhkRFhPNG95OGg1ajR1SXd1U2dvS2VYaW5XUTZLT2lZeDRNQQ",
+    "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "pub_date": "2023-02-17T15:00:00+07:00",
+    "desc": "Langkah Profesional BUM Desa, Pemeringkatan&nbsp;&nbsp;Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "578c2e7fb4e2",
     "title": "DI TENGAH KETERGANTUNGAN PADA DANA DESA, WARGA RT 01 RW 01 DESA JOHOREJO GERAKKAN SWADAYA BANGUN JEMBATAN - Johorejo",
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQN3V5MThaRExyOEYzU05VNUxxaXFzTy1kNmNPSVlMNU1WdzE5VzI4RG1BWldweHVqWWVvSmxhaWVUelZENEhGV3lGa3hjWmpvaGdZOWg2YjN3dHIwTWpQdUE1c09neXhMci1pOUhrWk9NYUhUelVlTGxwNEFDVXhRTXhsOXBoSnZNSFlxVU50ek5LMGdwVVhuN0kwQVYtcUQ0QUJQeE9tdXgwa1dUYi16SjRTMWdESk9OTmpqZk5JMG4tWlRwX2ZzUVBLMXZXb1dLQlNiS2pVcGFzaHJkeG82SU5fVXZoVFcwekNBQnhqeV9od29zVlRoWDZ5ZkZFd3JCdXYxMHBsUTVUeHM",
@@ -60320,6 +61659,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "720a15f8ab0b",
+    "title": "Kantor Pos di Wilayah 3T Ditambah, Tarifnya Gimana? - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVVBiS21HOGNOeEJrd2k2cUdQTGtxLWtuOTg4RHRrRnhpQm9qUkU5WVpjcjduaWhZdWJXQmdWTm5mdVBiTXI4dHV4OFpqYlNpQVBhbWRDZDJEbGlxbS1PZ0syazJQV29kbm5kaTMzc3JuQWRFVExtSnl3MTQyZzF3QndaM0drS0ZRTzVRSlZDT0wxMTNEUGxxTWh3R2h1ZlMtbGlSakdvUmN6WjTSAbABQVVfeXFMT19DNlNYTmF6SVNqdU02N3FXcWFTMzhmeTB2OUdzTHhpbWtSSjlYMDVyWnVFUXRjdFgwaGJsWmptWThib2E1MEYwRVpQZ1lrdkN2SzBWR1FLNlV0RVZsWXd4MTA4TzNFNS1FRnhzMUNaektmeFVQSldJMURzcGlVNUlaRnY1Nmp5RkNBZzNGbHBfYVkzRnRHXzhJSFBxUWwxQWFsYl9TZVFRcm5NaGgtQV8",
+    "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "pub_date": "2023-02-01T15:00:00+07:00",
+    "desc": "Kantor Pos di Wilayah 3T Ditambah, Tarifnya Gimana?&nbsp;&nbsp;detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "dd4befc03e5a",
+    "title": "Pos Indonesia Buka 37 Kantor Cabang Pembantu di Wilayah 3T - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFlCdTNpTXJVOWZSOGlfcm52b1JmcW5wVTZtbnhlSkt1c2ZMMDB6cVV0VzFBajJ0ZDcyYjhsSC1JSXk0X0NKdDFUbHVDa09QQ3EySFhHOE81a3JJckFUNEtOVnhVbGN1U19NQlFrTjlsYlFLOElhYmVaYkY5Yk5ib0oydEE1NVhIN3l1WWRHRzhGTUQ0QVBSTVltbEpmNTdvNVN0cldqS1E4QdIBrwFBVV95cUxNVnNQQ0Fqb0NmRTV1dWJEVGJqaXBKUFd4TS1vaDFZbVhoRjktdGZ0N0gtNXp0SW5JX0I4V3hnVGRfRTh1VkJqb3lUdkxGdVVNdmxuVWF6VkFuVHU5Rjh2dmxnWWNpTExYNExQb0FsVkJFZDBlbWItV0hHQjZ2S2MzWDRwQXZmOW1COUhfTWgzY0FKdkFRS25DLWtobVEwc1ZsM1lST3hzbzdGaDEtbGhN",
+    "source": "detikFinance",
+    "pub_date": "2023-02-01T15:00:00+07:00",
+    "desc": "Pos Indonesia Buka 37 Kantor Cabang Pembantu di Wilayah 3T&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "82d4dd271cc9",
     "title": "Songsong Kemajuan Desa, BUMDes Wadas Studi Banding ke 4 Desa Sekaligus - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVFNT3RxeXBhN0plVkE0YVhaMmFQdjlsWDVkdldvbGZESl9QYzJkQWJnLXo3MVlMZlRrMUZDXzhmckdnU3NXeWg1MnNpV2F4M2xzQkxvVG0wNU1JbXZ5bHFjem5GZkpWTkExOWhoSTA2alYwbnB4eUg4eVg3eVlhODE0dlZ6VmZZRE5HNHF2cWZsd3daVzAtX2dxcG16SGk4RTdRT1BWa0VjUm5jbUtaRzhacVJiMVVxMHdPeHlLMA",
@@ -60331,6 +61696,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0ff461af6d6c",
+    "title": "Samisade jurus ampuh entaskan desa tertinggal di Bogor - ANTARA News Megapolitan",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ2V2OU00bDJzSHFsZG5MXy1Qazc1NTV4Y09DWmNrM2o1ZXZsNzJ0ay1KOHMwWHphRm1lUzRING5PNVlESTJPbXpRemlTNmpyX0s5aVBmNGEyNjRWZGtiQ2lXbFBJRVBzbzN2bkhyNFdWVU0yZGdiOUNmRDlSWnJPX20xT1M4Y214dW1udXhVdVdxYmJsY2cwcGlHZnVpY1A4UDhvazh30gGrAUFVX3lxTE5ySFdjREp5Vl9HUzZsNVppSGtieUp5VC14OEZ4VHdodUg2Si1CT3VjdlFMdFFEVVVYb0I4MWh1bWFFelhTVm1OdTl5a056eFY4T09jX0RZX3BUeHNXWnl1RzduaktlTXRrN0trb1FGaEd6dFVRc1l6ZUw5M1hEWFJXUV9DQjNQaXR5Yy1BS2xWVFlmSFhIWDhodnlUbXBuaGlRam9RcGRlMlN4TQ",
+    "source": "ANTARA News Megapolitan",
+    "pub_date": "2023-01-16T15:00:00+07:00",
+    "desc": "Samisade jurus ampuh entaskan desa tertinggal di Bogor&nbsp;&nbsp;ANTARA News Megapolitan",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
     "id": "b85fa8243295",
@@ -60411,6 +61789,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d82e44e08748",
+    "title": "Kisah POP di NTT, Dampingi Kepsek-Guru di Daerah Tertinggal - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGVnRW9qTVh4ZjR4Z1JWMTd4eVVBUDhzNFUyOHdaOXZCUUx4UWFNWHFHVVFBVi1pOEYzYzA3VnFnUVdqTFE0SHdNZVRFV3pEM05nTzVrNTh2ZGR5ZWJESUVVYVpBdWUtWlVBQ0dVQ25NLXVJVGRHQWVXeTEwbVZtWFA1UjkxT1dNaTQ2QjVuYzU5VGhIcXpONDNTTFd4b2Y0a2hN0gGoAUFVX3lxTE0yQUR1M0NubnlRUnFySmFyczJrTl9ZTXlvb3RNOS15dlNDSW0wWXBkTDI5WXptcUVIeVNzX2ljR05kb1B0QnFOMEhheFpnVDJTMDhhbXRiRHBWdV9selF5ellJaVRWOWJrU2o4WEJSMlBlQUdxTTNDLTk3eVZUT0hkNVIzejVuX0NCYm0wMXQ1MUN5eHRVNW9LZ1JRckNLYUkzNWliTkwxcg",
+    "source": "detikcom",
+    "pub_date": "2022-12-11T15:00:00+07:00",
+    "desc": "Kisah POP di NTT, Dampingi Kepsek-Guru di Daerah Tertinggal&nbsp;&nbsp;detikcom",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ed74f3073fab",
     "title": "Forum BUMDes Dibentuk untuk Cetak Desa Mandiri di Mojokerto - detikcom",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcEt3ZE0wUjlERXV2Q09wa3VjbWY5MjFLV2lmTHpsNC11LTV4S1I3YU5fYkMwN01IbUVfNU1aTE9EanZ5MFFNRHYyUFV5QTVNbDdfVDVKVXhyNk1wSVF3ZE5mREVLR25EWTlYMm1vUGx5aXdIampaQUhmMC1NSDFlNXlQY0NXVm01REU5R2NRX3Q3Szk0a1h4bDFSY0lINGF3eGRuVi1Ya9IBrAFBVV95cUxPeFZac0hvNGZrbW8tSjZUYVNlYV9XbVBKaVpQT2g1TEFZc0ZxbHBtSkZpb2VIekk5a1NUYTFpVEhyalFTM1FLbVFGcW5qNGdCbE9DVDdCSUFvampkTHFHcDJHRHdMM09OUndUSlJvTHVFTkxfMlBUQ3ppSnFkb2dSb0tRZlU1bm1mRloyODBqSzZYMHY1X0RmOEVFczJJMHQyeVE1T25OZExBM0J0",
@@ -60448,6 +61839,19 @@
     "sentiment": "positif",
     "sentiment_score": 4,
     "sentiment_tag": "Apresiasi & Penghargaan"
+  },
+  {
+    "id": "4e900950c179",
+    "title": "Jadi BNI Agen46, Pelaku Usaha Bisa Bantu Akses Perbankan di Wilayah 3T - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFB2Z25IeWxxWEJYM3dFWEJxVDd4bTZxcllGZVFocWZBQXVDTWJrcjNKX1lsZHBnUFJYUUdDTkpBUDFTcEdwNElTR0g1ektodWJIWkdJSE14UzBrRWpSZmMwTjhiNFphVnROMnAteWQ5cnJpY2lCY2Q1NGNnczZrLUZqbEZnUmUwVVJuM1VobXY0R3I4ajJuRldaX3NCRDlEc3RxdGFHVVI0Rll2dDJRb1Bxa9IBuAFBVV95cUxOcFNKVTlNeGpfRnhod3Z2QmlsV2ZFSnY5X1FpdV8xNGdTMlBsUUFNa3pkckNaWWhJRll1b3NJYlBTQWgtanlHWS1rYlNCYTBfZm16YThJZUdmREx0Tm5ZaVBWTjROMkUyeFg5TktlMDI1SWZ4aDltTnhQVkZIN2wzQWpIR1ctZzZBSUZXbmhVb1dvZ0FTc01jbGxxc2VzVkdVek1qc0FBNkwyVV9xNlRVQUFCbk4zVlZa",
+    "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "pub_date": "2022-11-10T15:00:00+07:00",
+    "desc": "Jadi BNI Agen46, Pelaku Usaha Bisa Bantu Akses Perbankan di Wilayah 3T&nbsp;&nbsp;detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "154ff4d88149",
@@ -60525,6 +61929,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "28dd7fe5b395",
+    "title": "Kabupaten Bekasi sudah tidak ada lagi desa tertinggal - ANTARA News Megapolitan",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0lCRE1GZFFJMXZRRjVGRGlnTDZiQmxBZ0E3VkY0SlpjdjZEUzNKTGJLajBkSmVVSTAtZTJpbFBHVTU1aXpHTEJjWFFaRzFkSnVRQUNKLUM1OHhrQktYbUc4MWx1ZTkzSjhLM2xtZy1IZ2thSzMtcGk3RDNNZVFXR2JkWGIxNVNOd2I3R1NrRzc4SDdBaGpqLWs0MjJWQURBY0drb9IBqgFBVV95cUxPdWJqckhoUnRJMkpPM0ZhdzhqT2tDRTVEZlVCcGo1VldGeTE3ZjJxWVAtaFRiUnVMcHNQOFg1Ti1yNWt5ZjZBZ2tMbkthTmE4NkR4YXU1azkwYTdveGRPQTI1NmQ0SERzZmNKSnFyM21tRXpzZVlEcTZIaU5JNDJOcGRmbjhZUnpZTFg1b3BtdzFsSlJXSmVsT2l1bHA4SElUOW5aUllrbXhYdw",
+    "source": "ANTARA News Megapolitan",
+    "pub_date": "2022-10-19T14:00:00+07:00",
+    "desc": "Kabupaten Bekasi sudah tidak ada lagi desa tertinggal&nbsp;&nbsp;ANTARA News Megapolitan",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -60835,6 +62252,19 @@
     "desc": "Dana Desa Membuka Peluang Kerja Bagi Masyarakat&nbsp;&nbsp;Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8de180096f38",
+    "title": "Percepatan Sertifikasi Badan Hukum BUM Desa, Solusi Konkrit Kebangkitan Ekonomi di Desa - Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzd6azZTRVZhUnM2azUwTzdqeEZGVHM3WldDSXpwR2g0STBFc2hjQjBhOFJRcEFyT2lZcERWVmt2bko5My1CZjdyVUIyRXljdlI2VVJUVTYxT01hUlBmZFVFRnM2Y0FjVllBUmtBSk9od25BX3lPWUQzQUFETFZQY0tVTlRBM1RLXzRSZ0REdC0zaEc5ekF4bTJRZnJsc3VmN1hDd0tZRlpxdTl4bC1GZi1nU3V2Zw",
+    "source": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "pub_date": "2022-07-22T14:00:00+07:00",
+    "desc": "Percepatan Sertifikasi Badan Hukum BUM Desa, Solusi Konkrit Kebangkitan Ekonomi di Desa&nbsp;&nbsp;Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -61217,6 +62647,32 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "b9896cd09e72",
+    "title": "Cerita Brigpol Mahendra Sulap Desa Tertinggal Jadi Wisata Budi Daya Anggrek - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUmZ0WVBGN3RPVG5hd29vYUdZMnVqdWZPcHB0d0dfTkxNd1FZUlVUUkU3RE5oQU9DVjlCU2VHbzBkUDVTTElQYWNhZEFfTGRUVTZtdzZWXzNlMUpyWW15VVlOWFRXemNIS2V3emc5UlBUWE5MRHVuUmdlLVpzWTVDQ0JrcjVnRG1hRHpZYXVlbEt2T0lmeEVDTHM4TlhJWkdJSDh1ZXBHd3YyX2NuUVU1cmNndkFwd9IBuwFBVV95cUxPY3o3dGNQQkZoMWozZDVEUnhIMnB6REtUcHJoVmkteFItclRjMWxMVkFQdjEzVHVVQkhkU0FpWGQ0SmVZZFJSSUNWeUR4RFNlb24zdlNKMWNJR3FUWUF6XzVfd2RZYTFzcEJZZ2hJalg2cklOZWJ4UllXbjk4LUVSSkpRRW1ieWFIRzNxa19KWWVHeXJQdkVwa1M2V2RjSFI5cUR3dU01dWhpMFRGN0VaUmFfX0V6aXdhSEdv",
+    "source": "detikNews",
+    "pub_date": "2022-03-31T14:00:00+07:00",
+    "desc": "Cerita Brigpol Mahendra Sulap Desa Tertinggal Jadi Wisata Budi Daya Anggrek&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "80030ce223a9",
+    "title": "Anak Usaha Pupuk Indonesia Dukung Pengembangan Wilayah 3T Aceh-Kaltim - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdWk2akJuUmw5dFBXRXlZb3lkeFdUVHA4bGZ4RUsxOWpvRUNTcEJ3dGx3RTQ3XzdHZWxmaC1ERDgydWRMQnU4VEtNbXd4TGpmWXFwZUppdURXWFlVQjdGZnVkSmdsODNkYlRsYUFROERwUk4xeXJpT0JLX043cmhHdnJ6YTdmbElXY2drTzAzV2hHSTZONVZQaGMzRzA5Z1Exd1BWa25VNFZMNHVLTHfSAbMBQVVfeXFMTjZVbE5MaE1DSXRNaksxcXFJV2ZaZ3libkJ3TzZJcjFNMTVkejVmaXVtZ1BLQnZJTTM0S05UTXVsak5EWmlrUFpXNy16T1MxaU5TZzF1MVAtMmREQUs4U0NFSlctTTRZRDFvakR2MEZMamJkcDRyYVB6Z21Zc19SYXNvanVHaTFkZWpPRjE1eXpmN0RLSmdnNmJyUmdwcENJQ3Bhd3RVaGFFOF91aUZ3aFo4MjQ",
+    "source": "detikNews",
+    "pub_date": "2022-03-30T14:00:00+07:00",
+    "desc": "Anak Usaha Pupuk Indonesia Dukung Pengembangan Wilayah 3T Aceh-Kaltim&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b9f51bb0d26f",
     "title": "Alokasi Capai Rp468 Triliun, Presiden: Dana Desa Pacu Pertumbuhan Ekonomi di Desa - Sekretariat Kabinet Republik Indonesia",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOczRKZHVVRGRVWVllN0ZnQlFwTlVRbU1iNzhRY0p5OTJBVG5Zektib1llTkJHUy1pUnA1UTA2TFRNVFREanY3QW1Qc183NjNqMFdaLWVUMHZRYXZEVFpzeTREMzhHOFpjY0Z1bkhhUFViSHpKZlJFVTU3U3Y1X2hqbTdyV09aLUwwUjNJYjNtMnRVTlg2aG9wMnMteFRPR2xhRnM0",
@@ -61477,6 +62933,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "41d44deb7b5a",
+    "title": "Jokowi Teken Perpres Percepatan Pembangunan Daerah Tertinggal, Ini Isinya - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPN2R3ZGNqMUV4azluVHpOVlFtSVFJQ1NhRkhlTEkyLThlTGZOZHhPWEVfZTExTnhwdVJocy03ek03SnBtRVYtTmJkZ2F6aDhGX1M1Y3J5WFdUWDlpMEZhTjVtYmVOdEpDYWxPR1RTb1Rkb08tdXc5eGlhbml3SjFMdndLWFhHU0hEeGIzS0JyOVNtZ2lRV0N1QTRvcTVIT2RKUURHTmdzNEJIZGRuaXVEMk00TFRLRVh1cHlVdDlEMlFxMGhsbHJhdTR30gHPAUFVX3lxTFBIVUhrektEd0xEaHk1MElBSFlaZlhzOE95NFpFU1ZIRHNWV2M1dVQybWhjQk9ha2J1UWxUY2JKeUhZVm5FdjFqRVJJbTVUVFFNdGZyNVAyZDc5SThVdXhUMHpiZmxTd3hhWWREYVJybDJzekhfTmpRMUtjZ0dWYlBMN3lrVGEzREx1ZW4zTjNFa3IyaWxjZnNoT1o4RGR3UElralczT1Jfd0RQaHdCTFItOTFSVVhId0FkT3U4R2RJMURHdEFyLUFySG54akdFWQ",
+    "source": "detikFinance",
+    "pub_date": "2021-12-25T15:00:00+07:00",
+    "desc": "Jokowi Teken Perpres Percepatan Pembangunan Daerah Tertinggal, Ini Isinya&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a12dc0b846f4",
     "title": "Jokowi Lontarkan Sindiran Pedas ke BUMDes - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNFpMVndfREpqSU5uVU9zcG5YSXdJNHBCYnppV1FaT2hPRWd1el9DckNXWUV6bV9FU0xRVEM4U2JTbXJFUkVGR0ZGTk53MjNMdDRpMEpKRTZOQTVXUVloVGtVV3ItWHpxZGxnQXdkZlR4M2pGazlKY19JQzB4TTl4aGFfUmZhOU9GMnBjcVVkWjFaVUh5VHZ5UlNKNGZtV3Uy0gGmAUFVX3lxTFA0OHA4cG1nLVZCcFFJSFZfWG5DcTJUb0c1UlFBOGRub0x5ZVMzTTBpdGZ2ZFRvaGs1QjdtbVFBdkg4ek4zMU1CNk00VTFMZTRRczhXcEVrRmxMU2JScllPdWM0eHdrMG5WcjNZWTJ0YnAzeC1ONWctQ1pRQVhsc2RaUHFva2g3Wkp0OGdZVGszeUoxRXR1WjlHTjJnbklZbm0yaDBwcnc",
@@ -61524,6 +62993,32 @@
     "desc": "TalokGo, Aplikasi Karya BUMDes di Malang Ini Bantu Promosi Wisata-UMKM&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bf02b4ea5af5",
+    "title": "Bangun 7.904 Menara BTS di Wilayah 3T, Kominfo Pinjam Lahan 14 Pemda - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaFAyRXRmb3kyM2lQM05yYUhRWC00TTJBVXpwdFF4QlNoS0VRS2o3R2pEcHpUY19PcE14bkFZLVRNcldyTExKTnNuQ2VCdDJRZEtsZUw0RkFEX2tKMmdPVzAtUTcxZ3RuUTdMOXZ3ZjhWQWZDRXczLVlGVnRIRGQ3YTN6bTRBMy1BZmthRmxxVzVZdWZtWlJ0MEs3cmtLUmUzaDEweGdPRHdnaGpzbHZuRFk0eHVnd9IBuwFBVV95cUxOaWN1a1ZXNktYa25EbFhWZ2w1N19uTVVHMEdYdGZ2R0JJZ2g1d3prZVl2eWVDNHp6eXg0b0JiNWlmQUkwQjRTbjlfdFlHcGRCRWRXTHg1TTc3b3FIbTdvTHp4bWFMV0NYd21ib2lISkpqRms3eWFDQ2hYVUxpQ0ZSNE9wVEQzdHRLT2ZYazRubEdGZ2YzUURsX3VybzJ6Uk1jeXJCWklKZnhLa1dIYjFrNWJrT0pTMmJ3bHlV",
+    "source": "detikInet",
+    "pub_date": "2021-12-14T15:00:00+07:00",
+    "desc": "Bangun 7.904 Menara BTS di Wilayah 3T, Kominfo Pinjam Lahan 14 Pemda&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bd5d2a53f992",
+    "title": "Jurus Kominfo Genjot Akses Internet di 9.113 Desa Wilayah 3T - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZUhNajRIMmtqYWwyVHBLUF91NlIwS3VTT0pxd0owVU1kSGZpVG5ObThpSDI2VExvZ3g2ODRzZXZEek4ta2ZENS14bmR0VHhOOVZuMGJzOW1sTmVEUURZakw2V1plQklPMDRoMFl5Tk1VR2VDcGVkOEdwWEE1T09lNURQX2FTU3JtcHdpYkQwX0V1QnMyWDQ4Mkh1V1Npbno1ZEhkVVlOYVRQcE1W0gGyAUFVX3lxTE9CQU5LNlZOZ1VpOTlQOXJMeDcyTXJ1c3VIbHExMERwTzNmREc5dlBaZmw1YjhoeUpWaWd6Q0JvUDlEWVlvNlR4T3RkMjFhbVktVFFMSHRHcVlPSVNGT3JHX0Y5Y0lKVTJSNjZ3aFB1bTRsdTJxM1g0aWNEeVRUeTR1Qzg0VjFXRjg3TnF0Qy1MdE82dGlkN0JZM0RaSW5EYTlLUXhqWncweERueFJlak9GWWc",
+    "source": "detikInet",
+    "pub_date": "2021-12-14T15:00:00+07:00",
+    "desc": "Jurus Kominfo Genjot Akses Internet di 9.113 Desa Wilayah 3T&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -61771,6 +63266,19 @@
     "desc": "Desa Kalisalam Segera Revitalisasi BUMDes Sukur Maju&nbsp;&nbsp;Pemerintah Kabupaten Probolinggo",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a4b21e6c399f",
+    "title": "Telkomsel Bawa Sinyal 4G ke Wilayah 3T, Ini Lokasinya - detikInet",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkhCckdPdGpGNWdvbWtQV0tMUlRjQnhFSF9ZZS11OUtPMWp0VG5YS3VQTHIyb2lDR2c4eU5lTzh1RE5JU0hGMlhFb2oySVdCd1pNUk9PeWdmaWVXYUU5ck13SmM5NFNNV0RlMXAwSHhCM2dwT0ZUQ3ZXTTFHX3lOWHNNeWlDMk1xNW8xa1VaeUVQMjVPd0lNWUl0eXY3M0xael9FWEFn0gGrAUFVX3lxTE96ek1oRTEzVGVPT1RYN1MwSUlSVWJ0X2t5MUhENDlQNTY1QWFyaFZmVVcwMmRMMV94VVFRQi1sX2o0UjNxUU5qQnhDSkU2TmwtWkd3U19XTWtXckNweG5EX2M2eGhHVTRnUEpSdXhjblBWMHdJTk9HQlcwcWRlNVl3T2VDOUVJdU9uLVJnLWVpQ1F4d1R1NHZKM3dqNlFHWFhFci13RGl5SGJZYw",
+    "source": "detikInet",
+    "pub_date": "2021-10-08T14:00:00+07:00",
+    "desc": "Telkomsel Bawa Sinyal 4G ke Wilayah 3T, Ini Lokasinya&nbsp;&nbsp;detikInet",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -62192,6 +63700,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ec884ed4fbdf",
+    "title": "Hukumnya Jika Unit Usaha BUM Desa Belum Dimuat di Anggaran Dasar - Hukumonline",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkppeDNxUDlxWVJwWmtROURXTERpUTJydVZtamFRMHpiQkktNTJDQmFfby1QNW9BWmhvQTdpOThVX2wxSTlHdFh1azlFMXFXZWgzS3pYOHNZSFZ1U2VvTzZyaU5MTS1TZlJHd1lNRHpkTlgyalVBbHhUVkZ2a1ZzNVpIeVc3d29yOTl1WXF5VWdrRURyV1Y5VXNjZ2l1MzkwcXFZX2IwTGp6V2tzcE1yVW1UaEFWUmtsQWc",
+    "source": "Hukumonline",
+    "pub_date": "2021-03-10T15:00:00+07:00",
+    "desc": "Hukumnya Jika Unit Usaha BUM Desa Belum Dimuat di Anggaran Dasar&nbsp;&nbsp;Hukumonline",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e82f1e7bc852",
     "title": "Desa-desa di Daerah Tertinggal Punya Peluang Jadi Desa Wisata - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY1dETzUyekh5NUpQUEprMlFOdThVbFpvMUZlTEdKN3hDU2ZhY2FzR0RfMWxXVTIyZktHNklwMlVSM3VxME16SWxnTHl5N2wycGdsVjBHSElHdWNhd2dpYmNza05RNXhwRkdEVEFKSjdGWk5zajJfeExLaUNTN2h2aXlzaEN6N1RqZEJGbzBnMkJMTnZMckc3bjVGdmloUWVMTDdkelVtZXA5dVh4ZG9kNWZ3VQ",
@@ -62257,6 +63778,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "34b7114fae5c",
+    "title": "Target Pemerintah di 2023: 4G Merata di Wilayah 3T RI - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNGR1TElrdUhaMlJrRHlYWUEzcU5zcnNnQUMybVdqX2k0dXpEUWdXN0ZUNVctTlRia0M3QjA4SWIwY3g3eEJhOUFDR2c0V2t2cXRSTXB4SnF5dTFSdHVnQ3Z0Tkc4S1NCWGVuc2dlR0N5b2tRcF93RDZtLUJQY0o4UzBOZ1RPZ0tlVUJDYmZRLWprZ2liUEN5X2ZnX1lJSk82bVE",
+    "source": "20detik",
+    "pub_date": "2021-02-26T15:00:00+07:00",
+    "desc": "Target Pemerintah di 2023: 4G Merata di Wilayah 3T RI&nbsp;&nbsp;20detik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "186bedac91b9",
     "title": "Fakta Kapal Motor Milik BUMDes yang Terbakar, Sejak 2016 Hanya Sekali Beroperasi karena Biaya Operasional Besar - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObC1ZRlhiTGY3M0haak0wYmpKazJqSlkwbGRJdXV4czZzcjg4T05Odk9hWkF2Sy1hbWw4TTM3Q3BxZnFPZGVlUmFHdDN1bTBOckNwM0oycTh6OXp4LWp0eUxDb0ZNRlFDaHRhLWdySFRnWW82VS1waVVHRUtKam9uTlhMTDdYX3l3Ujc0WjYwWjBZZDRoYWc2R25pcXNDcTBmbmxiemY1amtNY1FqZllSLXdtc3kwVjBMT0I5dzVB",
@@ -62291,6 +63825,19 @@
     "desc": "Banyak yang Tertarik, BUMDes Boyolali Siap Pasarkan Esemka Bima&nbsp;&nbsp;Kompas.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e30bbb26b347",
+    "title": "Shell dan Total cs bakal Wajib Jual BBM di Wilayah 3T - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbzFWYlg2OWJrV3h5Nkt5Z1plNWY3N3B1WjlnUDlUM20xaENwTWhjTE5NajIyak1HdUpsNGJjdmJZQXZ6ZXhadmxrc2pEcHdZa01pb1FuM05hcmNocm1sRzFUS0p0cWRxODVUV0FGTTA1OHFrbXhGTzV3SnBhcG9aVFFfc2JZWlh5VlctM0tmZE9tdGZaUHJLUHZhbHQ",
+    "source": "detikFinance",
+    "pub_date": "2021-02-01T15:00:00+07:00",
+    "desc": "Shell dan Total cs bakal Wajib Jual BBM di Wilayah 3T&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -62712,6 +64259,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "45cfcabbf55d",
+    "title": "Anggota DPR Minta Daerah Tertinggal Diperhatikan Terkait Belajar Online - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjVoRnVpT0dsUzgxWnpwNGpRMXlxWXJ3am5Tb3pjQURTb0k4OGJHd3RxX2RmQ2tHQnRyVUo5VUhldkI0cGgtMzBESkRNMlFDbXNFT2ZzZFlWWTA0dEJTRzFUb2VLNDZPUFAwX29VYXVtcnladEpVRzM2MHBzM2R4eFo1MjlEaGRnajgxNUFZMWtaejVna1d2ZXBqd2NtTTlYSXd4VndOTFYtdmxXckVRNw",
+    "source": "detikNews",
+    "pub_date": "2020-07-09T14:00:00+07:00",
+    "desc": "Anggota DPR Minta Daerah Tertinggal Diperhatikan Terkait Belajar Online&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1a74f8548e23",
     "title": "Segudang Masalah 'Macet' BLT Dana Desa: Dari Teknis hingga Politik - detikFinance",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3N6TGF4dF9jU0JmX3NudS10TjkwTVJUR013LTJfX0NNRDltWk5mR1RvajFLaHNVcG1NV1UyV2cxN1lyTmJ5Mk5qZ3liS3pIMHQ5Y0h1RldKZDBTSlFRaTVxYkxydXdnNEVoejc0eXFRcGVmX242RFVyR19OdHZtenVZX1QwLUtpQllNX0I3UlZqa2p6UTNGcEF5M2V5ZktUZXhKRl94MmRSSkdmWW92RGt0TFpuMlhBMFpERFZR",
@@ -62839,6 +64399,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9c4403cd7f60",
+    "title": "PLN NTT beri diskon 50 persen penyambungan listrik wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdHVSd0VReW0tLVdNN3ZqaE96T2RDLThpUHhwSXEzY0RxaXoteXpZVW0zanBXQTZuYVJaU181djc1VzlSNjhuM2pTQUxzZ0lfbTA4aHA3dDNHRVBYUkIySkZrNDlfWjRlcThIMlphRW9xVzVhOENKSWRnYTA3OURGRDdQMEVJcHBmOXBiRlZ4WGJjOWRDVVdyNXNzMVZDWmpXZnA2MTRjcw",
+    "source": "ANTARA News",
+    "pub_date": "2020-04-14T14:00:00+07:00",
+    "desc": "PLN NTT beri diskon 50 persen penyambungan listrik wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -63063,6 +64636,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "84d0e866d047",
+    "title": "Di Eco Fashion Week, Kemendes Pamerkan Tenun dari Daerah Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTWtXQ01QVTI3ZUdySzhYc3ZVQ1FGcllTT2IzMWU4czQ5aTBaRS0zU0otMXk4TXVjSm9kbnp0anl4elNWcllrdzNTeWQ4M1gzOVlWeEZQZ24ycW8tZ3d6bmUwUGZmdExsRjREZ3pWTlhfOVFYNFlabno0RGJMRFhheVFUSFU4amFXeFpKY180OG1mb2NKZmhHN3d2N2hkXzdJTWZZNVJQeXFhUQ",
+    "source": "detikNews",
+    "pub_date": "2019-12-05T15:00:00+07:00",
+    "desc": "Di Eco Fashion Week, Kemendes Pamerkan Tenun dari Daerah Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8f121b44f49d",
     "title": "BUMDes Berdayakan Potensi Ekonomi di Perdesaan - detikNews",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLVNhU2R3Q1J3MDRuN1ZMTU1rdV9LVk1rVWdTd2J0TlpRTUdoMUo1d0h6c1FUeFlCeVd5UzBVNGEySkJSMlhHcmtJdTl1YUl5X2JxYjF3MnVCSWJqSllDZGJLc0dBZldOUjBlQXBya3phZjZtY2tESXRFQ0FiRF9wQWlDck9mWlVaZEpiTEh0OA",
@@ -63112,6 +64698,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "acb534f0ce3d",
+    "title": "Dalam 5 Tahun, Wamendes Harap Tak Ada Desa Tertinggal Dekat Jakarta - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRk80LXlYOGYyRDBCdldXN0lodkV4cHU1a0hwZm44MHIwR1ZwSWNwZVJrYjlvREh6RXRkU2dIeXdNRTh4NDN0MEVaV25rSXNQeUxidlVjeVN2MEtWSFZuN1NHeHY5enpfVVppb3Jscy1ibHhtSXE1UEhjQ2V5ZFNnLXpIeGJFWjM3U05qb2lHaFNldmtTSWo4bmNhRmNXZUtIeEwyVG1Ta1BRQQ",
+    "source": "detikNews",
+    "pub_date": "2019-11-22T15:00:00+07:00",
+    "desc": "Dalam 5 Tahun, Wamendes Harap Tak Ada Desa Tertinggal Dekat Jakarta&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -63372,6 +64971,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9ca1555bba7a",
+    "title": "Jadi desa tertinggal, Pemkab Kobar percepat perbaiki jalan Sebukat - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcXY2dDVSbTNKUVh2OFhxSTQ5c0U2Y3NYb1V5WFVPVGNPN01heldQSDNTbl9TcXhvcE9vUzdEeUFiby1JeXM0Uk8xTjYzVVRRdDJ3c0lDcVBYUEtHdVFka0VpcEVIaXVYWkpXNjVmQmQyTlhWb29JRFhubkpwNlJrVk1mQl84cnNJUVRISjVZVWwxb2JqeGY2bnJDYjdqb1ZOQWZxa2dDcWQ3Y1VhRWw0",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2019-09-16T14:00:00+07:00",
+    "desc": "Jadi desa tertinggal, Pemkab Kobar percepat perbaiki jalan Sebukat&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -63905,6 +65517,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e9c3c4e7f73e",
+    "title": "Alpukat Daerah Tertinggal Jadi Suguhan Atlet Asian Games 2018 - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlJkLWFhWUZ3UGxCSVhiUEZ4Z3VraGRQZzNJZVVTZmthX0lmeUo5bTNPb0k3a0NReFNzQVgzVmdzNnhIcXI0azF2Z1lpbHpudkh2ak54RGN1RXpINmp6X3pfSGhxbnB2aFRjMmlldFMxejZMdFMzSzVBUUM0VUhzR1hDaHRLVXNtM05kVzJ0bm1DODRCT2FhdnVISW1XbWxDd0k4NTFCc1FHeDVXX2ozdklCLTJEX3U4VDNv",
+    "source": "detikFinance",
+    "pub_date": "2018-08-20T14:00:00+07:00",
+    "desc": "Alpukat Daerah Tertinggal Jadi Suguhan Atlet Asian Games 2018&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -64467,6 +66092,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "103594ffb957",
+    "title": "13 Desa Barsel Masuk Kategori Desa Tertinggal - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR0UzMTVFTWg4UGs5VVRxN0xvNkh5VnVfS2Z3Yk9QVjJsSTdDdTRWaDM3XzRjRmlhNHk2Y2N1UFR0bU8tZnMzeGFhNkdFQUliOWpQSmVaRHk2VlFsSWx4bXlHckR5UnNtWDYzSU9FZ2loYUxSdWtzUEdiTmpHdnpxV3NKSVgyeXhEbXo5VE1sejA5R0Fw",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2017-06-01T14:00:00+07:00",
+    "desc": "13 Desa Barsel Masuk Kategori Desa Tertinggal&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "23f9aa3474f8",
     "title": "Auditor Ditangkap KPK, BPK Buka Peluang Audit Ulang Kemendes - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnhPUXRnZjB3WjFNeFZuQmgzeDZ3UGZBYW1ad21ZeWdsa2VZdHhKZTBSYjlIb3RzOEpWVlBfeGdYVXFTbFpSZlNLSnVmenUybTVOeDJ1UHFMejRSYV9PQUd2Wk52Vy1lTEZ1aGJfVDJmVXlpcUpuRVdRd2hrazU3LVE0cUw2U3dIRGpINVVINVNGdVVyQlVHUnJiYkhxUU9mTFFwTW85bUdNNjFqV21BekNB",
@@ -64503,6 +66141,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "439bcbd299df",
+    "title": "TNI dan Kemendes Kerja Sama Bangun Desa Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY3M3azZVbDJxaDB5Uy0wYjZsMnIwd0RrWlJqZnozQzZQcDhEbkhwcUR3dy1nU3p5TEkwNUY0N2dPckpGOVNrMUxLZkgwRmxWckItN1VGZ1lvY2dPZWI3YWJfR2tKYVZTU1QtTXlrV21sS3EzYk5nMmJaamQxaU91TEVWYnVHWWVIdHN2QkdFN1l4YVlz",
+    "source": "detikNews",
+    "pub_date": "2017-04-12T14:00:00+07:00",
+    "desc": "TNI dan Kemendes Kerja Sama Bangun Desa Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -64675,6 +66326,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ef384ed66b93",
+    "title": "80 Persen Daerah Tertinggal di Indonesia Masuk Rawan Bencana - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUtsSjg5TUlYYlduWWNpU2YwcjJCSUdrRjZMOWFEaVFvWmUxdUlhNDYzN2Y3ZS05dzBxbVhpWWdMMTJGbWd1S0Itb3ZtN0tJUC1EYWQ2LVhJVUZSUE1oS1VJRndYUHJRRVdhRHJCbTM3RWRDVmdfNXVEMUlnSnE0cnZlOHkzYzZQcGpvbVh3Z0dTOHF6X1Q2VGVxb3lpZUVKa1E",
+    "source": "detikNews",
+    "pub_date": "2015-11-26T15:00:00+07:00",
+    "desc": "80 Persen Daerah Tertinggal di Indonesia Masuk Rawan Bencana&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5081bbaa1516",
     "title": "﻿Kemendes: Inti BUMDes adalah Kerjasama dan Gotong Royong - detikNews",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLXh6eUtBd0VadlNuTmdhMWIyb25ad3FEbDR0VFFTbm5INU51Y2pTTW1la0dQUVVnNGZhbURnZXlxdXhqZFBFd0ctR0Mtckp0b2k0c0t1bUZwcDBHRGh0QXFkbGk4QkxIUWJLWENMMW91TFYxblJidEp0U3VVMGFfdEsyQVhJTkZjaVl2SEg4b1FRUUtkdGtSYjVXdw",
@@ -64694,6 +66358,32 @@
     "source": "setkab.go.id",
     "pub_date": "2015-10-19T14:00:00+07:00",
     "desc": "Kurangi Jumlah Desa Tertinggal, Kementerian Desa Luncurkan Indeks Desa Membangun&nbsp;&nbsp;setkab.go.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b4da8d96eb17",
+    "title": "Pabrik Semen Rp 7,8 Triliun Ini Dibangun di Desa Tertinggal Banten - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOczUwYzFtbTNSb25WQV9wYWRGVWtBTmRxOWw4eVFkNlBGVDN4YzRWNXQ3MTdEdF9rOGJqckppT1dsQk9LbFlERXFhd3FibEcxMnNpcGRhc3NLcFZ0c05XWHVMQnJHZW9hOTVjYTRwQzZjVk5XVG0wenJVMVQ4TUhRcWVMbTRMSThaYzRUSUFDZWZRRVpJb3I1NFY3NWxhWVBkVzk0WEl5aFQ4d28yOGlfWg",
+    "source": "detikFinance",
+    "pub_date": "2015-06-10T14:00:00+07:00",
+    "desc": "Pabrik Semen Rp 7,8 Triliun Ini Dibangun di Desa Tertinggal Banten&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8e7b80737841",
+    "title": "Masyarakat Desa Tertinggal Masih Terkendala Infrastruktur - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR1F6M293S0NpWnZkeGdMT3Zld0pkZ3ktVkY5ZUpLMmtrbjFMVWVmN3g3ODFMeEVvZy1Ldm5VbWNvbXQ5V0xLX1VDVDhmbndxRUJ6Tnc2U3RhNjFMV2NvOXF4SHRvbUNDWHNQNXlNeS1nTWxWeGtqQmFESWtJOHFJOWVMRlV5UXV5M2lVSGNhTFF5NjNES1RzbkNiNmpOb0VUV2d3UA",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2015-04-08T14:00:00+07:00",
+    "desc": "Masyarakat Desa Tertinggal Masih Terkendala Infrastruktur&nbsp;&nbsp;ANTARA News Kalteng",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -64753,6 +66443,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f3341995e6a7",
+    "title": "Barito Utara Masih Miliki 13 Desa Tertinggal - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTVta2xrOWNDcV9DZWw4SlVNenVEUGdPOHJWbFFNclBQck1WaUNLcUlQRFQ4NWpicGpqb1RXZWJSX2t4b2MzY2VpelRTeDREMno4bXVoSjZlbkZ6VVcxV3FhMFpqSmhmUk53RXdJVjlsMEZqWWJXcVVCSnZKckppNk1SN0U5LVBCdk1GQW1rMU9TeTQ",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2014-12-17T15:00:00+07:00",
+    "desc": "Barito Utara Masih Miliki 13 Desa Tertinggal&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ba91fffc0962",
     "title": "“Maluku Bukan Daerah Tertinggal, tapi Ditinggalkan” - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS3VlVm51S2VrRXoxUjF6U2JENFVTRlVKQ2Z5NUtxY3hNclloMDgtb3Bwci1IZXFHWmoyZ1R5XzZWTmxocnpUXy1WS0Vva2NWY1JOd05NY0piOWhIR2pHckNkY1NYU2ZoRUVTTUZqc0M2Nnk2X2VvcUtGRlowbkNfcDAtSS00NFZEaC1wTGI0TmxMUUlxZE9WR1ZjemVEbXhWOHRfTw",
@@ -64805,6 +66508,45 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "35d33730aa74",
+    "title": "Menteri PDT: Biak Numfor Masuk Daerah Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGFXU0JNMUt1WmEzX0lzUmlFZ3JKdEVzNW05UWpqTkNoVXk4akNFWHdfSmNpSHlJQmItZGRIbk1MQ1V3ck9PTWc2ZjdSUTM0OXlLdUk3T0NZSG0wWWJZYXNSRXY5Q1QzVDNrSVVnMEZqX3lIS3ZMYXBaVTBlMXFuaFQ4M21UMmFPSEtMT1VGNUI",
+    "source": "detikNews",
+    "pub_date": "2014-06-17T14:00:00+07:00",
+    "desc": "Menteri PDT: Biak Numfor Masuk Daerah Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "32d5190ff8eb",
+    "title": "183 Kabupaten di Indonesia Masih Masuk List Daerah Tertinggal - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaTNoVkRxUnJ0dTVVRFJFQmY3Wm9hM1d3Yk1jQXZMWVRuMHNDNE9PTE9MY2JPb0ZSVHg0TlQyeXRrNUQwMG8ySzlPOTlseHJfUXpsNVBaamRvdFFLemhNeHFTNUR2eEhuTUdBQ2JrZFlKTHlpSE5vZ1J1aHVnVGYweU9obzJNbU0xcFRZNFV1WEF3VklnODFtVXdxZWxCdmw4aFBJQ0psNlJ6UDRWQ21uekNkRldDTkg5SGNhZlBuMlU",
+    "source": "detikFinance",
+    "pub_date": "2014-03-30T14:00:00+07:00",
+    "desc": "183 Kabupaten di Indonesia Masih Masuk List Daerah Tertinggal&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f7cdf70d6ed1",
+    "title": "Telaah - Pemkab Seruyan Berupaya Tinggalkan Sebutan Daerah Tertinggal Oleh Saidulkarnain - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLWNXck9NdUZHVFlUX0FWcHB0eHN0TDg1TGtqSDgxbFlRRERsU2pKQU9Eek1xeXpqcFlRWFdEbFo1S2tkNXg1ZV83ZHA1OW1Rb0VmYjJhMEd6V2lYQWRKYkM1UER3U1JMZC1ySThvUjkyY2pBY2RTaEFhUEtlNGZFVUU2X3pfUk5TdlUxWWpXY0tUZzJsdDAteTBkR1hnb2hoNmVUcnAycHpLU3luNXg5MDVzRkRLVkYyVXh1VTVSZ1J3ckVIcEItMkotNjE",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2014-02-27T15:00:00+07:00",
+    "desc": "Telaah - Pemkab Seruyan Berupaya Tinggalkan Sebutan Daerah Tertinggal Oleh Saidulkarnain&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "97c3054cf569",
     "title": "Ekspedisi Pelita Muda: Menilik Realitas Bangsa dengan Kunjungi Daerah Tertinggal - Institut Teknologi Bandung",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUJFMUVjbFNTejVLVlp2T044eHdyWmM0cnZjbHlqYmJhZEswMTZIb1lxb0hzNUIzSVBMRE1Nc1JDWHVHdkpkVV8zclFLc0pLMEc0Q2ZGV3UwV0hBYm9LZHgxVEVwTFFMMGVnV1AyMUMwTVprRmhPYm5TWjdVcm1Odkx6aVlELTFiTWFvbjJFUGRpZC10VHdqQ0hJOVNTbUFJR1pKckVJX0F6WFhRUUE",
@@ -64837,6 +66579,19 @@
     "source": "ugm.ac.id",
     "pub_date": "2013-07-25T14:00:00+07:00",
     "desc": "Yanuaris Boko, Lulusan ‘Cumlaude’ UGM dari Daerah Tertinggal&nbsp;&nbsp;ugm.ac.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2a98934d1cc7",
+    "title": "Bukit Santuai Terbanyak Desa Tertinggal Di Kotim - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZnBWX1hSZ2JCU1BDQXdsamZvNUZTM24zd01iRnN6TmxfVHprRG5KaHJZQ3RvVzI4THNQci02T2hjWHlNQjFyelQ2amIyX3RJQXdMcDRfcUIyb3ZwOUJ5Z1lRRFp3bzJNRHVrN29SOXFHbHZHc0d4MUtiN0FDdHZZQzE2dklBZGpMbm5jSHNrb3c1ckZ1Z2VDTw",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2013-07-17T14:00:00+07:00",
+    "desc": "Bukit Santuai Terbanyak Desa Tertinggal Di Kotim&nbsp;&nbsp;ANTARA News Kalteng",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -64883,6 +66638,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5fa00d6f3400",
+    "title": "Kisah 2 Bidan Baru Lulus yang Dikirim ke Daerah Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjAyS24yMFQ0dk1zUnhicHAwOEtMNzN6c0Q2YlRkZGpXS3lJMnFtS1lDRnczamhsaE9kOGYxTGlOclUzWU9TdEdaNTBfTVlmcWtIWHFGR3NreWpCX0Q4bmw0NkYxNUgxNWotaklldjFyRDI4cWx2ZUFHVEEyMUNhelk1M2R1RFQyX1ljNTJ5UEVaQVN3VXN0WjBNVXNFamM",
+    "source": "detikNews",
+    "pub_date": "2012-10-03T14:00:00+07:00",
+    "desc": "Kisah 2 Bidan Baru Lulus yang Dikirim ke Daerah Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8fa0fae74109",
     "title": "Waktu bagi Madura untuk Keluar dari Daerah Tertinggal - Bappeda Provinsi Jawa Timur",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcE1EenR2aEFJMlBhclRwc3p2Nzkxdm9pcGtSWk9aN2c1MTlldXM2dUh4UkRNUlJlREtHZWNudGFnSnUxVFViMm9UQUh3aHYxN2ZxSHk2cVcwTEc2T2wzXy1DZjRQaWh5bTI0RnBfZ2Q3ZDB1aThNd1dnaUs0NFM4VkFXblJDLUJORVhxZ1hEaWFvalBZeDg4dDVLeXhDQQ",
@@ -64909,12 +66677,51 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d0b55c52eabf",
+    "title": "40% Penduduk Indonesia Hidup di Daerah Tertinggal - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTWg2d1ctbEVlV1FWSHBEQVZ4aUxVRjFrdS1HVXd6cmsweUlmQktsMEJJM1BTMFBMVGc2Mnh1QVQzTFZ5T2M5NXVta21UWkN0NVpaQnk2eTBIdjZ0b3duM1dDZTFuY0wxMmIzUGZ6ZHpkM0Y5UG53YXZBcTNkMURKZ0VRTV9WWkt4dC1vNXRzR3Y5Z2pWY1YwcUEyZkd3OTc5Z0tCeHJlaG1OUQ",
+    "source": "detikFinance",
+    "pub_date": "2011-08-16T14:00:00+07:00",
+    "desc": "40% Penduduk Indonesia Hidup di Daerah Tertinggal&nbsp;&nbsp;detikFinance",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "64565b39483a",
     "title": "70% Daerah Tertinggal Ada di Wilayah Indonesia Bagian Timur - detikNews",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWldTSXB2WE1Ob2tKRk0yc1ZHNjN1Yk9FRWpPOEhGdkFoY0RoMmh6em9sVU44SHE5ZFRWQzR0aGs3dTRCd3YzSGMtZUlvak0tdm9sUE9QN01YR1BBNC1Fa2pveVZSVG9NWmVKYS1INXZYSTE3cm5FRkpPMTJjOUpDR2xzT1daMDgydmpIM0MwXzBXa1Z3U3B0ZFBIZGtQNWc",
     "source": "detikNews",
     "pub_date": "2011-02-24T15:00:00+07:00",
     "desc": "70% Daerah Tertinggal Ada di Wilayah Indonesia Bagian Timur&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "89b6cda81656",
+    "title": "Kemenkes Siapkan 'Dokter Plus' untuk Daerah Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSnhUN3NOeW1OV25mVW9JQU5WVTlpQU9kaWZMc0kwdmJSbld4Qlk4a0VjeUw2UWN4QVVTVUxFQ3d5SkNOdmY3T3pxSkxEcDV2eVV4UDlnTUsxcXNOYnktdTI5OHFxMTVxSmZES3hiaGVPeUpuazJ6aEsyNjN1bTAxQzBlaWpyOHE1MGZlbklkUHByOE9HVVRR",
+    "source": "detikNews",
+    "pub_date": "2010-10-04T14:00:00+07:00",
+    "desc": "Kemenkes Siapkan 'Dokter Plus' untuk Daerah Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "db284b51c3f2",
+    "title": "Erman: Keterlibatan Saya Sebagai Mitra Desa Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdFowVmNndHhkQmhBa3h6MW1PTi1VeEtrZXI2ek9NTDBzNUtjMU9IM1c1SEYxOFA2cnlmSXZXLTY0WEpVd1h4eVoxSzhKWl9PZ3lOUzJnRTJmRkxnTFF5OFBwNUZfdEMtWnlDc0g5Z0E4WXNVRGRSb0xqQjNXckFvSVB6SkZNZS1ZUGtCdUVNTS02a3h0RHRSUQ",
+    "source": "detikNews",
+    "pub_date": "2009-06-22T14:00:00+07:00",
+    "desc": "Erman: Keterlibatan Saya Sebagai Mitra Desa Tertinggal&nbsp;&nbsp;detikNews",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -64941,6 +66748,32 @@
     "source": "Kompas.com",
     "pub_date": "2009-02-16T15:00:00+07:00",
     "desc": "Menteri Malaysia Ajari Indonesia Bangun Desa Tertinggal&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "813c1d124760",
+    "title": "Masih Terdapat 2.164 Desa Tertinggal di Sumut - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMDZpOGRtOXdkcmJENzRTaXBLWDFCaldtc2kzaVhTY1BPS1pVYjNLaGVLcDhmd0xINXpHVkdUTE8ydkVtWTVOaW1HNGxHbmlkWFBQTjZwT3BCSUlEMGZvWjdZNGhFa29wanZCdlFuU1d0LWdVMnhxb1BWZlV4SEZQd3A2eUFQQkx1N3FGMw",
+    "source": "detikNews",
+    "pub_date": "2006-05-18T14:00:00+07:00",
+    "desc": "Masih Terdapat 2.164 Desa Tertinggal di Sumut&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d4f0d12a4af8",
+    "title": "Kompensasi BBM Baru Cair untuk 1.500 dari 12 Ribu Desa Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGFyNlZXQWlsSTVjMzliLWZKb1J4cTlRRm5LUmNiVFJXc0JQb2FsTnJQUzhZNlNia0Y3Yzg5eGRHX3JUSTMtYTVicVB3d01Ub01XQ29Cdm5KMTFZMHJtUUhZMlhZSVFwSUJERjRfMS1VREczSk9VZEFjQnlIY19DMlVGVU5yUkE1YUxNbmFRcDNfNmdMeHpZQ0F5azVvQ1BrUlNzSlpfZw",
+    "source": "detikNews",
+    "pub_date": "2005-09-28T14:00:00+07:00",
+    "desc": "Kompensasi BBM Baru Cair untuk 1.500 dari 12 Ribu Desa Tertinggal&nbsp;&nbsp;detikNews",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
