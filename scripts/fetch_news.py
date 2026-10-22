@@ -1,7 +1,7 @@
 """
 fetch_news.py — Multi-Source Media Monitoring (Google News, Yahoo News, MSN/Bing, AntaraNews, Detik, Kompas)
 Topik: Dana Desa, BUM Desa, Daerah Tertinggal, dan Kemendesa PDT
-Dilengkapi Validasi Kata Kunci Ketat, Anti-Spam Filter, Sanitasi Data & Analisis Sentimen Kontekstual.
+Dilengkapi Validasi Kata Kunci Ketat, Blacklist Geopolitik/Spam & sokongan Blacklist Manual.
 """
 
 import json
@@ -18,7 +18,7 @@ import urllib.request as urlreq
 # ── Konfigurasi Zona Waktu (GMT+7 / WIB) ────────────────────────────────────
 WIB = timezone(timedelta(hours=7))
 
-# ── Kata Kunci Utama & Term Validasi (4 Topik) ──────────────────────────────
+# ── Kata Kunci Utama & Term Validasi Spesifik (4 Topik) ─────────────────────
 KEYWORDS = [
     {
         "id": "danadesa",
@@ -46,7 +46,8 @@ KEYWORDS = [
         "raw_query": "Daerah Tertinggal",
         "match_terms": [
             "daerah tertinggal", "desa tertinggal", "wilayah 3t", "daerah 3t",
-            "perbatasan", "3tp", "bnppdt"
+            "daerah perbatasan", "desa perbatasan", "kawasan perbatasan",
+            "perbatasan negara", "3tp", "bnppdt"
         ],
     },
     {
@@ -56,22 +57,24 @@ KEYWORDS = [
         "raw_query": "Kemendes PDT",
         "match_terms": [
             "kemendesa", "kemendes", "mendes pdt", "mendes yandri", "wamendes",
-            "yandri susanto", "rizal riza", "ahmad riza patria", "kementerian desa",
+            "yandri susanto", "ahmad riza patria", "kementerian desa",
             "hari desa", "koperasi desa", "kopdes merah putih", "kdkmp"
         ],
     },
 ]
 
-# Kata kunci spam / berita olahraga / cuaca yang wajib diblokir
+# ── Blacklist Isu Luar Negara, Sukan, Cuaca & Spam SEO ──────────────────────
 NOISE_BLACKLIST = [
-    r"liga\s+champions", r"manchester\s+united", r"real\s+madrid", r"villarreal",
-    r"liverpool", r"persija", r"arema\s+fc", r"bali\s+united", r"garudayaksa",
-    r"french\s+open", r"jadwal\s+shalat", r"samsat\s+keliling", r"cuaca\s+kota",
-    r"harga\s+emas\s+antam", r"google\+externes", r"google\+ranking",
-    r"google\+indexation", r"sistema\+di\+posizionamento", r"seleb\s+hollywood",
+    r"\bisrael\b", r"\biran\b", r"\bpalestina\b", r"\bgaza\b", r"\blebanon\b",
+    r"\bhouthi\b", r"\bukraina\b", r"\brusia\b", r"\btrump\b", r"\bkim\s+jong\s+un\b",
+    r"latihan\s+tempur", r"rudal", r"liga\s+champions", r"manchester\s+united",
+    r"real\s+madrid", r"villarreal", r"liverpool", r"persija", r"arema\s+fc",
+    r"bali\s+united", r"garudayaksa", r"french\s+open", r"jadwal\s+shalat",
+    r"samsat\s+keliling", r"cuaca\s+kota", r"harga\s+emas\s+antam",
+    r"google\+externes", r"google\+ranking", r"google\+indexation",
+    r"sistema\+di\+posizionamento", r"seleb\s+hollywood",
 ]
 
-# ── Daftar Portal Target untuk Deep Site Crawling ───────────────────────────
 TARGET_PORTALS = [
     {"site": "detik.com", "default_source": "detikcom"},
     {"site": "kompas.com", "default_source": "Kompas.com"},
@@ -99,8 +102,9 @@ HEADERS = {
 }
 
 DATA_PATH = Path(__file__).parent.parent / "docs" / "data" / "news.json"
+BLACKLIST_PATH = Path(__file__).parent.parent / "docs" / "data" / "blacklist.json"
 
-# ── Kamus & Aturan Semantik Kontekstual Pemberitaan Desa ────────────────────
+# ── Kamus Semantik Sentimen ─────────────────────────────────────────────────
 POSITIVE_PHRASES = [
     (r"\b(desa\s+anti\s*korupsi|percontohan\s+anti\s*korupsi|anugerah\s+desa)\b", 3, "Apresiasi & Penghargaan"),
     (r"\b(raih\s+penghargaan|raih\s+anugerah|berprestasi\s+nasional|peringkat\s+dua|tercepat)\b", 3, "Apresiasi & Penghargaan"),
@@ -150,6 +154,21 @@ MITIGATION_PREFIXES = {
     "redam", "entaskan", "pengentasan", "solusi", "melawan", "anti", "antikorupsi",
 }
 NEGATION_PREFIXES = {"tak", "tidak", "belum", "kurang", "bukan", "tanpa", "gagal", "minim"}
+
+USER_IGNORED_IDS = set()
+USER_BLOCKED_TERMS = []
+
+
+def load_user_blacklist():
+    global USER_IGNORED_IDS, USER_BLOCKED_TERMS
+    if BLACKLIST_PATH.exists():
+        try:
+            data = json.loads(BLACKLIST_PATH.read_text(encoding="utf-8"))
+            USER_IGNORED_IDS = set(data.get("ignored_ids", []))
+            USER_BLOCKED_TERMS = [str(t).lower().strip() for t in data.get("blocked_terms", []) if str(t).strip()]
+            print(f"Blacklist pengguna dimuat: {len(USER_IGNORED_IDS)} ID, {len(USER_BLOCKED_TERMS)} kata kunci")
+        except Exception as e:
+            print(f"  [WARN] Gagal memuat blacklist.json: {e}")
 
 
 def analyze_sentiment(title: str, desc: str = "") -> dict:
@@ -215,13 +234,19 @@ def analyze_sentiment(title: str, desc: str = "") -> dict:
     }
 
 
-def is_relevant_to_topic(title: str, desc: str, kw: dict) -> bool:
+def is_relevant_to_topic(title: str, desc: str, kw: dict, art_id: str = "") -> bool:
+    if art_id and art_id in USER_IGNORED_IDS:
+        return False
+
     combined = f"{title or ''} {desc or ''}".lower()
     combined = re.sub(r"&[^;]+;|<[^>]+>", " ", combined)
 
-    # Blokir berita sampah / olahraga / spam SEO
     for bad_pat in NOISE_BLACKLIST:
         if re.search(bad_pat, combined, flags=re.I):
+            return False
+
+    for custom_bad in USER_BLOCKED_TERMS:
+        if custom_bad in combined:
             return False
 
     for term in kw["match_terms"]:
@@ -345,16 +370,17 @@ def sanitize_existing_article(art: dict) -> dict | None:
     topic_id = str(art.get("topic") or "danadesa").strip()
     kw_def = next((k for k in KEYWORDS if k["id"] == topic_id), KEYWORDS[0])
     desc = str(art.get("desc") or "").strip()
+    source = str(art.get("source") or "").strip() or infer_source_from_url(link)
+    art_id = str(art.get("id") or make_id(title, source))
 
-    if not is_relevant_to_topic(title, desc, kw_def):
+    if not is_relevant_to_topic(title, desc, kw_def, art_id):
         return None
 
-    source = str(art.get("source") or "").strip() or infer_source_from_url(link)
     pub_date = parse_rss_date(art.get("pub_date") or "")
     sem = analyze_sentiment(title, desc)
 
     return {
-        "id": str(art.get("id") or make_id(title, source)),
+        "id": art_id,
         "title": title,
         "link": link,
         "source": source,
@@ -396,9 +422,10 @@ def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
             source = src_el.text.strip() if (src_el is not None and src_el.text) else default_source
             if not title or not link:
                 continue
-            if not is_relevant_to_topic(title, desc, kw):
+            art = build_article_dict(title, link, pub, desc, source, kw)
+            if not is_relevant_to_topic(title, desc, kw, art["id"]):
                 continue
-            articles.append(build_article_dict(title, link, pub, desc, source, kw))
+            articles.append(art)
     except Exception:
         pass
     return articles
@@ -421,9 +448,10 @@ def fetch_msn_bing_news(query: str, kw: dict) -> list:
                     break
             if not title or not link:
                 continue
-            if not is_relevant_to_topic(title, desc, kw):
+            art = build_article_dict(title, link, pub, desc, source, kw)
+            if not is_relevant_to_topic(title, desc, kw, art["id"]):
                 continue
-            articles.append(build_article_dict(title, link, pub, desc, source, kw))
+            articles.append(art)
     except Exception:
         pass
     return articles
@@ -443,9 +471,10 @@ def fetch_yahoo_news(query: str, kw: dict) -> list:
             source = src_el.text.strip() if (src_el is not None and src_el.text) else "Yahoo News"
             if not title or not link:
                 continue
-            if not is_relevant_to_topic(title, desc, kw):
+            art = build_article_dict(title, link, pub, desc, source, kw)
+            if not is_relevant_to_topic(title, desc, kw, art["id"]):
                 continue
-            articles.append(build_article_dict(title, link, pub, desc, source, kw))
+            articles.append(art)
     except Exception:
         pass
     return articles
@@ -473,10 +502,10 @@ def fetch_portal_feeds() -> list:
                 if not title or not link:
                     continue
                 matched_kw = match_keyword_topic(f"{title} {desc}")
-                if matched_kw and is_relevant_to_topic(title, desc, matched_kw):
-                    matched_articles.append(
-                        build_article_dict(title, link, pub, desc, feed["source"], matched_kw)
-                    )
+                if matched_kw:
+                    art = build_article_dict(title, link, pub, desc, feed["source"], matched_kw)
+                    if is_relevant_to_topic(title, desc, matched_kw, art["id"]):
+                        matched_articles.append(art)
         except Exception:
             pass
     return matched_articles
@@ -484,6 +513,7 @@ def fetch_portal_feeds() -> list:
 
 def main():
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+    load_user_blacklist()
 
     existing = []
     if DATA_PATH.exists():
