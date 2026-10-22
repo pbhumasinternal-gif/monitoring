@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23 02:31 WIB",
+  "last_updated": "2026-10-23 03:01 WIB",
   "days_analyzed": 30,
   "total_checked": 1370,
   "dominant_topic": "Dana Desa (567 berita), BUM Desa (363 berita), Kemendesa PDT (224 berita), Daerah Tertinggal (216 berita)",
@@ -46,7 +46,7 @@
         "title": "KAKI Maluku Desak Inspektorat SBB Periksa Dana Desa Kairatu",
         "source": "porostimur",
         "topic": "Dana Desa",
-        "core_issue": "body {\n        height: 100%;\n        }\n        .panel {\n        padding: 30px;\n        max-width: 425px;\n        margin: 10% auto;\n        box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);\n        }\n       ..."
+        "core_issue": "KAKI Maluku Desak Inspektorat SBB Periksa Dana Desa Kairatu – porostimur.com img:is([sizes=auto i],[sizes^=\"auto,\" i]){contain-intrinsic-size:3000px 1500px}\n/*# sourceURL=wp-img-auto-sizes-contain-inl..."
       },
       {
         "title": "Berkas Lengkap, 3 Tersangka Kasus Dana Desa Taliabu Segera Diserahkan ke Jaksa",
