@@ -247,6 +247,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d0301bd8dedc",
+    "title": "Kejari Meranti Bekali Kades Pemahaman Hukum, Dana Desa Jadi Perhatian - GoRiau.com",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUZpb3dMUTZMd0l2Nmo5Rm5VaGJkZFpmUVJseUY0VjROR2xXdkZFZ25vMzNPSU9JbDdySHJvTldCV191LTlOZzI0Wjlibk9CT2VOQ01fZWpjZHJmdm00U0prT1Q0c2dnSEFDdUlNWDZGUDdwaWpXdl81RU9GaEFXYzFYcUREVXFrUmFUOHN6UDJSaEpTTkhJMzUweUJLUzF2ckFfbnU1dTBXVVVh",
+    "source": "GoRiau.com",
+    "pub_date": "2026-10-22T12:58:00+07:00",
+    "desc": "Kejari Meranti Bekali Kades Pemahaman Hukum, Dana Desa Jadi Perhatian&nbsp;&nbsp;GoRiau.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ce9757a1b789",
     "title": "25 BUMDes Banyumas Adu Strategi Bisnis, Ada yang Andalkan Melon hingga Layanan Air Bersih - Tribunjateng.com",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1JhaWF6dVdHMjhkV2M2T1EwTzRUWDNoQkRvOFFwT3hZR1czV3dHWGlGbUJvc3JncFFKTjh2bEpPOVQyOXY4QVY4b2pEc2FfbW12UnFnNllUak5JMkpXMzU1WHhBcGhvRVdwRjFSR1NwWTRTSG9lRXN6YTIwT1B6S0EyN3FUc1dNOXRkaURCMkhoSXF3U1dkN2ZET2wtZzhoOEFrdS1BRWVWV0xiOFc5MFE2ZDZFTDY4VzJQWW5QUE1pcGVYSFY3aldhUTd0OFJR",
@@ -513,6 +526,19 @@
     "source": "Metro TV News",
     "pub_date": "2026-10-22T03:44:00+07:00",
     "desc": "Presiden Prabowo menargetkan penyaluran kredit Rp400 triliun pada 2027 bagi petani, nelayan, masyarakat daerah tertinggal, dan warga berpenghasilan rendah.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2bb86085e60e",
+    "title": "Masuk Daerah Tertinggal, Wakil Bupati SBD: Sudah Saatnya MBG Sasar Desa",
+    "link": "https://www.victorynews.id/ntt/33117798651/masuk-daerah-tertinggal-wakil-bupati-sbd-sudah-saatnya-mbg-sasar-desa",
+    "source": "Victory News",
+    "pub_date": "2026-10-22T02:08:00+07:00",
+    "desc": "Wakil Bupati SBD, Dominikus A Rangga Kaka meminta agar program MBG nantinya bisa menyasar di desa-desa di SBD.",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -6160,6 +6186,19 @@
     "sentiment": "negatif",
     "sentiment_score": -6,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "e060070b4f72",
+    "title": "Menag Apresiasi Dompet Dhuafa Kirim Dai ke Wilayah 3T dan Luar Negeri - Koran Jakarta ®",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHBDeXBYalh4cFJ5RTVjQmpjbnhBaDRfTWFRT2FQbzhTd1NVNGdCMHpwaXhaeDE1Ym5MSnprQWtHZWNxZXJCVGtHaU1VeldMTHU0cnROTkFOR2tQZnVqZVpndG94Mm01cDRZc3JnOUtIZjJhU19nVk1yX0QyeHhnRFVwUElrOC13UFB3RVp0OUpFelRzSlppQXNKY192dENzNkNSUU5ZcGh1UdIBrwFBVV95cUxPNVJ3YnA2UEJGQmZpUGVpLWduelF4Tkx6enlUWDhvLW1BSTMxZEJkdUFhcFdLOTQ3QkpBeFgwQ3V2N3VLSXlSRmt6eDY3bUNxZTFadXloOWJnVGxuZy05eERYSWZfeElYNG5tZGMtQUt4Ylo1aGJ0blpGOGlyVXRNNWw5bkFLeVRGQWdvRzFQRHNTTnBQNW83c2dILXVTYk11eFJFQ1NUaFN0cTlVSFZr",
+    "source": "Koran Jakarta ®",
+    "pub_date": "2026-10-15T17:35:00+07:00",
+    "desc": "Menag Apresiasi Dompet Dhuafa Kirim Dai ke Wilayah 3T dan Luar Negeri&nbsp;&nbsp;Koran Jakarta ®",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "e79159e2e9db",
@@ -55380,6 +55419,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "bc5cb9d3a3f6",
+    "title": "Panduan Pengelolaan Dana Desa 2026, Skema Penyaluran Lengkap Daftar Alokasi per Daerah",
+    "link": "https://batam.tribunnews.com/news/676527/dana-desa-2026-regulasi-baru-skema-penyaluran-dan-daftar-lengkap-per-daerah",
+    "source": "batam.tribunnews",
+    "pub_date": "2026-02-20T10:13:00+07:00",
+    "desc": "DANA DESA - Ada sejumlah perubahan penting dalam pengelolaan dana desa 2026. Pemerintah resmi menetapkan kebijakan Dana Desa 2026 melalui Kementerian Keuangan Republik Indonesia. TRIBUNBATAM.id - Ada ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c6bee05d88a3",
     "title": "Polemik Penggunaan Dana Desa untuk Koperasi Merah Putih Masih Berlanjut - kppod",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GTmNyMkhIWk9lSGg0WkFwa0ZaSkJZcjI2Q0JFbjVMUGk5X3gyNE5kXzFCR19hRXNialIyUDR4QmsyM2ROUy1SWkVtT3czeHR1RnBZ",
@@ -59533,6 +59585,19 @@
     "source": "bgn.go.id",
     "pub_date": "2025-06-29T14:00:00+07:00",
     "desc": "Pakar Pendidikan UI: Gizi dan Akses Listrik Jadi Kunci Mutu Pendidikan di Daerah Tertinggal&nbsp;&nbsp;bgn.go.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "deb052d173a2",
+    "title": "Cerita Hery, Lulusan S2 Unair yang Jadi Polisi di Daerah Tertinggal - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzdBbkNsVHN6b1p0STctS193eE02a1daMTdjOHNyeTJ1YjgzSjRvN1FCaV9qSFpuV213cEpWWjhXME5tTFhuSkJfR2pEME1SNFJVN3hYTkZtQWpXN2xVYzBYZVd6T3NoTDlEcnM3YmwweEhvRVNIWnJPbjJtcmxXSk01SllJXzRMMGhzdUViQmoxdFUwTDZSQVdUX19GSk1QaFI2Z2JpWXk2YzV2OWZDQTNaenM5a3M3c2Jj",
+    "source": "Kompas.com",
+    "pub_date": "2025-06-26T14:00:00+07:00",
+    "desc": "Cerita Hery, Lulusan S2 Unair yang Jadi Polisi di Daerah Tertinggal&nbsp;&nbsp;Kompas.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -65871,6 +65936,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f54a91e7cd56",
+    "title": "Foto : BUMDes di Buleleng Kelola 3 Ton Sampah Per Hari, Sebagian Jadi Pupuk Kompos - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVA5dXJoZ0JsUE1teXpBTmZqWjYxdTVjWUJ3V0VHRjljeWgxQzBYN09HUS1aR2ZGM0g5aWZhRW9LaGdKaEhpd1R6X09QZnZtc2NZTHBzaGVKU09FZXpEQ01SVjNhY2VSR040ZmRMUS1VSUlvak5sRUZybXE5bUVNcV9NNzU4VzJvdTZmcWUxdC1qb1dQaGpMZGdaUjFtQUtZdGE5eFJpZFhQTFhRSFJ4ckV2WnlJbmQ2WUo5N3ZhZXZjLXVSVi1Tbw",
+    "source": "Kompas.com",
+    "pub_date": "2022-12-09T15:00:00+07:00",
+    "desc": "Foto : BUMDes di Buleleng Kelola 3 Ton Sampah Per Hari, Sebagian Jadi Pupuk Kompos&nbsp;&nbsp;Kompas.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "dc7f677c96b7",
     "title": "Dirjen PDP Kemendesa Sugito: Jangan Ragu Manfaatkan Dana Desa untuk Percepatan Penurunan Stunting - Tim Percepatan Penurunan Stunting",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaFB6MHdLV1BNb2lraXBra280aUdhV3ZsVFhhZUdlZ0J5R1pFLWJHeWJUNFQ1Ul9uNTU1NXZ3eGJSX0dxbnNiZXBDRnBQam5FVEFzQm81ZW5tQVNlY0xXTWtGbktLdXNlZGxYbzJIVFJzWTl6UTl2QngxRDRBYWxpNERsQ1BJM2Jzejk5MVVrazdfeHlpeENyaU94c1kxa3ZHWEN5b0xDQTBiUmhjVmlFLVFhaG9vOXdlUi14LQ",
@@ -72052,6 +72130,19 @@
     "source": "Kompas.com",
     "pub_date": "2009-02-16T15:00:00+07:00",
     "desc": "Menteri Malaysia Ajari Indonesia Bangun Desa Tertinggal&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7416c2590ee9",
+    "title": "45% Desa di Indonesia Masuk Kategori Desa Tertinggal - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM0t4Q2lCYVBFbEczV0hBMngzZ0VkSlJQbUltdk84dGc0dklxemZGRVQxZEYwbmtfTHJPTWp4bnowYkZvbFhZdmVWQU1UYTRYWHNqY0VqdzBqdkNIQko0V1dJRHY3eTRXZG45LXktU1Rza2YzMU82TTdNSU5CZ1p5S3pxbUdHSTcwLU1sSHBnT3lDbFR1",
+    "source": "detikNews",
+    "pub_date": "2006-09-12T14:00:00+07:00",
+    "desc": "45% Desa di Indonesia Masuk Kategori Desa Tertinggal&nbsp;&nbsp;detikNews",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
