@@ -1,12 +1,17 @@
 """
-fetch_news.py — Monitor Berita Dana Desa, BUM Desa, Daerah Tertinggal dan Kemendesa PDT
-Ambil dari Google News RSS, analisis sentimen semantik kontekstual,
-dan akumulasi ke docs/data/news.json (tidak ditimpa).
-Jalankan via GitHub Actions tiap 30 menit.
+fetch_news.py — Multi-Source Media Monitoring (Google News, Yahoo News, MSN/Bing, AntaraNews, Detik)
+Topik: Dana Desa, BUM Desa, Daerah Tertinggal, dan Kemendesa PDT
+Dilengkapi Analisis Sentimen Semantik Kontekstual & Safe Data Parsing.
+Jalankan otomatis via GitHub Actions tiap 30 menit.
 """
 
-import json, hashlib, re, time, xml.etree.ElementTree as ET
+import json
+import hashlib
+import re
+import time
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from pathlib import Path
 from urllib.parse import urlencode, urlparse, parse_qs, unquote
 import urllib.request as urlreq
@@ -14,22 +19,59 @@ import urllib.request as urlreq
 # ── Konfigurasi Zona Waktu (GMT+7 / WIB) ────────────────────────────────────
 WIB = timezone(timedelta(hours=7))
 
-# ── Kata kunci (4 topik) ─────────────────────────────────────────────────────
+# ── Kata Kunci Utama (4 Topik) ──────────────────────────────────────────────
 KEYWORDS = [
-    {"id": "danadesa", "label": "Dana Desa", "query": "Dana Desa"},
-    {"id": "bumdesa", "label": "BUM Desa", "query": "BUMDes"},
-    {"id": "daerahtertinggal", "label": "Daerah Tertinggal", "query": "Daerah Tertinggal"},
-    {"id": "kemendesa", "label": "Kemendesa PDT", "query": "Kemendes PDT"},
+    {
+        "id": "danadesa",
+        "label": "Dana Desa",
+        "query": "Dana Desa",
+        "match_terms": ["dana desa", "apbdes", "blt dd", "alokasi dana desa"],
+    },
+    {
+        "id": "bumdesa",
+        "label": "BUM Desa",
+        "query": "BUMDes",
+        "match_terms": ["bumdes", "bum desa", "badan usaha milik desa"],
+    },
+    {
+        "id": "daerahtertinggal",
+        "label": "Daerah Tertinggal",
+        "query": "Daerah Tertinggal",
+        "match_terms": ["daerah tertinggal", "desa tertinggal", "wilayah 3t", "daerah 3t"],
+    },
+    {
+        "id": "kemendesa",
+        "label": "Kemendesa PDT",
+        "query": "Kemendes PDT",
+        "match_terms": ["kemendesa", "kemendes", "mendes pdt", "wamendes", "yandri susanto", "kementerian desa"],
+    },
+]
+
+# ── Daftar Portal Target untuk Deep Site Crawling ───────────────────────────
+TARGET_PORTALS = [
+    {"site": "detik.com", "default_source": "detikcom"},
+    {"site": "kompas.com", "default_source": "Kompas.com"},
+    {"site": "antaranews.com", "default_source": "ANTARA News"},
+    {"site": "msn.com", "default_source": "MSN Indonesia"},
+    {"site": "id.berita.yahoo.com", "default_source": "Yahoo News"},
+]
+
+# ── Daftar Direct RSS Resmi Portal Media yang Aktif ─────────────────────────
+DIRECT_PORTAL_FEEDS = [
+    {"name": "ANTARA News Terkini", "url": "https://www.antaranews.com/rss/terkini.xml", "source": "ANTARA News"},
+    {"name": "ANTARA News Nasional", "url": "https://www.antaranews.com/rss/nasional.xml", "source": "ANTARA News"},
+    {"name": "Detik News", "url": "https://news.detik.com/berita/rss", "source": "detikcom"},
+    {"name": "Detik Finance", "url": "https://finance.detik.com/rss", "source": "detikFinance"},
 ]
 
 HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (X11; Linux x86_64) "
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/124.0.0.0 Safari/537.36"
     ),
     "Accept": "application/rss+xml, application/xml, text/xml, */*",
-    "Accept-Language": "id-ID,id;q=0.9,en;q=0.8",
+    "Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7",
     "Cache-Control": "no-cache",
 }
 
@@ -69,7 +111,7 @@ POSITIVE_WORDS = {
     "inovasi": 1, "transparan": 1, "akuntabel": 1, "profesional": 1,
     "berprestasi": 2, "apresiasi": 2, "penghargaan": 2, "sukses": 2,
     "berhasil": 2, "mandiri": 1, "sejahtera": 1, "produktif": 1,
-    "sinergi": 1, "kolaborasi": 1, "optimal": 1, "untung": 1
+    "sinergi": 1, "kolaborasi": 1, "optimal": 1, "untung": 1,
 }
 
 NEGATIVE_WORDS = {
@@ -77,15 +119,18 @@ NEGATIVE_WORDS = {
     "penyimpangan": -2, "penggelapan": -3, "fiktif": -3, "mangkrak": -2,
     "mangkir": -2, "bungkam": -2, "polemik": -2, "sengketa": -2,
     "konflik": -2, "krisis": -2, "rusak": -2, "retak": -2,
-    "dikriminalisasi": -2, "tertinggal": -1
+    "dikriminalisasi": -2, "tertinggal": -1,
 }
 
-MITIGATION_PREFIXES = {"cegah", "mencegah", "pencegahan", "antisipasi", "atasi", "mengatasi", "redam", "entaskan", "pengentasan", "solusi", "melawan", "anti", "antikorupsi"}
+MITIGATION_PREFIXES = {
+    "cegah", "mencegah", "pencegahan", "antisipasi", "atasi", "mengatasi",
+    "redam", "entaskan", "pengentasan", "solusi", "melawan", "anti", "antikorupsi",
+}
 NEGATION_PREFIXES = {"tak", "tidak", "belum", "kurang", "bukan", "tanpa", "gagal", "minim"}
 
 
 def analyze_sentiment(title: str, desc: str = "") -> dict:
-    text = f"{title} {desc}".lower()
+    text = f"{title or ''} {desc or ''}".lower()
     text = re.sub(r"&nbsp;|&amp;|<[^>]+>", " ", text)
 
     score = 0
@@ -111,7 +156,7 @@ def analyze_sentiment(title: str, desc: str = "") -> dict:
                 if not matched_tag or weight <= -3:
                     matched_tag = tag
 
-    tokens = re.findall(r"[a-z0-9-]+", title.lower())
+    tokens = re.findall(r"[a-z0-9-]+", str(title or "").lower())
     for i, token in enumerate(tokens):
         prev_words = set(tokens[max(0, i - 3):i])
 
@@ -122,7 +167,6 @@ def analyze_sentiment(title: str, desc: str = "") -> dict:
                     matched_tag = "Kendala & Sorotan"
             else:
                 score += POSITIVE_WORDS[token]
-
         elif token in NEGATIVE_WORDS:
             if prev_words.intersection(MITIGATION_PREFIXES):
                 score += 2
@@ -149,70 +193,215 @@ def analyze_sentiment(title: str, desc: str = "") -> dict:
 
 
 def normalize_url(url: str) -> str:
+    if not url:
+        return ""
     try:
         parsed = urlparse(url)
-        if parsed.netloc == "news.google.com":
-            qs = parse_qs(parsed.query)
-            if "url" in qs:
-                return normalize_url(unquote(qs["url"][0]))
+        qs = parse_qs(parsed.query)
+        for param in ["url", "u", "ru"]:
+            if param in qs and qs[param][0].startswith("http"):
+                return normalize_url(unquote(qs[param][0]))
+        if "r.search.yahoo.com" in parsed.netloc:
+            match = re.search(r"/RU=([^/]+)/", parsed.path)
+            if match:
+                return normalize_url(unquote(match.group(1)))
         return parsed._replace(query="", fragment="").geturl().rstrip("/")
     except Exception:
         return url.split("?")[0].rstrip("/")
 
 
-def make_id(title: str, source: str) -> str:
-    return hashlib.md5(f"{title.strip().lower()}|{source.strip().lower()}".encode()).hexdigest()[:12]
+def clean_title_for_dedup(title, source="") -> str:
+    # Safety casting agar aman dari nilai non-string atau None pada data lama
+    t = str(title or "").strip()
+    src = str(source or "").strip()
+    if src and t.lower().endswith(" - " + src.lower()):
+        t = t[:-(len(src) + 3)].strip()
+    t = re.sub(r"\s+[-|]\s+(detik[a-z]*|kompas\.com|antara\s*news.*|msn.*|yahoo.*)$", "", t, flags=re.I)
+    return re.sub(r"[^a-z0-9]", "", t.lower())
+
+
+def make_id(title, source) -> str:
+    slug = clean_title_for_dedup(title, source)
+    src_str = str(source or "").strip().lower()
+    return hashlib.md5(f"{slug}|{src_str}".encode()).hexdigest()[:12]
+
+
+def infer_source_from_url(url: str, fallback: str = "Media Berita") -> str:
+    try:
+        host = urlparse(url).netloc.lower().replace("www.", "")
+        if "detik.com" in host:
+            return "detikcom"
+        if "kompas.com" in host:
+            return "Kompas.com"
+        if "antaranews.com" in host:
+            return "ANTARA News"
+        if "msn.com" in host:
+            return "MSN Indonesia"
+        if "yahoo.com" in host:
+            return "Yahoo News"
+        if host and "google.com" not in host and "bing.com" not in host:
+            return host
+    except Exception:
+        pass
+    return fallback
 
 
 def parse_rss_date(date_str: str) -> str:
     if not date_str:
         return datetime.now(WIB).isoformat()
-    for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z", "%d %b %Y %H:%M:%S %z"]:
+    raw = date_str.strip()
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(WIB).isoformat()
+    except Exception:
+        pass
+    for fmt in [
+        "%Y-%m-%dT%H:%M:%S%z",
+        "%Y-%m-%dT%H:%M:%SZ",
+        "%a, %d %b %Y %H:%M:%S %z",
+        "%d %b %Y %H:%M:%S %z",
+    ]:
         try:
-            return datetime.strptime(date_str.strip(), fmt).astimezone(WIB).isoformat()
+            dt = datetime.strptime(raw, fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(WIB).isoformat()
         except ValueError:
             continue
     return datetime.now(WIB).isoformat()
 
 
-def fetch_rss(keyword: dict) -> list:
-    params = urlencode({"q": keyword["query"], "hl": "id", "gl": "ID", "ceid": "ID:id"})
+def build_article_dict(title, link, pub_raw, desc_raw, source, kw) -> dict:
+    clean_link = normalize_url(link)
+    clean_desc = re.sub(r"<[^>]+>", "", str(desc_raw or "")).strip()
+    clean_desc = re.sub(r"\s+", " ", clean_desc)[:300]
+    final_source = str(source).strip() if source else infer_source_from_url(clean_link)
+    pub_iso = parse_rss_date(pub_raw)
+    sem = analyze_sentiment(title, clean_desc)
+
+    return {
+        "id": make_id(title, final_source),
+        "title": str(title or "").strip(),
+        "link": clean_link,
+        "source": final_source,
+        "pub_date": pub_iso,
+        "desc": clean_desc,
+        "topic": kw["id"],
+        "topic_label": kw["label"],
+        "sentiment": sem["sentiment"],
+        "sentiment_score": sem["sentiment_score"],
+        "sentiment_tag": sem["sentiment_tag"],
+    }
+
+
+def fetch_xml_items(url: str) -> list:
+    try:
+        req = urlreq.Request(url, headers=HEADERS)
+        with urlreq.urlopen(req, timeout=15) as resp:
+            raw_bytes = resp.read()
+        root = ET.fromstring(raw_bytes)
+        channel = root.find("channel")
+        if channel is not None:
+            return channel.findall("item")
+        return root.findall(".//item")
+    except Exception:
+        return []
+
+
+def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
+    params = urlencode({"q": query, "hl": "id", "gl": "ID", "ceid": "ID:id"})
     url = f"https://news.google.com/rss/search?{params}"
     articles = []
     try:
-        req = urlreq.Request(url, headers=HEADERS)
-        with urlreq.urlopen(req, timeout=20) as resp:
-            root = ET.fromstring(resp.read())
-        channel = root.find("channel")
-        if channel is None:
-            return articles
-        for item in channel.findall("item"):
-            title  = (item.findtext("title") or "").strip()
-            link   = normalize_url((item.findtext("link") or "").strip())
-            pub    = parse_rss_date(item.findtext("pubDate") or "")
-            desc   = re.sub(r"<[^>]+>", "", item.findtext("description") or "").strip()
+        for item in fetch_xml_items(url):
+            title = (item.findtext("title") or "").strip()
+            link = (item.findtext("link") or "").strip()
+            pub = item.findtext("pubDate") or ""
+            desc = item.findtext("description") or ""
             src_el = item.find("source")
-            source = src_el.text.strip() if src_el is not None and src_el.text else ""
+            source = src_el.text.strip() if (src_el is not None and src_el.text) else default_source
             if not title or not link:
                 continue
-
-            sem = analyze_sentiment(title, desc)
-            articles.append({
-                "id":              make_id(title, source),
-                "title":           title,
-                "link":            link,
-                "source":          source,
-                "pub_date":        pub,
-                "desc":            desc[:300],
-                "topic":           keyword["id"],
-                "topic_label":     keyword["label"],
-                "sentiment":       sem["sentiment"],
-                "sentiment_score": sem["sentiment_score"],
-                "sentiment_tag":   sem["sentiment_tag"],
-            })
-    except Exception as e:
-        print(f"  [ERROR] {keyword['id']}: {e}")
+            articles.append(build_article_dict(title, link, pub, desc, source, kw))
+    except Exception:
+        pass
     return articles
+
+
+def fetch_msn_bing_news(query: str, kw: dict) -> list:
+    params = urlencode({"q": query, "format": "rss", "mkt": "id-ID"})
+    url = f"https://www.bing.com/news/search?{params}"
+    articles = []
+    try:
+        for item in fetch_xml_items(url):
+            title = (item.findtext("title") or "").strip()
+            link = (item.findtext("link") or "").strip()
+            pub = item.findtext("pubDate") or ""
+            desc = item.findtext("description") or ""
+            source = "MSN / Bing News"
+            for child in item:
+                if child.tag.lower().endswith("source") and child.text:
+                    source = child.text.strip()
+                    break
+            if not title or not link:
+                continue
+            articles.append(build_article_dict(title, link, pub, desc, source, kw))
+    except Exception:
+        pass
+    return articles
+
+
+def fetch_yahoo_news(query: str, kw: dict) -> list:
+    params = urlencode({"p": query, "ei": "UTF-8"})
+    url = f"https://news.search.yahoo.com/rss?{params}"
+    articles = []
+    try:
+        for item in fetch_xml_items(url):
+            title = (item.findtext("title") or "").strip()
+            link = (item.findtext("link") or "").strip()
+            pub = item.findtext("pubDate") or ""
+            desc = item.findtext("description") or ""
+            src_el = item.find("source")
+            source = src_el.text.strip() if (src_el is not None and src_el.text) else "Yahoo News"
+            if not title or not link:
+                continue
+            articles.append(build_article_dict(title, link, pub, desc, source, kw))
+    except Exception:
+        pass
+    return articles
+
+
+def match_keyword_topic(text: str):
+    t = text.lower()
+    for kw in KEYWORDS:
+        for term in kw["match_terms"]:
+            if term in t:
+                return kw
+    return None
+
+
+def fetch_portal_feeds() -> list:
+    matched_articles = []
+    for feed in DIRECT_PORTAL_FEEDS:
+        try:
+            items = fetch_xml_items(feed["url"])
+            for item in items:
+                title = (item.findtext("title") or "").strip()
+                link = (item.findtext("link") or "").strip()
+                pub = item.findtext("pubDate") or ""
+                desc = item.findtext("description") or ""
+                if not title or not link:
+                    continue
+                matched_kw = match_keyword_topic(f"{title} {desc}")
+                if matched_kw:
+                    matched_articles.append(
+                        build_article_dict(title, link, pub, desc, feed["source"], matched_kw)
+                    )
+        except Exception:
+            pass
+    return matched_articles
 
 
 def main():
@@ -227,35 +416,62 @@ def main():
             for art in existing:
                 if "sentiment" not in art or "sentiment_tag" not in art:
                     sem = analyze_sentiment(art.get("title", ""), art.get("desc", ""))
-                    art["sentiment"]       = sem["sentiment"]
+                    art["sentiment"] = sem["sentiment"]
                     art["sentiment_score"] = sem["sentiment_score"]
-                    art["sentiment_tag"]   = sem["sentiment_tag"]
+                    art["sentiment_tag"] = sem["sentiment_tag"]
                     backfilled += 1
             if backfilled:
-                print(f"  [SEMANTIK] Berhasil melengkapi sentimen pada {backfilled} artikel lama.")
+                print(f"  [SEMANTIK] Melengkapi sentimen pada {backfilled} artikel lama.")
         except Exception as e:
             print(f"  [WARN] Gagal membaca data lama: {e}")
 
-    seen_ids  = {a["id"] for a in existing}
+    seen_ids = {a["id"] for a in existing}
     seen_urls = {normalize_url(a["link"]) for a in existing}
+    seen_slugs = {clean_title_for_dedup(a.get("title", ""), a.get("source", "")) for a in existing}
     new_articles = []
 
-    for kw in KEYWORDS:
-        print(f"Fetching: {kw['label']} ...")
-        count = 0
-        for art in fetch_rss(kw):
-            if art["id"] in seen_ids or normalize_url(art["link"]) in seen_urls:
+    def register_articles(candidates: list) -> int:
+        added = 0
+        for art in candidates:
+            norm_u = normalize_url(art["link"])
+            slug = clean_title_for_dedup(art["title"], art["source"])
+            if not slug or art["id"] in seen_ids or norm_u in seen_urls or slug in seen_slugs:
                 continue
             new_articles.append(art)
             seen_ids.add(art["id"])
-            seen_urls.add(normalize_url(art["link"]))
-            count += 1
-        print(f"  +{count} artikel baru")
-        time.sleep(1)
+            seen_urls.add(norm_u)
+            seen_slugs.add(slug)
+            added += 1
+        return added
+
+    for kw in KEYWORDS:
+        print(f"\n=== Topik: {kw['label']} ===")
+        c_gnews = register_articles(fetch_google_news(kw["query"], kw))
+        print(f"  + Google News       : {c_gnews} baru")
+
+        c_msn = register_articles(fetch_msn_bing_news(kw["query"], kw))
+        print(f"  + MSN / Bing News   : {c_msn} baru")
+
+        c_yahoo = register_articles(fetch_yahoo_news(kw["query"], kw))
+        print(f"  + Yahoo News        : {c_yahoo} baru")
+
+        c_portals = 0
+        for portal in TARGET_PORTALS:
+            site_query = f"{kw['query']} site:{portal['site']}"
+            c_portals += register_articles(
+                fetch_google_news(site_query, kw, default_source=portal["default_source"])
+            )
+            time.sleep(0.3)
+        print(f"  + Deep Portal Search: {c_portals} baru")
+        time.sleep(0.5)
+
+    print("\n=== Memeriksa Direct RSS Portal Utama ===")
+    c_direct = register_articles(fetch_portal_feeds())
+    print(f"  + Direct RSS Match  : {c_direct} baru")
 
     all_articles = sorted(existing + new_articles, key=lambda a: a["pub_date"], reverse=True)
     DATA_PATH.write_text(json.dumps(all_articles, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\nTotal: {len(all_articles)} artikel ({len(new_articles)} baru) → {DATA_PATH}")
+    print(f"\nSelesai! Total: {len(all_articles)} artikel ({len(new_articles)} baru) → {DATA_PATH}")
 
 
 if __name__ == "__main__":
