@@ -25,25 +25,25 @@ KEYWORDS = [
         "id": "danadesa",
         "label": "Dana Desa",
         "query": "Dana Desa",
-        "match_terms": ["dana desa", "apbdes", "blt dd", "alokasi dana desa", "anggaran desa"],
+        "match_terms": ["dana desa", "apbdes", "blt dd", "alokasi dana desa"],
     },
     {
         "id": "bumdesa",
         "label": "BUM Desa",
         "query": "BUMDes",
-        "match_terms": ["bumdes", "bum desa", "badan usaha milik desa", "bumkal"],
+        "match_terms": ["bumdes", "bum desa", "badan usaha milik desa"],
     },
     {
         "id": "daerahtertinggal",
         "label": "Daerah Tertinggal",
         "query": "Daerah Tertinggal",
-        "match_terms": ["daerah tertinggal", "desa tertinggal", "wilayah 3t", "daerah 3t", "perbatasan negara"],
+        "match_terms": ["daerah tertinggal", "desa tertinggal", "wilayah 3t", "daerah 3t"],
     },
     {
         "id": "kemendesa",
         "label": "Kemendesa PDT",
         "query": "Kemendes PDT",
-        "match_terms": ["kemendesa", "kemendes", "mendes pdt", "wamendes", "yandri susanto", "kementerian desa", "koperasi desa", "kopdes"],
+        "match_terms": ["kemendesa", "kemendes", "mendes pdt", "wamendes", "yandri susanto", "kementerian desa"],
     },
 ]
 
@@ -56,6 +56,7 @@ TARGET_PORTALS = [
     {"site": "id.berita.yahoo.com", "default_source": "Yahoo News"},
 ]
 
+# ── Daftar Direct RSS Resmi Portal Media yang Aktif ─────────────────────────
 DIRECT_PORTAL_FEEDS = [
     {"name": "ANTARA News Terkini", "url": "https://www.antaranews.com/rss/terkini.xml", "source": "ANTARA News"},
     {"name": "ANTARA News Nasional", "url": "https://www.antaranews.com/rss/nasional.xml", "source": "ANTARA News"},
@@ -210,6 +211,7 @@ def normalize_url(url: str) -> str:
 
 
 def clean_title_for_dedup(title, source="") -> str:
+    # Safety casting agar aman dari nilai non-string atau None pada data lama
     t = str(title or "").strip()
     src = str(source or "").strip()
     if src and t.lower().endswith(" - " + src.lower()):
