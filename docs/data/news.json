@@ -1,5 +1,31 @@
 [
   {
+    "id": "fc044c17a12f",
+    "title": "Sekda Amir ke Kades Tegal: Jangan Takut Kelola Dana Desa, Asal Tertib Aturan - korantegal.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0puTEhQcE5Ub1pxQUZJaElXblJkTVVoWHptVldxa2p6am9QbHpZb3dOU3Bza19KMDQyQ1BDeGROREJ6WjN0ZzVrVGV2bTlfSmpOamJiWlpIMnNRMHk3WWp1ZzVjZ3VNaG5Ya1VOZDBNVnZZNFJMYUVoLURwRTlrdTNiMlhmYXNGZ2FuZFdDbnFDMHFMOXU2cDFKc0kzNVE2UGNQSDlwWFc4clQtTUo5MzJrVldvUTcxR0E",
+    "source": "korantegal.com",
+    "pub_date": "2026-10-22T11:52:11+07:00",
+    "desc": "Sekda Amir ke Kades Tegal: Jangan Takut Kelola Dana Desa, Asal Tertib Aturan&nbsp;&nbsp;korantegal.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3b5152d9fbce",
+    "title": "Pemkab Meranti dan Kejari Ingatkan Kades Tertib Kelola Dana Desa - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNanNtYlN2NHVhN0c5bGoxUzllcTFmUlJ0dmFHckxBM2pEdmQtUzMzcXhYVkh0Z1E4UGgtUlphaUYwdTZTOTJNNEFwMEZFdjdSYTh6N1c5ZzlKblk5cHh3UElYSVpvT0k1LVpscW4zdFpkNVZfMm9kSng1RE1wd0h1ZEd1aUlxaTcxMHI3V1RyLV9pcHlRUFpkU0k5QmFIUXZDNjFhVVE5S2R5cXNtMXc",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-22T11:50:00+07:00",
+    "desc": "Pemkab Meranti dan Kejari Ingatkan Kades Tertib Kelola Dana Desa&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "300d2e20bc33",
     "title": "Darul Kamal Perkuat Tata Kelola Dana Desa melalui Program Jaksa Garda Desa - Waspada Online",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0JZVHBCS3ZDaWRudklKVFREbWFKSndFOUREX3hzNlRXUzV6RHBvQ3Y2V29PaG9TSnVtLTZTSElTMXpVdXBfUDFIVDJPQmpoeWY2R1UwR2xDalo3NjdLenBHbXVCNEQxcDgxV3p2cDAyQWlmT19tNG5TSXY5MndXMzZXNmp4NjYxVEFJUGtWd0pzTWg5MnhHZWpnVG4xdw",
@@ -104,6 +130,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "d15edb0976de",
+    "title": "KPK catat 869 kasus korupsi dana desa, 15 desa di Aceh raih penghargaan antikorupsi 2026",
+    "link": "https://www.msn.com/id-id/berita/other/kpk-catat-869-kasus-korupsi-dana-desa-15-desa-di-aceh-raih-penghargaan-antikorupsi-2026/ar-AA2fMppo",
+    "source": "Kilas Aceh on MSN",
+    "pub_date": "2026-10-22T04:44:16+07:00",
+    "desc": "KPK mengungkap 869 kasus korupsi dana desa pada 2016–2023. Sebanyak 15 desa di Aceh menerima penghargaan antikorupsi 2026.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "25b19d7dcbe0",
     "title": "Bumdes Mati Suri, Wabup Pandeglang Dorong Garap Pasar MBG - BantenNews.co.id",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXFSUFB1RFphOHctZkNxdW1Eem14cFJsMVRhVjJ3Yk9JY2Q5ZDRDY3ZNRnhoTUIzRWQzaG1ZSmVETFVKZW5GZ2VsVUhNbkYxakNacUdkVFZqaW9DT2RSWlNRNUpkUmxkRjd2dFJDUm96Z3liTS04WVhSSWZNVk5iLVZNV2lQdnlIc3E0cTF4cw",
@@ -128,6 +167,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "08dd1b20a312",
+    "title": "Desa Mekar Sari Sambut Tim Monev Sodorkan Kelengkapan dokumen SPJ",
+    "link": "https://radarmukomuko.disway.id/news/read/698605/desa-mekar-sari-sambut-tim-monev-sodorkan-kelengkapan-dokumen-spj",
+    "source": "RADAR MUKOMUKO",
+    "pub_date": "2026-10-22T00:00:00+07:00",
+    "desc": "RADARMUKOMUKO.COM - Kecamatan Sungai Rumbai sudah menuntaskan jadwalkan Monitoring dan Evaluasi (Menev) penggunaan Dana Desa dan Anggaran Dana Desa (DD/ADD) tahap I Tahun Anggaran (TA) 2026. Sesuai de ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "53fadff14e28",
@@ -68133,6 +68185,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "847f9ffcd41d",
+    "title": "Awasi Dana Desa, Jaksa Agung Luncurkan Aplikasi Jaga Desa - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalRvUDlCeFl6TUZZWkNXOGdRMktKSjRNQzJHYzdpYUtiZEZaSVI5dlFTamxhQXl1SUtQaVBRVWtSRHZ4WExJU29kVnBZdUpKSUgxa0doamdUVXppNUhuelRFZjFld001aWd0TkpZVmYwanFsVmdiVUhsWFpBaW10RVN4VU4zVE5RUk1tN2hWSS1zelVCR19jcTduSl9TbVh1TTdpS0d6WGZtSGZlY0c3T0VKdmE",
+    "source": "detikFinance",
+    "pub_date": "2019-06-27T14:00:00+07:00",
+    "desc": "Awasi Dana Desa, Jaksa Agung Luncurkan Aplikasi Jaga Desa&nbsp;&nbsp;detikFinance",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "64c6caa84dd3",
     "title": "Kemendes PDTT Gandeng Tokopedia Kembangkan UMKM di Jayapura - detikNews",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjJGdlA5ZlNGeFVvVm90NVhCTVdNU25SY3pxaU1yZ0U4cGlUT19BSnpPN1gwTVh5c3FRNEtHT2ZKUVIwaHFVa2NGOVhvMXM2UlVyaVJ1bUdkWmhMbG5uNkVZYkpKYzhIeDhJQjY5bHFXQ2FZRTB5MUVaVEtLSmx1Q0pVVlZLQTducGRGRnBMYWg0SE9FcnhkbVpON1pfX0ZD",
@@ -69602,6 +69667,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f666f9d76b92",
+    "title": "Kementerian Desa: 96 Daerah Tertinggal Rawan Bencana",
+    "link": "https://www.tempo.co/arsip/kementerian-desa-96-daerah-tertinggal-rawan-bencana-1384660",
+    "source": "Tempo",
+    "pub_date": "2016-02-10T22:05:00+07:00",
+    "desc": "TEMPO.CO, Jakarta-Menteri Desa Pembangunan Daerah Tertinggal dan Transmigrasi, Marwan Jafar menyatakan 96 daerah dari 122 daerah tertinggal masih tergolong rawan bencana. Kementerian menyiapkan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8b42279f73cb",
     "title": "Quo Vadis Strategi Pembangunan Daerah Tertinggal di Indonesia - Sekretariat Kabinet Republik Indonesia",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlNWTFAwMDRzMzBYZTBkODB5WUdRVGdMYjZJbTFPMkpuSzNEWmNSWFBjZDZaNThjVnhnZEZONVhDdUt0dXZ6ZVVTOG9DZzRpQ1J1NkwwQ0g2M3RyZDdvb3F5NzlxX2hRUWI3VVBhNW94dlFnUWlrcmhYX3J4NDdNb19LWExqbnhubTA4",
@@ -70063,6 +70141,19 @@
     "source": "detikNews",
     "pub_date": "2010-10-04T14:00:00+07:00",
     "desc": "Kemenkes Siapkan 'Dokter Plus' untuk Daerah Tertinggal&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f052b16947b7",
+    "title": "Pendapatan per Kapita Daerah Tertinggal Ditargetkan US$ 2",
+    "link": "https://www.tempo.co/ekonomi/pendapatan-per-kapita-daerah-tertinggal-ditargetkan-us-2-1856412",
+    "source": "Tempo",
+    "pub_date": "2009-11-10T23:00:00+07:00",
+    "desc": "TEMPO Interaktif, Jakarta - Menteri Pembangunan Daerah Tertinggal, Helmy Faisal Zaini, berjanji akan menggenjot pendapatan per kapita di daerah tertinggal mencapai US$ 2 per hari. Saat ini pendapatan ...",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
