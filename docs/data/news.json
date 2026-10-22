@@ -1,5 +1,18 @@
 [
   {
+    "id": "f64d7cf586c6",
+    "title": "Inspektorat Tindak Lanjuti Dugaan Penggelapan Dana BUMDes Sigar Penjalin - SUARANTB.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHE0QXRzMWdNeG93aS1tdHdEa3FPWm15blFnZjc0RWVFc0s4dlRJaTEycUNhLUNNczFiczU3TWIxa1FCRTdya3pzeDhRMUNrUmdfaEhSelNsRURtUlU2emhmaFJrYUtXRG4xNnZqMWVIa0tuOUlWVXZfZVFfaFBtZldza01KeDh5ZWNVUXJDcTRuT3UzaU1NSmgxZ0JncGpkb1R1SGt5c1k",
+    "source": "SUARANTB.com",
+    "pub_date": "2026-10-22T07:50:29+07:00",
+    "desc": "Inspektorat Tindak Lanjuti Dugaan Penggelapan Dana BUMDes Sigar Penjalin&nbsp;&nbsp;SUARANTB.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "3036796bc638",
     "title": "Kasus Dana BUMDes Munca, Warga Menanti Kejelasan dari Kejari - Patra Indonesia",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWJQbTVrQTZTczVRUk90dHJ0UzBLRGllMFRCTTBWb1U2bzFMbHVfaGt3YUtQNVVHOXBYRVpxZ2pBWFB0WXRqRUpBd2Q2bGNFQ0pMM0M5eHRpOGRPVDJrdVdpQnhWRlduVWJJQlA0U2wyUS1oYjdiOWcyRFRWRmJ1ZkQ3eHZMUEpIUlpYMnRBZTE",
@@ -8,6 +21,19 @@
     "desc": "Kasus Dana BUMDes Munca, Warga Menanti Kejelasan dari Kejari&nbsp;&nbsp;Patra Indonesia",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6b14cb6de7b1",
+    "title": "Pengalaman Belanja di Koperasi Merah Putih Depok: Harga Elpiji Lebih Murah, Pembayaran Masih Tunai - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN2lEZVk4emZtejltWGlqRnNvbl9OeGpkTW0zc3BwdmgyempPMDUzYkV0eUhrakVwV2drdDdNTzBnOHNSTFg2RzBMMnMtenZ5MkxEWlJxNlUtUlhfQTY0WE9OcTBQLTk4clV3ZmhpSUt0aGlUbndkT29wTmZMaE5HRE9XV0pqc1lISFplcGxJa2gxUl92X2xRQmVndmkydGE0NnZoR0FLM094dFQ1NWtDc25fWTRTV3ZhdUFLelRQbkZnakhJOGd0Xw",
+    "source": "Kompas.com",
+    "pub_date": "2026-10-22T07:19:00+07:00",
+    "desc": "Pengalaman Belanja di Koperasi Merah Putih Depok: Harga Elpiji Lebih Murah, Pembayaran Masih Tunai&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -2691,6 +2717,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "29f740cf926d",
+    "title": "2 Tahun Prabowo-Gibran: Pemerataan Transportasi Masih Tertinggal - BeritaSatu.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXNRV3EwSFhVQk1OZUlyWUNyWWpmQnJ1SUhxNTI1NGNqRnVFa0RYek5DbklCdGlRckFqbDJuejktVXFsWmNac1JNWnhnZmc3WDJLWlBUbVUxWHZ2WkVCNU5jWUo5NzBsRGpZUHNlNGZiRkozdm1jb2JOb0NQZk9BX19jSWxFZkJSMkFiM2xrWjh4bS1WY3Q2ZWRYSm9xdWpPSEVUOFZfblZNMkk",
+    "source": "BeritaSatu.com",
+    "pub_date": "2026-10-21T09:49:29+07:00",
+    "desc": "2 Tahun Prabowo-Gibran: Pemerataan Transportasi Masih Tertinggal&nbsp;&nbsp;BeritaSatu.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Kendala Infrastruktur & Layanan"
+  },
+  {
     "id": "93fa101f24ae",
     "title": "Penyebab kebakaran KMP Batumandi sedang didalami - ANTARA News Megapolitan",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTEyUmpreTRfZ2lSeGR0ZUFPTGNrVXhtTnBUeklITjY1ekVzTmpTWlhzWkFSX3lvQU9CWDg3eVdKM2ppZ3Z0LXBzbWhEMjNQbkNmWHd4UGJQVDNZUW9YRENoelZFT01xQ1NMUDBFaldPb2ZjWmpaRXd6Y3Y1OS1MN1pUN3BLTFRsUVMxZmNYdmc4SWtDOHVSNHlrWHpjUdIBowFBVV95cUxOaVFDeElTcmpmYWJJYlFpN1JTcDVtSTlJSU5CMjhtdjdzTjJGTXhfNlMzTlZXeTV4bTRKd21wLTZ4ZmppcFJzWkFZNWtRQzhVVFIxcEp5WVpXWXBKbGpfem9kbzZGNXRhbjJTRG1OWVZBakxsYjRpVHlTb2JDaXZXbk4tajhmaFRDXzJUN3RPRTd4TkxHS09iajdHRkVmWl93aWNn",
@@ -3289,6 +3328,19 @@
     "sentiment_tag": "Pemberdayaan Masyarakat"
   },
   {
+    "id": "4dda459d9db3",
+    "title": "Kemendes PDT Kembangkan Pangan Lokal Cegah Stunting - Rakyatterkini.com",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWV2T3p1V3J1RGstaW14RGdSZTVhS2otSUpTN2VTSDVkQ0gxY2xlSHZRb093MHRjOVJDS2pSdnVzTW1sbGIyU1MydXBORjNJeHpPVnlyc3FEWnFZQ1lwempBZW13UzNhRnNwdXhFTkphRmpzVjB2R01jd0ZDMWNWVEFsUmVDSnMxQjB2NTJka09WR2tJTHduSTd3",
+    "source": "Rakyatterkini.com",
+    "pub_date": "2026-10-21T02:24:00+07:00",
+    "desc": "Kemendes PDT Kembangkan Pangan Lokal Cegah Stunting&nbsp;&nbsp;Rakyatterkini.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Pemberdayaan Masyarakat"
+  },
+  {
     "id": "c3c59b87e2b8",
     "title": "Kumpulan Berita mou kerja sama - ANTARA News Gorontalo",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUWFtMEdoQ0tINDNCX0pIZGNyWkpCZ2h5VWpDR2JpUnBFQmN2NkdjZUN5SlA3NjBFUi1UUWRIQ0tCZ2Njckg2eXdhUDJMWk42dGxxQzRHVmJBNl84NFAzQ1dmU2Y",
@@ -3425,6 +3477,19 @@
     "source": "Kompas.com",
     "pub_date": "2026-10-20T22:16:34+07:00",
     "desc": "Ajudan Gubernur Kaltim Diduga Intimidasi Mahasiswa yang Demo Karhutla&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f13ecf14ba59",
+    "title": "DEN: 95 persen siswa penerima MBG semangat belajarnya lebih tinggi - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPM1NiZUktaWxzb1ZEcUF2NEdEQnZxNi1nTUVOOFRVcWRPQ0tYR1lyNDNSeWxSQUVpcHNCbFZZcHV5ck9IUTFhbGhXMUpoNWEycHphZ3dFUnA1NVVac2hxanZWR1k1MWU5YkJCQi1JWW5weDJGTW80ZERzZFVSOWNjcS11UlpUNVh3eEYza1V1QVRENWJZb3c3alA4TmxaYVJGcGVQY3JUMFVLWUMwRk9HdWpaSUQzZmRiSDlPeFlRZml4MFVLdGJKSk5obmpXZk0xSlNXTThZZGVQU2EwbUtTNkEyeldGU1RYNXQxQlE2SmZMVXV1SXZXVWRMT3FSZm1vTlBaSNIBrgFBVV95cUxNVm1ENFFQUUZYdlA0OS1nR1FOUUVNb2o0dlQ4OWFsTF85SXlrY2VVUWN5QnlOX29lcVlHYU1SbFJaWklfbFBpN2VSOEVzTkhzamE0di15bTZ0ZnN5dmJCWDhGUHVkeXpYQ2pOWnEzNVl6N0l2cXlzS090TUtiSTU4dlRwZV9fOFljby1KbFl3cWxNQjJ2LUM1dnEweDVfWVRqang4aDdJVUhXQVJibFE",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-20T22:07:14+07:00",
+    "desc": "DEN: 95 persen siswa penerima MBG semangat belajarnya lebih tinggi&nbsp;&nbsp;ANTARA News",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -4017,6 +4082,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "52ac8f96a76f",
+    "title": "Cegah Stunting, Kemendes PDT Kembangkan Bekicot sebagai Alternatif Pangan di Sumba Barat - Radar Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOGNaS3hnQ0xUaFZOTkptd2hJQ2ZCYnJmQWZJcEFsSWtIbEl0cmtpU2RsVGVjenVGTDhpQzdKOHlMWURPamxDdmtaV3puVDJyVlhmUG1CaUtoQmNOZXNGemxVS1pnWHBiQWdscm1ONzkxcDAzNDdGUmFsZGpadEJic1lyX0FCcWNDVk00cXVRUVJ4TVpldnAwWkVtQXB1VGltQnJKbWVTZ005WExPWEFUZk1xTHFscHFZMF80",
+    "source": "Radar Sumbar",
+    "pub_date": "2026-10-20T18:01:35+07:00",
+    "desc": "Cegah Stunting, Kemendes PDT Kembangkan Bekicot sebagai Alternatif Pangan di Sumba Barat&nbsp;&nbsp;Radar Sumbar",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Pemberdayaan Masyarakat"
+  },
+  {
     "id": "6828c41513a4",
     "title": "Observasi Produk BUMDes Mekarjadi, MBG Dibidik Jadi Penggerak Ekonomi Desa - MediaSakti",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXJfeDN3WDhvQXA1dFBCekV0ZWRBVHRYNFk4WmIyVUhxMmxrNUYyZEpwS0xHZVpQUlR1Tkw2aF9HaEp5NEdYaGt1bnBXT04tczkxcGtxSVFzYzRxbFZwbFkzMTlhTFQyNFdMb05SbWVVMm1pelV4Wm5fajNjTFlQWG84UkpySWtLbUlUNlRIQnYxRF9fSXhqaEZQRWdhUWc3S2d5TkhiWS0zTms",
@@ -4199,6 +4277,19 @@
     "sentiment_tag": "Pemberdayaan Masyarakat"
   },
   {
+    "id": "0b701fdb4abe",
+    "title": "Kemenko Infrawil Soroti Jalan Daerah dan Irigasi yang Tertinggal - SuaraGarut.ID",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EemVoWVhrYXpidF96OU5mUzlrdjcyQ1pfX0h0VW5kb2lobVRpUHZvUy03a3ZHcGJJczNLZFJnYWd0NTcteXhRcWZBb0NjNFhURWs2TjVKakU3NXBKbEpvT1Z0TlROdXFnQmg2NzhGbw",
+    "source": "SuaraGarut.ID",
+    "pub_date": "2026-10-20T16:29:28+07:00",
+    "desc": "Kemenko Infrawil Soroti Jalan Daerah dan Irigasi yang Tertinggal&nbsp;&nbsp;SuaraGarut.ID",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7a73de3f9a23",
     "title": "526 Kali Karhutla Terjadi di Jawa Barat hingga Oktober 2026, 1.082 Hektare Lahan Hangus - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMW1aQWI5XzdqM0hEZTQ0am1na2FzeW1ZLUR2Z0U1Rm11czI1ZV9jbGdFSUZHN3g3ZEUweGNENVMtZ0hjd0dDSC1UWTdwRmVtR25LWjJhLTBsdzVONlowNWFqR1hfZTZxRzdJMTFidE9GNHZ3QjFvRnZGeHZlMk9vSGdDUWY5YWVybzlibW1QSjhlSHpjVkMyajNrMkVHcWxJSGFPc21BRElqQzdiM00wZW40QWxmNmxWWEJNUUdVazZjVFk",
@@ -4236,6 +4327,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "59a4673fc7b9",
+    "title": "Huzrin Hood Dorong Pengembangan Rempah Kepulauan Riau Menuju Pasar Ekspor - InDepthNews",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPelA3bHZ3YWxTQnJ1Vm1BSUllNE5TUWZuNkZXcHRoTDZaOFE2YmhHWDVULVJYd2tCT1pmb25aY3NTZnU3cm9EMmMwSUFLLWZCUkE3cm9MTy1INkRCeUw0aVl5ek5GSHdacGVrN0tCSk9DS2VqTW5Dby1FYkQ0QWNZUVR2ekZYeXlfVEx3Y2JuVjVIMGd4bllmZU8tTGxOdw",
+    "source": "InDepthNews",
+    "pub_date": "2026-10-20T16:03:10+07:00",
+    "desc": "Huzrin Hood Dorong Pengembangan Rempah Kepulauan Riau Menuju Pasar Ekspor&nbsp;&nbsp;InDepthNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "3507898f8ef9",
@@ -4771,6 +4875,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8a01b4613215",
+    "title": "Mendes: Desa Jadi Subjek Pembangunan di Era Prabowo - NTVNews.id",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmhQQ0pRM2dzcmdON3pDWXdOc05JUzhPc0hCQlhyMmRRQjRPZkgybzRoOUxQN1RYUmNMX2ZiY2o4Mm1kSnhTb3A2SjMzR3I1ZHZnTmNSUXlpcG9WVzFtYlBxQVpWRzJacU1Pd1o4bG5RQnZVYkFMVHdkV2VHVWFEN19KY1hFMjZ2YUprMzRCb0E",
+    "source": "NTVNews.id",
+    "pub_date": "2026-10-20T13:00:00+07:00",
+    "desc": "Mendes: Desa Jadi Subjek Pembangunan di Era Prabowo&nbsp;&nbsp;NTVNews.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4ab193ddbeb5",
     "title": "Kemendes: Perlu pendekatan khusus layanan kesehatan daerah tertinggal - ANTARA News Gorontalo",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlB6VnFEdHprcGxGbElFak5YcWRrenJNaHlXU0JITXlEQXZMQkkzNzZ6SE5Xb3pGWnU0cWtOLVloaGI0d2tydVpyMEk1QXdVaEJFM0lQX0lqU0JLeHNBTWh2cjR0TUI0ZUUwRGN4UGtXQmNFUnNHZDlqTnR5UlVIRF9kMllxOHR4V1pieGVGRS02aDhDazQ0NGdlZy10VkVwSHE5R3hRZ08teno0cVBxZGNSbEQ2T2trSDRV0gG7AUFVX3lxTE1GUHpWcUR0emtwbEZsSUVqTlhxZGt6ck1oeVdTQkhNeURBdkxCSTM3NnpITldvekZadTRxa04tWWhoYjR3a3J1WnIwSTVBd1VoQkUzSVBfSWpTQkt4c0FNaHZyNHRNQjRlRTBEY3hQa1dCY0VSc0dkOWpOdHlSVUhEX2QyWXE4dHhXWmJ4ZUZFLTZoOENrNDQ0Z2VnLXRWRXBIcTlHeFFnTy16ejRxUHFkY1JsRDZPa2tINFU",
@@ -5289,6 +5406,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d40bb883fc7c",
+    "title": "Dua Tahun Prabowo-Gibran, 9.600 Desa Masih Tertinggal - Monitor Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNnFWMXZvVHJTR3NqVlZPWXQyRFVQaUkzNmZyNWg4dXFDMmt4d1F3YUlfajFxckFnS2dSM2tXVXVyeVVEeTFLX2w0MEVvVGtxX0xUS0h1RVdVQ3NaUGtKa243T29VQlJJV1ZOaDRUblYtT1BUUmM3T1lTN181aXE4anpXNmZvdGZpaFg3X2h4alRjblZwT2FxaWVWd1NCRF9DV0pGM1Y5T2ppa0duNXdUbw",
+    "source": "Monitor Indonesia",
+    "pub_date": "2026-10-20T08:55:57+07:00",
+    "desc": "Dua Tahun Prabowo-Gibran, 9.600 Desa Masih Tertinggal&nbsp;&nbsp;Monitor Indonesia",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Kendala Infrastruktur & Layanan"
   },
   {
     "id": "8c33cc9e5ba2",
@@ -6201,6 +6331,19 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
+    "id": "324f6f5dfbfb",
+    "title": "Wamendes Tinjau KDKMP di Klaten, PLN Hadirkan Layanan PPOB untuk Perkuat Ekonomi Desa - Tribunsumsel.com",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUlBSmx1NkVPMWVNLTN6SFhiNlFOOWdublFMMTVvYjNCOXlpSUZHN1pEUnRfSHJmVERMWWkyRkF1NmNxMXBXUUJvTlpXSGtubzI4NVpuRndrMWFqZFlBWDFWMEIwSlpBclFqTU9xM2dzQTZ5bEM5YWN4TzZLNmg1WnJyeXNTd0pUdlA1YWZHblBKQWxILVJxam04LVIwT3Z1TGJwNGdhdUQxZ2t4ZUtTNzAzOUlIYkFPQndHNEkxS0Zvb2FNcmNpbDY5YjZLUTQ",
+    "source": "Tribunsumsel.com",
+    "pub_date": "2026-10-19T16:33:13+07:00",
+    "desc": "Wamendes Tinjau KDKMP di Klaten, PLN Hadirkan Layanan PPOB untuk Perkuat Ekonomi Desa&nbsp;&nbsp;Tribunsumsel.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
     "id": "5cde232afe35",
     "title": "Berita Bupati TRK Buka Sosialisasi Pengawasan Keuangan Desa bagi 222 Gampong - Pemerintah Kabupaten Nagan Raya",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVZBM1Y4Qk8xZ2tPSW1odTF3Slkxb2V0NGhYd1BReERGWF9VVjA4WVpiNE9ESmFDenB2R3QxVFZ4Y183RnNXSVRUTlVOcGM1WkZrMmZ0ZEZUT3A3N2Y1Y2pOQ1hyNWZHTllYTllwOGdDZk1EOXIzb2N0Q1VCMlFjVklvTHNfLW5SWk4zNWFkS1R1SkFOQW5KZjF4Q3JkelBUODNodW1WbFNxTHhuSWxVdVJ0RkZ3cndMQl9nY215OVNUdU5lZ2hvMA",
@@ -6233,6 +6376,19 @@
     "source": "ANTARA News",
     "pub_date": "2026-10-19T16:25:31+07:00",
     "desc": "BNPPDT lanjutkan pembangunan perbatasan dan daerah terpencil&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6fcd146faffb",
+    "title": "Mendagri Tegaskan Kesejahteraan Warga Perbatasan Adalah Benteng Kedaulatan Negara - NTVNews.id",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUZwVVF5dlZXOEd0QUJQY2oyNDkyQjVDZ2k4Ymt2S1l6QWVMOUJsMkowTWo0RTNMY0JLUm5sb0g5V3B0RGpGYVRfREstSHRwR1ZYcDUxc3N3Rnp0U192aGRmb1pRY2VZekkyS19lMkItS1FfOVRISks2UUl4NnZiNi0yV0J3VlB0RTRReHBZT2xqQzJON0MwOC1XQl8wUVhjcElZWTVTOGlxN1I2d0N5VjBiSVkyd2JDNnc",
+    "source": "NTVNews.id",
+    "pub_date": "2026-10-19T16:16:00+07:00",
+    "desc": "Mendagri Tegaskan Kesejahteraan Warga Perbatasan Adalah Benteng Kedaulatan Negara&nbsp;&nbsp;NTVNews.id",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -6420,6 +6576,19 @@
     "sentiment": "positif",
     "sentiment_score": 6,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "eba505bffccc",
+    "title": "Jadi Kepala BNPPDT, Maruli Simanjuntak Fokus Lanjutkan Program Berjalan - Akurat.co",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNGNrd2tuV014S3JQSWZONlpNY0xpQ3NUZGY5dXppOVo1MTBSbnhMd2hKS2NnUmN6V0F3UFFSN1E3eC1BTU1oN3FRUkRhaW5uWmw3SmRMeUFfcU5PVVNIMHdzdjdMa1lvZlZjSmhlMWJjX0x5X3F4bFduSlJzTjBBcWhZd2h6NG5lZGliNHJ0eWdoODZ3TXlUeGFNX2pYNnhaRjQ0b0pTZw",
+    "source": "Akurat.co",
+    "pub_date": "2026-10-19T14:34:49+07:00",
+    "desc": "Jadi Kepala BNPPDT, Maruli Simanjuntak Fokus Lanjutkan Program Berjalan&nbsp;&nbsp;Akurat.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "5e29e9cb20d7",
@@ -6682,6 +6851,19 @@
     "sentiment_tag": "Sorotan & Evaluasi Publik"
   },
   {
+    "id": "15d38c1ad156",
+    "title": "PLN UIP3B Sumatera bergerak bersama TNI AD, hadirkan akses air bersih untuk wujudkan desa sejahtera di Bengkulu - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWkdsZGw5ZjdWZklqdUYtZEJTWnc0WFhRNVF5bnVqRlBKcHN2cnNMb004eU85eGg2bHVBaWZJZXkwWkRYODdCZXZQZ21DQWxFbkozaGNSTFdtUE96RkZIQXdmVk1qV3djTUxyeERfZFAtcmFkZVU4ZTkxSVlCTHNScDQ0bXEwT3JWODBUVkdLWGxTUlhtLW1LNS1RM2hxbThjdVdCTnM0TDNEUTM2Zk1qZWtIX3JVbGlzd0ZNb19BalRmZVRuN08zWnRKUVR0RkJrNXpUaElXZFRMZ21LNldnVDR3OUVKQjg",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-10-19T12:46:02+07:00",
+    "desc": "PLN UIP3B Sumatera bergerak bersama TNI AD, hadirkan akses air bersih untuk wujudkan desa sejahtera di Bengkulu&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "cea51c563191",
     "title": "Keren! BUMDes Kalibakung Tegal Tembus PAD Rp350 Juta Buat Beasiswa Kuliah - radartegal.disway.id - Radartegal.com",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR19MTzZmdGt5dk1qZDBYSzl2ZlJmUmpaWDRtTXh6bWFHWkxSNjVuNWZXZHFaOXZrMkFNcEJNcmVTWWQ2eEdtNmdQS1ZMS0xQaGdQeXFxWHlWa0V5b25PVVVhZ29QVy1CTUt4Mlg4QVp0d1BuWnBRRTVlUWZTejd5V0ZuZ3VuNnE5eEh1dVFoeXdYYzk2ZmNPZ2dlY2VXRXJXUGpJNUI1cVZjTURaTUk2QVFjM1RqZFZBUDZ3amxXcm83UEN4Vi1ITNIBsgFBVV95cUxNNGRCeDBpZ0RBcUFQeW9kTVI3UGtnWFVDbDdNRnIxcGtOdDdhOTRqU2lyVmppT0o3VnJxMGFhaHdFN0VMeDROQTRsMW1fSnR2SlR1YkZacFEydFI1cnUwcGxwTzBXbVRiR0RyZ1FJT3VWWXRYdzNwTTl5X3BUSFFhOHQ1YUVXQnlEM0FpbGQyamQ3V0J2TkRGX19PLXQtQzkxNHJUX2pnZjNxNXlUdVJ6R29R",
@@ -6877,6 +7059,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8e8e811e834b",
+    "title": "Maruli Blak-blakan soal Jabatan Barunya di BNPP: Masih Perlu Banyak Belajar - Akurat.co",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWx3WG9vT2NkNVQxQ0FJUmRvUHQ2T0Z0N0x2UmlfOTQ1eUtyZ21KbG5xaWlwM2JaSUN2MEY5SEVoUFA3OVRvXzhCOG5VYTV6SmZJQTR5YjdSSHhURUcwSWtRSDY0SDM4dzNtNG5YRmlqM1lBZ3ZFSEFpcG5GeXZjQnowd2RTREpLbVc3YUlsN0FVNXI5aTNFZGN2V21rNjRKQWstVElraFduNndt",
+    "source": "Akurat.co",
+    "pub_date": "2026-10-19T10:18:47+07:00",
+    "desc": "Maruli Blak-blakan soal Jabatan Barunya di BNPP: Masih Perlu Banyak Belajar&nbsp;&nbsp;Akurat.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "540f7099e8f0",
     "title": "Program Prioritas Presiden - ANTARA News Riau",
     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDOHU3YmoySUt4eVV2QXY0azdSNklLa0FfSm9CeVkwNzFkX3dreEdOT2xwbnZucHN4YzdjYTdsRHZmV04tRFludnQyUHJwOVFIYjc2OTZWUFhBcWxLUk1Gd3J0cEkzMWpTTFJyMw",
@@ -6898,6 +7093,19 @@
     "desc": "Jembatan Kuno Bergaya Romawi Muncul dari Dasar Waduk Gajah Mungkur&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a2e87fa02363",
+    "title": "Tito Akui Kurang Fokus, Maruli Simanjuntak Kini Pimpin BNPP - Akurat.co",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeENZOFVGLUNUSlM1QzFMS2d3VERjT0EtNXlJRWVQOFo3ZWI1Snlpdk5JNWxGY3Rid0I0QV9vSXFScDJZRHg5OEFqdUxQR0QxcmczUjgxQkFRTEs4SXAwNVZCWUtSZkVleTQ2ZW90aklndmxvajF0QVNUREl6UXQ2T1VsX2lUdEt1eXJlTWs4WVZ3YmZHa0tR",
+    "source": "Akurat.co",
+    "pub_date": "2026-10-19T09:35:25+07:00",
+    "desc": "Tito Akui Kurang Fokus, Maruli Simanjuntak Kini Pimpin BNPP&nbsp;&nbsp;Akurat.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -7171,6 +7379,19 @@
     "desc": "Pikat Anak Muda, Indonesia Bakal Adopsi Resep Desa Tajir China&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "13522f41cf37",
+    "title": "Kumpulan Berita bupati wakil bupati - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pc25JdnVNYUNKOUJTX2RlNlRQY0NWTEhEbFlqbFFRRU9uZUctRlRqZHFQcVVlY1ZLdXZsQjF1WV9qQWpHWk5ycGtEMVI3Sm9XOHROSkpGNm1lS1l0Ukg5aXVGRXFDQQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-18T23:34:47+07:00",
+    "desc": "Kumpulan Berita bupati wakil bupati&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -70317,6 +70538,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8240c83f9e80",
+    "title": "BLT Desa Cair Langsung 3 Bulan, Penerima Bisa Dapat Rp 900 Ribu - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRnpIS2xaRC1xeEJEckREaGNKdHctaVlkUHlGQkNRNlM5S3g0dUNEMXZwM19NeDFNM25uaVNDQ29IS25xTWRxNmJOVFNPb0xlSnBtdWFqRW5ZcDBMVHhzWWhjVjBGYUZIQndDZzhybmdaeF9Xeml0cGZPMHcteUF2T0tsOWQ5bFlFQjhWX2NNUENpc01aZzdBMEt4RUpXMTFtdVB6VzM1Y0dRN2RIYnQybUd3LW91X3luWHpORNIBwgFBVV95cUxOUkZmYW9CekZrcUptX1U3cVh2U29qakdrNmw5Q3FRbXlOMWN2NHd2Y053QllJOWVNc29ydUEyYzJ6VE5yd2JYUm9XVUhXNUl6U0h3T2hiRnhtbFpoWUN6a216VjRVamxRaC1iMmFxMkVaSGE2QzB2LVlIR2hITno4Y1lRcVEzWFhseXlFczROa2RjSERhZGd1ZDVGd25TS3I3N3I1MFZwUVBvbTFoX0J4bW13eHR1dWczRmFTV0U3SEhzZw",
+    "source": "detikFinance",
+    "pub_date": "2021-07-30T14:00:00+07:00",
+    "desc": "BLT Desa Cair Langsung 3 Bulan, Penerima Bisa Dapat Rp 900 Ribu&nbsp;&nbsp;detikFinance",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a3b3438cfaab",
     "title": "Penggunaan Dana Desa Capai Rp 4,01 T untuk Dukung PPKM di Desa - detikNews",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUxBSDJ0OFg1MEZsRi03WlpGcUpUQTZNVjNPaUZwN3NDbDRwS0oxV3U3ZlBoZFZueEpZNmJVZGZ4cmlsMWhkSTRMbnVPVjZGeFltT0VqeldTWkFiMzM1eTJsM3g3RFcyRi1zeXlKVG1aNU1WbDdqaXNkcHVoWUI2QTdIaEVqU1FMQXU0Sm5zQmVCS0hLX25ZcWMyMndVRFZ3dU0xcNIBqgFBVV95cUxPb3VyNDFwN0gyX2FXU2dwSnNwc2JRTHRlLWhzWjBOa1EtbjByS05CNFRNZmkwb0NRM3JxTVU1bTk3TnVfWVJCNXJxbkVtR2FjT0NBYTFjRE5fVWlLYWVyOGJPdk5WYk9NdXp5MFdNRWFFRWIzbEM0dXJtTWszcVJRU0poREdnQ0tfR19hdUFjV2dRVTdxWGFaZzFtZk1kd0I4RG41NkotMEFsdw",
@@ -71571,6 +71805,19 @@
     "source": "detikFinance",
     "pub_date": "2019-11-04T15:00:00+07:00",
     "desc": "Fenomena Desa 'Hantu' Tiba-tiba Muncul Demi Dana Desa&nbsp;&nbsp;detikFinance",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c76d0e625db6",
+    "title": "Cerita Awal Mula Sri Mulyani Temukan Desa 'Hantu' - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT1JRNzlFZGd3SUNTQUNIaFFGeEI3Mi1Ba2I4bklqM2NfM0pYd0FUUnBUdnFhSWpmYzF0M0dQX1E3dFBnNlVWNHc4NDBmM0lyNElmWWJDOUZlVU01VVFGdGlkVUM5eW5vOV81Z05vQ0lVZGd6bVpmaDRvNGlNbXFyal8zY3dObmY5VDJpM2U3bi01bzd6NktUUGJMcVAtbkVNUGFzZVNXLXI",
+    "source": "detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
+    "pub_date": "2019-11-04T15:00:00+07:00",
+    "desc": "Cerita Awal Mula Sri Mulyani Temukan Desa 'Hantu'&nbsp;&nbsp;detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
