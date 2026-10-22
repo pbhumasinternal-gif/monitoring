@@ -20,10 +20,6 @@
       --neu-bg: #f1f5f9;
       --neg: #ef4444;
       --neg-bg: #fef2f2;
-      --c-dana: #f59e0b;
-      --c-bum: #10b981;
-      --c-3t: #ef4444;
-      --c-kemen: #8b5cf6;
     }
     [data-theme="dark"] {
       --bg: #0f172a;
@@ -186,6 +182,9 @@
     .pill.active {
       background: var(--primary); color: #fff; border-color: var(--primary);
     }
+    .pill.pill-danger.active {
+      background: var(--neg); border-color: var(--neg); color: #fff;
+    }
     .pill .cnt {
       background: rgba(100,116,139,0.15); padding: 1px 6px; border-radius: 999px;
       font-size: 0.7rem;
@@ -195,7 +194,7 @@
     /* News List */
     .result-bar {
       display: flex; justify-content: space-between; align-items: center;
-      font-size: 0.82rem; color: var(--muted); margin: 10px 4px;
+      font-size: 0.82rem; color: var(--muted); margin: 10px 4px; flex-wrap: wrap; gap: 8px;
     }
     .news-card {
       background: var(--card); border: 1px solid var(--border);
@@ -224,12 +223,29 @@
     .b-neu { background: var(--neu-bg); color: var(--neu); }
     .b-neg { background: var(--neg-bg); color: var(--neg); }
 
+    .news-footer {
+      display: flex; justify-content: space-between; align-items: center;
+      gap: 12px; margin-top: 4px;
+    }
     .news-title {
       font-size: 0.96rem; font-weight: 700; color: var(--text);
-      text-decoration: none; display: block; margin-bottom: 4px;
+      text-decoration: none; display: block; flex: 1;
     }
     .news-title:hover { color: var(--primary); }
-    .news-desc { font-size: 0.8rem; color: var(--muted); }
+
+    .btn-tag-irrelevant {
+      padding: 4px 10px; border-radius: 8px; border: 1px solid var(--border);
+      background: var(--bg); color: var(--muted); font-size: 0.72rem; font-weight: 600;
+      cursor: pointer; white-space: nowrap; transition: 0.12s;
+    }
+    .btn-tag-irrelevant:hover {
+      background: var(--neg-bg); color: var(--neg); border-color: var(--neg);
+    }
+    .btn-restore {
+      padding: 4px 10px; border-radius: 8px; border: 1px solid var(--pos);
+      background: var(--pos-bg); color: var(--pos); font-size: 0.72rem; font-weight: 600;
+      cursor: pointer; white-space: nowrap;
+    }
 
     /* Sidebar Widgets */
     .side-title {
@@ -294,7 +310,7 @@
     <div class="topic-card active" data-topic="all" style="--accent:#2563eb">
       <div class="t-label">● Semua Topik</div>
       <div class="t-count" id="cnt-all">0</div>
-      <div class="t-sub">Total Berita</div>
+      <div class="t-sub">Total Berita Relevan</div>
     </div>
     <div class="topic-card" data-topic="danadesa" style="--accent:#f59e0b">
       <div class="t-label" style="color:#d97706">● Dana Desa</div>
@@ -369,14 +385,25 @@
           </div>
         </div>
 
-        <!-- Sentiment Filter -->
+        <!-- Sentiment & Irrelevant Tag Filter -->
         <div class="filter-group">
-          <div class="filter-title">Sentimen</div>
+          <div class="filter-title">Sentimen & Tag</div>
           <div class="filter-pills" id="sentimentPills">
-            <button class="pill active" data-sent="all">Semua Sentimen <span class="cnt" id="s-all">0</span></button>
+            <button class="pill active" data-sent="all">Semua Relevan <span class="cnt" id="s-all">0</span></button>
             <button class="pill" data-sent="positif">🟢 Positif <span class="cnt" id="s-positif">0</span></button>
             <button class="pill" data-sent="netral">⚪ Netral <span class="cnt" id="s-netral">0</span></button>
             <button class="pill" data-sent="negatif">🔴 Negatif / Kritis <span class="cnt" id="s-negatif">0</span></button>
+            <button class="pill pill-danger" data-sent="irrelevant" title="Daftar berita yang Anda tandai tidak relevan">🚫 Ditandai Tidak Relevan <span class="cnt" id="s-irrelevant">0</span></button>
+          </div>
+        </div>
+
+        <!-- Custom Keyword Blocker -->
+        <div class="filter-group">
+          <div class="filter-title">Blokir Kata</div>
+          <div class="filter-pills">
+            <input type="text" id="blockWordInput" placeholder="Ketik kata tidak relevan (misal: iran, israel, bola)..." style="padding:5px 10px;border:1px solid var(--border);border-radius:8px;font-size:0.78rem;min-width:240px;background:var(--bg);color:var(--text)" />
+            <button class="pill" id="addBlockWordBtn">➕ Blokir Kata Kunci</button>
+            <div id="blockedWordsList" style="display:flex;gap:5px;flex-wrap:wrap"></div>
           </div>
         </div>
 
@@ -425,7 +452,10 @@
 
       <div class="result-bar">
         <div>Menampilkan <strong id="shownCount">0</strong> pemberitaan</div>
-        <div id="activeFilterInfo"></div>
+        <div id="blacklistActions" style="display:none;gap:6px">
+          <button class="pill" id="btnCopyBlacklist" title="Salin JSON untuk disimpan ke docs/data/blacklist.json">📋 Salin JSON Blacklist</button>
+          <button class="pill" id="btnClearIgnored">🗑️ Pulihkan Semua</button>
+        </div>
       </div>
 
       <div id="newsContainer">
@@ -504,7 +534,7 @@
       <div class="panel">
         <div class="side-title">
           <span>Proporsi Topik</span>
-          <span style="font-weight:500">Semua data</span>
+          <span style="font-weight:500">Berita relevan</span>
         </div>
         <div id="topicBreakdown"></div>
       </div>
@@ -514,8 +544,14 @@
 
 <script>
 (() => {
+  const STORAGE_IGNORED_IDS = "desa_monitor_ignored_ids_v1";
+  const STORAGE_BLOCKED_WORDS = "desa_monitor_blocked_words_v1";
+
   let allArticles = [];
   let filteredArticles = [];
+  let ignoredIds = new Set(JSON.parse(localStorage.getItem(STORAGE_IGNORED_IDS) || "[]"));
+  let blockedWords = JSON.parse(localStorage.getItem(STORAGE_BLOCKED_WORDS) || '["israel","iran","latihan tempur"]');
+
   let state = {
     topic: "all",
     portal: "all",
@@ -535,6 +571,30 @@
     const el = document.getElementById(id);
     if (el) el.textContent = val;
   };
+
+  function saveBlacklistState() {
+    localStorage.setItem(STORAGE_IGNORED_IDS, JSON.stringify([...ignoredIds]));
+    localStorage.setItem(STORAGE_BLOCKED_WORDS, JSON.stringify(blockedWords));
+  }
+
+  function isArticleIrrelevant(a) {
+    if (ignoredIds.has(a.id)) return true;
+    const text = `${a.title} ${a.desc}`.toLowerCase();
+    for (const w of blockedWords) {
+      if (w && text.includes(w.toLowerCase())) return true;
+    }
+    return false;
+  }
+
+  function renderBlockedWordsPills() {
+    const container = document.getElementById("blockedWordsList");
+    if (!container) return;
+    container.innerHTML = blockedWords.map(w => `
+      <span class="pill" style="background:var(--neg-bg);color:var(--neg);border-color:var(--neg);padding:3px 9px;font-size:0.72rem" data-remove-word="${w}">
+        🚫 "${w}" ✕
+      </span>
+    `).join("");
+  }
 
   function classifyPortal(source, link) {
     const s = `${source || ""} ${link || ""}`.toLowerCase();
@@ -656,14 +716,20 @@
       setElText("lastUpdated", `${latest.dateStr}, ${latest.timeStr}`);
     }
 
+    renderBlockedWordsPills();
+    refreshAll();
+  }
+
+  function refreshAll() {
     updateGlobalCounters();
     renderInsights();
     applyFilters();
   }
 
   function updateGlobalCounters() {
-    const counts = { all: allArticles.length, danadesa: 0, bumdesa: 0, daerahtertinggal: 0, kemendesa: 0 };
-    allArticles.forEach(a => {
+    const relevantArticles = allArticles.filter(a => !isArticleIrrelevant(a));
+    const counts = { all: relevantArticles.length, danadesa: 0, bumdesa: 0, daerahtertinggal: 0, kemendesa: 0 };
+    relevantArticles.forEach(a => {
       if (counts[a.topic] !== undefined) counts[a.topic]++;
     });
     setElText("cnt-all", counts.all.toLocaleString("id-ID"));
@@ -672,14 +738,13 @@
     setElText("cnt-daerahtertinggal", counts.daerahtertinggal.toLocaleString("id-ID"));
     setElText("cnt-kemendesa", counts.kemendesa.toLocaleString("id-ID"));
 
-    // Quick daily counts (Today, Yesterday, 2 Days Ago in WIB)
     const now = new Date();
     const d0 = getWIBDateString(now);
     const d1 = getWIBDateString(new Date(now.getTime() - 86400000));
     const d2 = getWIBDateString(new Date(now.getTime() - 2 * 86400000));
 
     let c0 = 0, c1 = 0, c2 = 0;
-    allArticles.forEach(a => {
+    relevantArticles.forEach(a => {
       if (a._wibDate === d0) c0++;
       else if (a._wibDate === d1) c1++;
       else if (a._wibDate === d2) c2++;
@@ -688,7 +753,6 @@
     setElText("quickDay1", c1);
     setElText("quickDay2", c2);
 
-    // Topic Breakdown
     const tb = document.getElementById("topicBreakdown");
     if (tb) {
       const items = [
@@ -719,8 +783,22 @@
     const d1WIB = getWIBDateString(new Date(now.getTime() - 86400000));
     const d2WIB = getWIBDateString(new Date(now.getTime() - 2 * 86400000));
 
-    // Base filter (without portal & sentiment to compute dynamic facet counts)
+    const irrelevantTotal = allArticles.filter(a => isArticleIrrelevant(a)).length;
+    setElText("s-irrelevant", irrelevantTotal);
+
+    const blkActions = document.getElementById("blacklistActions");
+    if (blkActions) {
+      blkActions.style.display = (state.sentiment === "irrelevant" || irrelevantTotal > 0) ? "flex" : "none";
+    }
+
     const baseMatched = allArticles.filter(a => {
+      const isIrrel = isArticleIrrelevant(a);
+      if (state.sentiment === "irrelevant") {
+        if (!isIrrel) return false;
+      } else {
+        if (isIrrel) return false;
+      }
+
       if (state.topic !== "all" && a.topic !== state.topic) return false;
 
       if (state.days !== "all") {
@@ -753,45 +831,42 @@
       return true;
     });
 
-    // Update Portal pill counts
     const pCounts = { all: baseMatched.length, antara: 0, detik: 0, kompas: 0, yahoo: 0, msn: 0, rri: 0, tribun: 0, other: 0 };
     baseMatched.forEach(a => {
       if (pCounts[a._portal] !== undefined) pCounts[a._portal]++;
     });
     Object.keys(pCounts).forEach(k => setElText(`p-${k}`, pCounts[k]));
 
-    // Filter by portal
     const afterPortal = state.portal === "all"
       ? baseMatched
       : baseMatched.filter(a => a._portal === state.portal);
 
-    // Update Sentiment counts
-    const sCounts = { all: afterPortal.length, positif: 0, netral: 0, negatif: 0 };
-    afterPortal.forEach(a => {
-      if (sCounts[a.sentiment] !== undefined) sCounts[a.sentiment]++;
-    });
-    setElText("s-all", sCounts.all);
-    setElText("s-positif", sCounts.positif);
-    setElText("s-netral", sCounts.netral);
-    setElText("s-negatif", sCounts.negatif);
+    if (state.sentiment !== "irrelevant") {
+      const sCounts = { all: afterPortal.length, positif: 0, netral: 0, negatif: 0 };
+      afterPortal.forEach(a => {
+        if (sCounts[a.sentiment] !== undefined) sCounts[a.sentiment]++;
+      });
+      setElText("s-all", sCounts.all);
+      setElText("s-positif", sCounts.positif);
+      setElText("s-netral", sCounts.netral);
+      setElText("s-negatif", sCounts.negatif);
 
-    // Update Sentiment Barometer widget
-    const totalS = sCounts.all || 1;
-    const pPos = Math.round((sCounts.positif / totalS) * 100);
-    const pNeu = Math.round((sCounts.netral / totalS) * 100);
-    const pNeg = Math.max(0, 100 - pPos - pNeu);
-    setElText("boxPos", sCounts.positif);
-    setElText("boxNeu", sCounts.netral);
-    setElText("boxNeg", sCounts.negatif);
-    setElText("pctPos", `${sCounts.all ? pPos : 0}%`);
-    setElText("pctNeu", `${sCounts.all ? pNeu : 0}%`);
-    setElText("pctNeg", `${sCounts.all ? pNeg : 0}%`);
-    document.getElementById("barPos").style.width = `${pPos}%`;
-    document.getElementById("barNeu").style.width = `${pNeu}%`;
-    document.getElementById("barNeg").style.width = `${pNeg}%`;
+      const totalS = sCounts.all || 1;
+      const pPos = Math.round((sCounts.positif / totalS) * 100);
+      const pNeu = Math.round((sCounts.netral / totalS) * 100);
+      const pNeg = Math.max(0, 100 - pPos - pNeu);
+      setElText("boxPos", sCounts.positif);
+      setElText("boxNeu", sCounts.netral);
+      setElText("boxNeg", sCounts.negatif);
+      setElText("pctPos", `${sCounts.all ? pPos : 0}%`);
+      setElText("pctNeu", `${sCounts.all ? pNeu : 0}%`);
+      setElText("pctNeg", `${sCounts.all ? pNeg : 0}%`);
+      document.getElementById("barPos").style.width = `${pPos}%`;
+      document.getElementById("barNeu").style.width = `${pNeu}%`;
+      document.getElementById("barNeg").style.width = `${pNeg}%`;
+    }
 
-    // Final filtered articles
-    filteredArticles = state.sentiment === "all"
+    filteredArticles = (state.sentiment === "all" || state.sentiment === "irrelevant")
       ? afterPortal
       : afterPortal.filter(a => a.sentiment === state.sentiment);
 
@@ -812,7 +887,7 @@
     if (filteredArticles.length === 0) {
       container.innerHTML = `
         <div class="panel" style="text-align:center;padding:36px;color:var(--muted)">
-          📭 Tidak ada pemberitaan yang cocok dengan filter saat ini.
+          📭 Tidak ada pemberitaan pada kategori/filter ini.
         </div>`;
       if (pagEl) pagEl.innerHTML = "";
       return;
@@ -827,6 +902,12 @@
       const t = formatWIB(a.pub_date);
       const sentClass = a.sentiment === "positif" ? "b-pos" : a.sentiment === "negatif" ? "b-neg" : "b-neu";
       const sentIcon = a.sentiment === "positif" ? "🟢 Positif" : a.sentiment === "negatif" ? "🔴 Negatif" : "⚪ Netral";
+      const isIrrel = isArticleIrrelevant(a);
+
+      const actionBtn = isIrrel
+        ? `<button class="btn-restore" data-restore-id="${a.id}" title="Kembalikan ke daftar berita relevan">↩️ Pulihkan Berita</button>`
+        : `<button class="btn-tag-irrelevant" data-ignore-id="${a.id}" title="Tandai berita ini tidak relevan dan sembunyikan">🚫 Tidak Relevan</button>`;
+
       return `
         <div class="news-card">
           <div class="news-meta">
@@ -839,11 +920,13 @@
               ${t.relStr} · ${t.dateStr} <span class="badge" style="background:var(--bg);color:var(--text)">⏰ ${t.timeStr}</span>
             </div>
           </div>
-          <a href="${a.link}" target="_blank" rel="noopener noreferrer" class="news-title">${a.title}</a>
+          <div class="news-footer">
+            <a href="${a.link}" target="_blank" rel="noopener noreferrer" class="news-title">${a.title}</a>
+            ${actionBtn}
+          </div>
         </div>`;
     }).join("");
 
-    // Render Pagination
     if (pagEl) {
       if (totalPages <= 1) {
         pagEl.innerHTML = "";
@@ -865,7 +948,7 @@
     const wordFreq = {};
     const srcFreq = {};
 
-    allArticles.forEach(a => {
+    allArticles.filter(a => !isArticleIrrelevant(a)).forEach(a => {
       srcFreq[a.source] = (srcFreq[a.source] || 0) + 1;
       const cleanTitle = a.title.split(" - ")[0].toLowerCase();
       const words = cleanTitle.match(/[a-z]{4,}/g) || [];
@@ -887,7 +970,68 @@
     }
   }
 
-  // Event Listeners
+  // Event Listeners for Tagging Irrelevant News
+  document.getElementById("newsContainer")?.addEventListener("click", e => {
+    const ignoreBtn = e.target.closest("[data-ignore-id]");
+    if (ignoreBtn) {
+      const id = ignoreBtn.dataset.ignoreId;
+      ignoredIds.add(id);
+      saveBlacklistState();
+      refreshAll();
+      return;
+    }
+    const restoreBtn = e.target.closest("[data-restore-id]");
+    if (restoreBtn) {
+      const id = restoreBtn.dataset.restoreId;
+      ignoredIds.delete(id);
+      saveBlacklistState();
+      refreshAll();
+    }
+  });
+
+  document.getElementById("addBlockWordBtn")?.addEventListener("click", () => {
+    const inp = document.getElementById("blockWordInput");
+    const val = (inp.value || "").trim().toLowerCase();
+    if (!val) return;
+    if (!blockedWords.includes(val)) {
+      blockedWords.push(val);
+      saveBlacklistState();
+      renderBlockedWordsPills();
+      refreshAll();
+    }
+    inp.value = "";
+  });
+
+  document.getElementById("blockedWordsList")?.addEventListener("click", e => {
+    const pill = e.target.closest("[data-remove-word]");
+    if (!pill) return;
+    const w = pill.dataset.removeWord;
+    blockedWords = blockedWords.filter(item => item !== w);
+    saveBlacklistState();
+    renderBlockedWordsPills();
+    refreshAll();
+  });
+
+  document.getElementById("btnCopyBlacklist")?.addEventListener("click", () => {
+    const payload = JSON.stringify({
+      ignored_ids: [...ignoredIds],
+      blocked_terms: blockedWords
+    }, null, 2);
+    navigator.clipboard.writeText(payload).then(() => {
+      alert("JSON Blacklist disalin! Simpan isi ini ke file docs/data/blacklist.json di GitHub agar permanen.");
+    });
+  });
+
+  document.getElementById("btnClearIgnored")?.addEventListener("click", () => {
+    if (!confirm("Pulihkan semua berita yang ditandai tidak relevan?")) return;
+    ignoredIds.clear();
+    blockedWords = [];
+    saveBlacklistState();
+    renderBlockedWordsPills();
+    refreshAll();
+  });
+
+  // Standard Filter Listeners
   document.querySelectorAll(".topic-card").forEach(card => {
     card.addEventListener("click", () => {
       document.querySelectorAll(".topic-card").forEach(c => c.classList.remove("active"));
@@ -1083,7 +1227,6 @@
     });
   });
 
-  // Theme Toggle
   document.getElementById("themeBtn")?.addEventListener("click", () => {
     const isDark = document.documentElement.getAttribute("data-theme") === "dark";
     document.documentElement.setAttribute("data-theme", isDark ? "light" : "dark");
