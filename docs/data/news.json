@@ -1,5 +1,18 @@
 [
   {
+    "id": "45e2e3c6142e",
+    "title": "Membangun ekonomi dengan BUM Desa",
+    "link": "https://www.antaranews.com/infografik/5806399/membangun-ekonomi-dengan-bum-desa",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-23T06:00:00+07:00",
+    "desc": "Pemerintah memacu pembentukan Badan Usaha Milik Desa (BUM Desa) di seluruh Indonesia sebagai motor penggerak ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "53194ac58fe1",
     "title": "Kepala BNPPDT identifikasi kebutuhan pembangunan perbatasan",
     "link": "https://www.antaranews.com/berita/5806167/kepala-bnppdt-identifikasi-kebutuhan-pembangunan-perbatasan",
@@ -34,6 +47,19 @@
     "desc": "KRI Layaran-854 Tiba di Kaimana, Ekspedisi Rupiah Berdaulat 2026 Perkuat Pemerataan Rupiah di Wilayah 3T&nbsp;&nbsp;Pelopor Wiratama",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fa39e81095be",
+    "title": "Bumdes - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55V2ctU0ZIOWt5QklwTFRxUnE5UlZKRmViQ2JyT0dybkdsUDdtZHdqZHNrQkIzOTNnM1lud0RMS19jcmdIcWpYTHNQcW5SbFpfQlE",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-10-22T21:21:05+07:00",
+    "desc": "Bumdes&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
