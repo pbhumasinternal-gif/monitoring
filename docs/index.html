@@ -456,7 +456,7 @@ a { color: inherit; text-decoration: none; }
   text-transform: uppercase;
   letter-spacing: 0.05em;
   color: var(--muted);
-  min-width: 85px;
+  min-width: 90px;
 }
 .chips-wrap {
   display: flex;
@@ -465,7 +465,7 @@ a { color: inherit; text-decoration: none; }
   flex: 1;
 }
 .chip {
-  padding: 6px 12px;
+  padding: 5.5px 11px;
   border-radius: 99px;
   font-size: 12px;
   font-weight: 600;
@@ -477,7 +477,7 @@ a { color: inherit; text-decoration: none; }
   user-select: none;
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
 }
 .chip:hover {
   border-color: var(--accent-primary);
@@ -512,6 +512,9 @@ a { color: inherit; text-decoration: none; }
   padding: 1px 6px;
   border-radius: 99px;
   background: rgba(15, 23, 42, 0.07);
+}
+[data-theme="dark"] .chip-count {
+  background: rgba(255, 255, 255, 0.1);
 }
 .chip.active .chip-count {
   background: rgba(255, 255, 255, 0.24);
@@ -705,7 +708,10 @@ a { color: inherit; text-decoration: none; }
   display: inline-flex;
   align-items: center;
   gap: 4px;
+  cursor: pointer;
 }
+.source-pill:hover { color: var(--accent-primary); }
+
 .article-time {
   margin-left: auto;
   font-size: 11.5px;
@@ -969,6 +975,7 @@ a { color: inherit; text-decoration: none; }
 .btn-export:hover { opacity: 0.9; transform: translateY(-1px); }
 .btn-excel { background: #059669; color: #fff; }
 .btn-csv   { background: #2563eb; color: #fff; }
+.btn-wa    { background: #16a34a; color: #fff; width: 100%; margin-top: 8px; }
 
 /* Tagcloud & Heatmap */
 .tagcloud {
@@ -1008,6 +1015,29 @@ a { color: inherit; text-decoration: none; }
   border-radius: var(--radius-md);
 }
 .state-msg .icon { font-size: 34px; margin-bottom: 8px; }
+
+/* Toast Notification */
+.toast {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  background: #0f172a;
+  color: #fff;
+  padding: 12px 18px;
+  border-radius: 10px;
+  font-size: 12.5px;
+  font-weight: 700;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  z-index: 100;
+  opacity: 0;
+  transform: translateY(12px);
+  pointer-events: none;
+  transition: all 0.25s ease;
+}
+.toast.show {
+  opacity: 1;
+  transform: translateY(0);
+}
 </style>
 </head>
 <body>
@@ -1021,7 +1051,7 @@ a { color: inherit; text-decoration: none; }
         <h1>Monitor Pemberitaan Desa, Dana Desa &amp; BUM Desa</h1>
         <div class="brand-sub">
           <span class="live-dot"></span>
-          <span>Pemantauan &amp; Analisis Sentimen Otomatis · Pembaruan terakhir: <strong id="last-updated" style="color:var(--text)">—</strong></span>
+          <span>Multi-Portal Media &amp; Analisis Sentimen · Pembaruan terakhir: <strong id="last-updated" style="color:var(--text)">—</strong></span>
         </div>
       </div>
     </div>
@@ -1177,7 +1207,41 @@ a { color: inherit; text-decoration: none; }
           </select>
         </div>
 
-        <!-- Row 2: Sentiment Filter Chips -->
+        <!-- Row 2: Portal Media Filter Chips (Baru!) -->
+        <div class="filter-group">
+          <span class="filter-group-label">Portal Media</span>
+          <div class="chips-wrap" id="portal-chips">
+            <div class="chip active" data-portal="all">
+              🌐 Semua Media <span class="chip-count" id="chip-portal-all">0</span>
+            </div>
+            <div class="chip" data-portal="antara">
+              🏛️ AntaraNews <span class="chip-count" id="chip-portal-antara">0</span>
+            </div>
+            <div class="chip" data-portal="detik">
+              ⚡ Detik.com <span class="chip-count" id="chip-portal-detik">0</span>
+            </div>
+            <div class="chip" data-portal="kompas">
+              🧭 Kompas.com <span class="chip-count" id="chip-portal-kompas">0</span>
+            </div>
+            <div class="chip" data-portal="yahoo">
+              🟣 Yahoo News <span class="chip-count" id="chip-portal-yahoo">0</span>
+            </div>
+            <div class="chip" data-portal="msn">
+              🦋 MSN <span class="chip-count" id="chip-portal-msn">0</span>
+            </div>
+            <div class="chip" data-portal="rri">
+              📻 RRI.co.id <span class="chip-count" id="chip-portal-rri">0</span>
+            </div>
+            <div class="chip" data-portal="tribun">
+              📰 Tribunnews <span class="chip-count" id="chip-portal-tribun">0</span>
+            </div>
+            <div class="chip" data-portal="lainnya">
+              📍 Media Lainnya <span class="chip-count" id="chip-portal-lainnya">0</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Row 3: Sentiment Filter Chips -->
         <div class="filter-group">
           <span class="filter-group-label">Sentimen</span>
           <div class="chips-wrap" id="sentiment-chips">
@@ -1196,7 +1260,7 @@ a { color: inherit; text-decoration: none; }
           </div>
         </div>
 
-        <!-- Row 3: Quick Period Chips -->
+        <!-- Row 4: Quick Period Chips -->
         <div class="filter-group">
           <span class="filter-group-label">Waktu Cepat</span>
           <div class="chips-wrap" id="quick-chips">
@@ -1210,7 +1274,7 @@ a { color: inherit; text-decoration: none; }
           </div>
         </div>
 
-        <!-- Row 4: Dynamic Custom Date Range + Month/Year -->
+        <!-- Row 5: Dynamic Custom Date Range + Month/Year -->
         <div class="dynamic-date-row">
           <span class="filter-group-label">Tanggal</span>
 
@@ -1243,7 +1307,7 @@ a { color: inherit; text-decoration: none; }
           </div>
         </div>
 
-        <!-- Row 5: Dynamic Time Range -->
+        <!-- Row 6: Dynamic Time Range -->
         <div class="dynamic-date-row">
           <span class="filter-group-label">Rentang Jam</span>
 
@@ -1297,7 +1361,7 @@ a { color: inherit; text-decoration: none; }
       <div class="card">
         <div class="card-header">
           <span>Barometer Sentimen</span>
-          <span class="sub-hint">Sesuai filter waktu &amp; topik</span>
+          <span class="sub-hint">Sesuai filter aktif</span>
         </div>
         <div class="card-body">
           <div class="sent-bar-track">
@@ -1349,17 +1413,18 @@ a { color: inherit; text-decoration: none; }
         </div>
       </div>
 
-      <!-- Ekspor Data -->
+      <!-- Ekspor Data & Laporan WhatsApp -->
       <div class="card">
         <div class="card-header">
-          <span>Unduh Laporan Monitoring</span>
-          <span class="sub-hint">Termasuk Kolom Sentimen</span>
+          <span>Unduh &amp; Bagikan Laporan</span>
+          <span class="sub-hint">Sesuai filter aktif</span>
         </div>
         <div class="card-body">
           <div class="export-grid">
             <button class="btn-export btn-excel" id="btn-excel">⬇ Excel (.xlsx)</button>
             <button class="btn-export btn-csv" id="btn-csv">⬇ File CSV</button>
           </div>
+          <button class="btn-export btn-wa" id="btn-wa">📋 Salin Format Laporan WhatsApp</button>
         </div>
       </div>
 
@@ -1400,11 +1465,15 @@ a { color: inherit; text-decoration: none; }
   </div><!-- /main-grid -->
 </div><!-- /container -->
 
+<!-- Toast Notification -->
+<div class="toast" id="toast">✅ Berhasil disalin ke Clipboard!</div>
+
 <script>
 // ── State Global ──────────────────────────────────────────────────────
 let allArticles      = [];
 let filtered         = [];
 let currentTopic     = "all";
+let currentPortal    = "all"; // "all" | "antara" | "detik" | "kompas" | "yahoo" | "msn" | "rri" | "tribun" | "lainnya"
 let currentSentiment = "all"; // "all" | "positif" | "netral" | "negatif"
 
 // Mode Periode: "all" | "today" | "1d_ago" | "2d_ago" | "7d" | "30d" | "90d" | "custom" | "monthyear"
@@ -1437,6 +1506,16 @@ const TOPIC_COLORS = {
   daerahtertinggal: "#e11d48",
   kemendesa: "#7c3aed"
 };
+const PORTAL_LABELS = {
+  antara: "AntaraNews",
+  detik: "Detik.com",
+  kompas: "Kompas.com",
+  yahoo: "Yahoo News",
+  msn: "MSN",
+  rri: "RRI.co.id",
+  tribun: "Tribunnews",
+  lainnya: "Media Lainnya"
+};
 const SENTIMENT_META = {
   positif: { icon: "🟢", label: "Positif" },
   netral:  { icon: "⚪", label: "Netral" },
@@ -1453,6 +1532,42 @@ const STOPWORDS_ID = new Set([
   'jika','kalau','maka','namun','tetapi','tapi','serta','hingga','sampai','sejak','ketika','via',
   'the','kasus','diduga','terduga','dugaan','warga','kata','halaman','com','net','id','news'
 ]);
+
+// ── Klasifikasi Portal Media Utama ────────────────────────────────────
+function classifyPortal(a) {
+  const src = (a.source || "").toLowerCase().trim();
+  const lnk = (a.link || "").toLowerCase();
+
+  // 1. AntaraNews (Pusat & Biro Daerah)
+  if (src.includes("antara news") || src.includes("antaranews") || lnk.includes("antaranews.com")) {
+    return "antara";
+  }
+  // 2. Detik.com (Resmi: detikcom, detikNews, detikFinance, dll. - bukan blog lokal)
+  if (/^detik(com|news|finance|inet|hot|sport|health|travel|food|oto|edu|hikmah|jatim|jateng|jabar|sulsel|sumut|bali|sumbagsel|jogja|kalimantan|\.com)$/i.test(src) || lnk.includes("detik.com")) {
+    return "detik";
+  }
+  // 3. Kompas.com (Resmi - terpisah dari Kompasiana)
+  if (src === "kompas.com" || (lnk.includes("kompas.com") && !lnk.includes("kompasiana.com"))) {
+    return "kompas";
+  }
+  // 4. Yahoo News
+  if (src.includes("yahoo") || lnk.includes("yahoo.com")) {
+    return "yahoo";
+  }
+  // 5. MSN / Bing News
+  if (src.includes("msn") || src.includes("bing news") || lnk.includes("msn.com")) {
+    return "msn";
+  }
+  // 6. RRI.co.id
+  if (src.includes("rri.co.id") || lnk.includes("rri.co.id")) {
+    return "rri";
+  }
+  // 7. Jaringan Tribunnews
+  if ((src.includes("tribun") && !src.includes("tribuntipikor")) || lnk.includes("tribunnews.com")) {
+    return "tribun";
+  }
+  return "lainnya";
+}
 
 // ── Mesin Analisis Sentimen Semantik Kontekstual (Client-side Fallback) ──
 const POSITIVE_PHRASES_JS = [
@@ -1490,7 +1605,7 @@ const MITIGATION_SET = new Set(["cegah","mencegah","pencegahan","antisipasi","at
 const NEGATION_SET   = new Set(["tak","tidak","belum","kurang","bukan","tanpa","gagal","minim"]);
 
 function analyzeSentimentJS(title, desc = "") {
-  const text = `${title || ""} ${desc || ""}`.toLowerCase().replace(/&nbsp;|&amp;|<[^>]+>/g, " ");
+  const text = `${title \vert{}\vert{} ""} ${desc || ""}`.toLowerCase().replace(/&nbsp;|&amp;|<[^>]+>/g, " ");
   let score = 0;
   let matchedTag = null;
 
@@ -1570,7 +1685,7 @@ function getOffsetDateKey(daysOffset) {
 function formatReadableDate(ymd) {
   if (!ymd) return "";
   const [y, m, d] = ymd.split("-").map(Number);
-  return `${d} ${MONTHS_ID[m]?.slice(0,3) || ""} ${y}`;
+  return `${d} ${MONTHS_ID[m]?.slice(0,3) \vert{}\vert{} ""} ${y}`;
 }
 
 function relativeTimeID(dateStr) {
@@ -1612,6 +1727,13 @@ function cleanArticleContent(a) {
   return { cleanTitle, cleanDesc: showDesc ? rawDesc : "" };
 }
 
+function showToast(msg) {
+  const t = document.getElementById("toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  setTimeout(() => t.classList.remove("show"), 2600);
+}
+
 // ── Load Data JSON ────────────────────────────────────────────────────
 async function loadData() {
   try {
@@ -1622,7 +1744,7 @@ async function loadData() {
     allArticles = await res.json();
     if (!Array.isArray(allArticles)) allArticles = [];
 
-    // Pastikan setiap artikel memiliki atribut sentimen semantik
+    // Pastikan setiap artikel memiliki atribut sentimen semantik & klasifikasi portal
     allArticles.forEach(a => {
       if (!a.sentiment || !a.sentiment_tag) {
         const sem = analyzeSentimentJS(a.title, a.desc);
@@ -1630,6 +1752,7 @@ async function loadData() {
         a.sentiment_score = sem.sentiment_score;
         a.sentiment_tag   = sem.sentiment_tag;
       }
+      a._portal = classifyPortal(a);
     });
 
     populateYearSelect();
@@ -1745,7 +1868,7 @@ function buildTicker() {
   const html = latest.map(a => {
     const { cleanTitle } = cleanArticleContent(a);
     const sIcon = SENTIMENT_META[a.sentiment]?.icon || "⚪";
-    return `<a href="${esc(a.link)}" target="_blank" rel="noopener" class="ticker-item">${sIcon} <b>${esc(a.source)}</b> ${esc(cleanTitle)}</a>`;
+    return `<a href="${esc(a.link)}" target="_blank" rel="noopener" class="ticker-item">${sIcon} <b>${esc(a.source)}</b>${esc(cleanTitle)}</a>`;
   }).join("");
   track.innerHTML = html + html;
 }
@@ -1785,11 +1908,11 @@ function renderSparkSVG(id, counts, color) {
     const y = h - pad - (c / max) * (h - pad * 2);
     return `${x.toFixed(1)},${y.toFixed(1)}`;
   }).join(" ");
-  svg.setAttribute("viewBox", `0 0 ${w} ${h}`);
+  svg.setAttribute("viewBox", `0 0 ${w}${h}`);
   svg.innerHTML = `<polyline points="${pts}" fill="none" stroke="${color}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>`;
 }
 
-// ── Trigger Preset Waktu & Sentimen ───────────────────────────────────
+// ── Trigger Preset Waktu, Portal & Sentimen ───────────────────────────
 function triggerPreset(preset) {
   periodPreset = preset;
   filterMonth = 0;
@@ -1834,8 +1957,19 @@ function triggerPreset(preset) {
   applyFilters();
 }
 
+function triggerPortal(portalKey) {
+  if (currentPortal === portalKey && portalKey !== "all") {
+    currentPortal = "all";
+  } else {
+    currentPortal = portalKey;
+  }
+  document.querySelectorAll("#portal-chips .chip").forEach(c => {
+    c.classList.toggle("active", c.dataset.portal === currentPortal);
+  });
+  applyFilters();
+}
+
 function triggerSentiment(sent) {
-  // Toggle kembali ke 'all' jika pengguna mengklik kotak sentimen yang sedang aktif
   if (currentSentiment === sent && sent !== "all") {
     currentSentiment = "all";
   } else {
@@ -1849,8 +1983,8 @@ function triggerSentiment(sent) {
 
 // ── Apply Filters ─────────────────────────────────────────────────────
 function applyFilters() {
-  // Langkah 1: Filter berdasarkan Topik, Tanggal, Jam, dan Kata Kunci (sebelum filter sentimen)
-  const baseFiltered = allArticles.filter(a => {
+  // Langkah 1: Filter berdasarkan Topik, Tanggal, Jam, dan Kata Kunci
+  const timeAndTopicFiltered = allArticles.filter(a => {
     if (currentTopic !== "all" && a.topic !== currentTopic) return false;
 
     const articleDate = new Date(a.pub_date);
@@ -1898,13 +2032,24 @@ function applyFilters() {
     return true;
   });
 
-  // Hitung distribusi sentimen pada rentang waktu & topik aktif
-  updateSentimentBarometer(baseFiltered);
+  // Update angka pada setiap chip Portal Media (berdasarkan filter waktu, topik & sentimen aktif)
+  const forPortalCount = currentSentiment === "all"
+    ? timeAndTopicFiltered
+    : timeAndTopicFiltered.filter(a => a.sentiment === currentSentiment);
+  updatePortalCounts(forPortalCount);
 
-  // Langkah 2: Terapkan filter sentimen jika dipilih
+  // Langkah 2: Terapkan filter Portal Media
+  const portalFiltered = currentPortal === "all"
+    ? timeAndTopicFiltered
+    : timeAndTopicFiltered.filter(a => a._portal === currentPortal);
+
+  // Update Barometer Sentimen (berdasarkan filter waktu, topik & portal aktif)
+  updateSentimentBarometer(portalFiltered);
+
+  // Langkah 3: Terapkan filter Sentimen
   filtered = currentSentiment === "all"
-    ? baseFiltered
-    : baseFiltered.filter(a => a.sentiment === currentSentiment);
+    ? portalFiltered
+    : portalFiltered.filter(a => a.sentiment === currentSentiment);
 
   filtered.sort((a, b) => sortOrder === "oldest"
     ? a.pub_date.localeCompare(b.pub_date)
@@ -1918,7 +2063,19 @@ function applyFilters() {
   renderWordCloud();
 }
 
-// ── Update Barometer Sentimen & Chip Counts ───────────────────────────
+function updatePortalCounts(list) {
+  const counts = { antara: 0, detik: 0, kompas: 0, yahoo: 0, msn: 0, rri: 0, tribun: 0, lainnya: 0 };
+  list.forEach(a => {
+    const p = a._portal || "lainnya";
+    if (p in counts) counts[p]++;
+  });
+  document.getElementById("chip-portal-all").textContent = list.length.toLocaleString("id-ID");
+  Object.entries(counts).forEach(([k, val]) => {
+    const el = document.getElementById("chip-portal-" + k);
+    if (el) el.textContent = val.toLocaleString("id-ID");
+  });
+}
+
 function updateSentimentBarometer(baseList) {
   let pos = 0, neu = 0, neg = 0;
   baseList.forEach(a => {
@@ -1932,13 +2089,11 @@ function updateSentimentBarometer(baseList) {
   const pNeg = Math.round((neg / total) * 100);
   const pNeu = Math.max(0, 100 - pPos - pNeg);
 
-  // Update Chips
   document.getElementById("chip-sent-all").textContent = baseList.length.toLocaleString("id-ID");
   document.getElementById("chip-sent-pos").textContent = pos.toLocaleString("id-ID");
   document.getElementById("chip-sent-neu").textContent = neu.toLocaleString("id-ID");
   document.getElementById("chip-sent-neg").textContent = neg.toLocaleString("id-ID");
 
-  // Update Sidebar Barometer
   document.getElementById("bar-pos").style.width = `${pPos}%`;
   document.getElementById("bar-neu").style.width = `${pNeu}%`;
   document.getElementById("bar-neg").style.width = `${pNeg}%`;
@@ -1967,20 +2122,24 @@ function updatePeriodIndicator() {
     today:    `Hari Ini (${formatReadableDate(dateFrom)})`,
     "1d_ago": `1 Hari Lalu / Kemarin (${formatReadableDate(dateFrom)})`,
     "2d_ago": `2 Hari Lalu (${formatReadableDate(dateFrom)})`,
-    "7d":     `7 Hari Terakhir (${formatReadableDate(dateFrom)} – ${formatReadableDate(dateTo)})`,
-    "30d":    `30 Hari Terakhir (${formatReadableDate(dateFrom)} – ${formatReadableDate(dateTo)})`,
-    "90d":    `90 Hari Terakhir (${formatReadableDate(dateFrom)} – ${formatReadableDate(dateTo)})`,
+    "7d":     `7 Hari Terakhir (${formatReadableDate(dateFrom)} –${formatReadableDate(dateTo)})`,
+    "30d":    `30 Hari Terakhir (${formatReadableDate(dateFrom)} –${formatReadableDate(dateTo)})`,
+    "90d":    `90 Hari Terakhir (${formatReadableDate(dateFrom)} –${formatReadableDate(dateTo)})`,
   };
 
   const parts = [];
 
+  if (currentPortal !== "all") {
+    parts.push(`🌐 Media: ${PORTAL_LABELS[currentPortal] || currentPortal}`);
+  }
+
   if (currentSentiment !== "all") {
     const sm = SENTIMENT_META[currentSentiment];
-    parts.push(`${sm.icon} Sentimen: ${sm.label}`);
+    parts.push(`${sm.icon} Sentimen:${sm.label}`);
   }
 
   if (periodPreset === "monthyear" && (filterMonth > 0 || filterYear > 0)) {
-    if (filterMonth > 0 && filterYear > 0) parts.push(`🗓️ Bulan: ${MONTHS_ID[filterMonth]} ${filterYear}`);
+    if (filterMonth > 0 && filterYear > 0) parts.push(`🗓️ Bulan: ${MONTHS_ID[filterMonth]}${filterYear}`);
     else if (filterMonth > 0) parts.push(`🗓️ Bulan: ${MONTHS_ID[filterMonth]} (Semua Tahun)`);
     else parts.push(`🗓️ Tahun: ${filterYear}`);
   } else if (periodPreset in presetLabels) {
@@ -1989,7 +2148,7 @@ function updatePeriodIndicator() {
     if (dateFrom && dateTo) {
       parts.push(dateFrom === dateTo
         ? `🗓️ Tanggal: ${formatReadableDate(dateFrom)}`
-        : `🗓️ Rentang: ${formatReadableDate(dateFrom)} s/d ${formatReadableDate(dateTo)}`);
+        : `🗓️ Rentang: ${formatReadableDate(dateFrom)} s/d${formatReadableDate(dateTo)}`);
     } else if (dateFrom) {
       parts.push(`🗓️ Mulai: ${formatReadableDate(dateFrom)}`);
     } else if (dateTo) {
@@ -2029,7 +2188,7 @@ function renderArticles() {
       `<div class="state-msg">
          <div class="icon">🔍</div>
          <strong>Tidak ada berita yang ditemukan</strong><br>
-         <span style="font-size:12px">Coba ubah filter sentimen, rentang tanggal, rentang jam, atau kata kunci pencarian Anda.</span>
+         <span style="font-size:12px">Coba ubah filter portal media, sentimen, rentang tanggal, jam, atau kata kunci pencarian Anda.</span>
        </div>`;
     document.getElementById("pagination").innerHTML = "";
     return;
@@ -2054,7 +2213,7 @@ function renderArticles() {
           <span class="sentiment-badge ${esc(sentKey)}" title="Analisis Semantik: ${esc(sMeta.label + sTag)}">
             ${sMeta.icon} ${esc(sMeta.label)}${esc(sTag)}
           </span>
-          <span class="source-pill">📰 ${esc(a.source)}</span>
+          <span class="source-pill" onclick="filterBySearch('${(a.source || "").replace(/'/g, "\\'")}')" title="Klik untuk memfilter sumber media ini">📰 ${esc(a.source)}</span>
           <span class="article-time">
             ${relStr ? `<span class="time-rel">${esc(relStr)}</span> · ` : ""}
             <span>${dateStr}</span>
@@ -2259,7 +2418,7 @@ function buildHeatmap() {
   const svgH = topPad + 7 * (cell + gap);
   svg.setAttribute("width", svgW);
   svg.setAttribute("height", svgH);
-  svg.setAttribute("viewBox", `0 0 ${svgW} ${svgH}`);
+  svg.setAttribute("viewBox", `0 0 ${svgW}${svgH}`);
 
   let html = "";
   const dayLabels = ["", "Sen", "", "Rab", "", "Jum", ""];
@@ -2280,7 +2439,7 @@ function buildHeatmap() {
         lastMonth = dayDate.getMonth();
         html += `<text x="${x}" y="${topPad - 5}" font-size="8.5" fill="#94a3b8">${MONTHS_ID[lastMonth + 1].slice(0, 3)}</text>`;
       }
-      html += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${colorFor(c)}" style="cursor:pointer" onclick="selectSingleDate('${key}')"><title>${formatReadableDate(key)}: ${c} berita (Klik untuk filter)</title></rect>`;
+      html += `<rect x="${x}" y="${y}" width="${cell}" height="${cell}" rx="2.5" fill="${colorFor(c)}" style="cursor:pointer" onclick="selectSingleDate('${key}')"><title>${formatReadableDate(key)}:${c} berita (Klik untuk filter)</title></rect>`;
     }
   }
   svg.innerHTML = html;
@@ -2314,21 +2473,28 @@ document.getElementById("topic-nav").addEventListener("click", e => {
   applyFilters();
 });
 
-// 2. Klik Chip Sentimen
+// 2. Klik Chip Portal Media Utama
+document.getElementById("portal-chips").addEventListener("click", e => {
+  const chip = e.target.closest("[data-portal]");
+  if (!chip) return;
+  triggerPortal(chip.dataset.portal);
+});
+
+// 3. Klik Chip Sentimen
 document.getElementById("sentiment-chips").addEventListener("click", e => {
   const chip = e.target.closest("[data-sentiment]");
   if (!chip) return;
   triggerSentiment(chip.dataset.sentiment);
 });
 
-// 3. Klik Chip Waktu Cepat
+// 4. Klik Chip Waktu Cepat
 document.getElementById("quick-chips").addEventListener("click", e => {
   const chip = e.target.closest("[data-preset]");
   if (!chip) return;
   triggerPreset(chip.dataset.preset);
 });
 
-// 4. Input Rentang Tanggal Dinamis
+// 5. Input Rentang Tanggal Dinamis
 function onCustomDateChange() {
   dateFrom = document.getElementById("date-from").value;
   dateTo   = document.getElementById("date-to").value;
@@ -2355,7 +2521,7 @@ function onCustomDateChange() {
 document.getElementById("date-from").addEventListener("change", onCustomDateChange);
 document.getElementById("date-to").addEventListener("change", onCustomDateChange);
 
-// 5. Input Rentang Jam Dinamis & Preset Jam
+// 6. Input Rentang Jam Dinamis & Preset Jam
 function onCustomTimeChange() {
   timeFrom = document.getElementById("time-from").value;
   timeTo   = document.getElementById("time-to").value;
@@ -2385,7 +2551,7 @@ document.getElementById("time-presets").addEventListener("click", e => {
   applyFilters();
 });
 
-// 6. Dropdown Bulan / Tahun
+// 7. Dropdown Bulan / Tahun
 function onMonthYearChange() {
   filterMonth = parseInt(document.getElementById("filter-month").value);
   filterYear  = parseInt(document.getElementById("filter-year").value);
@@ -2405,9 +2571,10 @@ function onMonthYearChange() {
 document.getElementById("filter-month").addEventListener("change", onMonthYearChange);
 document.getElementById("filter-year").addEventListener("change", onMonthYearChange);
 
-// 7. Tombol Reset Filter
+// 8. Tombol Reset Filter
 document.getElementById("btn-reset-period").addEventListener("click", () => {
   searchQuery      = "";
+  currentPortal    = "all";
   currentSentiment = "all";
   timeFrom         = "";
   timeTo           = "";
@@ -2417,12 +2584,13 @@ document.getElementById("btn-reset-period").addEventListener("click", () => {
   document.getElementById("time-from").value = "";
   document.getElementById("time-to").value   = "";
   document.getElementById("time-mode").value = "daily";
+  document.querySelectorAll("#portal-chips .chip").forEach(c => c.classList.toggle("active", c.dataset.portal === "all"));
   document.querySelectorAll("#sentiment-chips .chip").forEach(c => c.classList.toggle("active", c.dataset.sentiment === "all"));
   document.querySelectorAll("#time-presets .chip-sm").forEach((b, i) => b.classList.toggle("active", i === 0));
   triggerPreset("all");
 });
 
-// 8. Pencarian
+// 9. Pencarian
 document.getElementById("search-input").addEventListener("input", e => {
   searchQuery = e.target.value.trim();
   document.getElementById("clear-search").style.display = searchQuery ? "block" : "none";
@@ -2432,7 +2600,7 @@ document.getElementById("clear-search").addEventListener("click", () => {
   filterBySearch("");
 });
 
-// 9. Sort & Per Page
+// 10. Sort & Per Page
 document.getElementById("sort-select").addEventListener("change", e => {
   sortOrder = e.target.value;
   applyFilters();
@@ -2443,14 +2611,14 @@ document.getElementById("per-page-select").addEventListener("change", e => {
   renderArticles();
 });
 
-// 10. Buka/Tutup Panel Insights
+// 11. Buka/Tutup Panel Insights
 document.getElementById("toggle-insights").addEventListener("click", () => {
   const drawer = document.getElementById("insights-drawer");
   const isOpen = drawer.classList.toggle("open");
   document.getElementById("insights-arrow").textContent = isOpen ? "▲ Tutup" : "▼ Buka";
 });
 
-// 11. Dark Mode Toggle
+// 12. Dark Mode Toggle
 document.getElementById("theme-toggle").addEventListener("click", () => {
   const html = document.documentElement;
   const next = html.getAttribute("data-theme") === "dark" ? "light" : "dark";
@@ -2458,7 +2626,7 @@ document.getElementById("theme-toggle").addEventListener("click", () => {
   document.getElementById("theme-toggle").textContent = next === "dark" ? "☀️" : "🌙";
 });
 
-// 12. Ekspor Excel & CSV (Menyertakan Sentimen & Konteks Semantik)
+// 13. Ekspor Excel, CSV & Salin Format Laporan WhatsApp
 function buildExportRows() {
   return filtered.map(a => {
     const { cleanTitle } = cleanArticleContent(a);
@@ -2469,7 +2637,8 @@ function buildExportRows() {
       "Sentimen":          sMeta.label,
       "Konteks Semantik":  a.sentiment_tag || "Informatif & Regulasi",
       "Judul":             cleanTitle,
-      "Sumber":            a.source,
+      "Sumber Media":      a.source,
+      "Kategori Portal":   PORTAL_LABELS[a._portal] || "Media Lainnya",
       "Tanggal":           toLocalDateKey(dt),
       "Jam (WIB)":         toLocalTimeKey(dt),
       "URL":               a.link
@@ -2493,6 +2662,46 @@ document.getElementById("btn-csv").addEventListener("click", () => {
   a.href = URL.createObjectURL(new Blob(["\uFEFF" + csv], { type: "text/csv;charset=utf-8;" }));
   a.download = `monitoring-berita-${toLocalDateKey(new Date())}.csv`;
   a.click();
+});
+
+document.getElementById("btn-wa").addEventListener("click", async () => {
+  if (!filtered.length) {
+    showToast("⚠️ Tidak ada berita untuk disalin.");
+    return;
+  }
+  const pos = filtered.filter(a => a.sentiment === "positif").length;
+  const neu = filtered.filter(a => a.sentiment === "netral").length;
+  const neg = filtered.filter(a => a.sentiment === "negatif").length;
+
+  const periodInfo = document.getElementById("period-text").textContent || "Semua Waktu";
+  const topicInfo  = currentTopic === "all" ? "Semua Topik" : (TOPIC_LABELS[currentTopic] || currentTopic);
+  const topItems   = filtered.slice(0, 20);
+
+  let lines = [
+    `*LAPORAN MONITORING PEMBERITAAN MEDIA*`,
+    `📌 *Topik:* ${topicInfo}`,
+    `🗓️ *Filter:* ${periodInfo === "—" ? "Semua Waktu" : periodInfo}`,
+    `📊 *Total Berita:* ${filtered.length} artikel (🟢 Positif: ${pos} | ⚪ Netral: ${neu} \vert{} 🔴 Negatif: ${neg})`,
+    ``,
+    `*DAFTAR SOROTAN BERITA (${topItems.length} Terbaru):*`
+  ];
+
+  topItems.forEach((a, idx) => {
+    const { cleanTitle } = cleanArticleContent(a);
+    const dt = new Date(a.pub_date);
+    const sIcon = SENTIMENT_META[a.sentiment]?.icon || "⚪";
+    const tLabel = TOPIC_LABELS[a.topic] || a.topic;
+    lines.push(
+      `${idx + 1}. ${sIcon} *[${tLabel}]* ${cleanTitle}\n   📰 _${a.source}_ (${toLocalDateKey(dt)} ${toLocalTimeKey(dt)} WIB)\n   🔗 ${a.link}`
+    );
+  });
+
+  try {
+    await navigator.clipboard.writeText(lines.join("\n"));
+    showToast("✅ Laporan WhatsApp berhasil disalin ke Clipboard!");
+  } catch (err) {
+    showToast("⚠️ Gagal menyalin otomatis, silakan coba lagi.");
+  }
 });
 
 // ── Jalankan Aplikasi ─────────────────────────────────────────────────
