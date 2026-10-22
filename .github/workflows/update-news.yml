@@ -23,6 +23,9 @@ jobs:
       - name: Fetch & akumulasi berita
         run: python scripts/fetch_news.py
 
+      - name: Jalankan analisis prediktif
+        run: python scripts/deep_predictive_analyzer.py
+
       - name: Commit & push jika ada perubahan
         run: |
           git config user.name  "github-actions[bot]"
