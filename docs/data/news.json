@@ -1950,6 +1950,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3a3fa608dde8",
+    "title": "Dana Desa Menyusut, Cipeujeuh Kulon Cari Sumber Pendanaan Alternatif",
+    "link": "https://www.msn.com/id-id/berita/other/dana-desa-menyusut-cipeujeuh-kulon-cari-sumber-pendanaan-alternatif/ar-AA2fGpl5",
+    "source": "Kabar Cirebon on MSN",
+    "pub_date": "2026-10-21T05:30:00+07:00",
+    "desc": "eterbatasan Dana Desa (DD) tak boleh menjadi penghambat pembangunan dan pelayanan kepada masyarakat. Pemerintah desa dituntut lebih adaptif ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "37c9729cb7cb",
     "title": "11 Tahun Dana Desa Dikucurkan, DPRK Nagan Raya Soroti Ketiadaan Gampong Mandiri - Serambinews.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWFpibWRldHloVFZFa0dCVkNpTHJHd1ZFNkJCMWZ6RU5ubXJuV0VmY3dZQ1NlcUJDd19FbDhKZVcxSEtybjJqR1hrbk10bENvT2t2ZzNtTDJTWllqTjNrbmprMnVqUy0zMUlEUDM4V3V1Q2otVWZia3BpanMzN2t4VHVla3ZGMzlOY3N1NEEwNjRsRFBNODEydWhoYk5VbXV1OVJNTHp1WUwyWU1SdElJVFNYb3RiLUZ1anlIOC11dE4",
@@ -58448,6 +58461,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "fe3600e2229c",
+    "title": "Dorong Ekonomi Lokal, Kemendes PDT Genjot Pengembangan Produk Lokal Jayawijaya",
+    "link": "https://www.merdeka.com/peristiwa/dorong-ekonomi-lokal-kemendes-pdt-genjot-pengembangan-produk-lokal-jayawijaya-492912-mvk.html",
+    "source": "Merdeka",
+    "pub_date": "2025-11-10T23:00:00+07:00",
+    "desc": "Kemendes PDT RI aktif mendorong pengembangan Produk Lokal Jayawijaya, khususnya keladi dan kopi, melalui program Tekad 2025. Bagaimana upaya ini meningkatkan nilai tambah UMKM? Kementerian Desa dan ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a71923604b76",
     "title": "KPPN Gunungsitoli Kawal Penyaluran DAK Fisik dan Dana Desa Tahun 2025 Pada Pemerintah Daerah Kabupaten Nias Barat - Direktorat Jenderal Perbendaharaan",
     "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQTloyVjZ0V1dyNF9Uc1RSUUlIbndTNmd6NjdLOWN0YW56YnVYdmhIWm1SZTFpWWg5UEd3ZnAtZGRJNzJwMFZCdHppR1V6VkpTUXBmNHNMcy1yWE8xY2lpd3NPTUVhOTNvMGQwUmpnRkw0R1I0S3c1a1NIZU1fYXBKamZMbWV4ZlBSM2pCUjBwaEFzaTdPSk5BUnRTODRpZU1ld3ZEQUd3ZWhwQkc2VXN3bmJXY1hJN1lXbmxUeURHNjVVNWljdURfQUhpWXVzb2RDWVVUVkdnOGFBZVhuS3VMblBtdnZhTEo1R3JJdlMtS2JJWGpnTnZBMDhlSnllM1Q2TmJjSnYwOUhqTnJua1F1STlHVllNTzhlWlBEUWlXWEdrTkJSb0xIYlpR",
@@ -67104,6 +67130,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "ae8bbf5ca19e",
+    "title": "200 Pos Militer Blank Spot, Kominfo Siapkan Jaringan Internet di Wilayah 3T - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3MxS2RtaVR3VUFmbkgyek0zeTZlTnpuM3lUS3BjU21lWWhDU3NGMGh3MFdPWXE2a0tYRWtIWk94UmdJNjdpb1FqbkNUOWxUdDJKbW5Jc3ZvTWRlSlFfY2VXT3hldVFVTmFNVk81N040c1VlRUFJZjhyMi11cnNHSmNhN2kwV2NfWThBbE5hVXFsUTVuZU56cVZrdGFzaEt4bXEta1k3M09GR1ppUVR4dWFNSUxIRG0wWF9NRDBFeXh3WUN2THc",
+    "source": "Kompas.com",
+    "pub_date": "2022-07-18T14:00:00+07:00",
+    "desc": "200 Pos Militer Blank Spot, Kominfo Siapkan Jaringan Internet di Wilayah 3T&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "4196a0618f8b",
