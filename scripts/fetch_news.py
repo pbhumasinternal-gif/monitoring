@@ -1,7 +1,7 @@
 """
 fetch_news.py — Multi-Source Media Monitoring (Google News, Yahoo News, MSN/Bing, AntaraNews, Detik)
 Topik: Dana Desa, BUM Desa, Daerah Tertinggal, dan Kemendesa PDT
-Dilengkapi Analisis Sentimen Semantik Kontekstual & Safe Data Parsing.
+Dilengkapi Validasi Kata Kunci Ketat & Analisis Sentimen Semantik Kontekstual.
 Jalankan otomatis via GitHub Actions tiap 30 menit.
 """
 
@@ -19,31 +19,31 @@ import urllib.request as urlreq
 # ── Konfigurasi Zona Waktu (GMT+7 / WIB) ────────────────────────────────────
 WIB = timezone(timedelta(hours=7))
 
-# ── Kata Kunci Utama (4 Topik) ──────────────────────────────────────────────
+# ── Kata Kunci Utama & Term Validasi Ketat (4 Topik) ────────────────────────
 KEYWORDS = [
     {
         "id": "danadesa",
         "label": "Dana Desa",
         "query": "Dana Desa",
-        "match_terms": ["dana desa", "apbdes", "blt dd", "alokasi dana desa"],
+        "match_terms": ["dana desa", "apbdes", "blt dd", "alokasi dana desa", "anggaran desa"],
     },
     {
         "id": "bumdesa",
         "label": "BUM Desa",
         "query": "BUMDes",
-        "match_terms": ["bumdes", "bum desa", "badan usaha milik desa"],
+        "match_terms": ["bumdes", "bum desa", "badan usaha milik desa", "bumkal"],
     },
     {
         "id": "daerahtertinggal",
         "label": "Daerah Tertinggal",
         "query": "Daerah Tertinggal",
-        "match_terms": ["daerah tertinggal", "desa tertinggal", "wilayah 3t", "daerah 3t"],
+        "match_terms": ["daerah tertinggal", "desa tertinggal", "wilayah 3t", "daerah 3t", "perbatasan negara"],
     },
     {
         "id": "kemendesa",
         "label": "Kemendesa PDT",
         "query": "Kemendes PDT",
-        "match_terms": ["kemendesa", "kemendes", "mendes pdt", "wamendes", "yandri susanto", "kementerian desa"],
+        "match_terms": ["kemendesa", "kemendes", "mendes pdt", "wamendes", "yandri susanto", "kementerian desa", "koperasi desa"],
     },
 ]
 
@@ -56,7 +56,6 @@ TARGET_PORTALS = [
     {"site": "id.berita.yahoo.com", "default_source": "Yahoo News"},
 ]
 
-# ── Daftar Direct RSS Resmi Portal Media yang Aktif ─────────────────────────
 DIRECT_PORTAL_FEEDS = [
     {"name": "ANTARA News Terkini", "url": "https://www.antaranews.com/rss/terkini.xml", "source": "ANTARA News"},
     {"name": "ANTARA News Nasional", "url": "https://www.antaranews.com/rss/nasional.xml", "source": "ANTARA News"},
@@ -192,6 +191,20 @@ def analyze_sentiment(title: str, desc: str = "") -> dict:
     }
 
 
+def is_relevant_to_topic(title: str, desc: str, kw: dict) -> bool:
+    """
+    Validasi ketat: Pastikan judul atau deskripsi mengandung minimal satu term inti topik.
+    Mencegah berita acak (seperti cuaca, olahraga, kriminal umum) masuk secara keliru.
+    """
+    combined = f"{title} {desc}".lower()
+    # Bersihkan entitas HTML
+    combined = re.sub(r"&[^;]+;", " ", combined)
+    for term in kw["match_terms"]:
+        if term in combined:
+            return True
+    return False
+
+
 def normalize_url(url: str) -> str:
     if not url:
         return ""
@@ -211,7 +224,6 @@ def normalize_url(url: str) -> str:
 
 
 def clean_title_for_dedup(title, source="") -> str:
-    # Safety casting agar aman dari nilai non-string atau None pada data lama
     t = str(title or "").strip()
     src = str(source or "").strip()
     if src and t.lower().endswith(" - " + src.lower()):
@@ -324,6 +336,9 @@ def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
             source = src_el.text.strip() if (src_el is not None and src_el.text) else default_source
             if not title or not link:
                 continue
+            # VALIDASI KETAT: Buang jika tidak relevan dengan topik
+            if not is_relevant_to_topic(title, desc, kw):
+                continue
             articles.append(build_article_dict(title, link, pub, desc, source, kw))
     except Exception:
         pass
@@ -347,6 +362,8 @@ def fetch_msn_bing_news(query: str, kw: dict) -> list:
                     break
             if not title or not link:
                 continue
+            if not is_relevant_to_topic(title, desc, kw):
+                continue
             articles.append(build_article_dict(title, link, pub, desc, source, kw))
     except Exception:
         pass
@@ -366,6 +383,8 @@ def fetch_yahoo_news(query: str, kw: dict) -> list:
             src_el = item.find("source")
             source = src_el.text.strip() if (src_el is not None and src_el.text) else "Yahoo News"
             if not title or not link:
+                continue
+            if not is_relevant_to_topic(title, desc, kw):
                 continue
             articles.append(build_article_dict(title, link, pub, desc, source, kw))
     except Exception:
@@ -395,7 +414,7 @@ def fetch_portal_feeds() -> list:
                 if not title or not link:
                     continue
                 matched_kw = match_keyword_topic(f"{title} {desc}")
-                if matched_kw:
+                if matched_kw and is_relevant_to_topic(title, desc, matched_kw):
                     matched_articles.append(
                         build_article_dict(title, link, pub, desc, feed["source"], matched_kw)
                     )
@@ -412,6 +431,20 @@ def main():
         try:
             existing = json.loads(DATA_PATH.read_text(encoding="utf-8"))
             print(f"Data lama: {len(existing)} artikel")
+            # Bersihkan juga data lama yang salah kategori agar bersih total
+            cleaned_existing = []
+            for art in existing:
+                t_id = art.get("topic")
+                # Cari definisi keyword terkait
+                kw_def = next((k for k in KEYWORDS if k["id"] == t_id), None)
+                if kw_def:
+                    # Validasi apakah artikel lama benar-benar relevan
+                    if is_relevant_to_topic(art.get("title", ""), art.get("desc", ""), kw_def):
+                        cleaned_existing.append(art)
+                else:
+                    cleaned_existing.append(art)
+            existing = cleaned_existing
+
             backfilled = 0
             for art in existing:
                 if "sentiment" not in art or "sentiment_tag" not in art:
