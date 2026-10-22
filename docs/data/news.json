@@ -2197,6 +2197,19 @@
     "sentiment_tag": "Sorotan & Evaluasi Publik"
   },
   {
+    "id": "a0d018e1f33b",
+    "title": "Desa di Ende manfaatkan dana desa untuk alsintan",
+    "link": "https://kupang.antaranews.com/berita/119505/desa-di-ende-manfaatkan-dana-desa-untuk-alsintan",
+    "source": "ANTARA News Nusa Tenggara Timur",
+    "pub_date": "2026-10-20T03:52:00+07:00",
+    "desc": "Pemerintah Desa Fataatu Timur di Kecamatan Wewaria, Kabupaten Ende, Nusa Tenggara Timur (NTT), memanfaatkan dana desa sebesar Rp100 juta untuk pengadaan bantuan alat dan mesin ANTARA News ntt 2 ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7403b9b15bbb",
     "title": "Tinjau 5 KDKMP di Boyolali, Menko Pangan dan Mendes PDT Dorong Koperasi Jadi Penggerak Ekonomi Desa - Sambar.id",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tbFNPVGZTX0ZGdDk2M3A4WjJSdVhwblllRHZjaE4tVko0Nk5NekJkbGR1YlFlVUVaTFhGOUlwd01PNGtGUlRtcm9Ja1IyLXBMR3NGRUNHR2hwM2hTeFZRYmRnM2xBWHkxZll1azg1eTBtUi15UkZkNFVNWGF0SVk",
@@ -8586,6 +8599,19 @@
     "source": "Koran Jakarta ®",
     "pub_date": "2026-10-12T03:00:00+07:00",
     "desc": "Kemendes PDT Resmi Luncurkan Hari Desa Nasional 2027, Puncak Acara Digelar di Mojokerto&nbsp;&nbsp;Koran Jakarta ®",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1e053e790853",
+    "title": "Foto: Kemendes PDT Resmi Luncurkan Hari Desa Nasional 2027, Puncak Acara Digelar di Mojokerto",
+    "link": "https://koran-jakarta.com/2026-10-12/kemendes-pdt-resmi-luncurkan-hari-desa-nasional-2027-puncak-acara-digelar-di-mojokerto",
+    "source": "Koran Jakarta",
+    "pub_date": "2026-10-12T03:00:00+07:00",
+    "desc": "Foto: Kemendes PDT Resmi Luncurkan Hari Desa Nasional 2027, Puncak Acara Digelar di Mojokerto - Koran Jakarta ® - Kemendes PDT Resmi Luncurkan Hari Desa Nasional 2027, Puncak Acara Digelar di Mojokert ...",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -49400,6 +49426,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "01bad4db2d1e",
+    "title": "KPPN Manokwari salurkan Dana Desa Rp98,88 miliar untuk lima kabupaten - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXVQZlZtdWltQ1lZbnRnT01IMkVlU0tjS3dhay1uNTV4OExBWU9BTDlQLVFNenFkc2hyYW5vVmhEMG0wM1FsXzlOaHBuSGdVNEtxbkJvaEFneWZabjI1MG90SHJXNUNqWlJWcjBHZllnZzdsd1NRUV9uVzVHSWpPRk5BQXZDbGprSWZVNElHM2JSMzQ2eExZT2lkckRXNDlLQmN6X3g1cVhTNVAwM3lDSDNMeUNpV2vSAbwBQVVfeXFMT1dXREE4WHFISllrTjQ3LXVrSTlhd0JvS25tZG9XWGJMeEo2Y1BWdXB6eDFPb0ljV0pWZlNpbmRIVm0wVDVTRjdTWkNDOWZoelpHc1VJdmk2VHBzQVRIRG0xSk8yTkJqVlRCaVFIV3o4bVhLR2Z3T3VhWGtDZzllOVd2dEVQX2c0bW1qeElNNjVOMk1NR3NSVFM2bEdFTVBDSHJsZk84Vjh6QjhQcU5DcmtpRWQxT2tvMGpwUFE",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-06-22T14:00:00+07:00",
+    "desc": "KPPN Manokwari salurkan Dana Desa Rp98,88 miliar untuk lima kabupaten&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "12dad75bd210",
     "title": "BPKP dan Itjen Kemendes PDT Perkuat Sinergi Pengawasan untuk Mengawal Program Prioritas Nasional 2026 - Badan Pengawasan Keuangan dan Pembangunan",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU0ljRk85YmJWNlpjSWhBYXhibnRmc21XYlZJNFlHZ3ZGTk96blRLaWpDUVI1QWhpaW9JMEFBNEtuajZOeTY0TDZKS2NlM0hOcTFOVW9pTnVKeU5fWlR2MXprZ3JEQ1hLdU8zc1Z3MG12WjBXbXAwQzhKTVo0N08yQ1haR1h0ZEVWeUtEdjlwYV9xQUJoR1NrYjhvV0hCTUpjMTRIVU92akdKTm5oZTNRWnZlaTJ1REdKQzBOdm04clVKZEc3dXl1UkdId2FEZXZFOW5QTS1GMnVjSV95VEtzRDZxdU8yUQ",
@@ -52364,6 +52403,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "96de7c55f9a0",
+    "title": "DPMD Gunung Mas: Dana Desa untuk 114 desa sebesar Rp34,9 miliar - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBWaDZDam5ZVENGLVRkV3VPQl8yYlA4X0pwbzJzeEZkMTBJM0xDT2ZDQjdsc1MtaHdEX1FlaDRKQURIY3g1bzJONUlLR21RN3dpbks0RWx6cW95MHdoZDdHbTdxQWR4X3B1TFczNnRmV3dOVzJvZTR6MGpqbzA2YzVKUFhSTG1kTFh1UEYzVjlYSkc3Ti1VRW45YUlXT3NVLUZOSDlGT0V2QQ",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2026-04-18T14:00:00+07:00",
+    "desc": "DPMD Gunung Mas: Dana Desa untuk 114 desa sebesar Rp34,9 miliar&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b0d802254ebf",
     "title": "Kemendes PDT Dukung Pemuda NTB Ikuti Program Magang di Jepang - infopublik.id",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sM09mYmZCZlZ4d2dwOGdvQjRjWXp2M2FMOXhOOXZKWDVOOG9LVnV6ZEZseUlTTC1xSnkxVUtOcnlZcFp2ZXlDa2pybHZzMXFpZjE4MXYtTUxub1JvckVVMjZXUmJmVzVpQWpGZUQtR1BJXzJpUGNEY2UwUQ",
@@ -54392,6 +54444,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2b601d94da12",
+    "title": "Dana Desa 2026 Rp60,57 Triliun, lebih dari separuh untuk KDMP - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYTd6MGZ2cl9PWmFTSlozVWF3UzdUNUVOcWdTaG94c3FXSlpmX0pIaU9fbC1tbWxxbmFjM2dhaEVJZUo1UnlVM09FVUc2dHRiVWVFNjJ4eW11UmVtTGZCaktXVm1rLXVwOXlLMnpwMHVpUUtFY3k5YU5oeXRhYWVXZXd1S093VldMdzFaWExBbmM0QXlhMmowcmhDZHdMR0hsQ1VKaXZ3",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2026-02-18T15:00:00+07:00",
+    "desc": "Dana Desa 2026 Rp60,57 Triliun, lebih dari separuh untuk KDMP&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9df017c39159",
     "title": "Kemenag Berangkatkan 2.199 Dai ke Wilayah 3T di seluruh Indonesia - Kementerian Agama",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2FYSEZ6MUlHMnp6UzZWNk01LWpEdHhYcmlHMDA0Y3NMa3lqY1g4MHlVbERzQVhJZzEwOXloZnFYcl9WTjNDVzA0ZmF4TkZ3THp6T1hGbUhlZERYWUhzbTJMN25ZVDhhSlRGS3A4N2pUM1U0Y3RrUlpsSExvRlRUQUw1VXEzZ01FVkwyeTVNTUhzcE45aG5aZUNiY0xpelVvcF9j",
@@ -56134,6 +56199,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "9040a4fe6204",
+    "title": "DJPb: Penyaluran dana desa di Sultra capai Rp1,3 triliun per November 2025 - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUFISTlMVjJIWnRXcHNtbDFKZXhtbFZ6a25jQUJfME9DRG9MZU9jVzRPREE5YlBIc1U4Y1FPZVlSZEk0WTYyRGdNZDhqelhfTzNxNUJxaWdkb1N0MUs4bUptYWRCdmJzVTBSdy1RLUVZd0ZNWlRPMFJUNHVROUVYZXV5V0FoMktRVGI0Y2tVZk0tYUF1THctRnhfaFZxcnNFN3ptakNabFl0TlhZbklvUXp6N0ZGTXc",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2025-12-02T15:00:00+07:00",
+    "desc": "DJPb: Penyaluran dana desa di Sultra capai Rp1,3 triliun per November 2025&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5945649b0910",
     "title": "Berita - Bupati Badung Dampingi Menteri Desa PDT Kunjungi BUMDes Desa Tibubeneng - Pemerintah Kabupaten Badung",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHRCTEtwaGFYTUtzSldpa0FJWF94ejBfR2kxdUY4eVU4b3pmQ1lIX3h0YWhROW1YVHdyeS05VDc0REZpRTRFQXduaGxmVVRfU3k1bmhsLUJjMVBxckg0eDVSdEJ5MllLdnMwd1J2SWoxZ0RhY29JLW80U0VubDhvWnJCYUM2aV9PYlItYlVvOUVnY2tYM0xtbXhCM1Y5RU55TkRkZ0F6MHk2NXJrR2J5WlpQeV9YMU82eWNXSUtDbw",
@@ -56223,6 +56301,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "e86c674c2146",
+    "title": "Syarat baru! Kopdes Merah Putih jadi penentu pencairan dana desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQk9tX0V5MXFuUGQ2VFg0eWNwT2E3YUJxdmxGRkh4RExjZW1pSDM1NWtQOVJfbXFnb190TkFnTDhORGp4WEVULWVoNUIzUTJLOUlqMnJaYXkwTHVTUTBQSEgyOTFZSGNPWHVaZmpGTk53czdtN2JLdzJMM2E5TDlaVk9vbkpZNFNNc0Y1UTlkT2xweHdsamtGdFM4R2pJZnVKd0dLZEhfVWdBb3VQ",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2025-11-28T15:00:00+07:00",
+    "desc": "Syarat baru! Kopdes Merah Putih jadi penentu pencairan dana desa&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "191e4361f803",
@@ -56340,6 +56431,19 @@
     "sentiment": "positif",
     "sentiment_score": 4,
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "841455977173",
+    "title": "Anggota DPRD Barut harapkan Jaga Desa perkuat pengelolaan Dana Desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZkw1ZmQ1ekUyYTFZYjBlLUVZbkVPVFpKM3JzeWdlNFRoQi04TGI5WmJ5OGdTN0dDdWVJMTNoeEdQbm9FMndZaDE2UkgtR0ZyTWVuZXNnZHBlSmw4MmpZdVh5YUIwQm5rMTVGRmhDOFJRd0xGTW9wNS11UE1tMzQ0d01meTRQanZFMUJjZnNZeS16OVlMU3dtRG9uc2VCRXVyMU1Ob3lVRUYxLTEyTnVYSmRn",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2025-11-21T15:00:00+07:00",
+    "desc": "Anggota DPRD Barut harapkan Jaga Desa perkuat pengelolaan Dana Desa&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "eb40019c6a47",
@@ -57000,6 +57104,19 @@
     "desc": "Kata Mendes PDT Tentang Prodi Doktor Sosiologi Pedesaan IPB University&nbsp;&nbsp;IPB University",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2ab12388c5f7",
+    "title": "Pemerintah cairkan 96,98 persen dana desa di Bali - ANTARA News Bali",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVDdfVkp6QmhzQVNYUm5KaTFDT01hb0hNRWVpWFk3VENjX1hmMkR3WGx2a3FDQ3NsQzlHQlFmT09jRENRUlphNVZSZm1PQWotSGVib2t5ZFVnYkFuMEZyeGFCd3NCVGM0T3hGcWZwQ2ZMRi1lSVBTVVhpeHpRVW44VmRmSXM3MHdvUzI0aUlmLVhjc2lt0gGaAUFVX3lxTFBVakU0LU15MWtGMnRqV0JzRTljZHlzbHpJZkR3RWZfNHFFS2R3aGh5SlRSRHVDejl4NkFoLVVSakxhUGozcXZ6cGRUNXBsLUY5T0lFZUtEMU1JTVV6ODJzYm93dllyNWFnQ1FjRWV2YjlXV096T2VHU1g3TEtwejQ3SXI0N2xXOEdFSE1HSnFlTmFWcktjVWxIQ0E",
+    "source": "ANTARA News Bali",
+    "pub_date": "2025-10-09T14:00:00+07:00",
+    "desc": "Pemerintah cairkan 96,98 persen dana desa di Bali&nbsp;&nbsp;ANTARA News Bali",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -59683,6 +59800,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "12c638be6e03",
+    "title": "Mendes Yandri Susanto ajak manfaatkan dana desa untuk Desa Berketahanan Pangan - ANTARA News Megapolitan",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVVFSa0JLMzY4SFduNXJJcWNUTldWVkNUaE50T1llUlN1b3cxMGZVMk5hOGtRWlhFLUF5dEJKTHlqVmxjdmhXRlVtTDcwMUFQNHNnRVd5U2Q5YUpQTTdsS0gzQzBPdG80ZTN1NEotMGNaUHBPaTFZUmlNYTV4TkJZdXJmWkJPU3NfZ1lMbG1BMlFDWnd6TVpPV1gza0JBeXUzdEh5OVR3UHpmUU5haGlsVVQ5ZGRvV3k3SDVaV1hldWJXTFdmQ3fSAcsBQVVfeXFMUHloUU5MMnFYdU1OZlBzSHgxcXpKaE9OR1A2NkRFczVlWWdwRloza2pXcXYxZlZIc3RCdWFJdXlTa1dfc0FaRGFUNktsem13WGpVSmFPbHlxcTlLNWY4LURoQU1HTHpuVUZ4VC1TUThfYm5INVg0S05xWGNRSVBjeXBrRzBackNRR0ZSRHV2WkptTFd0RjRNYkdSbHJ3OUVaMjJtM3VucGdFNjBLZVJBdDg5Q3QwZmhfdmlqdjdrRUhpY1RjZnVtVm9idDQ",
+    "source": "ANTARA News Megapolitan",
+    "pub_date": "2024-12-15T15:00:00+07:00",
+    "desc": "Mendes Yandri Susanto ajak manfaatkan dana desa untuk Desa Berketahanan Pangan&nbsp;&nbsp;ANTARA News Megapolitan",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a13f09db0942",
     "title": "PKN STAN DAMPINGI PENYUSUNAN LAPORAN KEUANGAN BUM DESA SEPIKUL AGUNG WATUAGUNG KABUPATEN TRENGGALEK PROVINSI JAWA TIMUR - Politeknik Keuangan Negara STAN",
     "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qNjF0djFMeHlFcmZPMjdmNUtfei1xVC1WczBxRkVsdWJJNDBhdmg3X0VWRy1ueDFfSm1VQ2k3WV9jcXJ2d1l2eDJBTQ",
@@ -61542,6 +61672,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "538b38924c29",
+    "title": "24 desa di Kota Ambon dapat penyaluran dana desa tahap pertama dari pemkot - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZkdUSF9ndjYtOVMxdE1ETU9hdnZOMWVhNmJCVURZR1RoU2JMTk05SHprTDJXX0FxQ3Y5MTR2eDhDeUNxNkk1Njd1eVpWY2k0Uk03RzdTcVN2Sl9kUkVfN0swaDVlWXQ5QWJKajEwV0k1dmpoZHV1VEZwc1JUSlRWYUsteUx2Nl82a054LUtNSkNvWVNFdlNuWHl3cEU5U092ZDRDb0dmSHQ0ZDdtNGR6YWtfVF92dmJ1",
+    "source": "ANTARA News",
+    "pub_date": "2024-03-05T15:00:00+07:00",
+    "desc": "24 desa di Kota Ambon dapat penyaluran dana desa tahap pertama dari pemkot&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "47b2f333c31f",
     "title": "Kemendes Sebut BUMDes Teruji Jaga Pondasi Tata Kelola Pembangunan Desa - detikNews",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUjNNczMtczBkZlM0d1JuWUx0cUFpaDRHdFd0QlhQUmpXZmJiZXV1MGVJeHUxUHJCZzRNRm5DTFgxdEpTSVpYbnVPLV9GOXpqN2JRUU5WTklKTXhfd3JocThDZHd2UkNjVTdldzVXckx4Y2FTWTZRQ1lxZm00VFIwZzFpMDU1M241ald5Q252OHdIYkRrQ0hLX1pXMU1aS0RvdlFRWXB1RTdiT0xZTF9N0gG0AUFVX3lxTE1iek1GM1I3UFZjZ19nOW51SDRrT0lFMTNOOUZqWl8tNFgwY2s4WV9WNTdxZ0hQbGhDQnBtUl9HS1ktVWpYb0kybzFOOTV6NmR3OWlEVEE2cHlTOFpFbzNFc0ROaWE2NXRZWDhZcjc4NXp6ZHUtdWVjOTdmb1h3UTRTVFlEMnhJcnZuWHdhc09uTWtGRVY4MjNUOUd6SGNad1FqRTlUU2o2MGVFeEhLUUtOZ3N2Sw",
@@ -63219,6 +63362,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5474c5e654a4",
+    "title": "Kemendes PDTT pastikan percepatan pembangunan desa di Maluku Utara - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3psQ3RjU29ZYjFYQmlqVEotaVloVU9XdVY2QWc3S21KeFcwcVhuUDFSUTBOMlNtb3pWTkcxTEgtOThReVYxZWViUi1oLUFfd1ktQi1Qem5uYjlDWHVHQk5MUWRUcmUzbXMxQk5ydlVMdFNPdS03MVkzZ04wT0hQS0ctRlFQeG9BNFh1VFpNUm9uZUhmX0xnTTNhSXJJX0ttd1NaOU1XQ1YtTEFqanfSAbMBQVVfeXFMT2RzVkdDbDFRV2labXluMW54WjV4a3d0WktTTXFzbVN6NUNUYmlXSVpiMW80RzRBY0NlRm9XOTFrRjNZdkNFb0I5bGxab19jeGlIS3pwMU5DdlFkSFB6WDV2UHNBb0VUVDIwZGlhREtGUkllemJkT2JxUUc5V25wRFRUVVFWUnFsS0RsdDZSUFFidjRvR1lzVDloazlFc3JHV2E5OWpudnNRQWhBZ0VEZzhKcnc",
+    "source": "ANTARA News",
+    "pub_date": "2023-05-13T14:00:00+07:00",
+    "desc": "Kemendes PDTT pastikan percepatan pembangunan desa di Maluku Utara&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b26c202ca721",
     "title": "Kemendes PDTT & BKPM Fasilitasi BUMDes Peroleh Nomor Induk Berusaha",
     "link": "https://news.detik.com/berita/d-6718344/kemendes-pdtt-bkpm-fasilitasi-bumdes-peroleh-nomor-induk-berusaha",
@@ -63633,6 +63789,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "fa4d8e55bd8c",
+    "title": "Kemendes PDTT upayakan pertanggungjawaban dana desa model lumpsum - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUpkc2dfUVNIVlpGSTBsVTJrV0EwU1VXMWZ1dDg5LUxwYWZneHlmVUJtcGRqNDhUa1lRb3FBb1ZNdVhqU3pFSnkxRm1ENFoxaUpmQ3pKV1Y0bGNfaHlCbkJDLXB1Rm9tdHNJMXVHcWZ6VzR4bFFQZ1A1Rm1BOUJ2NnRfcXRJTXRlX2pfSkRrZDR5a1dOZktUS3lMZy0xWDV2alFxYm5VUmRuaGVFUXhn",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2023-01-14T15:00:00+07:00",
+    "desc": "Kemendes PDTT upayakan pertanggungjawaban dana desa model lumpsum&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "b85fa8243295",
@@ -64532,6 +64701,19 @@
     "sentiment_tag": "Apresiasi & Penghargaan"
   },
   {
+    "id": "de6428f5c12d",
+    "title": "Korupsi dana desa Rp785 juta lebih, mantan Kepala Desa Benenain dieksekusi - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUmttVXdUMC0xcFFJQnpTeXlEQXh5cG1FV2NpaGM3UVZaZnpzUVBBdTh4cjdTbFUwaEtZRV9uN296MU1qdkNaREZFV2k5b0toWDY2ZllvQnlOUU1rcHFwaVZuSVpTR3lNQXBNMEl4WUxnQ0VQZnBOLWhIQVNxbHEyQnV6ZUtubVR2Mk42ZlhncVVOTlh1VnpJS29HS0RvdXlWQW9Ca1BQRjZZd09LUC12UnBMRGl0UzZrb1E",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2022-05-03T14:00:00+07:00",
+    "desc": "Korupsi dana desa Rp785 juta lebih, mantan Kepala Desa Benenain dieksekusi&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "cd558fbc7f6d",
     "title": "Kemendesa PDTT Bangun Permukiman bagi 32 KK Transmigran di Malaka - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXI0ZG9YSGFaSWdYWDI4WVpGY1RiS1VLbnBTQUw2UERuYWFEOUIzVlFuRU9oeE9TaEQ0YXpMLWRtNlMwaWs0alNvemxLMlZDYTZhb08xUzBoVlhHVk9wajFlUzB6VFJ3akozSXZxTHpRWjNoelJKam54Nlpqa2lKV3k3ckt1eEZZNmJKUHR6VzZZVE03NUZONEJTZWdoaXJhcVVEZjBXQ1RUbFFaa3U2dWNBZVNtdzRHd0E",
@@ -65390,6 +65572,19 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
+    "id": "86822c203d6d",
+    "title": "Legislator Barsel harapkan pemerintah desa kreatif kelola dana desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWUhXdVBnajJhTzIyY0FqbFB4Tl8tZ3dFaDRyNEtfd1pSbGFOVTRiNXFNWXZWOWZxWFFKMmttblJ2REowcjdzWDRTMFktQmRkMUp3U09iMExvbWdncUN2UGhDZTdTRnBGQ2Vfb1A4eGludkpITS0xX2R0ZFYzbEZ6Mmx0bXZpT0x1WTJNaDFOTjlVWFZ0dURIblZzdkZoZFM2ZWl0TE5EZG40QkxnRWxCTDFR",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2021-09-20T14:00:00+07:00",
+    "desc": "Legislator Barsel harapkan pemerintah desa kreatif kelola dana desa&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c0102b02a3be",
     "title": "Andovi-Jovial da Lopez Ingin Bangun Sekolah di Daerah Tertinggal, Ini Alasannya - detikcom",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVdhWlh2R2lwUl9STjcyTXpYck1YZ0hVY2tXVmRUY1dnaUdOVFl4RXRCMnhSVUVzM29kQ0ppVFdLb2tCWWlKYWVTaDBkd29qMDduV0NzMHgtelJCcVl5X1JpQ3FDaHMyNk0wc1lDYVFDTWszYU1RQVFUNDFxeGxMdjBWMEFETW95OHhjcjZyVlloQU9FNDBEdng4TUZ2bmVQU2pXaU00dy1HS1BtTi0yUUlQMDdjTnNJM2hseDZmRdIBxAFBVV95cUxPV2pGXzNGRUJoTVYwRndlTll3eWtIcWFQX2paQ1dQbWJULWg5c1VOV0dwLWswdHhVeW1UWlRZVU0zdkh5eDhBclR2c00xeklxLW9LdDJiaUQzLVFyRDFVUXlacW8xYmdsRTNIMUJ2N0tHYjNYcU1yMWJabXlXMS1DdjRSS0JWY1ZadWk5a2hFSlQ1MzUwYnpqM3hoVmVlcGI0d2g0bXRXdVd2aEF0cDdKV1l5d2JveFVoaWZBbl9JRV9FWjVO",
@@ -65853,6 +66048,19 @@
     "desc": "Periksa Ketua Komisi VIII Yandri Susanto, KPK Konfirmasi Dugaan Penerimaan Kuota Bansos Covid-19&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "67bf06ef0a6e",
+    "title": "Dana desa dan DAK di Kotim dikurangi Rp5,6 miliar - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZXlIQUhYQzBqUnd3SXR3V0FkUjJPbXhSYml2Y3c5dnBMckR0d21KaFlRM1g1a2NNdmgycDB0VUNQQkdUY2VLbGZ5X0JoNTU1UGJNZmljVlpKSnRsNmhTX0ZMeXlwYVpFZDE0OVpuQUVUZnQzZ0NVcUhjTV9MV3FJQzZmZWNUV0RObjJRWmJPLTlWVDdVRmd0Sw",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2021-03-17T14:00:00+07:00",
+    "desc": "Dana desa dan DAK di Kotim dikurangi Rp5,6 miliar&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -66540,6 +66748,19 @@
     "source": "djpb.kemenkeu.go.id",
     "pub_date": "2020-05-22T14:00:00+07:00",
     "desc": "Percepatan Dan Penyerapan Anggaran Dana Desa&nbsp;&nbsp;djpb.kemenkeu.go.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4ce220bf3ef2",
+    "title": "Perangkat desa dilarang terima BLT Dana Desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWFnQU5fTjI1cElCVmFUYkRZRlVMTWl1THZMVGR1Y1luOWhxRXA4QktVU2V4a3A0MzJ3cUxpb0xwcVhEclhheE9BVm9KSGFJVDJWVjJxRmI3YU9mSHJGSVRESGlpb2FmakEzQUp6dnZnTzd2ZEY5akgwWV93TXhqTFZfZ3h0WGdzQVpSdmJCSTBhYjA",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2020-05-12T14:00:00+07:00",
+    "desc": "Perangkat desa dilarang terima BLT Dana Desa&nbsp;&nbsp;ANTARA News Kalteng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -67379,6 +67600,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "24cba6ef17ac",
+    "title": "Masyarakat berhak tahu penggunaan dana desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnppcHFVY1ZWMF9zQ1pKSmU5SUk2Nktkek1wc2prWVVCOGh6TG01T0VxMDh2NFV4Y0Q0eUtHLUl0N29yeXpzM3kwOWxTSC1rallKdTJ5UFdKQ1JnTmxDcm1RdTZxSlpWRllyMnZjM1VGSm45RjlIUE56VkY0TWxWRElfakE0cFdFZ2gxVk9HZWJUdw",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2019-08-04T14:00:00+07:00",
+    "desc": "Masyarakat berhak tahu penggunaan dana desa&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a288b80dc24b",
     "title": "Empat Daerah di Jatim Lepaskan Status Daerah Tertinggal - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTElxcmhvWnZDcmFDSU5yRnpXaE5uR01PMWZsVkhsczU3T2JCajRlMnhTYjhKOUwyaUttTDZ3ZFFpNHd6YW90LVdiYWdmSF96TGo3cVJmbTNreTM0Sm1tYlB5aHp1T1Bld0FBWTRjemQyaDBBVURhMHRNalRFeHBiQ0VyWkhMblJZdEE0dXNSbjFXcEtPNW9XNGJoZG5jNmlpUzE4cHU1bDRWNjNq",
@@ -67873,6 +68107,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b5d714b6c385",
+    "title": "Dana desa bisa digunakan untuk pengembangan pariwisata - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd1dQeExtNWJmMWt6ZzVVcDVVc0c3U1B2Ukg0Y3FGSzZMWmk5RjUyUnpOUUtGS09GczZsZGlBTjc5MXR5ZTFoSFQzTE5DcW1CYXZpVDAxUVo3UThHRTNSTHlFMm53TXFPeUxNcDBHUFZaLWhIOUtodXVZUHBiNG1ybWZhd1dhVWNhZVBZQ3lzbnZ5SzNWYmdTelYxcEhZYlZS",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2018-09-18T14:00:00+07:00",
+    "desc": "Dana desa bisa digunakan untuk pengembangan pariwisata&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2ba89a6d84a1",
     "title": "Olah Sampah, BUMDes di Maluku Utara Raup Rp 20 Juta/Bulan - detikFinance",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXVWUjlNYmxIS2FyNmRfREMxYUJ6MWZZTE9WSy13R2dxNUxwSlJZdDVVdnQ1OEwtODFicEU5YV83Y2I4OTdGZkdHRVU3dm9hSWJnUmtPZU94UnY4Z2RPMUhRRlM1T2RFMXlTOTRBTUtibmJ3TXJpZDlQMWdQcXRHUlVZVDlOOWtPSUNGajNCb2dHSlNqeWEwT2JWcTVYZ0x2RWZ4TEdCQkdJeFFWSENLQUxrUWI",
@@ -67899,12 +68146,51 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "6df614845bd3",
+    "title": "Komitmen Pemerintah besar, Dana Desa 2019 naik siginifikan - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOczl6T3JVVThQMzhDSjlXY2hsbnN4QXdDLUR4MVllMU9KSlI5UnNJNU00UGVKRk83bTlHZnZCV0JiTmdvSFNaTlF6NU5qZWFtQUdYYVQ0elRfSXZUVHRzNnd6S2M1TjlqODhrdGJjcmt3WTdISDI3WE5wbzNXUlppWFhMVWtDNXFHN1d2YTBaNVBNcHdqODc3U29tdTUxcDNQaHNzTg",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2018-09-12T14:00:00+07:00",
+    "desc": "Komitmen Pemerintah besar, Dana Desa 2019 naik siginifikan&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4aa1bb01b12d",
     "title": "Selain Wisata Baru, Dana Desa di Tatung Hasilkan Atlet Paralayang - detikFinance",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjdVNXF2YURvZTBwLVU2YUg5QVl2WDFJbHEzR2JzR3QwLUlsakJvS3lHa0Q3dXNKcHdtSW5wbndaNlZreXlVZVpxczIwaXdKY005LTkyekcwVXV3STBTTGwyQVNheDRqZ2xKVTNuOEtKLTdodmpEZ2tzLVRfR29QeTZMTVVvQTFlSDhKOEdGdm92UzZ6T3NTU2lKeUdZWU1BelZSWnZZRVRwa3VZbkIwWklYXzlvYmp0b200WVhzSQ",
     "source": "detikFinance",
     "pub_date": "2018-09-10T14:00:00+07:00",
     "desc": "Selain Wisata Baru, Dana Desa di Tatung Hasilkan Atlet Paralayang&nbsp;&nbsp;detikFinance",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9378d5a279ee",
+    "title": "Penggunaan dana desa wajib melalui musyawarah - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVTZNaDRJaUNKenU2NDVmUVZhSG5GX1BTWkJvQlYzelkxSk50NGtXOGN1c1BaOFViUlZFNkdPaDZ0YzhfQm9XenoyOFVvVWgyNnhHUi1mZkgtckxWRE1FWllsUmlXNTdCM3piem1XcVRReUpUaFpYV3BtUkNTanc2TXhvWnp1ZlFNNk5Hbjd0MUdsUdIBlwFBVV95cUxPTjFXMGxIazNKNXcwYURhSmwyRGV1aHQ0TzBmS2drMmIwUkE4OFFqRW1pQ2FTZGJjajlya1NCZk01c2loY2F4am9MQW1VbkFSclhQbHVobnZOcG1tLWZidTI0QkdXcnNIU3g4X1A5a19lNUVSdWpkLVNvOG1VMkozVWZpTnFxNDQzMXFOb2JZbTh2YzZXR0Y4",
+    "source": "ANTARA News",
+    "pub_date": "2018-09-10T14:00:00+07:00",
+    "desc": "Penggunaan dana desa wajib melalui musyawarah&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7c0ecdf536a7",
+    "title": "Astaga, 19 desa di Barsel belum setor pajak dana desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU21sdTcwQ1VCQXpUYXF2bXBENWwwbDhLbldKMi1QVTVOSkZTWWZKV0V1MTdKemoxSUpHVHBvVWsxblJSeWJDbWRjTExiRjFlOGFBZ2FYVWlqaUtESnRpSTBlZVZpTEcyZnJrMkFfTF9pQ3hCV1ZVZFJEbzFDbXYtaktqd1RoLVpQWTNHcURIUEE3OXVPM19mREh6TDllUQ",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2018-09-03T14:00:00+07:00",
+    "desc": "Astaga, 19 desa di Barsel belum setor pajak dana desa&nbsp;&nbsp;ANTARA News Kalteng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -68016,6 +68302,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "86bd2670cd56",
+    "title": "Penyaluran dana desa di Barito Utara baru 37 persen - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVJaN1BiZTNKVEJGR3JDOW1XQ1U1a3dFMXA1Z3JjZDRkN0FpbXlGWGZXQU1udG5HdVgyYXptTS1icE95b1hKMlJ3TGMyeU5rVnNDUnFIVUFjMXVXbzVqc3JJa3V4MS1wMHM2N3A1WktoRWk2T241VEtpT3NzVDdmM3VEMDBOWXhJUUFWYzZRbTBRSmU3NllCYWNycDY",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2018-06-01T14:00:00+07:00",
+    "desc": "Penyaluran dana desa di Barito Utara baru 37 persen&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "30bb1d85807a",
     "title": "Tingkatkan Pendapatan, BUMDes Jadi Agen Jasa Ekspedisi - detikFinance - Berita Ekonomi Bisnis, dan Investasi Hari Ini",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeENsWHJOa1gxMGJ4ZVdZeURtMVJqY3A5Z3hQbExGSXgwRmRCUmhEU2JvTFJJUVROUm5OUW50S1ktR3ludTNUaU5QRGN2djhxY3FfS1BZUDJDRXBiTTAyUjgxZlc3eEtrbWxQbFREWnhWalVQVUJRME5DbF9JSmF2UGlOd2pDRUQ5MUxERUM0VnNxLXYwQ1VSbmhFdlZTeDE0VGtVbzlfQlBldl9HSzYxUg",
@@ -68104,6 +68403,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ecbd490d4ff1",
+    "title": "Mantap! Penggunaan Dana Desa di Desa Garung Transparan - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTlFEUGVXZ1lkTzkzM3VyVUd2aGlTOVBFYVhZTVZkNXUybjlMc19KaXUtOVRkWnVkX1JjS0ptSUVBa3JDSjFGdlJBUzd0Y1FIN2xtWjBLbUtmSEpWblY1WlhXQTU5NTBqUV9ONjVfXzFpMkJObmx3cWUyZWNUT1RQUmlWbThNRnA2MFZ4b3NfVHhWbTZTd2NSelotdWVUR1U",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2017-11-30T15:00:00+07:00",
+    "desc": "Mantap! Penggunaan Dana Desa di Desa Garung Transparan&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -68419,6 +68731,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8ebcca49a162",
+    "title": "Jaksa Diingatkan Serius Tangani Korupsi Dana Desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3dXR1NwXzVRUm1zajJ3LXpPenlPLVVkUTFsNS12TG0tekZLaVBjXzZ4TkFLMHA2Mi1BZ2EtdE5MM3ZIeFhUV0xlV1Mxamw5UmZSN0ZuVDYzME1TY0Izc0JRSlhQc3VQaDk1ODZmZk1memxEV21PSGdsUEpqT2x4bWdUUEtOWDh1WXotNmpDLWt5T2dadGNtbG93",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2017-08-24T14:00:00+07:00",
+    "desc": "Jaksa Diingatkan Serius Tangani Korupsi Dana Desa&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "976b0a8d2555",
     "title": "Pemerintah Kucurkan Dana Desa Sejak 2015, Apa Saja Hasilnya? - detikFinance",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMllHVVVoUkltcmR1U08xQklwRFF2WVpQQ1dZZnB1cjNhSnJIbGhrYm9kcUk0R0JoRjE0UEZRVW9HVnNnSldkaTJWcTBTNUw3OUY2QlVQTUtnZzY4emJzaGJUZHF3NmdiYVc3Z2RKbDlTUGNDMDUzZm9JM091SjZhY1lNY05pN0pTbkZlNDV3LV9pUVFrS3NWdk14YUVyOE9FWHNTaGhPQXRkaE5heUhkanRsWkw4YkE",
@@ -68508,6 +68833,19 @@
     "sentiment": "negatif",
     "sentiment_score": -3,
     "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
+    "id": "ff1e1b48096c",
+    "title": "Desa Watuawu optimalkan dana desa untuk warga - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUEpoTXY3Y1RGOC1DeXoxQjhfcEdKYXJmRF95VUJ4TEdTcXFPNlVFMVlxbV9hZXBralUxc1N0Q3pETjVReWNDN21USEV1b045U2FsdmVVRmxaOGxEU2RlMGFUcWVXN1BNOHhrS3dvOXNEUXRqQlkzMC1lR0FpcXR2M3h1RmdFQ1VKc2NBelM3VVFxMnM",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2017-07-21T14:00:00+07:00",
+    "desc": "Desa Watuawu optimalkan dana desa untuk warga&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "b727ec7b1edc",
@@ -68867,6 +69205,19 @@
     "source": "detikNews",
     "pub_date": "2015-09-06T14:00:00+07:00",
     "desc": "Kepala Daerah Bisa Terkena Sanksi Jika Lambat Salurkan Dana Desa&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9aa64f888718",
+    "title": "Hati-hati, Ada 14 Potensi Permasalahan Dana Desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOWZMVzdyMGIzZUYxOFZsNlEyMTJueElFbDVvU0ZQVjRDbFdDbkg2RlpFc1I1N2Jnb0F2WXZTQTdySGlHSG9hZ1I1YlNMZGZwUlRQRDNrZGxGdy15cEt2a0djQjJmeXBsZmdxTURVQ2ZpV2d3RUZ6YkNaYXJKSXRYN092UTNxT1h0TnFYczhlMjR2SHViSmtB",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2015-06-13T14:00:00+07:00",
+    "desc": "Hati-hati, Ada 14 Potensi Permasalahan Dana Desa&nbsp;&nbsp;ANTARA News Kalteng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
