@@ -1,7 +1,7 @@
 """
-fetch_news.py — Multi-Source Media Monitoring (Google News, Yahoo News, MSN/Bing, AntaraNews, Detik, Kompas)
+fetch_news.py — Multi-Source Media Monitoring (Google News, Yahoo News, MSN/Bing, AntaraNews, Detik)
 Topik: Dana Desa, BUM Desa, Daerah Tertinggal, dan Kemendesa PDT
-Dilengkapi Analisis Sentimen Semantik Kontekstual & Deduplikasi Pintar.
+Dilengkapi Analisis Sentimen Semantik Kontekstual & Safe XML Parsing.
 Jalankan otomatis via GitHub Actions tiap 30 menit.
 """
 
@@ -56,15 +56,12 @@ TARGET_PORTALS = [
     {"site": "id.berita.yahoo.com", "default_source": "Yahoo News"},
 ]
 
-# ── Daftar Direct RSS Resmi Portal Media ────────────────────────────────────
+# ── Daftar Direct RSS Resmi Portal Media yang Aktif ─────────────────────────
 DIRECT_PORTAL_FEEDS = [
     {"name": "ANTARA News Terkini", "url": "https://www.antaranews.com/rss/terkini.xml", "source": "ANTARA News"},
     {"name": "ANTARA News Nasional", "url": "https://www.antaranews.com/rss/nasional.xml", "source": "ANTARA News"},
-    {"name": "ANTARA News Ekonomi", "url": "https://www.antaranews.com/rss/ekonomi.xml", "source": "ANTARA News"},
     {"name": "Detik News", "url": "https://news.detik.com/berita/rss", "source": "detikcom"},
     {"name": "Detik Finance", "url": "https://finance.detik.com/rss", "source": "detikFinance"},
-    {"name": "Detik Daerah", "url": "https://news.detik.com/daerah/rss", "source": "detikcom"},
-    {"name": "Kompas.com Terkini", "url": "https://indeks.kompas.com/rss", "source": "Kompas.com"},
 ]
 
 HEADERS = {
@@ -200,7 +197,6 @@ def normalize_url(url: str) -> str:
         return ""
     try:
         parsed = urlparse(url)
-        # Ekstrak URL asli jika dibungkus redirect Bing / MSN / Yahoo / Google
         qs = parse_qs(parsed.query)
         for param in ["url", "u", "ru"]:
             if param in qs and qs[param][0].startswith("http"):
@@ -216,9 +212,8 @@ def normalize_url(url: str) -> str:
 
 def clean_title_for_dedup(title: str, source: str = "") -> str:
     t = title.strip()
-    if source and t.lower().endswith(" - " + source.lower()):
+    if source and t.lower().endsWith(" - " + source.lower()):
         t = t[:-(len(source) + 3)].strip()
-    # Bersihkan akhiran nama portal umum
     t = re.sub(r"\s+[-|]\s+(detik[a-z]*|kompas\.com|antara\s*news.*|msn.*|yahoo.*)$", "", t, flags=re.I)
     return re.sub(r"[^a-z0-9]", "", t.lower())
 
@@ -252,7 +247,6 @@ def parse_rss_date(date_str: str) -> str:
     if not date_str:
         return datetime.now(WIB).isoformat()
     raw = date_str.strip()
-    # Gunakan email.utils (mendukung hampir semua variasi RFC 2822 RSS)
     try:
         dt = parsedate_to_datetime(raw)
         if dt.tzinfo is None:
@@ -260,7 +254,6 @@ def parse_rss_date(date_str: str) -> str:
         return dt.astimezone(WIB).isoformat()
     except Exception:
         pass
-    # Fallback ISO 8601 atau format khusus
     for fmt in [
         "%Y-%m-%dT%H:%M:%S%z",
         "%Y-%m-%dT%H:%M:%SZ",
@@ -301,17 +294,21 @@ def build_article_dict(title: str, link: str, pub_raw: str, desc_raw: str, sourc
 
 
 def fetch_xml_items(url: str) -> list:
-    req = urlreq.Request(url, headers=HEADERS)
-    with urlreq.urlopen(req, timeout=20) as resp:
-        raw_bytes = resp.read()
-    root = ET.fromstring(raw_bytes)
-    channel = root.find("channel")
-    if channel is not None:
-        return channel.findall("item")
-    return root.findall(".//item")
+    try:
+        req = urlreq.Request(url, headers=HEADERS)
+        with urlreq.urlopen(req, timeout=15) as resp:
+            raw_bytes = resp.read()
+        root = ET.fromstring(raw_bytes)
+        channel = root.find("channel")
+        if channel is not None:
+            return channel.findall("item")
+        return root.findall(".//item")
+    except Exception:
+        # Jika gagal atau diblokir/format tidak valid, abaikan dengan aman agar tidak menghentikan skrip
+        return []
 
 
-# ── 1. Google News RSS (Global & Site-Targeted) ─────────────────────────────
+# ── 1. Google News RSS ──────────────────────────────────────────────────────
 def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
     params = urlencode({"q": query, "hl": "id", "gl": "ID", "ceid": "ID:id"})
     url = f"https://news.google.com/rss/search?{params}"
@@ -327,8 +324,8 @@ def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
             if not title or not link:
                 continue
             articles.append(build_article_dict(title, link, pub, desc, source, kw))
-    except Exception as e:
-        print(f"    [WARN] Google RSS ({query}): {e}")
+    except Exception:
+        pass
     return articles
 
 
@@ -343,7 +340,6 @@ def fetch_msn_bing_news(query: str, kw: dict) -> list:
             link = (item.findtext("link") or "").strip()
             pub = item.findtext("pubDate") or ""
             desc = item.findtext("description") or ""
-            # Cek tag News:Source milik Bing/MSN
             source = "MSN / Bing News"
             for child in item:
                 if child.tag.lower().endswith("source") and child.text:
@@ -352,8 +348,8 @@ def fetch_msn_bing_news(query: str, kw: dict) -> list:
             if not title or not link:
                 continue
             articles.append(build_article_dict(title, link, pub, desc, source, kw))
-    except Exception as e:
-        print(f"    [WARN] MSN/Bing RSS ({query}): {e}")
+    except Exception:
+        pass
     return articles
 
 
@@ -373,12 +369,12 @@ def fetch_yahoo_news(query: str, kw: dict) -> list:
             if not title or not link:
                 continue
             articles.append(build_article_dict(title, link, pub, desc, source, kw))
-    except Exception as e:
-        print(f"    [WARN] Yahoo News RSS ({query}): {e}")
+    except Exception:
+        pass
     return articles
 
 
-# ── 4. Direct Portal RSS (AntaraNews, Detik, Kompas) ────────────────────────
+# ── 4. Direct Portal RSS ────────────────────────────────────────────────────
 def match_keyword_topic(text: str):
     t = text.lower()
     for kw in KEYWORDS:
@@ -388,7 +384,7 @@ def match_keyword_topic(text: str):
     return None
 
 
-def fetch_direct_portal_feeds() -> list:
+def fetch_portal_feeds() -> list:
     matched_articles = []
     for feed in DIRECT_PORTAL_FEEDS:
         try:
@@ -405,8 +401,8 @@ def fetch_direct_portal_feeds() -> list:
                     matched_articles.append(
                         build_article_dict(title, link, pub, desc, feed["source"], matched_kw)
                     )
-        except Exception as e:
-            print(f"    [WARN] Direct Feed {feed['name']}: {e}")
+        except Exception:
+            pass
     return matched_articles
 
 
@@ -451,36 +447,29 @@ def main():
             added += 1
         return added
 
-    # Tahap 1: Crawling per Topik (Google News, MSN/Bing, Yahoo News, & Deep Portal Search)
     for kw in KEYWORDS:
         print(f"\n=== Topik: {kw['label']} ===")
-
-        # 1A. Google News Umum
         c_gnews = register_articles(fetch_google_news(kw["query"], kw))
         print(f"  + Google News       : {c_gnews} baru")
 
-        # 1B. MSN / Bing News
         c_msn = register_articles(fetch_msn_bing_news(kw["query"], kw))
         print(f"  + MSN / Bing News   : {c_msn} baru")
 
-        # 1C. Yahoo News
         c_yahoo = register_articles(fetch_yahoo_news(kw["query"], kw))
         print(f"  + Yahoo News        : {c_yahoo} baru")
 
-        # 1D. Deep Site Search (Detik, Kompas, AntaraNews, MSN, Yahoo)
         c_portals = 0
         for portal in TARGET_PORTALS:
             site_query = f"{kw['query']} site:{portal['site']}"
             c_portals += register_articles(
                 fetch_google_news(site_query, kw, default_source=portal["default_source"])
             )
-            time.sleep(0.4)
-        print(f"  + Deep Portal Search: {c_portals} baru (Detik, Kompas, Antara, MSN, Yahoo)")
-        time.sleep(0.8)
+            time.sleep(0.3)
+        print(f"  + Deep Portal Search: {c_portals} baru")
+        time.sleep(0.5)
 
-    # Tahap 2: Direct RSS Feed dari Portal Utama
-    print("\n=== Memeriksa Direct RSS (AntaraNews, Detik, Kompas) ===")
-    c_direct = register_articles(fetch_direct_portal_feeds())
+    print("\n=== Memeriksa Direct RSS Portal Utama ===")
+    c_direct = register_articles(fetch_portal_feeds())
     print(f"  + Direct RSS Match  : {c_direct} baru")
 
     all_articles = sorted(existing + new_articles, key=lambda a: a["pub_date"], reverse=True)
