@@ -390,6 +390,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "357ae59ef3fc",
+    "title": "Kumpulan Berita dana desa 2021 - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BVVZMSGhEb0FZOTBQcWFzOU80aHZOMW1UbnZZQ05BekMxQVRGNkxKWEN1RVlyWjF1NG5GQVRzb3lEcFhqRDZYRTVveHNpVW5BcXZtZldHMV92SGs",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-10-22T14:33:54+07:00",
+    "desc": "Kumpulan Berita dana desa 2021&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6ae086f945e9",
     "title": "Kemendes PDT petakan kebutuhan kompetensi PSM lewat SIMAS",
     "link": "https://www.antaranews.com/berita/5804169/kemendes-pdt-petakan-kebutuhan-kompetensi-psm-lewat-simas",
@@ -2600,6 +2613,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3fd88f6e72f5",
+    "title": "Sidang Korupsi BUMDes, Dana Proyek Paving Diduga Dipakai Trading 1 - BALI POST",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU3lNamNXRDc0U0x0V01BeE5xdG5HRDBZNUQ5NTZXcnFveE0wRVFYS0g3VWlmRzlDc09wS1g3NVdrYjNOdEkwT0J5SllwUFBNLTlqRUFra1BpazJKSDFsZXM3dmVJMW55UDNiel9qcEVBbU5CMFFHdnZpTmd1cU5saWRDYWZsWkpOd1M0TmVhZ1dua1o4aVZKLUxzUUw2SHd6WTdGbFFIeTZ0WFRkaUNBSm1Dc1JyRGJSVzR0d2JFTFZPal9mczd5eFNxRnRwa3RkRUUwSGdSOUlyb1pYSng2eXVuZzUwZF9fdmhF",
+    "source": "BALI POST",
+    "pub_date": "2026-10-20T14:00:00+07:00",
+    "desc": "Sidang Korupsi BUMDes, Dana Proyek Paving Diduga Dipakai Trading 1&nbsp;&nbsp;BALI POST",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -11,
+    "sentiment_tag": "Penyalahgunaan Anggaran"
+  },
+  {
     "id": "f20a9ee9bb27",
     "title": "Bupati Sikka Soroti BUMDes Tak Untung, Dorong Evaluasi Menyeluruh - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3J5eWNmUllHWFZCeTkzOVFMYnJWVjY3LTI0NUIzcHFrTFBDc25pcC1BR2NFU2dmWlBpUkgwSDBXR2ZpclhGQXZDT2FJckNVb2F4eExqNG1wVFV4WTlXWmtTak51NEJ2elpXVEtNQVVFUFVCdWRMMWVjNlhMd1NYZEtXNlRFQThiaDFkbTc1b1RDb1EtTTdfMHE2YXhGTnBBaS1YUEJUcm4",
@@ -3568,6 +3594,19 @@
     "source": "AcehEkspres.com",
     "pub_date": "2026-10-19T17:18:07+07:00",
     "desc": "Pengawasan Dana Desa Diperkuat, Bupati TRK Ingatkan Pentingnya Tertib Administrasi&nbsp;&nbsp;AcehEkspres.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "29010465bf27",
+    "title": "Presiden Dana Desa Jangan - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14UVVENG9EUjBFOU8xOXd4cV96VHJkODNUMEFocVF3eHNWOFA5Zi10aVF3ZElkT3F3YTUwMThIVXh5dVhoSHpBMkdmOUhfZ1UwYmh3QjNCSjd0OEdFMEpoTWZhWng5alR6cHE4",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-10-19T16:51:53+07:00",
+    "desc": "Presiden Dana Desa Jangan&nbsp;&nbsp;ANTARA News Riau",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -10842,6 +10881,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "931f54aa3620",
+    "title": "Dari Fotokopi hingga Enam Unit Usaha: Cara BUMDes Oro-Oro Ombo Menggerakkan Halaman all - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVMyMmNFYV9VRVNxbUt6UWw2cXFkTGswNkNtXy1wTklxcGxmUXV0Tmp2ZExONDZDeWtjX0hjbm1xbXlGSEZtamFoWVVvam1odEJ2d05mYkt5SXBTV24yd2g0YmRYVkxQRTAweWJXNUFGSVRIY2o4QzM4SF9aOFllOVpsaG8xUW5ZSllQZ1piSURoZGFLbWVxWk0tOGdtWmU3dThOOUxUUGMzTzRxbjNTUy1CUG96TFdBZmdYSkFFNk1helhNSTBveHVwRTdmSUgyNmFBVkFjOXVoRU9v",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-08T15:52:59+07:00",
+    "desc": "Dari Fotokopi hingga Enam Unit Usaha: Cara BUMDes Oro-Oro Ombo Menggerakkan Halaman all&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ad39925535f6",
     "title": "Pemdes Karangmekar Realisasikan BLT Dana Desa dan Insentif Guru Ngaji hingga Linmas ‎ - MediaAksara.id",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjV5cVZEUkE0U2doaEtYNEdBQTdESThLMWtFN0ExZTZvNW1qek1uUmFZMkdMRTJ1N21vZDV6d0JxQlpudy1GSk5WQ3Y2YVBxZFloM2FWWVZLaHVOd0tmUUlPanJSWmJnMVhLN1RtRnlOak1FNm95VGJoWGtXR09XUlhZQi0yQmpmbFQ1MzlNRmRIa3pPdDI1MnM1ZXlqYlh2VnZvRy1SV0ljT1U",
@@ -11515,6 +11567,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a521eb7ae6b5",
+    "title": "Dari Desa Tertinggal, Oro-oro Ombo Raih IDM Nomor 1 Nasional. - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcU8tYlRRUk9vQXVvbERHcDZ2dG9OS2FnMU9HQ3lkVGdESjl5d2NOS0pZY0gwTUdzeFdmal9JQnNrUnhzLTJlbjVURHZGczF6aHJjMDlXMjNlR1Fmc1VHazI4LVkxMHNmcFh1SXRIN3ducElSbjA0MWwyeXNZakpfZ2FQejd1TEFHWEdlX3RGai1fT0VCcTBQY3Q5RklHaW96SFJfTEFxZ3kyYkVIM2pISVloTXBYZjBWa2swM010bXlzQmM",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-07T14:00:00+07:00",
+    "desc": "Dari Desa Tertinggal, Oro-oro Ombo Raih IDM Nomor 1 Nasional.&nbsp;&nbsp;Kompasiana.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -23047,6 +23112,19 @@
     "sentiment": "negatif",
     "sentiment_score": -4,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "fa69eabf0cc4",
+    "title": "BGN Prioritaskan Perluasan MBG ke Wilayah 3T dan Tingkat Stunting Tinggi - InfoPublik",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeWg3ejFxckljbG5VRmtIS2ZQYko3MWV3OW1OT2FDY2k4NzRSUjZNMkhQVFp2Y0ROb2xxX09MRHJNdm5DeGJuZTVXakFCMW9wdDFmSmhFbnZKVGd2Q29BNkpfMGRWWldpOU55d2x2NGRTOVA0ZlZvR0w0RTJ0Y1ludVlocjhOcHIwaTFBU2x2a2FzMFl5RW5KRHM0cGRqZ3lZZl9VX2w2UVZiRzByajYtY3RlYldQVU1FYTRyb1JvTjdnN2tORTJiZVVHRl9aMWM",
+    "source": "InfoPublik",
+    "pub_date": "2026-09-11T14:00:00+07:00",
+    "desc": "BGN Prioritaskan Perluasan MBG ke Wilayah 3T dan Tingkat Stunting Tinggi&nbsp;&nbsp;InfoPublik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "a06a8efdf902",
@@ -63622,6 +63700,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "41551a0a516c",
+    "title": "Eks Mendikbud Soroti 52 Persen Anggaran Pendidikan 2024 yang Dialihkan ke Dana Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEhFWFEtMTBINGY0WUFNNW1aWkFRSmFWMmxyaHpqUXJwZGdNQUNNRGJfZE1nWHJRRk9iTm5rVGJYanI0VndiQU9Pd0tsbHUtMkJNU3ZteEhoemNiTWhiZ0E4UFNfcWpoMEhDMVV0Vmk3OU1Qa1VCd0tkb1lBRDJHb1lvMExhX0FvUy11X0pFNDF1eHBQUU5qMnBFclNKM1J5SjJIaHlWZTRubWIyY1FBVjdtQTZmVGdOTHd6WGV1YTRNS1N5a2fSAcYBQVVfeXFMTmsyeHItTGlIaWFBcUp6RVo2dkNhMWpfNXhEbW9uMDNieUxaNG1RQzB6U2lSZlZsR3JSYV9qc01HSVVwenQ4bVpIa1h3VGlwU0NWd2dIT1JyOC1YRWFuMlJoakVtUl8yQWhiRloyNlFXb1dnY1pRWXEzcW1qNXhpUF9SUmlIWkQ4X2l6RlNqSzRGMVhjOXRzNlltaFJMV29PN1VsTjdIVFZyR1hSRTNmQV9NYmJWWXNRVGVXczQ2VVlFU1Npb0VR",
+    "source": "Kompas.com",
+    "pub_date": "2024-07-08T14:00:00+07:00",
+    "desc": "Eks Mendikbud Soroti 52 Persen Anggaran Pendidikan 2024 yang Dialihkan ke Dana Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "36de1d6fb6f6",
     "title": "Kemenko PMK Gelar Seminar Nasional Refleksi Undang Undang Desa: Percepatan Pembangunan Daerah Tertinggal di Wilayah Sumatera | Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan - Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNloweTJOYVpCSVJVbUdINEE1SThhcUR5RXB6cHdrVG1Od1p3R2NTdl8xbjBBU2FCNkxPeUgwblpQaTJEbXNPcTYwdC1nUGtyaVdNcGUyaE1yamVCa0R4Y003elpIVEFJeWYtWU1Hd2RGR2VXTVBsV1NtVGxJNVFfNVduOGtMYlBidWlKZjROYklyNGd3SmZGTFY5aGtRWDNwN0drUGZQenJXRzRkREN5V0p4elk2UW1WeENSYS1B",
@@ -65973,6 +66064,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b417e003508c",
+    "title": "Cegah Stunting, Dana Desa Dapat Digunakan Penguatan Posyandu - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU2pBalp6aHlQaDl6bHlYdXVYQXFGN1RYWWtoZ0xKdm5yT1g5WVhON1B5RlF4Ul80NkE5TXg1Y2VfVEdMN1ZIUW1KQWhwbExya29oWHp3ajZIbng5OHJlZm9zbTV2RWx5N2N5UXJielJLQmRWWk84N29QRi1yVU94NS1GTlM4Z0Vscmk3UkZPRXFHeXJ4MExpWnQzdWxLMXR6R2REX3U0Rm95Ym5oNWFoYmxR",
+    "source": "Kompas.com",
+    "pub_date": "2023-06-22T14:00:00+07:00",
+    "desc": "Cegah Stunting, Dana Desa Dapat Digunakan Penguatan Posyandu&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Pemberdayaan Masyarakat"
   },
   {
     "id": "62676add6dfe",
