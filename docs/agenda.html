@@ -85,9 +85,10 @@
     th { font-weight: 700; color: var(--muted); background: var(--bg); }
     
     .badge { padding: 2px 8px; border-radius: 6px; font-weight: 700; font-size: 0.68rem; text-transform: uppercase; }
-    .b-pos { background: var(--pos-bg); color: var(--pos); }
-    .b-neg { background: var(--neg-bg); color: var(--neg); }
-    .b-neu { background: var(--neu-bg); color: var(--neu); }
+    .b-danadesa { background: #fef3c7; color: #b45309; }
+    .b-bumdesa { background: #d1fae5; color: #047857; }
+    .b-daerahtertinggal { background: #fee2e2; color: #b91c1c; }
+    .b-kemendesa { background: #ede9fe; color: #6d28d9; }
   </style>
 </head>
 <body>
@@ -157,15 +158,31 @@
 
 <script>
 async function loadAgendaData() {
-  try {
-    const res = await fetch("./data/news.json");
-    if (!res.ok) throw new Error("Gagal mengambil data news.json");
-    const articles = await res.json();
+  const urls = [
+    `./data/news.json?t=${Date.now()}`,
+    `data/news.json?t=${Date.now()}`,
+    `./docs/data/news.json?t=${Date.now()}`
+  ];
 
-    generateAgendaReport(articles);
-  } catch (err) {
-    document.getElementById("executiveSummary").textContent = "Gagal memuat data analisis agenda setting: " + err.message;
+  let articles = null;
+  for (const u of urls) {
+    try {
+      const res = await fetch(u);
+      if (res.ok) {
+        articles = await res.json();
+        break;
+      }
+    } catch (err) {
+      console.warn("Gagal fetch dari:", u);
+    }
   }
+
+  if (!Array.isArray(articles)) {
+    document.getElementById("executiveSummary").textContent = "Gagal memuat data news.json untuk analisis agenda setting.";
+    return;
+  }
+
+  generateAgendaReport(articles);
 }
 
 function generateAgendaReport(articles) {
@@ -173,40 +190,38 @@ function generateAgendaReport(articles) {
   const negArticles = articles.filter(a => a.sentiment === "negatif");
   const posArticles = articles.filter(a => a.sentiment === "positif");
 
-  // Executive summary
-  document.getElementById("executiveSummaryinnerHTML") = "";
-  setElText("executiveSummary", `Dari total ${total} pemberitaan yang dipantau, isu tata kelola dana desa dan pengawasan hukum mendominasi sorotan publik. Humas disarankan untuk memperkuat narasi pendampingan preventif guna mengimbangi berita pemeriksaan hukum.`);
+  document.getElementById("executiveSummary").textContent = 
+    `Dari total ${total} pemberitaan yang dipantau secara real-time, analisis sistem mendeteksi dinamika isu tata kelola dana desa, BUMDes, serta program prioritas kementerian. Biro Humas disarankan untuk memperkuat narasi preventif dan amplifikasi capaian positif.`;
 
   // 1. Crisis Container (Negatif)
   const crisisEl = document.getElementById("crisisContainer");
   if (negArticles.length === 0) {
-    crisisEl.innerHTML = "<p style='font-size:0.85rem;color:var(--muted)'>Tidak ada isu negatif signifikan saat ini.</p>";
+    crisisEl.innerHTML = "<p style='font-size:0.85rem;color:var(--muted)'>Tidak ada isu negatif atau sorotan kritis signifikan saat ini.</p>";
   } else {
-    // Ambil sampel 3 isu negatif teratas
     const topNeg = negArticles.slice(0, 3);
     crisisEl.innerHTML = topNeg.map(a => `
       <div class="strategy-card" style="border-left:3px solid var(--neg)">
         <h4>⚠️ [${a.topic_label}] ${a.title}</h4>
         <p><strong>Sumber:</strong> ${a.source} · <strong>Kategori:</strong> ${a.sentiment_tag}</p>
         <div class="talking-points">
-          <strong>Rekomendasi Narasi Mitigasi:</strong> Menekankan bahwa pengawasan oleh APIP/Aparat Penegak Hukum adalah bagian dari komitmen pembinaan preventif, bukan sekadar penindakan, guna memastikan akuntabilitas penyaluran anggaran desa.
+          <strong>Rekomendasi Narasi Mitigasi:</strong> Menekankan bahwa pengawasan dan penegakan hukum adalah bagian dari komitmen pembinaan preventif untuk memastikan akuntabilitas anggaran desa.
         </div>
       </div>
     `).join("");
   }
 
   // 2. Positive Container (Positif)
-  const posEl = document.getElementById("positiveContainer");
+  const positiveEl = document.getElementById("positiveContainer");
   if (posArticles.length === 0) {
-    posEl.innerHTML = "<p style='font-size:0.85rem;color:var(--muted)'>Belum ada sorotan positif menonjol.</p>";
+    positiveEl.innerHTML = "<p style='font-size:0.85rem;color:var(--muted)'>Belum ada sorotan positif menonjol.</p>";
   } else {
     const topPos = posArticles.slice(0, 3);
-    posEl.innerHTML = topPos.map(a => `
+    positiveEl.innerHTML = topPos.map(a => `
       <div class="strategy-card" style="border-left:3px solid var(--pos)">
         <h4>🌟 [${a.topic_label}] ${a.title}</h4>
         <p><strong>Sumber:</strong> ${a.source} · <strong>Capaian:</strong> ${a.sentiment_tag}</p>
         <div class="talking-points">
-          <strong>Rekomendasi Amplifikasi:</strong> Jadikan kisah sukses ini sebagai model percontohan (*best practice*) untuk direplikasi oleh BUMDes atau desa lainnya melalui infografis media sosial resmi Kemendes PDT.
+          <strong>Rekomendasi Amplifikasi:</strong> Jadikan kisah sukses ini sebagai model percontohan (*best practice*) untuk direplikasi oleh desa lainnya melalui infografis media sosial resmi Kemendes PDT.
         </div>
       </div>
     `).join("");
@@ -217,28 +232,23 @@ function generateAgendaReport(articles) {
   tableBody.innerHTML = `
     <tr>
       <td><span class="badge b-danadesa">Dana Desa</span></td>
-      <td>Sorotan proses audit dan penegakan hukum di beberapa wilayah</td>
-      <td>Publikasikan panduan transparan pengelolaan APBDes serta success story desa anti-korupsi</td>
+      <td>Sorotan proses pengawasan, transparansi, dan tata kelola APBDes</td>
+      <td>Publikasikan panduan transparan pengelolaan keuangan serta success story desa anti-korupsi</td>
       <td>Press Release & Podcast Humas</td>
     </tr>
     <tr>
       <td><span class="badge b-bumdesa">BUM Desa</span></td>
-      <td>Dorongan BUMDes agar berorientasi profit dan masuk rantai pasok lokal/ekspor</td>
-      <td>Angkat profil BUMDes produktif (seperti pangan & peternakan) yang berhasil menyumbang PADes</td>
-      <td>Video Profil Pendek & Media Sosial</td>
+      <td>Dorongan agar BUMDes semakin produktif menyumbang PADes dan masuk rantai pasok</td>
+      <td>Angkat profil BUMDes unggulan (seperti pangan & ekonomi lokal) yang sukses berekspansi</td>
+      <td>Video Profil & Media Sosial</td>
     </tr>
     <tr>
       <td><span class="badge b-kemendesa">Kemendesa PDT</span></td>
-      <td>Program prioritas percepatan pembangunan desa dan penguatan ekonomi lokal</td>
-      <td>Sampaikan progres konkret kebijakan Mendes Yandri Susanto dalam mendorong desa sebagai subjek mandiri</td>
-      <td>Media Briefing & Opini Media Nasional</td>
+      <td>Arah kebijakan percepatan pembangunan daerah tertinggal dan kawasan transmigrasi</td>
+      <td>Sampaikan progres konkret program prioritas Mendes Yandri Susanto dalam membangun kemandirian desa</td>
+      <td>Media Briefing & Opini Media</td>
     </tr>
   `;
-}
-
-function setElText(id, txt) {
-  const el = document.getElementById(id);
-  if (el) el.textContent = txt;
 }
 
 loadAgendaData();
