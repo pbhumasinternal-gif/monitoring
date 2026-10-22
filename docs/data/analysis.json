@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-22 17:01 WIB",
+  "last_updated": "2026-10-22 17:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 1338,
-  "dominant_topic": "Dana Desa (560 berita), BUM Desa (358 berita), Kemendesa PDT (223 berita), Daerah Tertinggal (197 berita)",
+  "total_checked": 1343,
+  "dominant_topic": "Dana Desa (561 berita), BUM Desa (360 berita), Kemendesa PDT (223 berita), Daerah Tertinggal (199 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -12,6 +12,18 @@
       "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
     ],
     "cases": [
+      {
+        "title": "Warga Loning Geruduk Kantor Desa, BUMDes Rp285 Juta Dipertanyakan - patrolinews86",
+        "source": "patrolinews86",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Warga Loning Serbu Kantor Desa, Tuntut Transparansi Modal BUMDes Rp. 285 Juta - Target Berita",
+        "source": "Target Berita",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
       {
         "title": "Dana Desa Rp. 1,3 Miliar dan BUMDes Loning Disorot, Warga Desak Inspektorat Gelar Sidak - Target Berita",
         "source": "Target Berita",
@@ -47,18 +59,6 @@
         "source": "Kilas Aceh on MSN",
         "topic": "Dana Desa",
         "core_issue": "if(matchMedia(\"(prefers-color-scheme:dark)\").matches){const s=document.createElement(\"style\");document.head.appendChild(s);s.type=\"text/css\";s.appendChild(document.createTextNode(\"body{background:#242..."
-      },
-      {
-        "title": "Dana Desa Bumdes Pagerwojo Dipertanyakan, DPMD Jombang Klaim Sudah Sesuai Prosedur Monev - Kabar Jombang",
-        "source": "Kabar Jombang",
-        "topic": "BUM Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "Pernyataan Pembina BUMDes yang Mengaku Tidak Mengetahui Anggaran Dipertanyakan",
-        "source": "BandungRaya",
-        "topic": "BUM Desa",
-        "core_issue": "Pernyataan Pembina BUMDes yang Mengaku Tidak Mengetahui Anggaran Dipertanyakan - Bandungraya.net (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {\r\n        basicSubscriptions.init(..."
       }
     ]
   },
