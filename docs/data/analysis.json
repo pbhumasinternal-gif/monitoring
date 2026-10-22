@@ -1,117 +1,124 @@
 {
-  "last_updated": "2026-10-22 09:32 WIB",
+  "last_updated": "2026-10-22 09:38 WIB",
   "days_analyzed": 30,
-  "total_checked": 1312,
-  "insights": [
-    {
-      "title": "Lantik DPD FBMP, Wabup Iing Dorong Pengelolaan Bumdes di Pandeglang Unggulkan Potensi Desa - bantentv.com",
-      "source": "bantentv.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFEzd2o2VGJTUm9yVjNGYWRXcy1wZmgwbWl2MzNVYlVtLTBmR0RzYVBPdmdTZm1wY3psa0xBY1A3TFBCS0VlZjMtcTFUWTdIRHhyMFdkM1M1ZDZiVkVkaXBrNDBfVGlZanYyQjZVaTMzUGRuaENHMDBfUGJEaGt6WWhWZ2N0eUFyeHRhbnNWQWNsWWs5NXVpRVg4MG5UbU1aVHVLWXZFdDR1R21BWG1ZZHpXZndZbGZNU0E",
-      "topic": "BUM Desa",
-      "sentiment": "netral",
-      "sentiment_tag": "Informatif & Regulasi",
-      "category": "Informatif & Regulasi",
-      "recommendation": "Pantau perkembangan isu secara berkala dan pastikan informasi regulasi tersampaikan dengan akurat.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "Inspektorat Tindak Lanjuti Dugaan Penggelapan Dana BUMDes Sigar Penjalin - SUARANTB.com",
-      "source": "SUARANTB.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHE0QXRzMWdNeG93aS1tdHdEa3FPWm15blFnZjc0RWVFc0s4dlRJaTEycUNhLUNNczFiczU3TWIxa1FCRTdya3pzeDhRMUNrUmdfaEhSelNsRURtUlU2emhmaFJrYUtXRG4xNnZqMWVIa0tuOUlWVXZfZVFfaFBtZldza01KeDh5ZWNVUXJDcTRuT3UzaU1NSmgxZ0JncGpkb1R1SGt5c1k",
-      "topic": "BUM Desa",
-      "sentiment": "negatif",
-      "sentiment_tag": "Kasus Hukum & Korupsi",
-      "category": "Krisis & Pengawasan",
-      "recommendation": "Siapkan rilis klarifikasi cepat, perkuat data tandingan, dan koordinasi dengan unit teknis terkait untuk mitigasi krisis.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "Kasus Dana BUMDes Munca, Warga Menanti Kejelasan dari Kejari - Patra Indonesia",
-      "source": "Patra Indonesia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWJQbTVrQTZTczVRUk90dHJ0UzBLRGllMFRCTTBWb1U2bzFMbHVfaGt3YUtQNVVHOXBYRVpxZ2pBWFB0WXRqRUpBd2Q2bGNFQ0pMM0M5eHRpOGRPVDJrdVdpQnhWRlduVWJJQlA0U2wyUS1oYjdiOWcyRFRWRmJ1ZkQ3eHZMUEpIUlpYMnRBZTE",
-      "topic": "BUM Desa",
-      "sentiment": "netral",
-      "sentiment_tag": "Informatif & Regulasi",
-      "category": "Informatif & Regulasi",
-      "recommendation": "Pantau perkembangan isu secara berkala dan pastikan informasi regulasi tersampaikan dengan akurat.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "869 Kasus Korupsi Dana Desa, Aceh Nobatkan 15 Desa Antikorupsi » - dialeksis.com",
-      "source": "dialeksis.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTdwYTNfbUdlOXhkSXloTUJfZW1OU2NLOExFZTYyZEhXamRwZWNEalhEdGZpZDIyUEVjVDdTQV9ZUGpVMzNKNGI2c0t0cF8wVFNkcTRNdG5OSDlmVXpFOTFmU3hwWWJZb3d4dE1PbVFySDhjVURmUkg5Z0hIR0o1T3VvcjNtcVh5eWpPbV80MEY1QUEyOHNv0gGcAUFVX3lxTE9zRF96NEE0M1d3OTlDWjFNZWtvM2lOWW1CcFVzMkZsaE5Ca1ZzUjlJZjd5M1JCTUtFajhfS2w0RmhFbE1YWjdLUktfVTAwWmxLQ21TQ1pNX2NkSE9JY2x5dzFEdUgtZWdzZ3JhLXNCYW9qV0s2Vm1wN245RWFKeTkyaXE5ZnIzcUwwdzJ0aWliQzhSWk5UWUdVd1hnWA",
-      "topic": "Dana Desa",
-      "sentiment": "negatif",
-      "sentiment_tag": "Kasus Hukum & Korupsi",
-      "category": "Krisis & Pengawasan",
-      "recommendation": "Siapkan rilis klarifikasi cepat, perkuat data tandingan, dan koordinasi dengan unit teknis terkait untuk mitigasi krisis.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "Dua Menteri Pastikan Gaji PNS Tidak Lewat Kopdes, Menkop Buka Suara",
-      "source": "detikFinance",
-      "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8718189/dua-menteri-pastikan-gaji-pns-tidak-lewat-kopdes-menkop-buka-suara",
-      "topic": "Kemendesa PDT",
-      "sentiment": "netral",
-      "sentiment_tag": "Informatif & Regulasi",
-      "category": "Informatif & Regulasi",
-      "recommendation": "Pantau perkembangan isu secara berkala dan pastikan informasi regulasi tersampaikan dengan akurat.",
-      "summary_text": "Dua Menteri Pastikan Gaji PNS Tidak Lewat Kopdes, Menkop Buka Suara {\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[\n    {\n        \"@type\": \"ListItem\",\n        \"position\": 1,\n        \"name\": \"detikFinance\",\n        \"item\"..."
-    },
-    {
-      "title": "Polda Maluku lengkapi berkas kasus dugaan korupsi dana desa Rp900 juta - ANTARA News",
-      "source": "ANTARA News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTG13Q0FhdktUNjRGUjUyWkFjVmotTG9nMFFtNDR0MERydFIycWRLS3RnN052S0VNWGF6UUlWVlpOMW1ENXdxN3NyMWFTdzBkdHM4ZGNsRzU1U19YSmVSeXVhOFkwTkd3dS1sblRGaThDSWZwNGl2NjA4S0VqVGlKS1hnS3dRWUVoR19EaVBHUTY0aUxHcF9VS2hhdTRMay1PZm5Gem5hQUo3UHRlZGxTaG1UTdIBuAFBVV95cUxOa0pOM0tQNFJTalJ1WFNSUm9HMUFPNGIxNEJLUWlYWTNCSUl2U2pVYXFSbWVWYkpRZE1NaFltUmc1aXNmRnRnMU1FM0g5WkpCa2RDd0trVTNHcGxOWWVoTExYZjY5ZTlTYUxXazdyNTZoai10S2QwN1hyalJaRjJydVc2bVp1OFF0UEE3TVh3MTRCQ0d0UTU4eWdTQTB4TnVHVnNkalc2VGI5ZXBIQW01MnlCNnk3ejkw",
-      "topic": "Dana Desa",
-      "sentiment": "negatif",
-      "sentiment_tag": "Kasus Hukum & Korupsi",
-      "category": "Krisis & Pengawasan",
-      "recommendation": "Siapkan rilis klarifikasi cepat, perkuat data tandingan, dan koordinasi dengan unit teknis terkait untuk mitigasi krisis.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "Bumdes Mati Suri, Wabup Pandeglang Dorong Garap Pasar MBG - BantenNews.co.id",
-      "source": "BantenNews.co.id",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQXFSUFB1RFphOHctZkNxdW1Eem14cFJsMVRhVjJ3Yk9JY2Q5ZDRDY3ZNRnhoTUIzRWQzaG1ZSmVETFVKZW5GZ2VsVUhNbkYxakNacUdkVFZqaW9DT2RSWlNRNUpkUmxkRjd2dFJDUm96Z3liTS04WVhSSWZNVk5iLVZNV2lQdnlIc3E0cTF4cw",
-      "topic": "BUM Desa",
-      "sentiment": "netral",
-      "sentiment_tag": "Informatif & Regulasi",
-      "category": "Informatif & Regulasi",
-      "recommendation": "Pantau perkembangan isu secara berkala dan pastikan informasi regulasi tersampaikan dengan akurat.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "Dana Desa Bumdes Pagerwojo Dipertanyakan, DPMD Jombang Klaim Sudah Sesuai Prosedur Monev - Kabar Jombang",
-      "source": "Kabar Jombang",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcXNhUU1sWTJRY0NwUHBMQ2RQQlZXVm9zUGRlMUN4ejNxUmp5STNzaEdjRW5IaXZoMkhKTmEwZFFwRjRVY2o5SWtBbXlQeVQtX092aVF6bF9VdGNxT2tzVGJGQUJWNDQwMENpVVVnaUh5d0JSTFpvN3EwWGJPSWJQbk1HTkJWV1RDM29yX0tvN2tscHdGVkJYdmZWZ0psZ3lvRkpaNlRaZVE0SDk5QmowX2FkVkdHWmZUSDAxM0kyc9IBxAFBVV95cUxPLWhsckxXZUxobUYya2IzaUxjSDdlVWpPdHBCdlNOMHBLRS02NlVFWGVCRXVsZDZIUnZMQnRvR1ZuNHc0NlVQVVpOUi1kYWpYN25qbERMby1rcWVrZjdvbldYdk5NaFEyb3NHd3AtYk1Wdm1sR2VxcjdtT3NhVHYxTHYzLVhsLUpmM0pLMWdYYXRFNW9uUVpkX3M0SWRkLTlyQzRJdlZWQXFQaTNyRzNvc3o0YnVSOF84a2YyOHo5N0FMc0JF",
-      "topic": "BUM Desa",
-      "sentiment": "negatif",
-      "sentiment_tag": "Sorotan & Evaluasi Publik",
-      "category": "Krisis & Pengawasan",
-      "recommendation": "Siapkan rilis klarifikasi cepat, perkuat data tandingan, dan koordinasi dengan unit teknis terkait untuk mitigasi krisis.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "BGN Aktifkan Hampir 1.500 SPPG di Wilayah 3T dan Daerah Stunting Tinggi - RRI.co.id",
-      "source": "RRI.co.id",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU3d5QVBhVTZXMmVXSlBXS0wydWViLVU0Y1pZc1lOUHh4cnVORkcwTDdlaGVsY0hKeHRuQ0dFQzhlWXJIQUNKWC1YYm1USDBhbUtNZ2d2bF82LUN1cDBnNl9hQ0NiaTVKNUd1dVJNWXh6bFRXeHNtQTJGTDFMSjlQTU14TEhkOUdMdEtJODhkeWZEd1lzVGZpR0JrUWxCa0RKQ2RRajc4LWpjNnlqQVJCRW1taw",
-      "topic": "Daerah Tertinggal",
-      "sentiment": "netral",
-      "sentiment_tag": "Informatif & Regulasi",
-      "category": "Informatif & Regulasi",
-      "recommendation": "Pantau perkembangan isu secara berkala dan pastikan informasi regulasi tersampaikan dengan akurat.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    },
-    {
-      "title": "Tidak Efektif, Warga Minta Aset PLTMH Rondo Woing Manggarai Timur Diserahkan Ke BumDes - Tribunflores.com",
-      "source": "Tribunflores.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY0Q2V2ZybUwwZ0JXblc0YzBWT3BJQzQ0NHR4YkctMWdIRnk4cE43MVRlZGJJQmV1bEUwMjdSSXJZQzJiRlEzTm5ZUGh6YjBKSGpjLVY4SVZta0Z2Q3NJM2paMVRjb1phbnNod0JYN1NYNG1BellxS2VFZG1ONnN4REZidllzMHNFSWt2WUlwZ2FtbWFZV0RnR05JZVJqZ0RSWGU4bnl3TlJadFB0dXNLVDRfU0Y0Rl9ZR2VkRk91UFMxTGlNdk1QOGc4LXBuZUd0YTY4",
-      "topic": "BUM Desa",
-      "sentiment": "netral",
-      "sentiment_tag": "Informatif & Regulasi",
-      "category": "Informatif & Regulasi",
-      "recommendation": "Pantau perkembangan isu secara berkala dan pastikan informasi regulasi tersampaikan dengan akurat.",
-      "summary_text": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\"..."
-    }
-  ]
+  "total_checked": 1318,
+  "dominant_topic": "Dana Desa (557 berita), BUM Desa (353 berita), Kemendesa PDT (223 berita), Daerah Tertinggal (185 berita)",
+  "crisis_mitigation": {
+    "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
+    "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
+    "action_items": [
+      "Menyiapkan rilis data transparan mengenai progres penyaluran dan pengawalan Dana Desa tahap berjalan.",
+      "Berkoordinasi dengan Inspektorat Jenderal Kementerian untuk menyediakan *talking points* resmi bagi pimpinan.",
+      "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
+    ],
+    "cases": [
+      {
+        "title": "Inspektorat Tindak Lanjuti Dugaan Penggelapan Dana BUMDes Sigar Penjalin - SUARANTB.com",
+        "source": "SUARANTB.com",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "869 Kasus Korupsi Dana Desa, Aceh Nobatkan 15 Desa Antikorupsi » - dialeksis.com",
+        "source": "dialeksis.com",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Polda Maluku lengkapi berkas kasus dugaan korupsi dana desa Rp900 juta - ANTARA News",
+        "source": "ANTARA News",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Dana Desa Bumdes Pagerwojo Dipertanyakan, DPMD Jombang Klaim Sudah Sesuai Prosedur Monev - Kabar Jombang",
+        "source": "Kabar Jombang",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Kejaksaan Minta Tata Kelola BUMD dan BUMDes Diperkuat, Hindari Konflik Kepentingan - Memonesia.com",
+        "source": "Memonesia.com",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Dari Demo Jilid III ke Penyidikan, Dugaan Korupsi Dana Desa Lekopaddis Bergulir - Polewali Terkini",
+        "source": "Polewali Terkini",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "DD Penyertaan Modal Bumdes Pagerwojo Dipertanyakan, DPMD Jombang: Hasil Monev Peruntukannya Sesuai - FaktualNews.co",
+        "source": "FaktualNews.co",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Pembangunan Daerah 3TP Belum Signifikan, Jalan Perbatasan Kalimantan Mendesak Dipercepat - Demokratis.co.id",
+        "source": "Demokratis.co.id",
+        "topic": "Daerah Tertinggal",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      }
+    ]
+  },
+  "positive_amplification": {
+    "headline_strategy": "Amplifikasi Kisah Sukses Transformasi Ekonomi Desa & BUMDes",
+    "narrative_boost": "Membangun sentimen positif dengan menyoroti kemandirian ekonomi desa melalui BUMDes produktif dan pengelolaan Dana Desa yang berdampak langsung pada kesejahteraan masyarakat dan penurunan angka kemiskinan ekstrem.",
+    "action_items": [
+      "Memproduksi infografis tematik *Best Practice* BUMDes yang berhasil menyumbang PADes secara signifikan.",
+      "Menggandeng media nasional untuk meliput langsung inovasi desa tertinggal yang sukses bertransformasi.",
+      "Menyusun rubrik khusus 'Kabar Desa Mandiri' di kanal media sosial resmi Kementerian."
+    ],
+    "cases": [
+      {
+        "title": "Cegah Penyimpangan Dana Desa, Kejari SBT Perkuat Kesadaran Hukum Aparatur Desa - RRI.co.id",
+        "source": "RRI.co.id",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "BUMDes Batuah Kelola Ribuan Ayam Petelur, Ketahanan Pangan Desa Terus Diperkuat - Kaltim Faktual",
+        "source": "Kaltim Faktual",
+        "topic": "BUM Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "BPD Kabupaten Tegal Dilantik, Bupati Minta Kawal Transparansi Dana Desa dan Ketepatan Bansos - TargetNews.ID",
+        "source": "TargetNews.ID",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "DASHAT Desa Walatung cegah stunting sejak dini didukung Dana Desa - ANTARA News",
+        "source": "ANTARA News",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "BUM Desa Diperkuat, Pemerintah Bidik Ekonomi Desa yang Mandiri dan Sejahtera - garuda tv",
+        "source": "garuda tv",
+        "topic": "BUM Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "INSPEKTORAT SBB PERKUAT PENGAWASAN DANA DESA, DORONG TATA KELOLA YANG AKUNTABEL - SBBKab",
+        "source": "SBBKab",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "BPD Kabupaten Tegal Dilantik, Bupati Minta Kawal Transparansi Dana Desa dan Ketepatan Bansos - korantegal.com",
+        "source": "korantegal.com",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Cegah Stunting, Kemendes PDT Kembangkan Bekicot sebagai Sumber Protein Lokal - BorneoFlash.com",
+        "source": "BorneoFlash.com",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      }
+    ]
+  }
 }
