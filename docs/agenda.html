@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Agenda Setting & Analisis Prediktif — Humas Kemendes PDT</title>
+  <title>Agenda Setting & Strategi Narasi Publik — Biro Humas Kemendes PDT</title>
   <style>
     :root {
       --bg: #f4f6fb; --card: #ffffff; --text: #1e293b; --muted: #64748b;
@@ -11,7 +11,7 @@
       --neg: #ef4444; --neg-bg: #fef2f2; --neu-bg: #f1f5f9;
     }
     * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); padding-bottom: 50px; line-height: 1.5; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); padding-bottom: 50px; line-height: 1.6; }
     .container { max-width: 1280px; margin: 0 auto; padding: 0 20px; }
     header { background: var(--card); border-bottom: 1px solid var(--border); padding: 16px 0; margin-bottom: 24px; }
     .header-inner { display: flex; align-items: center; justify-content: space-between; }
@@ -20,17 +20,19 @@
     .brand h1 { font-size: 1.25rem; font-weight: 800; }
     .nav-link { padding: 7px 14px; border-radius: 8px; border: 1px solid var(--border); background: var(--card); color: var(--text); text-decoration: none; font-size: 0.85rem; font-weight: 600; }
     
-    .panel { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 20px; margin-bottom: 20px; }
-    .panel h3 { font-size: 1rem; font-weight: 800; margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
+    .panel { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 22px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.02); }
+    .panel h3 { font-size: 1.1rem; font-weight: 800; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
     
-    .strategy-card { background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 14px; margin-bottom: 12px; }
-    .strategy-card h4 { font-size: 0.92rem; font-weight: 700; color: var(--primary); margin-bottom: 6px; }
-    .strategy-card p { font-size: 0.82rem; color: var(--muted); margin-bottom: 8px; }
-    .talking-points { background: var(--card); border-left: 3px solid var(--primary); padding: 8px 12px; font-size: 0.8rem; border-radius: 0 6px 6px 0; }
+    .strategy-box { background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 16px; }
+    .strategy-box h4 { font-size: 0.98rem; font-weight: 700; color: var(--primary); margin-bottom: 8px; }
+    .narrative-text { background: var(--card); border-left: 4px solid var(--primary); padding: 10px 14px; font-size: 0.88rem; border-radius: 0 6px 6px 0; margin-bottom: 12px; font-style: italic; }
+    
+    ul.action-list { padding-left: 18px; font-size: 0.86rem; color: var(--muted); }
+    ul.action-list li { margin-bottom: 6px; }
 
-    .badge { padding: 2px 8px; border-radius: 6px; font-weight: 700; font-size: 0.68rem; text-transform: uppercase; }
-    .b-pos { background: var(--pos-bg); color: var(--pos); }
-    .b-neg { background: var(--neg-bg); color: var(--neg); }
+    .case-mini { font-size: 0.8rem; background: var(--card); border: 1px solid var(--border); padding: 8px 12px; border-radius: 6px; margin-top: 8px; }
+    .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+    @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
@@ -38,9 +40,9 @@
 <header>
   <div class="container header-inner">
     <div class="brand">
-      <div class="brand-icon">🔬</div>
+      <div class="brand-icon">🎯</div>
       <div>
-        <h1>Agenda Setting & Analisis Prediktif Berbasis Isi</h1>
+        <h1>Agenda Setting & Strategi Narasi Makro Publik</h1>
         <div style="font-size:0.78rem;color:var(--muted)">Biro Hubungan Masyarakat — Kementerian Desa dan PDT</div>
       </div>
     </div>
@@ -49,71 +51,97 @@
 </header>
 
 <div class="container">
+  <!-- Ringkasan Eksekutif -->
   <div class="panel" style="border-left: 5px solid var(--primary);">
-    <h3>📢 Ringkasan Eksekutif & Pembaruan Analisis</h3>
-    <p id="execSummary" style="font-size: 0.88rem; color: var(--muted);">Memuat hasil pemindaian isi berita mendalam...</p>
+    <h3>📢 Ringkasan Eksekutif & Pemetaan Isu Makro</h3>
+    <p id="execSummary" style="font-size: 0.9rem; color: var(--muted);">Memuat sintesis analisis makro...</p>
   </div>
 
-  <div style="display:grid; grid-template-columns: 1fr 1fr; gap:20px;">
-    <div class="panel">
-      <h3>🚨 Isu Sorotan & Mitigasi Krisis (Berdasarkan Isi Tautan)</h3>
-      <div id="crisisBox"><p style="color:var(--muted);font-size:0.85rem">Memuat data krisis...</p></div>
+  <div class="grid-2">
+    <!-- Panel Mitigasi Krisis -->
+    <div class="panel" style="border-top: 4px solid var(--neg);">
+      <h3>🚨 Strategi Mitigasi Krisis & Counter-Narrative</h3>
+      <div id="crisisPanel">
+        <p style="color:var(--muted)">Memuat strategi krisis...</p>
+      </div>
     </div>
-    <div class="panel">
-      <h3>🌟 Peluang Narasi Positif & Amplifikasi</h3>
-      <div id="positiveBox"><p style="color:var(--muted);font-size:0.85rem">Memuat data peluang...</p></div>
+
+    <!-- Panel Amplifikasi Positif -->
+    <div class="panel" style="border-top: 4px solid var(--pos);">
+      <h3>🌟 Strategi Amplifikasi Narasi Positif</h3>
+      <div id="positivePanel">
+        <p style="color:var(--muted)">Memuat strategi amplifikasi...</p>
+      </div>
     </div>
   </div>
 </div>
 
 <script>
-async function loadAIAnalysis() {
+async function loadMacroAnalysis() {
   try {
     const res = await fetch("./data/analysis.json?t=" + Date.now());
-    if (!res.ok) throw new Error("File analysis.json belum tersedia. Jalankan skrip Python deep_predictive_analyzer.py terlebih dahulu.");
+    if (!res.ok) throw new Error("File analysis.json belum tersedia.");
     const data = await res.json();
 
     document.getElementById("execSummary").textContent = 
-      `Analisis mendalam mencakup ${data.total_checked} berita dalam ${data.days_analyzed} hari terakhir (Pembaruan terakhir: ${data.last_updated}). Sistem mengekstrak isi teks penuh untuk memetakan potensi krisis dan strategi respons kehumasan.`;
+      `Berdasarkan sintesis ${data.total_checked} pemberitaan dalam ${data.days_analyzed} hari terakhir (Pembaruan: ${data.last_updated}), peta atensi publik didominasi oleh dinamika: ${data.dominant_topic}. Biro Humas perlu menjalankan strategi komunikasi ganda: mitigasi sorotan pengawasan serta amplifikasi prestasi ekonomi desa.`;
 
-    const insights = data.insights || [];
-    const negItems = insights.filter(i => i.sentiment === "negatif");
-    const posItems = insights.filter(i => i.sentiment === "positif");
-
-    const crisisBox = document.getElementById("crisisBox");
-    if (negItems.length === 0) {
-      crisisBox.innerHTML = "<p style='font-size:0.85rem;color:var(--muted)'>Tidak ada indikasi krisis signifikan dari sampel berita mendalam saat ini.</p>";
-    } else {
-      crisisBox.innerHTML = negItems.map(item => `
-        <div class="strategy-card" style="border-left:3px solid var(--neg)">
-          <h4>⚠️ [${item.topic}] <a href="${item.link}" target="_blank" style="color:inherit;text-decoration:none">${item.title}</a></h4>
-          <p><strong>Sumber:</strong> ${item.source} · <span class="badge b-neg">${item.sentiment_tag}</span></p>
-          <p style="font-style:italic">"${item.summary_text}"</p>
-          <div class="talking-points"><strong>Rekomendasi Aksi Humas:</strong> ${item.recommendation}</div>
-        </div>
-      `).join("");
+    // Krisis Panel
+    const c = data.crisis_mitigation || {};
+    let crisisCasesHtml = "";
+    if (c.cases && c.cases.length > 0) {
+      crisisCasesHtml = `<div style="margin-top:12px;font-size:0.82rem;font-weight:700">Contoh Isu Sorotan Terkini:</div>` + 
+        c.cases.slice(0, 3).map(cs => `
+          <div class="case-mini">
+            <strong>[${cs.topic}] ${cs.title}</strong><br>
+            <span style="color:var(--muted)">Media: ${cs.source}</span>
+          </div>
+        `).join("");
     }
 
-    const posBox = document.getElementById("positiveBox");
-    if (posItems.length === 0) {
-      posBox.innerHTML = "<p style='font-size:0.85rem;color:var(--muted)'>Belum ada sorotan positif menonjol pada sampel mendalam.</p>";
-    } else {
-      posBox.innerHTML = posItems.map(item => `
-        <div class="strategy-card" style="border-left:3px solid var(--pos)">
-          <h4>🌟 [${item.topic}] <a href="${item.link}" target="_blank" style="color:inherit;text-decoration:none">${item.title}</a></h4>
-          <p><strong>Sumber:</strong> ${item.source} · <span class="badge b-pos">${item.sentiment_tag}</span></p>
-          <p style="font-style:italic">"${item.summary_text}"</p>
-          <div class="talking-points"><strong>Strategi Amplifikasi:</strong> ${item.recommendation}</div>
-        </div>
-      `).join("");
+    document.getElementById("crisisPanel").innerHTML = `
+      <div class="strategy-box">
+        <h4>Fokus Utama: ${c.headline_strategy}</h4>
+        <div class="narrative-text">"${c.narrative_counter}"</div>
+        <div style="font-size:0.84rem;font-weight:700;margin-bottom:6px">Rekomendasi Langkah Aksi Humas:</div>
+        <ul class="action-list">
+          ${(c.action_items || []).map(act => `<li>${act}</li>`).join("")}
+        </ul>
+        ${crisisCasesHtml}
+      </div>
+    `;
+
+    // Positif Panel
+    const p = data.positive_amplification || {};
+    let posCasesHtml = "";
+    if (p.cases && p.cases.length > 0) {
+      posCasesHtml = `<div style="margin-top:12px;font-size:0.82rem;font-weight:700">Contoh Capaian Lapangan:</div>` + 
+        p.cases.slice(0, 3).map(ps => `
+          <div class="case-mini">
+            <strong>[${ps.topic}] ${ps.title}</strong><br>
+            <span style="color:var(--muted)">Media: ${ps.source}</span>
+          </div>
+        `).join("");
     }
+
+    document.getElementById("positivePanel").innerHTML = `
+      <div class="strategy-box">
+        <h4>Fokus Utama: ${p.headline_strategy}</h4>
+        <div class="narrative-text">"${p.narrative_boost}"</div>
+        <div style="font-size:0.84rem;font-weight:700;margin-bottom:6px">Rekomendasi Langkah Aksi Humas:</div>
+        <ul class="action-list">
+          ${(p.action_items || []).map(act => `<li>${act}</li>`).join("")}
+        </ul>
+        ${posCasesHtml}
+      </div>
+    `;
 
   } catch (err) {
-    document.getElementById("execSummary").textContent = "Gagal memuat analisis: " + err.message;
+    document.getElementById("execSummary").textContent = "Gagal memuat analisis makro: " + err.message;
   }
 }
 
-loadAIAnalysis();
+loadMacroAnalysis();
 </script>
 </body>
 </html>
