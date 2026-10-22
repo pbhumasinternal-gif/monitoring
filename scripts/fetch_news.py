@@ -1,7 +1,7 @@
 """
 fetch_news.py — Multi-Source Media Monitoring (Google News, Yahoo News, MSN/Bing, AntaraNews, Detik)
 Topik: Dana Desa, BUM Desa, Daerah Tertinggal, dan Kemendesa PDT
-Dilengkapi Analisis Sentimen Semantik Kontekstual & Safe XML Parsing.
+Dilengkapi Analisis Sentimen Semantik Kontekstual & Safe Data Parsing.
 Jalankan otomatis via GitHub Actions tiap 30 menit.
 """
 
@@ -130,7 +130,7 @@ NEGATION_PREFIXES = {"tak", "tidak", "belum", "kurang", "bukan", "tanpa", "gagal
 
 
 def analyze_sentiment(title: str, desc: str = "") -> dict:
-    text = f"{title} {desc}".lower()
+    text = f"{title or ''} {desc or ''}".lower()
     text = re.sub(r"&nbsp;|&amp;|<[^>]+>", " ", text)
 
     score = 0
@@ -156,7 +156,7 @@ def analyze_sentiment(title: str, desc: str = "") -> dict:
                 if not matched_tag or weight <= -3:
                     matched_tag = tag
 
-    tokens = re.findall(r"[a-z0-9-]+", title.lower())
+    tokens = re.findall(r"[a-z0-9-]+", str(title or "").lower())
     for i, token in enumerate(tokens):
         prev_words = set(tokens[max(0, i - 3):i])
 
@@ -210,17 +210,20 @@ def normalize_url(url: str) -> str:
         return url.split("?")[0].rstrip("/")
 
 
-def clean_title_for_dedup(title: str, source: str = "") -> str:
-    t = title.strip()
-    if source and t.lower().endsWith(" - " + source.lower()):
-        t = t[:-(len(source) + 3)].strip()
+def clean_title_for_dedup(title, source="") -> str:
+    # Safety casting agar aman dari nilai non-string atau None pada data lama
+    t = str(title or "").strip()
+    src = str(source or "").strip()
+    if src and t.lower().endswith(" - " + src.lower()):
+        t = t[:-(len(src) + 3)].strip()
     t = re.sub(r"\s+[-|]\s+(detik[a-z]*|kompas\.com|antara\s*news.*|msn.*|yahoo.*)$", "", t, flags=re.I)
     return re.sub(r"[^a-z0-9]", "", t.lower())
 
 
-def make_id(title: str, source: str) -> str:
+def make_id(title, source) -> str:
     slug = clean_title_for_dedup(title, source)
-    return hashlib.md5(f"{slug}|{source.strip().lower()}".encode()).hexdigest()[:12]
+    src_str = str(source or "").strip().lower()
+    return hashlib.md5(f"{slug}|{src_str}".encode()).hexdigest()[:12]
 
 
 def infer_source_from_url(url: str, fallback: str = "Media Berita") -> str:
@@ -270,17 +273,17 @@ def parse_rss_date(date_str: str) -> str:
     return datetime.now(WIB).isoformat()
 
 
-def build_article_dict(title: str, link: str, pub_raw: str, desc_raw: str, source: str, kw: dict) -> dict:
+def build_article_dict(title, link, pub_raw, desc_raw, source, kw) -> dict:
     clean_link = normalize_url(link)
-    clean_desc = re.sub(r"<[^>]+>", "", desc_raw or "").strip()
+    clean_desc = re.sub(r"<[^>]+>", "", str(desc_raw or "")).strip()
     clean_desc = re.sub(r"\s+", " ", clean_desc)[:300]
-    final_source = source.strip() if source else infer_source_from_url(clean_link)
+    final_source = str(source).strip() if source else infer_source_from_url(clean_link)
     pub_iso = parse_rss_date(pub_raw)
     sem = analyze_sentiment(title, clean_desc)
 
     return {
         "id": make_id(title, final_source),
-        "title": title.strip(),
+        "title": str(title or "").strip(),
         "link": clean_link,
         "source": final_source,
         "pub_date": pub_iso,
@@ -304,11 +307,9 @@ def fetch_xml_items(url: str) -> list:
             return channel.findall("item")
         return root.findall(".//item")
     except Exception:
-        # Jika gagal atau diblokir/format tidak valid, abaikan dengan aman agar tidak menghentikan skrip
         return []
 
 
-# ── 1. Google News RSS ──────────────────────────────────────────────────────
 def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
     params = urlencode({"q": query, "hl": "id", "gl": "ID", "ceid": "ID:id"})
     url = f"https://news.google.com/rss/search?{params}"
@@ -329,7 +330,6 @@ def fetch_google_news(query: str, kw: dict, default_source: str = "") -> list:
     return articles
 
 
-# ── 2. MSN / Bing News RSS ──────────────────────────────────────────────────
 def fetch_msn_bing_news(query: str, kw: dict) -> list:
     params = urlencode({"q": query, "format": "rss", "mkt": "id-ID"})
     url = f"https://www.bing.com/news/search?{params}"
@@ -353,7 +353,6 @@ def fetch_msn_bing_news(query: str, kw: dict) -> list:
     return articles
 
 
-# ── 3. Yahoo News RSS ───────────────────────────────────────────────────────
 def fetch_yahoo_news(query: str, kw: dict) -> list:
     params = urlencode({"p": query, "ei": "UTF-8"})
     url = f"https://news.search.yahoo.com/rss?{params}"
@@ -374,7 +373,6 @@ def fetch_yahoo_news(query: str, kw: dict) -> list:
     return articles
 
 
-# ── 4. Direct Portal RSS ────────────────────────────────────────────────────
 def match_keyword_topic(text: str):
     t = text.lower()
     for kw in KEYWORDS:
@@ -406,7 +404,6 @@ def fetch_portal_feeds() -> list:
     return matched_articles
 
 
-# ── Main Pipeline ───────────────────────────────────────────────────────────
 def main():
     DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
 
