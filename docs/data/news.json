@@ -1,5 +1,18 @@
 [
   {
+    "id": "6ae086f945e9",
+    "title": "Kemendes PDT petakan kebutuhan kompetensi PSM lewat SIMAS",
+    "link": "https://www.antaranews.com/berita/5804169/kemendes-pdt-petakan-kebutuhan-kompetensi-psm-lewat-simas",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-22T13:51:12+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) memanfaatkan pengembangan Sistem Informasi Jabatan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "35826231062d",
     "title": "Dana Desa Cekak Tersebab Koperasi Merah Putih - Teras.id",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3RHbmRfNlZWTE93Y19INmtXYnBCSFBuX1pUbjR0d1FHbjRNaVhxbjgxbXU4b0hrVm9xUjY2OHY5ZUtJTVVtbUlxYTBwaVlLVFdOb2dNMmpRdXJyVmtXNkNYLUpMSGVpTG0yeG1LWEFvWG8zVHhoQ3NOX21IMUxPZURLYnJINlNnaE5KcVR2YV9kQTJpbXIxZWQxSUJvWXdlSzMyeFhPbXZtT1U",
@@ -11,6 +24,32 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ce9757a1b789",
+    "title": "25 BUMDes Banyumas Adu Strategi Bisnis, Ada yang Andalkan Melon hingga Layanan Air Bersih - Tribunjateng.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR1JhaWF6dVdHMjhkV2M2T1EwTzRUWDNoQkRvOFFwT3hZR1czV3dHWGlGbUJvc3JncFFKTjh2bEpPOVQyOXY4QVY4b2pEc2FfbW12UnFnNllUak5JMkpXMzU1WHhBcGhvRVdwRjFSR1NwWTRTSG9lRXN6YTIwT1B6S0EyN3FUc1dNOXRkaURCMkhoSXF3U1dkN2ZET2wtZzhoOEFrdS1BRWVWV0xiOFc5MFE2ZDZFTDY4VzJQWW5QUE1pcGVYSFY3aldhUTd0OFJR",
+    "source": "Tribunjateng.com",
+    "pub_date": "2026-10-22T12:24:45+07:00",
+    "desc": "25 BUMDes Banyumas Adu Strategi Bisnis, Ada yang Andalkan Melon hingga Layanan Air Bersih&nbsp;&nbsp;Tribunjateng.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "54cb49a50ab2",
+    "title": "Dana Ketahanan Pangan Rp216 Juta untuk BUMDes Pagerwojo Disorot, DPMD Jombang Klaim Sesuai Prosedur - Berita Keadilan",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmNHN0hsV0JtSm8yeDd1M202VW95R0FueHZnM205c284SXZIUTh0cFhURHZ5SFZ2Wlpkazg3OVFMQks0RWpJTkk4b29VcmhEWFVJSnNmYTlncVVJWUJPRFhOYnIzMmtLekt5RnNvWFNLaGNLSlRGYmlTbzBvMEZORl9DTzdpVHBNRDc4bEI4YU53LUZ5bHVncXFraVRmbnI1cjV4Vk5pVGNFN2V5aTNzcC1lVFdpTC11NjJQM1RaWGgxUndX",
+    "source": "Berita Keadilan",
+    "pub_date": "2026-10-22T12:08:07+07:00",
+    "desc": "Dana Ketahanan Pangan Rp216 Juta untuk BUMDes Pagerwojo Disorot, DPMD Jombang Klaim Sesuai Prosedur&nbsp;&nbsp;Berita Keadilan",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "0e62affddefc",
@@ -23192,6 +23231,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f1d6e8677813",
+    "title": "Pelindo Perluas Manfaat TJSL, dari Penyandang Disabilitas hingga Masyarakat di Wilayah 3T - Pelindo",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTlJ0SHhLTXFhWFp3WDhRYl9hcjBBS3k0M0NZcjRTWkljTmxLSGpKVmVFNmZGS29nUjRlYWd5WmY0Q1JmRDZBeHhXR2RmNmRvOHB4dHdmNWVVR1pQZVR4QllhZ1BSYXQzSTdVOXNwT2ZscFY1ZzN0dHpwVFdIZ0cta1p0TzBIVWhkUWJ6RkYwcDJUWWZWZUNrSEE0aXlUV3hrTndjNzNEUDdaM1RVVGNVM1hxZEFuaGpVMjRCRzhn",
+    "source": "Pelindo",
+    "pub_date": "2026-09-09T14:00:00+07:00",
+    "desc": "Pelindo Perluas Manfaat TJSL, dari Penyandang Disabilitas hingga Masyarakat di Wilayah 3T&nbsp;&nbsp;Pelindo",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6281352d64ec",
     "title": "Ketua LSM Korek Desak Kejati Aceh Usut Dugaan Penyalahgunaan Dana Desa Aceh Tenggara - MODUS ACEH",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNFhRYURjVTN6T1VvOURwdEJlQktqWHdYaHNIV0h6WVNwXzFPU3NCNHZSVW5lU0FPWnhxVEhZejZaYjR1S2tEbkYta0t4STdsWWVWVlZSNFBOLUxHTXBIdllDUURBd1hpMS1mYWs5RzJfSTV6OFlpcFNRZGVTX1V4cTRPbm5YT2ZweExqbC1VM2FfLTlZazZBeWhSa1VOa0ExcldFcWpNemdVaThuMXpyX2Vta2d2YnN6djdvTHl3",
@@ -34242,6 +34294,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3c2af731f94d",
+    "title": "BGN percepat pembangunan SPPG di wilayah 3T - avinews.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kVFZsS1lQVHppX1JNczdBbDVqNkpwdGpXdklaR2UycDRYYThHOF9TWlg5eTYyMHVhRGkybzZPdTBDNkJoMC1kMjFWUjM4eDdPZEQyWEliMGVOaF92OWxQdFhIdllKTEtVM3g1YVd6QmU4djRuZkE",
+    "source": "avinews.com",
+    "pub_date": "2026-08-19T14:00:00+07:00",
+    "desc": "BGN percepat pembangunan SPPG di wilayah 3T&nbsp;&nbsp;avinews.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b77da521c0da",
     "title": "Korupsi Dana Desa, Kades Nagasaribu II Kecamatan Lintong Nihuta Jadi Tersangka - Medan Pos",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQS1zQVFxeHhYZUpZZjhqc3F2RlJ5Xy1ESmYxZ0NHZ0Q2YjJxTXNBUmdzOXlidTVTYjBuX1ZscGZpVGoyT0RzMFJaVHBZUHdJUXdXWHNTemxadHpMSVR4S3BvcHlaV1V5Q29LcmZIUXl4RDdHVGpIdkpySmE4U2IwUG11WHlGYmt5VUFuaXFmMlJxMTVLcnFuQ1lfTkktWFBhYlBzMzB6eUFvTkpqRVotUk9ONkV5ZnJkMkEzU1l3",
@@ -43251,6 +43316,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f54e94ee8ee6",
+    "title": "BAZNAS RI dan DDII Perkuat Sinergi Perluas Dakwah Islam di Wilayah 3T - BAZNAS",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcmxmWjhJcnlzXzFxUm15emdSWlozbTlJbWVWS1JYSmQ0QjZ3ZXdwZGtzTWNwYV9fVi1aVVUyQWVHRkt4RzM1RmFEVC1RajNWMUJqZEtqUTlablJPcVgxUzFmZHdBR3NEcExnb291Q2VpZTB0SWNvT0FRRWRlRjZMQWZmS0I1QUk0a0pLTGliX0NncXhMZXA5a3EySDZIbXdaV3dvWHZUNXk",
+    "source": "BAZNAS",
+    "pub_date": "2026-07-31T14:00:00+07:00",
+    "desc": "BAZNAS RI dan DDII Perkuat Sinergi Perluas Dakwah Islam di Wilayah 3T&nbsp;&nbsp;BAZNAS",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b2707593a03e",
     "title": "Polsek Gunung Megang Kawal Titik Nol Pembangunan Desa, Wujudkan Transparansi Dana Desa - tribratanews.sumsel.polri.go.id",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0w0S0MteDFyaVNfUjE0VWpnWGZKQlhGem1PS3FtNjN6WmszakdONkZfbF9DbEhKS0d4RUZ5ZFFSMjF4VHd0MkprZnhGdFg5ZlJ2ZDk1WWQ1aXZyaDFrc0FiRDRKRkF4M29OSF9hSWV3N0c0TFlPQVdHbHlPTHlvb3NwYUhjYURWREtOZVBWZmR4TDZKMld0djJLa0pLQ19JSWZDYWo5WURBVXUzR3VycGRjYm5IelVPMnlRRmFQY3BmcHRnRENMcEJrVGQ",
@@ -43571,6 +43649,19 @@
     "desc": "Dari Pantai Bohay ke Air Minum Bichua, Cara BUMDes Bhinor Energy Bangun Ekonomi Desa&nbsp;&nbsp;Kompas.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bd1f99d39d3b",
+    "title": "Perkuat Daya Saing Digital dan Layanan Publik, Pemerintah Pacu Perluasan Internet Merata hingga Wilayah 3T - Kementerian Sekretariat Negara",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTS1qNktQSW1JYTdnd0dybVpsZHRiWVJZNGFGR3o0LTduZTNodGYwRzRNc1pTZC11dllXV1hYbC1kTzlNU1RldC1nZktxMFY1LW41b2hZdkg1UDI3dEpyRTVCX3ozeXFZR1ZlWlFlU05uUTY0ZlViWFFmdkF0X1p5QlVnT2tqcGs5TDZZaDFxdHFhU3BOWkVodHRuZFJFeTh6ejljUmhLSnVicmhUOGJxeEVHM0IzWmtiLS1Ec2llQU9nemk4NFAxcGhLWnF3T0JadkQ5QmZGaVo",
+    "source": "Kementerian Sekretariat Negara",
+    "pub_date": "2026-07-30T14:00:00+07:00",
+    "desc": "Perkuat Daya Saing Digital dan Layanan Publik, Pemerintah Pacu Perluasan Internet Merata hingga Wilayah 3T&nbsp;&nbsp;Kementerian Sekretariat Negara",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -44863,6 +44954,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "65e5bd34a86b",
+    "title": "Menko Zulhas Pastikan MBG Diprioritaskan untuk Pesantren dan Wilayah 3T - Kementerian Koordinator Bidang Pangan",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa3A4em5mWE9jbXYxY3MwTTUyQWhSbl9KRjhfWWp5eTlnQVR0WXFKcWI0bUl1UlB5RFZESzR6RVAyQ0RkeWhlb0RKbXpVTDFJbDNOeHJrcUpQZGF1ZDcxdzdkbHhWQmk3WUpHS3lmNFFuT3JuTG9VRFR5bTZTM2MxckxRVmYyM1hLWkNONV9oSkpoWGF0aWNybmRCMFBOZ3hLbzZuNlBZOUhUMDR5SHd4aVlZYw",
+    "source": "Kementerian Koordinator Bidang Pangan",
+    "pub_date": "2026-07-27T18:42:18+07:00",
+    "desc": "Menko Zulhas Pastikan MBG Diprioritaskan untuk Pesantren dan Wilayah 3T&nbsp;&nbsp;Kementerian Koordinator Bidang Pangan",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9afcb2940035",
     "title": "Babinsa Fakfak Hadiri Rapat Penyaluran BLT Dana Desa Kampung Nemewikarya - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT05nNkU1N0I0cXZ4dnlqbTBfSlhfLW8xM3F1NHA3Vmg5MmRJTDVvY0VoREYwV1NSMVRUb0tVNHlDV19wX3dmUkZ3R0lWemNxLVd4ZGk0S2NEeHZ3N2VlTEZFXzRlSFNhVVJWeHJzaFBaUTNQMDlvV29lcjk2RFhtenB0ekxuUjZ6azc2Nmc3bWQ2ZkpsX3RnRHQyUlB6anFKYUVnSHo2aHBGOEczR0lYUFRnTVk2M1hURVE",
@@ -45922,6 +46026,19 @@
     "source": "ANTARA News Papua Tengah",
     "pub_date": "2026-07-23T14:00:00+07:00",
     "desc": "Kepemimpinan baru BGN diharapkan percepat layanan gizi wilayah 3T&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "06eb16350061",
+    "title": "Wilayah 3T Jadi Prioritas, Kemendikdasmen Percepat Revitalisasi Satuan Pendidikan di NTT - BPMP Banten",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iZTB2emhpQzJuNkRKRlNSWFpodHFqZldyOEh4b3E3aG92Rmt6SGJlQnhHSFVLY2lTSEZSdm8tOTVVcXNxd1RTa1lhYmJmMnR1ckZDWDA4UW1vN3ctazZMZjJRYnFUX0ZIckgzMUMxc211QTRnQ2hQQlJWNVdZS00",
+    "source": "BPMP Banten",
+    "pub_date": "2026-07-23T14:00:00+07:00",
+    "desc": "Wilayah 3T Jadi Prioritas, Kemendikdasmen Percepat Revitalisasi Satuan Pendidikan di NTT&nbsp;&nbsp;BPMP Banten",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -56615,6 +56732,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2a3f1359f0ff",
+    "title": "Mendes Yandri Kagum BUMDes Tibubeneng Kelola 8 Unit Usaha-Omzet Rp 1,4 M - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcE90TUxGZEJEVG8tTUQ3bXQwT0VOQ1NCNHZER3UwOWFiWVJrNFlHWXpHNVBlQW5rQ1RwYnRHaUtZRVdGRFg3UmkzcWhSOXkwUUVva0I1eVVDWXhWdFRsS01KNFBnUjdlSC00UGgwa0VfUm5SbzN3a3prakpIMzU5ZEpqWDM4YnRlX2Z6cEM0aHVQSXZ4NjBfcXc4MDhVTGs0NGNSOXN3RGNuTDRIZmZNUkNJbGNOSVHSAbwBQVVfeXFMTXJiclFfLWtBOXBrYVJFcGJwMlFqRTk5clU3QTU1Q2FtMkwyNXRESlZ2ZXkzYUw5X3MwQTFZS3lIaldCQ2Q4S28xZEhCSHpWclA4RXJ4cWtzT3pUWVlJY2tlcTF5YlRWeWNtVDBpNTBQLWlZdnd2aG0xVmUzQ1lQdk82Q2lEN2U2RDVmTEpuWEcxVGhPVmVubS1TemtrRVU4elM0QWFTLWhBeHluMDFXV1dzQlNsSjNHVWZCaDg",
+    "source": "detikcom",
+    "pub_date": "2025-11-28T15:00:00+07:00",
+    "desc": "Mendes Yandri Kagum BUMDes Tibubeneng Kelola 8 Unit Usaha-Omzet Rp 1,4 M&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "191e4361f803",
     "title": "Terima Kunjungan Kerja Koordinator TPP Kemendes PDT se-Provinsi Lampung, Gubernur Rahmat Mirzani Djausal Apresiasi Peran TPP Dorong Pemberdayaan Masyarakat Desa melalui Program Desaku Maju - Pemerintah Provinsi Lampung",
     "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOZGNhbU9PY1JUX0lyaHl1VlNoVzhKSWpHV0JLYW16QmstVUx5Ml9KenQ2YVNCeHBpYjZPWXFscjNpaWRqYlZqZUc0VDJMQlk3LWc5OXAzTTZZbVc1MV84UjR1dmZZNGJCeXVrc21BdDZ5QnBNQ1RpbE1qMDM1dHJ2RHJPNDlCMFBJbWZia0hOZE1VRXdGbzdVY2FZLXBITjJFWFB3eE15VDQwTjRabWRlN1h0b2xkX01jeUVObnAtNjRhUV9Sem05aThzR2w4ZndTT2MyNjNwQ0tWcmd5OTFKUDFtTDU5RFlWU1VIYkZnRWl4Uko1dGtyY2tiUEdVeGZDSWtuRmpDT3JzN2tXd3gwbTNmblpCWUVzTE1PdEVvRHZkNjVqYlBmNWZJN2hxcXRqdk5WWlo2bTIwM0pKLUlsbGhWU2dQMk91d211YUFHYlQ5b0xSYnc",
@@ -62036,6 +62166,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "70e8d56ad2c2",
+    "title": "Pendampingan Tahap II BUM Desa Auditable pada BUM Desa Bandung Bondowoso, Desa Sidobandung, Kabupaten Bojonegoro, Jawa Timur - Politeknik Keuangan Negara STAN",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wejAwZnBod0dVa2xPUk1McWRQRmZsMm9lOUlZRFlpMVJHZVNyUHh5UlFNY0JpVDZacTRMR3k0SlZnejRSSmVsQ0tKWEN5bW1n",
+    "source": "Politeknik Keuangan Negara STAN",
+    "pub_date": "2024-04-30T14:00:00+07:00",
+    "desc": "Pendampingan Tahap II BUM Desa Auditable pada BUM Desa Bandung Bondowoso, Desa Sidobandung, Kabupaten Bojonegoro, Jawa Timur&nbsp;&nbsp;Politeknik Keuangan Negara STAN",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4af89959479b",
     "title": "Sebanyak 1.018 Pegawai Kemendes Lulus Pelatihan Antikorupsi KPK - detikNews",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeHRCeDBwSTdqNHZJTk9qeHRNSzJiQVpDVW56anQwcmNvNWc2d19TVndZVHI3X3NLUzN0S2dEMm5VbzdFQWg0UWRrc2VBUllLVEUweTdWbjhPaC1FdHpMUWJrMm90d0xCOHQtVVVQYkNCV1VweXBxN3AyTmw0N2c5cExLaXUzbFhQSnJ5WDNFLTVsdWFTTm84T2RFNTRXQWxRZmZrUU5R0gGrAUFVX3lxTE9zeGlXWUdScF9tWm1mQ3hneUdVS1k4eU9VT3dHbkZ0THhjX3U2VHR4V05UNFhkR1E3TDM0U2FHNU9MaVFTWThRR3dxVVNESEFXYWwxWU9zQkg1Y0hxcy1wclZ1c0dUT3hFdGUwZ2N1NUxlTlR4S1pGS28zWTl1QUFoTDQya0otdWpjTzNLUWtiX01qRnJCWWRVTk5zVC1Ecno4V2FlY3VJajdqWQ",
@@ -64569,6 +64712,19 @@
     "sentiment": "negatif",
     "sentiment_score": -3,
     "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
+    "id": "ea2d49b19f4f",
+    "title": "Penampakan BUMDes Rp 797 Juta Salah Tempat Berujung Kades Mojokerto Dibui - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZkdJck9uWEZFcTlaeUg0S1hZRk1iRXRaMnRpNU5JeG85SktfRjRqRkxRVHhCTUZZNFBYV0RUazNGdjcyRzFzaTBMbGJTS0FCYVVxbUpKWnlqQy1COWFNcmg2NHVyZHlYalpDTWZ3ZnFmNW5hMzRwSENjbm5sckRxWEZ0V3RVQktMZ2pkVVVWUDBLMVN6azVjcnZjRTcxRFhZVU1PMDlCR01JRkZhODlrTmtMWG5GYmdxbEZGMTBpMjZ0NGt3UGt2SVZn0gHPAUFVX3lxTE1rTThMQUJJTGtQVGdHRDVPdDh4UlNZN29qZ0FjWldhYlVPV2lrUndIaWVtUm9qR3Q1TzE3QW0wY0JTZkc2THp4OF92S0J0MUJqNHYwdlVRNENWdFJQTUFPRElGdk05Z0FVOWVmcFFHS2NTaHk5VVVoQjI5bGZPUG1RV3BLSkxTTFBqRjJsZ1ExWTBJeURwTVoxOGJnT3VhVm85aDJMQXBSbG5XMFM4U2Z0TzM3YmpPejhIcUF2NEZMMHRUdTF0M3lsSm9Mb3VpTQ",
+    "source": "detikcom",
+    "pub_date": "2022-10-22T14:00:00+07:00",
+    "desc": "Penampakan BUMDes Rp 797 Juta Salah Tempat Berujung Kades Mojokerto Dibui&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "df8dab1485a8",
