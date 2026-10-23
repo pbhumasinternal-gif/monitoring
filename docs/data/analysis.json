@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-23 11:01 WIB",
+  "last_updated": "2026-10-23 11:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 1387,
-  "dominant_topic": "Dana Desa (571 berita), BUM Desa (372 berita), Kemendesa PDT (224 berita), Daerah Tertinggal (220 berita)",
+  "total_checked": 1391,
+  "dominant_topic": "Dana Desa (573 berita), BUM Desa (374 berita), Kemendesa PDT (224 berita), Daerah Tertinggal (220 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -12,6 +12,12 @@
       "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
     ],
     "cases": [
+      {
+        "title": "LSM PENJARA Aceh Laporkan Dugaan Korupsi Dana Desa Ukhat Peseluk ke Kejari Aceh Tenggara - tribungayo.com",
+        "source": "tribungayo.com",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
       {
         "title": "Butuh Kepastian Warga Desa Loning Geruduk Kantor Desa,Dana BUMDes Rp285 Juta Dipertanyakan - DETIK PERISTIWA -",
         "source": "DETIK PERISTIWA -",
@@ -53,12 +59,6 @@
         "source": "cermat",
         "topic": "Dana Desa",
         "core_issue": "Berkas Lengkap, 3 Tersangka Kasus Dana Desa Taliabu Segera Diserahkan ke Jaksa - cermat {\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":[\"Organization\",\"Person\"],\"@id\":\"https://www.cermat.co.id/#p..."
-      },
-      {
-        "title": "Inspektorat Tindak Lanjuti Dugaan Penggelapan Dana BUMDes Sigar Penjalin - SUARANTB.com",
-        "source": "SUARANTB.com",
-        "topic": "BUM Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }
     ]
   },
@@ -71,6 +71,12 @@
       "Menyusun rubrik khusus 'Kabar Desa Mandiri' di kanal media sosial resmi Kementerian."
     ],
     "cases": [
+      {
+        "title": "Wabup Kuningan Ingatkan Pengelolaan Dana Desa Harus Transparan dan Akuntabel. - | kejakimpolnews.com",
+        "source": "| kejakimpolnews.com",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
       {
         "title": "Dari Kandang Kambing, Babinsa dan BUMDes Pilangrejo Perkuat Ketahanan Pangan Desa - LintasJatimNews.com",
         "source": "LintasJatimNews.com",
@@ -110,12 +116,6 @@
       {
         "title": "BPD Kabupaten Tegal Dilantik, Bupati Minta Kawal Transparansi Dana Desa dan Ketepatan Bansos - TargetNews.ID",
         "source": "TargetNews.ID",
-        "topic": "Dana Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "DASHAT Desa Walatung cegah stunting sejak dini didukung Dana Desa - ANTARA News",
-        "source": "ANTARA News",
         "topic": "Dana Desa",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }
