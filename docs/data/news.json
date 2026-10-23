@@ -1,5 +1,18 @@
 [
   {
+    "id": "512cf4ce6188",
+    "title": "Kementan Kawal Penanganan Ayam dan Telur untuk MBG di Wilayah 3T - pertanian.go.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXM5dnh4c0ZWOG1rQ0QwT2pmc1dqTnYzcVNhaUl2cmVLQlRYY2dWYVlHdm9sNGFNZHhKTjktSlVuR2NJV2c4Z3JtOUhHaUF1aTNRNk1EMGZOU3JBQkprcVJ0TnN0eUtNVHdFcVhDS3JVXzlFVzF0Qmsyd0tIb1hXU0FEaFdkOXhmdTZrSTNXWlJYRmtlRGlCUndvclRhVjRhVFFuZjJhYnNENEc3ajNDUElB",
+    "source": "pertanian.go.id",
+    "pub_date": "2026-10-23T08:38:00+07:00",
+    "desc": "Kementan Kawal Penanganan Ayam dan Telur untuk MBG di Wilayah 3T&nbsp;&nbsp;pertanian.go.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "acd75207520f",
     "title": "DiDugaTilap Dana Desa Ratusan juta,LSM KCBI Resmi Laporkan Kades Tanjung Pura Ke Kajati Sumsel - POSKOTASUMATERA.COM",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYzNRM0FZSC1MekxwOUEwVHI0eGtKM3JrdFpWcHZncGtlbXRObmpGZG9kUVBzS3Bnb3NYMHp0TVVTRTlyZTJHTUdtNW5EdkpMNVVsZmNweFpXMmh5X29PbktzT21MYy05dVdLbVl3b3ZqY2M0TEltQmpWaWNVQ1p1WXE1S1JHMG5pY2c",
@@ -65,12 +78,38 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "596695354b4c",
+    "title": "Kumpulan Berita bumdes se kalsel - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hWERsYUF3Zk9sMFJVV2Q5VEY0TFVmNmF4ZEFWaU0wTHpUNU5wUWZWT2Q5Q3BRUGlfOHJhNVZMM2FmODJ6WmNWblhjSDRLWHFBLWozNmk0OHkzSEtnUi1OT0tn",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-23T02:18:00+07:00",
+    "desc": "Kumpulan Berita bumdes se kalsel&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f9925376d744",
     "title": "Direktur BUMDes Cibiyuk Bantah Narasi Kambing Hilang Misterius, Wibowo Tegaskan Ada Catatan dan Laporan Pertanggungjawaban. - media seputar kita",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMXVVU0tmbno2SkNfcndWNVQ5WS05aWhOa1IydWJReEVaYmVfN0FFOC1WTW1YWmxaUFMtZTdlVkpCRmFkbFpNLTdRbF84OTZKWWw2SE9PVjJQcGV0UWxYTkFMNnIxU2h6aWYzclVLWnFWN3RCMzZMUlJUWkdVYXZwRTlhTXlIWHJoS2k0OGs1ay02U0kyVGlhX3cxLTctYTc5ZWxFano5YjNCTUFiRWdZZ0YwOUxlQ3hxMVo1eVRMVlBVSldNVEE0cmxHTVUwMURFOFNjNHJDUUJ1NzBHRVhLQUNnbjlSUQ",
     "source": "media seputar kita",
     "pub_date": "2026-10-23T02:00:45+07:00",
     "desc": "Direktur BUMDes Cibiyuk Bantah Narasi Kambing Hilang Misterius, Wibowo Tegaskan Ada Catatan dan Laporan Pertanggungjawaban.&nbsp;&nbsp;media seputar kita",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "adb22a9eb46b",
+    "title": "Enam Sapi BUMDes Krompol Ngawi Dijual, BPD Minta Pertanggungjawaban",
+    "link": "https://kontrolnews.co/enam-sapi-bumdes-krompol-ngawi-dijual-bpd-minta-pertanggungjawaban",
+    "source": "Kontrol News",
+    "pub_date": "2026-10-23T00:00:00+07:00",
+    "desc": "Kepala Desa Krompol, Ibnu Mubarok, membenarkan bahwa seluruh sapi program tersebut telah dijual. Ia menjelaskan, keputusan penjualan diambil karena usaha peternakan yang dikelola BUMDes mengalami ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -61126,6 +61165,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d84c46551ade",
+    "title": "Korupsi Dana Desa Rp 508 Juta, Kades Air Kasar Dihukum 5 Tahun Penjara - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObHljUWJCQy1RbmZsS29KbkFuSENZVmN5ZC03WWVzb3ZGLUtsNXlLSDh0LW52QUM3emgzcmFHeE5KeW9xNEhxY3czY2NaZ3hfb1RHbXRqYk9GYUtKb2hKR1JXUHo5T0Q3UVZNdlRHQ2psWEY4T1UydTZ5ZFpKeUsxSktpcEVHMHN2MHQ3Q0Z3YXFaUW5od1dGbm1aZVVLN2JnN3hpVVlFUmIzOFZtRFpjNHpwMU01cThRRm9Gd1RsMEc",
+    "source": "Kompas.com",
+    "pub_date": "2025-05-06T14:00:00+07:00",
+    "desc": "Korupsi Dana Desa Rp 508 Juta, Kades Air Kasar Dihukum 5 Tahun Penjara&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "8c417ed45aaa",
     "title": "Mendag Busan Lepas Ekspor Gula Kelapa Produksi BUMDes Senilai Rp 586,4 Juta ke Hungaria - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMDJzYUhPeVhMbnN2NGtNLTQ0VDVRQllNRVpLeEFYTkZnTWxyLTRYR3k5VHV3emF1cE1xVjJwaEc1Z3BkVHp0YmVnVTJnWjdNaUtkMml1TVFBd21KOGN1dE1ZWG9WTTdkMnJPMUhhWHNJclo0TmFHQk1oT1ZKa2hkc0s0dHFHTUJyNDdXNXNGTXdkOEY2YUF5Q2FQb3RFN2psVmRQM0lDeEIxdVJCOVhvWUZmSnU1ajhaOXVHY0tSdGxfOUkwLUJR",
@@ -66648,6 +66700,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bf2d5bcc3a79",
+    "title": "Dana Desa untuk Kabupaten Mojokerto Naik, Tahun Ini Rp 286 Miliar - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNHNnUFJpd00wTUZkeG10dU9RR3dOeTZYU0hmWEZPbENUNnRPQkFqQkwyQnRmYlFhN1hNc3ZGV1pJWWIzaVhUWklpWkFiekVPOC1lTzl4dXdVcnVJTXdtUnFTeHF6SHRNWEt0UlJRV3p2c2ZyTU1uQU94Rko1TnNrOFdTckl5XzJncV9kYVlEbTJnck1tT1VSWXVxTWc2RjNuc3lUUGdnSFVMU193Z1HSAbMBQVVfeXFMUHgyTzM4S1pkcHp5R3BEWUphWk5lYkdtZ2hjdXF4MktGd3FWZGplbnJ6a2kzNlZDTHc5UEpNN0cxbUpPU1kxZGVqVHEzbGJFN2RFQ1QtNG5Qa08wOHUxUWtHOTViSTh2ZGhhNTJlSWQzRHNTbk4taFNNQ1ZESjRDMURyWjVta091ZndFbVNZeUxobGhwdHdLaGplTzIwVFpFQnJZS0dtSk5paDViRHVNbjgyUU0",
+    "source": "detikcom",
+    "pub_date": "2023-06-10T14:00:00+07:00",
+    "desc": "Dana Desa untuk Kabupaten Mojokerto Naik, Tahun Ini Rp 286 Miliar&nbsp;&nbsp;detikcom",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
