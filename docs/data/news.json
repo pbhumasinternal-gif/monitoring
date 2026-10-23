@@ -1,5 +1,18 @@
 [
   {
+    "id": "223c8246eb6c",
+    "title": "KPK Ungkap 869 Kasus Korupsi Dana Desa, Aceh Diminta Perkuat Pengawasan - Serambinews.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUNTa3Q4Yzl1Mm01Z1U5WGRQV2ZjQ2p0UDdkbG00VXJySjd2X2Y4d0ZBa24wNXJWeVFSMmNXMThFcnQzTFljTmVWZmVmT2tZbU9TelJkRDVoaGtiZ3p4WWdFYmk1aVRkMmJ0VU1CSmMzb1VXRTJoLWoxVXRjUUJYa0JvbVNxX1hEZUVPR2VDQVZ4dmt2VFFCTUlhOENfeG44YzR2WnAtcnlfb3R1SjU4dHVCUjBBMm8",
+    "source": "Serambinews.com",
+    "pub_date": "2026-10-23T23:53:11+07:00",
+    "desc": "KPK Ungkap 869 Kasus Korupsi Dana Desa, Aceh Diminta Perkuat Pengawasan&nbsp;&nbsp;Serambinews.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -5,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "f439d88efcd9",
     "title": "Perkuat Ketahanan Pangan, Polsek Gurah Dampingi Panen hingga Penjualan Jagung BUMDes Wonojoyo - metrotv9news",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObGxSdkRHUWszOXBHaWt3cFdkcDNfaHEweHlxNjZ4QmU3SkIydzNxTUp3ZzIxS3lsM0dRbTQ3NWxpSElSV3IyRV9oZ0E5QkpaYjQ5QUxVM05hOFBvY3RVMUNZMzVpYlRhc3M3QnBjWW4wTlZkMTVPSVpGVnhlMUJJYWwxbWxsRm9oa0xpb2gxaGRkWTBmdE1aNkZDWWlBQ2hJTmtGQVVDM01wZEZEOWJkczR0a3Q4OGdjTXZIUXBoOC04QjRqbzZj",
@@ -585,6 +598,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "0983d3aada9e",
+    "title": "Kades dan Bendahara Kotaraja Jadi Tersangka Dugaan Korupsi Dana Desa Rp1,59 Miliar",
+    "link": "https://ntbsatu.com/daerah-ntb/lotim/rizkitaarum/kades-dan-bendahara-kotaraja-jadi-tersangka-dugaan-korupsi-dana-desa-rp159-miliar",
+    "source": "NTBSatu",
+    "pub_date": "2026-10-23T00:00:00+07:00",
+    "desc": "Lombok Timur (NTBSatu) – Kejari)Lombok Timur menetapkan Kepala Desa Kotaraja dan Bendahara sebagai tersangka korupsi keuangan Desa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "9b7eb082840a",
     "title": "Kades-Bendahara Desa Kotaraja Tersangka Korupsi Rp 1,5 Miliar!",
     "link": "https://www.detik.com/bali/hukum-dan-kriminal/d-8720505/kades-bendahara-desa-kotaraja-tersangka-korupsi-rp-1-5-miliar",
@@ -816,6 +842,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "negatif",
     "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "e502e2fddc11",
+    "title": "Korupsi Dana Desa Rp900 Juta, Polda Maluku Rampungkan Berkas 4 Tersangka - Papuanewsonline.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWU5YaEt2QkVkUDNkRkpQYzJHTjZjdW9DRVpreTNRa2Zxd1JodnJoVzYzZzVnbW5WSTRKWVltaklzeDlVRjBxMDEyd2xSajVTVUgtTWFXRERESTVLWkU3UGwtUk9XdzFWMFVuX28ycWZHV21tWl9oZkotT0M4QkN1cno0dTZQelNqcEdES0NzWl9TbE1vbEdTblpsY2Z4MmV1",
+    "source": "Papuanewsonline.com",
+    "pub_date": "2026-10-22T18:38:06+07:00",
+    "desc": "Korupsi Dana Desa Rp900 Juta, Polda Maluku Rampungkan Berkas 4 Tersangka&nbsp;&nbsp;Papuanewsonline.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
@@ -67608,6 +67647,19 @@
     "desc": "Alokasi dana desa dalam RAPBN 2024&nbsp;&nbsp;ANTARA News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5249fd9f690b",
+    "title": "Foto : Kemendesa PDTT Buka Formasi PPPK 2023, Ada untuk Disabilitas Halaman 2 - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGotOEd5dU4xRlRJSlRUX05vcWdoY09pbHJjU2ZLVEp2RTF2dU9DZzJwa2lEYUw0WFFGTVZUdlo4Sm4wOHZraUp2TXFfazk2cGRLWU16Ui16WHBoVW5jZmhaRGk0MVNVR3dTYnBQTFE1ZHk5dW5aT1p6aVpJSE90Y2NMcGh0NGNmcnpDMmtYdzh4MThIdFJtMGNDbW1tNDNNZzhlX2o2ZFJRLWdhb01YUENWSmV1QmN6YTRFX3Vn",
+    "source": "Kompas.com",
+    "pub_date": "2023-09-22T14:00:00+07:00",
+    "desc": "Foto : Kemendesa PDTT Buka Formasi PPPK 2023, Ada untuk Disabilitas Halaman 2&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
