@@ -63557,6 +63557,19 @@
     "sentiment_tag": "Penyalahgunaan Anggaran"
   },
   {
+    "id": "1da6a3e52dbc",
+    "title": "Video Menteri Yandri: Ada Info, Kades Pakai Dana Desa untuk Judi Online - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbkVhOC1VQ0FQek9JZ3VYVEl4MWlhQ3V2cThWYnpteUgzX05UTUwzTlFsSmt6U2toWEpBMVllaU9fQkRLcDhtQTA1MHNSc09FOW13LVZmR1RJS0ZNd2RvVWlJTnRwMFRuMDdueTVZaDFPRnVKdzlTSHJKRXZPdFlaNmppTks4LUdJT1NxOU9BYy1LOVJFUG44NTl1NnVYNHR4eEJHNnBlWTlxa0V5N21LdHJPMDlicWJzVm40dW5R",
+    "source": "20detik",
+    "pub_date": "2025-02-03T15:00:00+07:00",
+    "desc": "Video Menteri Yandri: Ada Info, Kades Pakai Dana Desa untuk Judi Online&nbsp;&nbsp;20detik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -4,
+    "sentiment_tag": "Penyalahgunaan Anggaran"
+  },
+  {
     "id": "a4919b74e1db",
     "title": "Kemendesa PDT Gandeng Polri Awasi Penggunaan Dana Desa - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSkVucUctZnlKZklzVnhsb3NhZGJ3ODlfbG1WS0t2TUJpQ1JocXN0LUwxY0wzSkFFbG1tMVA0aVNOSm1sZnlWckFCd21TT0hKR1lpYk8xT0tVUlljMDBETTl3XzF5NHlzQjZBOV9VaXBXRklfTjR5cUloMGp5Nno0cm4wSC1VWHo2YmNoTDV3cW5nQTlia3FfbWtGX1g1Vm04bWR4b3pRRkhQWUk",
@@ -73526,6 +73539,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "30eefc1c49ab",
+    "title": "Oknum Polisi yang Diduga Selewengkan Dana BumDes Diperiksa di Propam - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzRTVHppSWt5ZDZ2blU3OVFfeHp1b2VxSjFYZHZEblpPMXZXa0pPQ2xiOUZvR3hDYzhnWXdXMFBFNUZFcmZkbFFDSDVobnlVZUd1YzlCSmJWY2hodnJYc0pBSk1waUtlVnZsUHZXOGJBOFVndElHSWVTR1k3TzlKRGhGR2hMQzlWaXpRRW51YV9aaEZLRUY0OHhyWkdSV2JTejQxSDBWZmxmS0g3ZVdJQms2T0hKN2pmdHVwa3lR",
+    "source": "Kompas.com",
+    "pub_date": "2019-07-22T14:00:00+07:00",
+    "desc": "Oknum Polisi yang Diduga Selewengkan Dana BumDes Diperiksa di Propam&nbsp;&nbsp;Kompas.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "fb5599e9c1a7",
