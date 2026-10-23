@@ -65,6 +65,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "0b72b816869e",
+    "title": "BPK RI datang ke Kuningan, Soroti Pengelolaan Dana Desa - Kuningan Mass",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEZIZDVsMWRzdkJNYmpZS1JSSW9oT2QxZXNMT3JXTElyTlhodE51ay04TVhUakQyMWlPWXc0QXUtcVNqSWF0TnpvdDB3ZEdmS2Noa0VxX1I5aGlVRURMVXlLQTFNMThLTG13dWZLUE96M25pSkdONVU2NUp0RDVxOW82eDgzZEk",
+    "source": "Kuningan Mass",
+    "pub_date": "2026-10-23T15:12:03+07:00",
+    "desc": "BPK RI datang ke Kuningan, Soroti Pengelolaan Dana Desa&nbsp;&nbsp;Kuningan Mass",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e47200fd2dab",
     "title": "KDKMP se-Babel agar kelola potensi SDA tingkatkan ekonomi desa",
     "link": "https://www.antaranews.com/berita/5807207/kdkmp-se-babel-agar-kelola-potensi-sda-tingkatkan-ekonomi-desa",
@@ -56025,6 +56038,19 @@
     "desc": "BGN Terapkan MBG Enam Hari di Wilayah 3T dan Daerah Rawan Stunting&nbsp;&nbsp;Kompas.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "de422bde6b09",
+    "title": "Penyaluran dana desa di Bengkulu capai Rp39,25 miliar - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVFJUbjllRl84b05pSXQ3LVFlNTZyV01VX0hPM2R1c2pxZm9oSDlKVkc2cUN4R2tyOG84bDZ4YUU2WG9XaTY3bllFWmExOTVWZ04xTHMwbzlvWlZvV0g0UTQ4cEw2OXBYQVk3V2p1ZmQtWjNnLU1DeEdtWHRGbkQtNm90d1JRX000UnBDeU1iWU9LU0E3dGhTVDd6d29IbmfSAaQBQVVfeXFMTTBxWTVodUc1OFJDLTMyemVMOVlqYkZmajR0Tm5oZzVUb1Q5cW03V3g5NDNQTFF3Z1BoQjVZMEF0TnRFUk15WnBzbl9jdU1GemlqV19kYnpySUcxRGZZaTkwY19xNnJBWVl3ODZkZnpwcW1ma3N3SmNOczFBTDhaWmF6QnNJM0FNMVdESEJIeGdUbDh2SXgxaFB1Snhsbm1ick13ZDE",
+    "source": "ANTARA News",
+    "pub_date": "2026-03-30T14:00:00+07:00",
+    "desc": "Penyaluran dana desa di Bengkulu capai Rp39,25 miliar&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
