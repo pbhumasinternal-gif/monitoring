@@ -312,6 +312,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f0a4ccdcee32",
+    "title": "Inspektorat SBB Segera Periksa Pengaduan Dana Desa Nuruwe, Tunggu Pemeriksaan Waisamu Tuntas",
+    "link": "https://porostimur.com/inspektorat-sbb-segera-periksa-pengaduan-dana-desa-nuruwe-tunggu-pemeriksaan-waisamu-tuntas",
+    "source": "porostimur",
+    "pub_date": "2026-10-23T00:00:00+07:00",
+    "desc": "Porostimur.com, Piru – Inspektorat Kabupaten Seram Bagian Barat (SBB), Maluku, belum menjadwalkan secara pasti pemeriksaan rinci atas laporan pengaduan pengelolaan Dana Desa (DD) dan Alokasi Dana Desa ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9b7eb082840a",
     "title": "Kades-Bendahara Desa Kotaraja Tersangka Korupsi Rp 1,5 Miliar!",
     "link": "https://www.detik.com/bali/hukum-dan-kriminal/d-8720505/kades-bendahara-desa-kotaraja-tersangka-korupsi-rp-1-5-miliar",
@@ -531,6 +544,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4cd16a47b84d",
+    "title": "Berkas bolak-balik sejak 2017, kasus korupsi dana desa Taliabu akhirnya P-21",
+    "link": "https://www.msn.com/id-id/berita/other/berkas-bolak-balik-sejak-2017kasus-korupsi-dana-desa-taliabu-akhirnya-p-21/ar-AA2fTcrZ",
+    "source": "Tribunternate.com on MSN",
+    "pub_date": "2026-10-22T18:51:00+07:00",
+    "desc": "Ringkasan Berita: Penyidik Ditreskrimsus Polda Maluku Utara menyerahkan tiga tersangka kasus dugaan korupsi pemotongan Dana Desa Pulau Taliabu tahun 2017 ke Kejati Malut setelah berkas perkara dinyata ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "6f815d716d25",
@@ -10957,6 +10983,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
+    "id": "ed9425ec1b50",
+    "title": "Babinsa Koramil 1503/Ciniru Sertu Yudha Pastikan Usaha BUMDes Bidang Peternakan Berjalan Baik - PPID TNI AD",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONjRjdHNFNzBlOWdQOVFNSEZ0RTFpM3B1dU5XR3o5NXQtMDhjZmdKZUNuNTJYQ1hOWFIxZElJdjFzNXMyQUJEQWpGRS15SFlOMzhFMVRxb0ZQNHY4RkUzaEc3dkxudGpmcTFid0JQcUhublpQbElDTG9FeGF6aGEtRE0xUExrQl9lSVRDdDZMS0VPelFJMTRSTWl6NGx4VVdLNW9GTnNaYTZacjhkdTkxdUdiRzVCR0M5R20zUmtuZEpnNDZ6",
+    "source": "PPID TNI AD",
+    "pub_date": "2026-10-09T14:40:09+07:00",
+    "desc": "Babinsa Koramil 1503/Ciniru Sertu Yudha Pastikan Usaha BUMDes Bidang Peternakan Berjalan Baik&nbsp;&nbsp;PPID TNI AD",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "1000f810ee50",
