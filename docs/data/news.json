@@ -182,6 +182,19 @@
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
+    "id": "838e191adfb3",
+    "title": "Kumpulan Berita Dana Desa Banyak Tidak Tepat Sasaran - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Vc1B1cFEwb0ZnT3JWMU5CclFFQmZNUTZhRXUxSXNWaElnckF4a1JBNzhndlUzTUlDd0ViRVhfbkpQeVBoa1FBaW5aeHpwZG8zMS04cVpHSVZTYk4teWcwSGRDMEtJMTVBV0dwdHI2aVpvZ1ppeVBua1Y3Y3Q",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-23T22:48:05+07:00",
+    "desc": "Kumpulan Berita Dana Desa Banyak Tidak Tepat Sasaran&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4f97e74acc78",
     "title": "Yandri Susanto: Santri dan Pesantren Benteng Moral Era Digital - Headline.co.id",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYV9NUWEyQk9Wa0hsMzVHWkdvWkZNZVdhM01ZMU1aN3hNZ0JYcVJSaFJzOGtjZVpRVExDY3laWm9tOW9wMGxqR0dxd1gwUHNyRHJMX3ZpQVJ1UnR3R1gwRnNWVnpCbUs1c1JRNTBpVENvdC1qelkyTVFQODVpT3pHcmEzQWdTeUJ1SElfMWpzZFRLWFFJYjdsV1Z0Mks",
@@ -323,6 +336,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "17048d6c09f6",
+    "title": "Korupsi Dana Desa Telah Ditetapkan Sebagai Tersangka",
+    "link": "https://rri.co.id/langgur/hukum/anti-korupsi/2837027/korupsi-dana-desa-telah-ditetapkan-sebagai-tersangka",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-23T16:08:00+07:00",
+    "desc": "Kepala Seksi Pidana Khusus kejari KKT Lovi Daeli dan Plt Kasi Intel Rahmatullah menyampaikan bahwa penetapan ketiga tersangka sudah sejak Kamis (8/10/2026). Ketiganya masing-masing berinisial PB, AM d ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "0b72b816869e",
@@ -5640,6 +5666,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "6d462e9494b7",
+    "title": "Kumpulan Berita Alokasi Dana Desa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HTXlzR3ZqYkhIVDhKd1FxX0ZFRUlOWFJDcGFqR3VCRmJzcjBPN2c1X2tDOVNESVdfQkZNZGpTMWI5RHJlMmNVdWlCSDhIdHZ6SmhaeFY2RkdZaFdwLTRZZmd2MkE",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-18T14:32:22+07:00",
+    "desc": "Kumpulan Berita Alokasi Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "9a6733677410",
@@ -56745,6 +56784,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "df5bd9f81ea1",
+    "title": "Gandeng Kejaksaan Agung, Abpednas Perkuat Pengawasan Dana Desa demi Cegah Korupsi Perangkat Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa182c2pOOUJDcFlwS2dsLUhReDZlM0hYeDMwQXVjLXM1TlhSQWFIcjZNUW5kWFJPM1RrVDNZa3M0aTFQTU43NkpTYVY5MXlXVVJCWF9sSksyUTVLejI0ZEhaNzVkZzZCQnZMWjVYN0p1UUpfcU1tbFdCSWJiU0hpSE04OXlTNHFiMjFTdDJSS2FySHdVZ3JGWVhxTHBOb1EwR3BTN3JsZzl0cDlEQm9Da0N1TkVVSld6a1ZDNzBYM1h3WDdzN1F5TTVDTDQ0bnVC",
+    "source": "Kompas.com",
+    "pub_date": "2026-03-07T15:00:00+07:00",
+    "desc": "Gandeng Kejaksaan Agung, Abpednas Perkuat Pengawasan Dana Desa demi Cegah Korupsi Perangkat Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 6,
+    "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
     "id": "700286baba30",
     "title": "Sekcam Kubutambahan Hadiri Musdes Laporan Pertanggungjawaban BUMDes Artha Nadi Desa Bila - Kecamatan Kubutambahan",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSUVOdzJZX2p0Q005WFZ4NGxGcElwMFl4b0Z5ZjNpdVF5bTVhc1pDcUtxVGU4SDFoOWZWUWpfRlQyc2FWLTB5emEycXlvSlgzc1NqcWpFZDJrODBaQ1llZEk1ODAyVVF2dmltUmpXc3NMRXE0c0RfQW1KMEdOYmpoU2QzOU9oQ3RkVTdYQ21URWlvY01fcmd2a3RZdU5fWFBkcFc0MVo5d0ZhTW1ncHM0a0NDS0F1OUhtZkhZYTU1cEtIbGJaU2xCTzZZUTlPa1RDSldnbHJsWEl5MFJsdk9paFZ0WGNhY0ZYaVE",
@@ -62972,6 +63024,19 @@
     "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
+    "id": "ed8788f4ebc2",
+    "title": "Sederet Modus Pegawai BUMDes Kulon Progo Korupsi hingga Rp 1 M - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMThyTS00V1hHUjlaR3o1QU9yay1abWx5bHFiUGlBNnh4N0pvc2JzV3EyQXh4bHpqSWxxRlRaUjNITDlMbjV4MXRvVGxBaGtrRW9hZTNETjNLVWxXSnFDRVcwQTdJelFaVzNLUDJYUjdRTFJuSWZGNmV6OWE3WUZvSXJZVjZFU1psYjA1bWdDR01WQzFoTUNOZVVrY3NsTFRRajdxTDE4akJFcFXSAbABQVVfeXFMUDJLUXo1UkVMU2t6dkE5aUNMTWZKUDBFTUFWazB0VDNvelBhWURIRDdnRlJkMl9yT2tLRF95SUFEeVRfdlFWcnJIUk9aVEZzdmY3aFF3NnBFUDh3cmFCaTJFZ3JPcVF5b1ItbDhyelB3WF80a3UwTF8tRzF2dml6ZmJpYUtUa1dTRjZaODlpRlRsazJKMXQwY1FjZVFNU19vVXVOSFZBWDJzQWVTVWRxNmY",
+    "source": "detikcom",
+    "pub_date": "2025-04-23T14:00:00+07:00",
+    "desc": "Sederet Modus Pegawai BUMDes Kulon Progo Korupsi hingga Rp 1 M&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
     "id": "ca0a600c7465",
     "title": "Prabowo Digugat ke PTUN, karena Tak Kunjung Pecat Yandri Susanto - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVnJhbzVnc1c4cl9WaVdKVF83VFBZSTg0MGxFRG9kRXBRQzJkOGpfMmdFWGJmbGRYaVBFc2N2MGJkQW5RSDd5YWF5Z1V5bkpWY2ZvbnhlZHR4MzBsc096U29ackd0cFR1ZldtSVlWa2RDS2FVMTZCMzBxX2o1R2lwZEItTHdJUzkwM0dLdFl1UVg1M2VVQ0RXX0N3TVhUcXM0Qlo0cGNjRXNUXzBxLTVPcE5tR3QxV3M",
@@ -63544,6 +63609,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "7a868601539b",
+    "title": "Sejumlah Kades Salahgunakan Dana Desa, Menteri Yandri Laporkan Mereka ke Mabes Polri - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTJPeTlHRmZsM2g0eUVTc3lYM2lxOEpLdzBCUTFOXzFfRVVScFBmM0dfNmlHUXB5SVotN0VZZ3dtSUVlTGcyLW9iLU1fSDk2NlJBMFBid25iMVBlb0c3YkNPT05VWUt6RGdTUThKcVpRTU91OE9mMGxQRDdWOENoYTdDRFdWd3NNZDRHUjdobnJMOWtDeW1idFd0V0RnQzNPb0hCR3hNdDloMFFMUFVuaTBpT0ZoQnRkZGs4cm9tZnJzdw",
+    "source": "Kompas.com",
+    "pub_date": "2025-02-19T15:00:00+07:00",
+    "desc": "Sejumlah Kades Salahgunakan Dana Desa, Menteri Yandri Laporkan Mereka ke Mabes Polri&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2acc2f37c8ab",
     "title": "Pengelolaan Dana Desa Tahun 2025 - Direktorat Jenderal Perbendaharaan",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUdOUllyNERMc18tX2w3dGRyNUVUbVAxXzlWcjhBQkpVekRRX2dnS0tWeXR4MjQzSHJmV2NVZFd3OUhwZzdpUTNsLVVWVE91aFF0RXVQdE9nSlVkeWlJMHZIeDBMSXdGeFlJbXJrWkctd21lRDhaeWNoNVdGcjdGZUNhVVhNMVkxMHF6bGVCd2k4UklaWXZwSzFVYUk0ZjZ4SmY0QlZ0ZVNSWnRkT2d4dmV0TQ",
@@ -63750,6 +63828,19 @@
     "sentiment": "negatif",
     "sentiment_score": -4,
     "sentiment_tag": "Penyalahgunaan Anggaran"
+  },
+  {
+    "id": "18a2f1c04f5f",
+    "title": "Kepala Desa Pakai Dana Desa untuk Judi \"Online\", Mendes Yandri: Pasti Diberhentikan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW1LMG80YXNMajg1NVNLeE55bno3c25SV1pLNldJel9SdTc1bTVNMk9CY2pGenVROU02cUVOd2RLaG80WEdPby12ci04RGhfMTFnMnlvd1g4NXR4cmVzb0VPQkYzbmtSZXlsbHJwcGt3a0hRWnZVcExwODNyZ1VGYjM1VEhIRnJIM01MUzB3WWVSUW8zakJjeDdON0RCQldveENhQlgwUmkyX2JCZlNEZkJVZXo4X0oxYkE",
+    "source": "Kompas.com",
+    "pub_date": "2025-02-11T15:00:00+07:00",
+    "desc": "Kepala Desa Pakai Dana Desa untuk Judi \"Online\", Mendes Yandri: Pasti Diberhentikan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "3b63aa6c3d48",
@@ -70041,6 +70132,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d9cebbe0731f",
+    "title": "398 gampong di Aceh Utara berstatus desa tertinggal - ANTARA News Aceh",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ0xMNW5hYkl1Z25JVnJqendNSTBJMzhtWWpQdkdOajlpQVJJNXN6Wk1uTm54M3NsTkl2T19QbXQxcTN0MVJYbVdyMzN2eUU4Skh3Wjk4UjZneXlZMDRjelRWMjVlS1d3OVlTVlNuQkg5UEhCR3ZheDQ1RnpIblVnd1dydHFMYm1Fb00wdnhyUTlwNF9vRUJ6WtIBngFBVV95cUxOeHNhQ2M4MTRSRTIzSzM4SnFGOGRXNTZaU05oRWQybWRhTzVzdXlaaTJqb0k0Sy13Z2RZaUQ2VmVZbEtiTFRkZXhSN1ltdXJCQXJwSVMwemlhbWxiWHFfRTVxQ1FDWC1jYVdoamJUOFBkZkROUU5pWXRseHZJRXhZNnp4ZHFpeHFUVi1qQ0xpZ3FCNGswYmFKT2d5MjRlUQ",
+    "source": "ANTARA News Aceh",
+    "pub_date": "2022-08-09T14:00:00+07:00",
+    "desc": "398 gampong di Aceh Utara berstatus desa tertinggal&nbsp;&nbsp;ANTARA News Aceh",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
