@@ -1,5 +1,31 @@
 [
   {
+    "id": "3f26e1ba0747",
+    "title": "Lantik 57 Pj Kepala Desa, Pemkab Kuansing Tekankan Tata Kelola Dana Desa yang Akuntabel - Pemerintah Kabupaten Kuantan Singingi",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUXRyMm1DRVFTNl83aVFSaFhFaThJZWJGeC1GZHJVVjRwa21FSHAxSDhwdWlINXR4OUNNM01JU0s0aXF1VG56VTFHZkdCNUtoTkZ2elVkcVlZZ1dBanZMUy11TWFKZlVEUlQ0MnlPMzVzNVNMMUdpYUFVWDFvZi1jcVpmekdjZ05mWnoxWkNLMzgxVUdwRHZXRHZQZXNrQ1ZnQzk2eE90Wm9VcHczQTQxY2N1STl6Wmp2dWdiTWJmRQ",
+    "source": "Pemerintah Kabupaten Kuantan Singingi",
+    "pub_date": "2026-10-24T18:54:59+07:00",
+    "desc": "Lantik 57 Pj Kepala Desa, Pemkab Kuansing Tekankan Tata Kelola Dana Desa yang Akuntabel&nbsp;&nbsp;Pemerintah Kabupaten Kuantan Singingi",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "be68b1ec2ca7",
+    "title": "Plt Bupati Kuansing Ingatkan 57 Pj Kades Kelola Dana Desa Secara Transparan Dan Akuntabel - ISBCenter.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa2N1SGtISXkzU001bmtvcGpDWFc4VnJscnFhcHpSRENHdy04NEk0NnlIMTByT29kanVKLTJOWWtZeTF6cUctWTMzTFJRbUZCRHNqZEx0MF9WZWNQb0NJWUFmbUFaVmVPZHpjeTVFaGJaTmY5X3U3cEI0c1FQYnllUTJrMndxSlZ1dERvSVc4MUNRaHdRUmIwVUpEeVY1Tlo2akJUMUN1elk0S2NUVXdHQzNNbVVHWXc",
+    "source": "ISBCenter.com",
+    "pub_date": "2026-10-24T18:49:40+07:00",
+    "desc": "Plt Bupati Kuansing Ingatkan 57 Pj Kades Kelola Dana Desa Secara Transparan Dan Akuntabel&nbsp;&nbsp;ISBCenter.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "bc93694c912c",
     "title": "BUMDes Beruntung Kelola Delapan Unit Usaha untuk Dorong Perekonomian Desa Pangke Barat - Gotvnews",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTHFIbEN2VENfQ1lfMWFESzdmcWV2OGtnQ1ZFSUhoWHJjeHUzUG9OcWlZcWRlbE5jM0VPOUVyeHZQSlNuXzVDalYtR2V4UXFFRThfazgxX2ozWXBmM05DT1F2eHdEbWlqQzNfM1dVdVJWbEZNa2ZsdTNDVG90Q2FTU21fTDJrdEJqNkpiM3p2NUwxS2Z2OE92MWNjbE1XTm9YZEJZUFlaWTRlYXM4QVRj",
@@ -606,6 +632,19 @@
     "desc": "Cegah Kebocoran Dana Desa, Pemkab Sleman Perketat Aturan Pengadaan Barang Jasa&nbsp;&nbsp;InfoPublik",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "efd1cf98af77",
+    "title": "Ketua BUMDes Kecewa, Kades Mekarsari Tidak Hadir dalam Pertemuan Klarifikasi",
+    "link": "https://bandungraya.net/article/ketua-bumdes-kecewa-kades-mekarsari-tidak-hadir-dalam-pertemuan-klarifikasi",
+    "source": "BandungRaya",
+    "pub_date": "2026-10-23T16:14:00+07:00",
+    "desc": "BR.NET – Menyusul beredarnya video dan pemberitaan di sejumlah media online, Koordinator Badan Permusyawaratan Desa (BPD) Mekarsari berupaya mempertemukan ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
