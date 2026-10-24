@@ -39,6 +39,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8853cf0694c5",
+    "title": "Kumpulan Berita dana desa di kalsel - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XWnc5bHVMdkdhX1hBQmFEQ1YtcllRYmJZOEl2QzlSLVVkUmNNblJUOHFpSWlkS3VaRDUxQUtobE96ckhTekZ1Wl9SRVZsdHV6TjVERmFYZ2pzOWlwbW9OcFdVOUFBV3c",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-24T21:09:32+07:00",
+    "desc": "Kumpulan Berita dana desa di kalsel&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "51567964b787",
     "title": "Lantik 57 Pj Kades, Pemkab Kuansing Ingatkan Dana Desa Jangan Sampai Menyimpang - BeritaRiau.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOU9WVEVhSE0wODlYVnhzd2J6b2JmWEp2ajA4LWlKMXlnZ28tLWZmdHAwNUhRNnNTcW5XZmZuRUY0bVNxdXFvVjAyV1p5VHM4Yjh2V0VQZkZ3NUZQcHFTNUVzVU5HUDhwWUY4dnNMZkY0bHM4X0h5LXpXMmd4WHpDSVhFc0ZyVUxJdy1LR1czdXVmRjJQYWozMjJTUTNXbERIRVQ5d3dSWFpVLWhfWW1IN0JhNGNuVnR6bXN4c0g1U00",
@@ -65128,6 +65141,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "eb9abb9b2cda",
+    "title": "Menteri Desa PDT Minta Dana Desa Dialokasikan 20 Persen untuk Ketahanan Pangan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2thWjRoNUstLVpvaHl3MGQxM1NxYm96TVZTY3RqOFMtQkVFb2ZCbGY4NWgxMVVSdURaSHBHWkZtVUpjMmVqei0xRk9yVmJ6ZUhCVFI3N29HaEZ0NnRkb1JDZWlFV1pCeDZ2dTZZbEF2TmVBakZWZmlnemVielYxZXhJNGpCQWI0Vm1mSWFWUlRuVUpZenJJcExGRDE1b2dZRHBnQkFIQ3RRM3pWdl9jWS1PUzRnb1ZmRnVQeTFnTktISUk",
+    "source": "Kompas.com",
+    "pub_date": "2025-01-15T15:00:00+07:00",
+    "desc": "Menteri Desa PDT Minta Dana Desa Dialokasikan 20 Persen untuk Ketahanan Pangan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "faf8789bd71c",
