@@ -13,6 +13,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f51b03d91092",
+    "title": "Kumpulan Berita dana desa naik - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FSGdJcllvNjVoRmx0Zk9GV2hjdUNWVTJSVWFkcDdWRWl3MUdoZGpudXZsMzJZeVo4b0ptOHNOekFTWDg1OFctRUF3cEZuT1FiRDZXWGNBc3NvbUJGSGc",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-10-24T22:13:19+07:00",
+    "desc": "Kumpulan Berita dana desa naik&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "898118d83fc7",
     "title": "Cegah Salah Kelola Modal dan Aset Desa, DPRD Pasuruan Godok Raperda BUM Desa - tribunjatim-timur.com",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakE3RDFQNTVzRGl0TzZNRm9UbjN0cGNxcWN2XzZWUU5wYlVLOW8tY3BmUmoxWVhEUEFBVkFfc0tZOUVTUWdqUUdQYVFfUEs3Y3ZaUTdSVUFFbHBwWTZ4N3ZFRGVITTJOYUM5OE1yazFWVFZHeUJxeEJ3WlIxS0RpWFlKX0UwcjExeldMLUtRV2lEV0lOVXJwcU9aOG5LQWlXZ1pYVTNDb2VrdTJ4Wm42QlNDZURvZlJrQzgwQW1ybXRIbkE",
@@ -89,6 +102,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "d8bf015348d5",
+    "title": "Dana Desa Sulawesi Barat - ANTARA News Makassar",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UbHM5UGtGZ3NPQXM1NldQWDIwWmM4YldVSkJwNGdBX1dIRXNnRXplXzJYRTQ2YXRZU2RNVmZlN2lCSWJtdXJYYjJ6MjBzYUE1OFVjejJKdVJyN3YxMTdUdmN0MFJ4VFUzT29KdXRzYnY",
+    "source": "ANTARA News Makassar",
+    "pub_date": "2026-10-24T18:28:03+07:00",
+    "desc": "Dana Desa Sulawesi Barat&nbsp;&nbsp;ANTARA News Makassar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "bc93694c912c",
