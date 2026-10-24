@@ -59670,6 +59670,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "353738d1e207",
+    "title": "Terjerat Korupsi Dana Desa Rp 1,1 Miliar, Eks Penjabat Kades di Maluku Diserahkan ke Jaksa",
+    "link": "https://regional.kompas.com/read/2026/01/05/164947078/terjerat-korupsi-dana-desa-rp-11-miliar-eks-penjabat-kades-di-maluku",
+    "source": "Kompas",
+    "pub_date": "2026-01-05T15:49:00+07:00",
+    "desc": "AMBON, KOMPAS.com - Dua tersangka korupsi penyalahgunaan dana desa di Desa Adminstratif Ainena, Kecamatan Seram Timur, Kabupaten Seram Bagian Timur, Maluku diserahkan polisi kepada kejaksaan negeri ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "4847b7141e57",
     "title": "Kemendes Gandeng BRI Perluas Akses dan Pemberdayaan Masyarakat Desa - InvestorTrust",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTN0TWdkbG1hMm5WeVJrQlczNFg4MmZiMjhSajJHX05KOHlNa3RXRDc0VDZLYkNiZlY3Tm1mc2NCUktPOXQ4a3NUdGtfZFFiUjZIaUFsd090ZExKNGstMWZUeE81VGJkTTJsZnB4c2Qwcy14aXFiejdPOE9Ub01UNWI3eXNHbC13T0RGWTQwQzN5LUdJVEc4WjNCVUktVGVPQ0lSWVZ0OVdmU0Zi",
@@ -64865,6 +64878,19 @@
     "desc": "Prioritas penggunaan Dana Desa 2025&nbsp;&nbsp;ANTARA News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "20b89fd9f435",
+    "title": "Menteri Desa PDT Sebut Peringatan Hari Desa Jadi Momentum Wujudkan Kemandirian Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG41VEhka0V6RDFQRDFFbmVKN1Jod1F4SHpDbFVITVc2OTFaLWNNYUMxTW5Pejd2OXVxR29CbVNWZ2RFZl9kMERhY3VrTlF0ZjdTMlYwY0J4MUNPMHpEZ01YSUlJSEZKdlFQck04YmMyUFJHODB0MmFRWlp0aUZ1Q1lEYXdEZENWQTJQWGVVZUJEaWZGM0ViRWM4Q29tUGVkdGk0cEJ2VzVlS2lGLTFTMHVPUWFMQ2VvVkE4",
+    "source": "Kompas.com",
+    "pub_date": "2025-01-14T15:00:00+07:00",
+    "desc": "Menteri Desa PDT Sebut Peringatan Hari Desa Jadi Momentum Wujudkan Kemandirian Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
