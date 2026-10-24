@@ -58734,6 +58734,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "fd43d804cc9a",
+    "title": "Dana Desa Dipangkas, Wabup Sintang Minta Warga Kembali Andalkan Gotong Royong - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQkZTM1FvalJfcUZETFNrcy1MSUF5dy1PdEZ2X1lRdXZVM0FyMFJCLVhQS1dYSzVkS0ZfejVNc3huWlVjUWwyaWtFVmVoLWt6YzlzeTRvalRGYk9SQUhyYVNpYzFzN0I2RzZOQV8xOS0tckI0RVhzUmpTdE1IcTJjSmtRMFFaUmVZRUNKVUtVbHlwSXdBMzlCeEFndERjTFZBdWFsNFVKb0Y3V3BibnhFcXNiUjY3eEtNalJjWWh6a00",
+    "source": "Kompas.com",
+    "pub_date": "2026-02-04T15:00:00+07:00",
+    "desc": "Dana Desa Dipangkas, Wabup Sintang Minta Warga Kembali Andalkan Gotong Royong&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "739c6c7d54ae",
     "title": "Musrenbang RKPD 2027: Pemkab Maros Alokasikan Dana Desa Rp5 Miliar, Cenrana Fokus Konektivitas dan Penguatan Anggaran Desa - maroskab.go.id",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVmJxeUwxeDJ2a2tvRzBwMzNESk5iTW9SVXZUd0RVQlFKUHpLaWNhSlVlT2pSRHYwcXNhTy1lbmg4cW5ZN1FlTFQ5QXpSQ1FnakhSSXFaRGxydkY0d2w4YmUwTmJNbHlDc3laRHYyWENTamZNWHExbFMxQmhTTXVQRVJySllncDZWb3BuaXYwWFVzd2tlRTFBalN6aU9MVy15NlhHV2J4OTR2YkJtNTR3VFh3NjI2TVctVzR3TDBscmNacUl2NWJOTmNUdW4",
@@ -60824,6 +60837,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0a4d18912a2d",
+    "title": "Maling Gondol Tas Isi Rp 17 Juta di Pertashop BUMDes Cepogo Terekam CCTV - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSnQ3RWJ3OVZoTjRNaWhjeG0tYnVZcjJLWEItMVBGZkFiejJqdk9BeUw0WXR6UFpvSjRrLUtQNXNFbHpCVWgtVmRwQ3E4c1NYREF5NEpvLUV6Z3pBOEphd2lZZ3dDeDhOckJlSjZncVRWb2VlR2t6ZVVIbUxfcDE1Z21XWlhTbHd3TnEwQko2dHQ5ZWgyaWt4LWRoSllTai1lZHZYUVAwZmNwQWh0UTluSC1obzF2SU1leklDamszLUlvbnZjcEVKNVRB0gHPAUFVX3lxTE94eld1ZV9mVkU4YjE3S1d0Y0F4X09Pejc3UUdaWFhBMUlqcElxVVRZV1hVWWJWRmIxWUp2c3RKQ0p3TnFKWDZleTB4REltVDdOcHFvZXRYajlVUzRBRGp5UHk3TXIwYkE4S1c4NW1UX2VPQ0V0c1kydWZCcEJmZnNVM3EwWjlpWFRYbXA2bFk3d2ZsZE1DOVpxXzRHWGhMdHB4NnlJZmVaVmN1c1BiSi1JM1JFVktCYkNPS3J2X213Zlh6OG5LMG1oMFgxVzRqTQ",
+    "source": "detikcom",
+    "pub_date": "2025-11-25T15:00:00+07:00",
+    "desc": "Maling Gondol Tas Isi Rp 17 Juta di Pertashop BUMDes Cepogo Terekam CCTV&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
