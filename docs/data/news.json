@@ -1,5 +1,18 @@
 [
   {
+    "id": "411ea9f449ae",
+    "title": "Mengurai Aliran Dana Proyek Katering BUMDes Kabunan yang Diduga Dicaplok CV SAKA - Target Berita",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT082amI4MDQ5WXN5eU9VMV9XOGtMY0N2R09VMFQxdXZRcUJQTlZtdVJzYXpyaTZCb3RxV0R2NXhqa3BXZTk3TU03cGczZUdrdi1aTFlpX3ZUWVBWcWZ3RmdKMDhZSERJNHdFeUV3cFVIUEtRc0U3eDQ2aUtXcFlwVDdBZTRPRTdCNmxtUmpnN2hPUEpCQzRYdDVGQmVTMkxuNzZtOTJDQmVRcFA0",
+    "source": "Target Berita",
+    "pub_date": "2026-10-24T12:32:22+07:00",
+    "desc": "Mengurai Aliran Dana Proyek Katering BUMDes Kabunan yang Diduga Dicaplok CV SAKA&nbsp;&nbsp;Target Berita",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "be92ed0876b9",
     "title": "Mendes Yandri Susanto Tekankan Peran Strategis Pesantren Jaga Moral Bangsa di Era Digital - Tangerang Pos",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWd5RU5RYWtPOEFPNnJybDZGMjJzWWR0dnhsVC1JblduWDlYdm9ycHUxNTNLSERhbVlhY3ViMjBTb2NsYklVclBzRVlKMVJMbzJtWUJNZDZtU0NCd0IzWVV0eWRESjRUc2dtclNyNEtIM1UybERXZHNQbWZWZUVqSUQ5SE0xRFhlWFZILUVrNmFIS2VXa0hiQzJYWWpDYTB0RVlmellkMkJ1dWx0QUtqbXUzWFo",
@@ -51051,6 +51064,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "70d069a3fab3",
+    "title": "Proyek Fiktif Terbongkar, Kades di Aceh Utara Didakwa Korupsi Dana Desa Rp 629 Juta - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPY2VuSER3SmQ0NnF0UzJoVXNLR3VtOXFBV1ZtSDZxOU9DRFlodVoyb0QzMTJWN3ktNzVyXzFGYkVkZjVRQS1mcngtc0dacENLU2xzV3ZUUU80OGJhQnJvaGl6M05aamdzTU5lejVuejB1VUswTjBVanZLb1hmYzJGajVFU2ZOSDhJeElhZDZMTVE5cFpHRGR5b3c3akpBS0tBMmN1U2QzMDJUbGlKai1XeXdqWndvenQtMUozenpvaTdDWmpWeWc",
+    "source": "Kompas.com",
+    "pub_date": "2026-07-07T14:00:00+07:00",
+    "desc": "Proyek Fiktif Terbongkar, Kades di Aceh Utara Didakwa Korupsi Dana Desa Rp 629 Juta&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "dbbc5af1ced9",
     "title": "Kemendes-Bank Dunia menjajaki Program Sehati di Banyumas - ANTARA News Jateng",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWI0dUR5cWttamdmR210V2ZWWGZDeW4zY2ZCcmRUWjZXMW1PbGIyUjg3V0RqeW1NTG9EMjNYZ3pDaElJRk4wQUdqVlFHNjBMUjlTNm9pd2pDVXluZS1sUEJwM2hJMW1TeDJDXzZjUkx3VjJDZlp3T01LT3o0dnZxLVktOFhSWHBCeWM3S1EycGt0eldqZGxHY3NKSUZhbUhRR0E",
@@ -66375,6 +66401,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7cbe72caf0b1",
+    "title": "Mendes PDTT: 18.850 BUMDes telah berbadan hukum - ANTARA News Kaltara",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlhySWFZLWhCWjVBTVdWU0YzQUVFbVpxNG5BWloxNHVRV1owUlFxZ0d2UF9xY2lDczMwRnZjZzUyN0ZkQzNfeGYtVlZlYnhzd09hRnN0NkVUb3RSNFpRWC14SG5hOWFSUDBkNF9INl9XZ0h2NnhUek1zRC0tZ1dRRm9R",
+    "source": "ANTARA News Kaltara",
+    "pub_date": "2024-06-22T14:00:00+07:00",
+    "desc": "Mendes PDTT: 18.850 BUMDes telah berbadan hukum&nbsp;&nbsp;ANTARA News Kaltara",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
