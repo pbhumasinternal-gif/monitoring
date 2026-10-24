@@ -14885,6 +14885,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "6089114fadf8",
+    "title": "Foto : Kasus Korupsi Dana Desa Jangkar di Situbondo Dilimpahkan ke Kejaksaan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU01LZERpUWNfMUJRLUg1WmgzRWNLblFlR0tMUHM0Y2E1ZDh1OXBLSlVvczBzeVZBZmJOMHdGWXNZS1lCX09HQlRYUTl5UThCV2NkUmRnUHd6YTNwaTd2a0JaVU1PWnhWZy1KX2dZRWVLbkRSVUhnUFNxX2JhSEMyOEdQVDRTUWxpWWlrYWpCRGI0TDJWLXZFc2F0U0UxWndrcVRUUXprdkxreGVxLXk4VlNid1pjV2xkRXNrVmwtSDc4UQ",
+    "source": "Kompas.com",
+    "pub_date": "2026-10-03T03:46:22+07:00",
+    "desc": "Foto : Kasus Korupsi Dana Desa Jangkar di Situbondo Dilimpahkan ke Kejaksaan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "9d50abe94baf",
     "title": "BUMDes Trans Makmur Jaya Raih Excellent, Program Pemberdayaan PHI di Kalimantan Diapresiasi - bekasitoday.com",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYzluZXF3ckZoRmxOTVROd3BlZ1IxYzNjdFVEdE44SnN3WVlKVl9DcDBtbVNrVWlsOXhRQnlxb2huRFVlaUVMZzBHMHo0RkxEc0wzejBWRzlQaWpKXzdsd3Zsb1Y3OEgyVVFmcnZqUXp2VDVuTGhRUGR0QnBlYV9kTXdqZ09lc0lfNmZrZW13azRtXy1zblNtYzRsV2JkSDJEbjBDSVJlYWNqSjJRdEJUV3BINXF2T2k2bUhzRWF5SHM",
@@ -74704,6 +74717,19 @@
     "source": "detikNews",
     "pub_date": "2019-12-12T15:00:00+07:00",
     "desc": "Pemprov Jabar Targetkan 746 BUMDes Baru di Tahun 2020&nbsp;&nbsp;detikNews",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "04c139df67c6",
+    "title": "Kemendes Beri Bantuan Stimulan ke BUMDes, PAUD & Pesantren Bulungan - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkFMZkRDRWp6bjBINjEzSUNscHNES0dFTVBwZ0hyRTVPLUZqd253aDY3MVZhOF92VVBLeWxMUTQxQUUtbkJ0dWhXUUJ1SmhjQS1zaENyZURkaFNramNTMEhvcVN3X0dlQUVMUVItRE1EYW5zZDdGRGJhVkJ4UDZxd3hkX3ZRV1ptZnFkY0NjUU5faF8xRmlxQUN3aGpDeFBmNFNfenBsQQ",
+    "source": "detikNews",
+    "pub_date": "2019-12-12T15:00:00+07:00",
+    "desc": "Kemendes Beri Bantuan Stimulan ke BUMDes, PAUD & Pesantren Bulungan&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
