@@ -1,5 +1,18 @@
 [
   {
+    "id": "efd33a42ee5a",
+    "title": "Pemanfaatan Dana Desa Tahap 1, Gang Asemjajar Gabuswetan Kini Dicor Beton - CuplikCom",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTnp0WXVJWmFXU3F0eGFJRDVvRi05V25hZFN0X1hHempCSlkwRlp1QTNaMGhpU2pTVEZ2TXpqZDJ5bzlzZ05rU0xLa3ZzaWJlUDFzODYzUFd2b3lnT2NwSEJqMUNZUVRnd2pUVVlJNlJNMFpEZXM4aDI0Q180VWZIaHl3Nk1LVWN6LXRPdkhrUERCVW1RbWRpV3lmbFZMS3o2eVc1YW1CWl9ybUk",
+    "source": "CuplikCom",
+    "pub_date": "2026-10-24T15:35:00+07:00",
+    "desc": "Pemanfaatan Dana Desa Tahap 1, Gang Asemjajar Gabuswetan Kini Dicor Beton&nbsp;&nbsp;CuplikCom",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "61c97c2b2d85",
     "title": "Bumdes Gangga Jaya Bantu Perbaikan Talang Jepit Sumberagung Banyuwangi - TIMES Indonesia",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU3IyVDZrSTVSem1vdEZlZmtiZmRxZWNVN1NWQ1FwMm5BcG9QMHk3MzVxc1RZLWZyc21DOWtOSmxOSFZXejVVakNFQkc5al9sVmRnZ1VUY3NDbEZoZlplcV9heklKbXdQbllndVlab0JyMnFrVmpXX3EwYVVoLUk2RjNveFVaQnRTS2lZbllkY3hSU0swNlhlSG85QmhWZHBwem9uTFgxYmlVaXZCY3lvcy1EcGpuX0RkTHZLY2p3VnpQZw",
@@ -74422,6 +74435,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4fafa5198bd0",
+    "title": "Berita Terkini Harian Kemendesa Terbaru Hari Ini - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9md1paMHZxSjRJdkdHb1hqWEdSQ18yOEdxVFk2djliWDZMTUVtQXFvLVBKZFZOQUhqNFA0czFpYVlVZkloRzBwTG5qTGQ",
+    "source": "Kompas.com",
+    "pub_date": "2019-08-09T16:04:13+07:00",
+    "desc": "Berita Terkini Harian Kemendesa Terbaru Hari Ini&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
