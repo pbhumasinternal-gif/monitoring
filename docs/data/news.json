@@ -1,5 +1,18 @@
 [
   {
+    "id": "e1af0ee9482a",
+    "title": "KPK Ingatkan Risiko Korupsi Dana Desa, Dorong Integritas Gampong Aceh - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1hQZDQ1SHZFMWxLSTNIMUlXVFFqYXRRb2FpTmtOV3Zyd1FOdm9EMnRGeWRqcm9sSjh6enFmR1VEZFRPVGFXVVNPTlphZ2xMN3ZlOFNLRHZSU1RoYnFKaGlUWXU1ME9XWkhFSU9YbVV6bkZ2QVB3ZlVZaTRJVThKaUdhN2IwdWRFY3NOel9Pd0xWUWNKd0Exb1hOcXA0N2IyMktDd1pPSUxxZ29wYXRHZzNR",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-25T09:14:00+07:00",
+    "desc": "KPK Ingatkan Risiko Korupsi Dana Desa, Dorong Integritas Gampong Aceh&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "1008265d7ef7",
     "title": "Pemotongan Dana Desa yang Membuat Ekonomi Macet - Tempo.co",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54czFCVTR5Ymg5TkFjaW96S0swYlZKNklEZnF5ekdndnpKdWFmLTRUYktJQ0FGTjZWS2ZpLTU5WnVUY3AzbG9uOS1MN0tqQzN6UWsxd3Z2ZDJhWnl4MDVET2tpS0RYaFBwNlo0SlpQbXhzU3hIVmVyZjBOcw",
@@ -5627,6 +5640,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "36f5d3af0729",
+    "title": "Kemendes mengusulkan percontohan transportasi desa berbasis listrik - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmQ2ZzNlZVRzY2xJUHp4OW9lSElfbE1Za2Mwb1FpdFBLYUdEV3JVUFRwUkJ4Z25mWURTN3ZSaG5qOGx1WmZPYzIwRnY0MXRFT0czbks2X2xqdVEtMVk4UXhDQW1YdjBnQlctZ0VZdkJPekVuTXF3elRzUUxrYUFuSGowSFI5V3U5Z21ETFFZU0paMU8zZjdwdi0yRnZZQkk0NGE3R0g5RUNERFotYlRsMw",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-19T12:38:11+07:00",
+    "desc": "Kemendes mengusulkan percontohan transportasi desa berbasis listrik&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "a0355ff929cd",
@@ -69002,6 +69028,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a9e4a68f8eb6",
+    "title": "Hakim Sebut Ada Pihak Lain Bertanggung Jawab Korupsi Dana Desa di Banten - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ1pUMHRiVnpIODJRYzZpZzZMY2JkdTZ6UzBVUkNjd0FVTkFITjRtbnF4RXAySkphcU9xei0zVFNJS3pKdEtVMWJuMnRrNENnZUVkelRBTUZLc0txZWE1NUNMZndwVjF3RjdfTENvZHJOazhHdXAxbEVBTm9sMUZEQjRTOVEzNG5vNGh1TWJoNmxNd0JFSzFFSWpUb3Q0UTlCeXJ0Mk1jNWl5b05jb0VJWFRR0gG3AUFVX3lxTFBHTFBRcjc2NFJhQm9uZzV4RzFmMXE5a2lGSlozRUpxQUlOYTRtZ0M0OUZPdm52c1pEd0g4VFRZNzdkeXBvYi1kQUtjY1Rfc3JiZldVVHhVdDVZYzZkcS1WTnpNSjBiVlJYWlFSS1MwUldyRnNvTWMySVdNc0o4MlY0SllWWFdHN0ZuZWJTMW9LaXBYb1BNTjBVdkVmdV9mRnFac3JHeG9IX0NZV2poZG1aazJ4RGF4UQ",
+    "source": "detikNews",
+    "pub_date": "2023-11-30T15:00:00+07:00",
+    "desc": "Hakim Sebut Ada Pihak Lain Bertanggung Jawab Korupsi Dana Desa di Banten&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "ba575f2bf053",
