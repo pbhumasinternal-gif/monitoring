@@ -13,6 +13,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "43f3c2cc3312",
+    "title": "Lima Tahun Dana Desa Nawaripi Biayai Pendidikan Anak Kamoro, Norman Sambangi SD Naskat Mathias III Langgur A - Tual News",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLVh5M2dtbUxCYXVDMFQyRHNNQ3N0MzB4bEhJaUZlVThFUG95TzBQZGVPdFBuTVlMNXRDVTVTQVktSFJXd0pleGItOFZiUFRpTnZFTUdBNmVJb3E4c3BYYnZwY2Nuc0ZiMGo0UHMwYk1MbFhJSUFuQ1N3bS1PZHRHSzFHUEx0T2loMFV3dmR4d1o4TTItTjg4dzhpeDhSY3J0WVNOUzV0M2dFejVETWJSU2xYcW5sbGFpRk54Q0VTbU01d0dnRGd5Mmd0ZXRmYWRkOUhJVnhvcmk",
+    "source": "Tual News",
+    "pub_date": "2026-10-25T19:22:49+07:00",
+    "desc": "Lima Tahun Dana Desa Nawaripi Biayai Pendidikan Anak Kamoro, Norman Sambangi SD Naskat Mathias III Langgur A&nbsp;&nbsp;Tual News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b28c6e5a650c",
     "title": "LSM KoreK Desak Audit Dana Desa Rohul, Anggaran Ketahanan Pangan Jadi Sorotan - Media Pesisir News",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDM1eFVUaW9jV2pzZ0RUZzd3aGpRVElyc2xKeFhUMm5mMjdzOHV4YUpQeU5ab0dodlF4enZndm52c0RmeUNrbEJzOHo5emNXdWNWTHNEMWlpYngyaE9mN3pOdkRyMHpFU182R0dfVUFBNkwzSnR5X3FTOE1SRkJWMm9DNmZhVGZXUlNKTWZva3lqUmRhX054YVFhYV96UEswcGk1MlRCb0s0eTNNRFZ4YVBPMy0",
@@ -24,6 +37,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "735091cb22f8",
+    "title": "Kumpulan Berita dana desa simalungun - ANTARA News Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BT29PdEpwQXZ2YlFmNmZOTHNwd0wzX0FzZkVRMk83MFdLMF9MS2ltT0N5ODFUbjdtNDNCZ0o5Q0prX3NTaWpDYS03ZkF0TGFKZzl4UVJMc29yQUFndl8tWC1ZY0ttQQ",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2026-10-25T15:03:06+07:00",
+    "desc": "Kumpulan Berita dana desa simalungun&nbsp;&nbsp;ANTARA News Sumatera Utara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "c90e8d606cc7",
@@ -216,6 +242,19 @@
     "desc": "BUMDes Gangga Jaya Salurkan Rp15 Juta untuk Irigasi Pertanian&nbsp;&nbsp;ChatNews.id",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "cf7998ef4734",
+    "title": "Wapres: KPK tidak cakup awasi dana desa",
+    "link": "https://jogja.antaranews.com/berita/337796/wapres-kpk-tidak-cakup-awasi-dana-desa",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-10-25T08:26:00+07:00",
+    "desc": "Jakarta (Antara Jogja) - Wakil Presiden Jusuf Kalla mengatakan personel yang dimiliki Komisi Pemberantasan Korupsi tidak akan cukup untuk mengawasi penggunaan dana desa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
