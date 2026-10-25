@@ -1,5 +1,18 @@
 [
   {
+    "id": "b28c6e5a650c",
+    "title": "LSM KoreK Desak Audit Dana Desa Rohul, Anggaran Ketahanan Pangan Jadi Sorotan - Media Pesisir News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDM1eFVUaW9jV2pzZ0RUZzd3aGpRVElyc2xKeFhUMm5mMjdzOHV4YUpQeU5ab0dodlF4enZndm52c0RmeUNrbEJzOHo5emNXdWNWTHNEMWlpYngyaE9mN3pOdkRyMHpFU182R0dfVUFBNkwzSnR5X3FTOE1SRkJWMm9DNmZhVGZXUlNKTWZva3lqUmRhX054YVFhYV96UEswcGk1MlRCb0s0eTNNRFZ4YVBPMy0",
+    "source": "Media Pesisir News",
+    "pub_date": "2026-10-25T17:21:06+07:00",
+    "desc": "LSM KoreK Desak Audit Dana Desa Rohul, Anggaran Ketahanan Pangan Jadi Sorotan&nbsp;&nbsp;Media Pesisir News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "c90e8d606cc7",
     "title": "Digitalisasi Keuangan Desa: Mahasiswa Gagas BUMDes Smart Accounting - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVE5BbHNmSkVWdXVzcjVnV2xTdmpvU0xNbUVRZUVhVjFSUWlSQ2pac2NxclpCMXc0bUt2aXlXSkppLVZJYTRBckhRYkNrXzJ1QUliTXlQLXVLaVRHRXE4VVdlR0RwU3NYZkkzR3FjMUxLeERvejZhem5Zc3Zqc2NIVjNTTG93S01pdlRrcXZFZU9GS3RFenVLaTNhYzhwb1Jod2I2OVEtZUJkU3E3MUVMWHFPb18zN1E0Mm5lYWQ1eDlGQQ",
@@ -36,6 +49,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "45a6a5ca777e",
+    "title": "Kumpulan Berita Kementerian Desa Dan Pembangunan Daerah Tertinggal - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT3JEOUx4LWJsRzFNbWx5VG9zY09kZEw3SE11V1I4UE1MWHpNZlk3TTU3Q2hzNFFFTTAtTm9YT1JaSGhkNkxIaGtwMzU3TGFvQTJtaVQ4Q3JJczRRX2FRdUphdDJUS3E1NHVUZm9vaDc2aXloLXJCN1E5TGJrcmEyRzZFM2E3Z1NtbUFxX1BsRFA",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-25T12:50:14+07:00",
+    "desc": "Kumpulan Berita Kementerian Desa Dan Pembangunan Daerah Tertinggal&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -56758,6 +56784,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "fc29ed4445b7",
+    "title": "Menteri Desa luruskan isu terkait pemotongan alokasi Dana Desa - ANTARA News Megapolitan",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSVdxdzhpZjZ4cFYxcGtIMG01MjN4ejVFS1RTcm8wQU5KcHRhMjIyU2xhaHhmdUc0WFFhOHNvOEd6Y2JESzBmYVlWeUJBX2Q0NktFV19JcnJEUXNQRVVXcFJTRVY3YkhEamlNNkJ1UjE3ODgyQ280aC1uZkRkTzJuSzN3Tm44eW9ZdWQ4WWpQYUhBNUhoV2JRbUdicFNzeFNqcTZEOVRyUXUyVkJlWktMaNIBtgFBVV95cUxQOTcxb3Y0MnVKVnF1VzBPajVWVkVFdlk1cmJzUm1ZaUdXLUxPQ3d2ekhidmU2eW53dHJ3NDdZaEtoQkFmTDR0VzF6ZUFJWm93SmZZaDI4cWVsb1RJd3pqakY3bW9nQzNEMnVpX3BOYmJXT2kzNGduamlGcUpkREcwMk1TSG9yd0RYbUt4MVRJUloya0taX0F0c1VXb3JZamNDQmhtVnlRenA2T2FpbGpDamZZX0dIZw",
+    "source": "ANTARA News Megapolitan",
+    "pub_date": "2026-04-16T14:00:00+07:00",
+    "desc": "Menteri Desa luruskan isu terkait pemotongan alokasi Dana Desa&nbsp;&nbsp;ANTARA News Megapolitan",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e52c2cfa3b84",
     "title": "Kemendes PDT Dorong Kepala Daerah Kembangkan Desa Wisata untuk Tingkatkan Ekonomi Masyarakat - InfoPublik",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZm42Y2NwbnJ1RVNKWjZwaDFzX0FORTBHbDQ4RzNteHoxMXVHd1kzVFdRYnpUcDl6YWtWQTFCMjFPd0lzSlhIeTVGNWhiR1ozamlabXNmV0RWaXhtNzhDT3R2eXBYYkotZlRQQW5KWG95YzhPX1hzN3FkUE9JQ1NCYVhBV3Rqa3V1WE1ibUIzelhtSjVhQ0FwYm1kVEh0OFhlalBNVVdDR3A4eGJiNTd2MXdMbko0QVpFMFNJNWU1TXhZekowU2VMX1Zib3NVVW5TbzhJb2ljTGVuMUZ0ZkJxUGYzU3pTazVnRmc",
@@ -60534,6 +60573,19 @@
     "source": "Kompas.com",
     "pub_date": "2025-12-24T15:00:00+07:00",
     "desc": "Purbaya Santai Diprotes Kades, Tegaskan Pencairan Dana Desa Tetap Sesuai Aturan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4551165c40b4",
+    "title": "Penyaluran dana desa di Kudus Rp122,94 miliar - ANTARA News Jateng",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGhBVWI3OVJ4dWdCSGFIRnI5SnR2MklkektXTHFuSUlrWGVPcXppampkMlVkWDg5NG9MS2VqcHNCUzZQeW93LTlFZ0pUTXpFUTdGWWpodjVjdGkyeFR0VEdjYUpyWm1DRG5CdGN6TUpPbFdjRmx3T2NHVi1SbGVKTDFEbUdySnJXcVpOMV9uUjRCQQ",
+    "source": "ANTARA News Jateng",
+    "pub_date": "2025-12-24T15:00:00+07:00",
+    "desc": "Penyaluran dana desa di Kudus Rp122,94 miliar&nbsp;&nbsp;ANTARA News Jateng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -77282,6 +77334,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "41911f17b3ce",
+    "title": "Dana Desa Boleh Untuk Bangun Sarana Olahraga - ANTARA News Megapolitan",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFczeGZNdktteWpMRkxtaVVOaHZwNGd5c3Q5U1M5b2FXYUMxOVZpSGw2ZVYwb2o2SlJTcnZRWTZSVjRkTTdwWFI3MEZYR2ZBT1ZBeWpPLXJkMG9xMDA4Y1VaV2VnSVlmaGk5dnotZzBIVXdjY2JxRUVEODhMOTNmWm5MSDRxa0p5TXVDVmtlWXhtRkFFcXFJ0gGcAUFVX3lxTFBCdjdkVGlpQ2FYbWNPSGpGanB0LUI2UFVGSlQ0TDNiM0ZKRkN2UEFMNnBlOEpnSmlnTHA4ZENvVGZWR0RISi1yUDBNYmc2UklqRnc5TTdfWW1PU3Q0R21RTy1LWEZibU45T240MG15LVlxNXBuZnJESldLYUI3LUxEaXBkaURkVzhVREpYOWs5dWxWVlRTX0YxcjQ2Rg",
+    "source": "ANTARA News Megapolitan",
+    "pub_date": "2017-12-11T15:00:00+07:00",
+    "desc": "Dana Desa Boleh Untuk Bangun Sarana Olahraga&nbsp;&nbsp;ANTARA News Megapolitan",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {

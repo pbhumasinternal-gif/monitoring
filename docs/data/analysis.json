@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-25 17:01 WIB",
+  "last_updated": "2026-10-25 17:30 WIB",
   "days_analyzed": 30,
-  "total_checked": 1420,
-  "dominant_topic": "Dana Desa (606 berita), BUM Desa (395 berita), Daerah Tertinggal (212 berita), Kemendesa PDT (207 berita)",
+  "total_checked": 1421,
+  "dominant_topic": "Dana Desa (606 berita), BUM Desa (395 berita), Daerah Tertinggal (213 berita), Kemendesa PDT (207 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -72,6 +72,12 @@
     ],
     "cases": [
       {
+        "title": "LSM KoreK Desak Audit Dana Desa Rohul, Anggaran Ketahanan Pangan Jadi Sorotan - Media Pesisir News",
+        "source": "Media Pesisir News",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
         "title": "BUMDes Banyu Urip Madiun Garap Ketahanan Pangan Lewat Ternak Kambing - BANGSAONLINE.com",
         "source": "BANGSAONLINE.com",
         "topic": "BUM Desa",
@@ -110,12 +116,6 @@
       {
         "title": "Perkuat Ketahanan Pangan, Polsek Gurah Dampingi Panen hingga Penjualan Jagung BUMDes Wonojoyo - metrotv9news",
         "source": "metrotv9news",
-        "topic": "BUM Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81c04c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "Enam Sapi BUMDes Krompol Dijual, BPD Pertanyakan Pertanggungjawaban Dana Ketahanan Pangan - HARIAN 7",
-        "source": "HARIAN 7",
         "topic": "BUM Desa",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3000000, 0x81804c8, 0x402, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }
