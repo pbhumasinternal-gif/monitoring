@@ -1,5 +1,18 @@
 [
   {
+    "id": "9c574ded30f2",
+    "title": "Pendapatan BUMDes Saka Mandiri Rp 20,48 Miliar - NUSABALI.com",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNS1JRWlDcGF5QXJKRU1KbWFucmJjcXVGaGIza0tUeDM3aUliRzZlUjZZbmtsUDF2ZkpEeHRHaTZuQUZZdl84MlFnaEdFcmlKWDd4Wmd1dVJXb3N1NVVtT0VaLVlCTk55NXBBTGJMUVlUYjUydXQxeUpFZWY1R2lFZjlZVjIyY0NZYWhxeQ",
+    "source": "NUSABALI.com",
+    "pub_date": "2026-10-25T11:32:13+07:00",
+    "desc": "Pendapatan BUMDes Saka Mandiri Rp 20,48 Miliar&nbsp;&nbsp;NUSABALI.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2b7e58dd587d",
     "title": "BUMDes Banyu Urip Madiun Garap Ketahanan Pangan Lewat Ternak Kambing - BANGSAONLINE.com",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXo0dGd2SnNkVDJRNEwyT1VvMmpmS0xIejg5SHF1c091Vm1OekROSk81QkpCc2EwWUlFSkZMTkJaaG1JRnpmelFrdl9NOVlwMGRHYTZ2M0dxc2xKYndMcjAyZ0daNFFtTHNuN0JuaUZMYy1TUzhoLUFVZk5uaVM0d2l0alZCR1Q5a1IyejJydXJEZ1RvQjVmZnRTZ0EtV1VNUDROZV9GR1ZZcnM",
@@ -84,6 +97,19 @@
     "source": "Tempo.co",
     "pub_date": "2026-10-25T08:00:00+07:00",
     "desc": "Apa Saja Dampak Pemotongan Dana Desa&nbsp;&nbsp;Tempo.co",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "49ed4da4ee1d",
+    "title": "Kumpulan Berita dana desa di bangkalan - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55ODJkR2U1X1V4eU1mMGxMRXRBTDk4U19jSElteW5NMzZrSzJZckFaTGFHNGh6bG5NMi1lUnAzcXVHQjVGUG1jajdLamNKWFZNeHJTREM2Z3pDX1FPYmVjMzUzX1pBdXBaOGc",
+    "source": "Antara News jatim",
+    "pub_date": "2026-10-25T06:48:33+07:00",
+    "desc": "Kumpulan Berita dana desa di bangkalan&nbsp;&nbsp;Antara News jatim",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -7119,6 +7145,19 @@
     "desc": "Kumpulan Berita pembekalan managerial bumdes&nbsp;&nbsp;ANTARA News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8b2913c8cccd",
+    "title": "Telkom Hadirkan BISA PandAI Numerasi di 100 Sekolah Wilayah 3T - Telkom Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOWJiNmZHWWdtSUlRZDF2Vmk1bkxFVlY5bnZhemdPb1VTeG5mVFFPaVFKZ1ZZRG93Tk5PMjRLeXFEd3hYcU5KZTAweHpwLWNsQUZIWV9BanNSdnBUVkI2OHNvdzMyQUZianBSNTM2VG40M1k5QWRGc3I3cHc5NElxNVY0VWhrNG16S3pyTzhoMGRYZmowMWhoTGJjTG5xUUxDRDY3UXExZ0dkZmJzYlpTTjNFa2Yzby1QSDZya19oZHZxUVc3YlZZOEJEYzI4ejFZRUZhRkwtWS1EMTBQLTd0alNla1ZBZm9tSkx0N2c2RHh3d0dFN0E",
+    "source": "Telkom Indonesia",
+    "pub_date": "2026-10-17T01:17:35+07:00",
+    "desc": "Telkom Hadirkan BISA PandAI Numerasi di 100 Sekolah Wilayah 3T&nbsp;&nbsp;Telkom Indonesia",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -76706,6 +76745,19 @@
     "source": "Kompas.com",
     "pub_date": "2018-08-22T14:00:00+07:00",
     "desc": "Foto : Kenaikan Anggaran Dana Desa Bakal Genjot Pengurangan Angka Kemiskinan Halaman 1&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6cd3dc8a39e0",
+    "title": "Dana Desa Rp 73 Triliun Diprediksi Mampu Kurangi Kemiskinan - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWU92OENxdjVmakkyaUhmblg4bjAyalNGblpOdzdhTzVOOFpKVi1MYWM5LXJreDNINkl5enBkeWJ3bXplbnA4cHdhaE1PNWoyemRaTUx2QWxLTWZlYVQtZjdSSE9VS0E2djlrTkg0c2NZRlpaMmJMSERtYnl1TjhPcmhsVnJ1QnJXTGFXVjd3X3g0aWdHSk1VeU9rTHFna1lUXzIwMVZvMENwRndIUU45NkRObGl6X1N3",
+    "source": "detikFinance",
+    "pub_date": "2018-08-21T14:00:00+07:00",
+    "desc": "Dana Desa Rp 73 Triliun Diprediksi Mampu Kurangi Kemiskinan&nbsp;&nbsp;detikFinance",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
