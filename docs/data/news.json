@@ -1,5 +1,18 @@
 [
   {
+    "id": "39627a102f1f",
+    "title": "Pembangunan 259 gerai Koperasi Merah Putih di Gresik rampung",
+    "link": "https://www.antaranews.com/berita/5810799/pembangunan-259-gerai-koperasi-merah-putih-di-gresik-rampung",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-25T19:27:53+07:00",
+    "desc": "Sebanyak 259 gerai Koperasi Desa/Kelurahan Merah Putih (KDKMP) di Kabupaten Gresik, Jawa Timur, telah selesai dibangun ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b28c6e5a650c",
     "title": "LSM KoreK Desak Audit Dana Desa Rohul, Anggaran Ketahanan Pangan Jadi Sorotan - Media Pesisir News",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMDM1eFVUaW9jV2pzZ0RUZzd3aGpRVElyc2xKeFhUMm5mMjdzOHV4YUpQeU5ab0dodlF4enZndm52c0RmeUNrbEJzOHo5emNXdWNWTHNEMWlpYngyaE9mN3pOdkRyMHpFU182R0dfVUFBNkwzSnR5X3FTOE1SRkJWMm9DNmZhVGZXUlNKTWZva3lqUmRhX054YVFhYV96UEswcGk1MlRCb0s0eTNNRFZ4YVBPMy0",
@@ -62,6 +75,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1e50002f38b8",
+    "title": "Kementerian Desa Pdtt - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IZ3BjclVwR2IyVllfbzRIQ0V3LWJkem9XSU9IZlhxaTRHbG1rNXVOMk0tV2xPb2dxQlhpUEdMeWVmd0pkRnlib1p5c1dpbl9ualNCdTc0ZGY4cUVKdzNXa0Nodms",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-10-25T12:49:25+07:00",
+    "desc": "Kementerian Desa Pdtt&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -279,6 +305,19 @@
     "source": "detikcom",
     "pub_date": "2026-10-25T01:24:41+07:00",
     "desc": "Wakil Ketua Umum Hanura Patrice Rio Capella mengingatkan visi besar Prabowo di balik program Makan Bergizi Gratis (MBG) hingga Koperasi Desa Merah Putih.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d6bf33d8ea69",
+    "title": "Kemendes PDT Catat 33.000 BUM Desa Ikuti Pemeringkatan, Ini Hasilnya",
+    "link": "https://beritanasional.com/detail/156394/kemendes-pdt-catat-33000-bum-desa-ikuti-pemeringkatan-ini-hasilnya",
+    "source": "beritanasional.com",
+    "pub_date": "2026-10-25T00:00:00+07:00",
+    "desc": "BeritaNasional.com - Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) mencatat sebanyak 33.000 Badan Usaha Milik Desa (BUM Desa) dan BUM Desa Bersama di seluruh Indonesia telah mengik ...",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -56225,6 +56264,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ea0458e49859",
+    "title": "Kejari Pidie Jaya Tahan Kades Gampong Lancang, Korupsi Dana Desa Rp 450 Juta - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTDFnVm1jSWZkb2pRUll5Smw2VE1qTUVSbUl0U2YzZEhRU200NmhwR2p3TnMzT3RqVGk5dlZpRlV0aDZMLThZUV9SRndJUFJwcnMySXdxMG9STkFsZ2hYSll6dDROQlFqem5LSXlqaXJFTnM1eWstRjZxOUVYbXJRX3g2dVhmaHBDeUlsNHYxVFJ1ck1aRmw1NHdnZ0c5YTBzc3hHSU05eEtpVWRpZEt3ajNnV0dqZVJzaGJ1UnFNazc1TWdHOU9yYQ",
+    "source": "Kompas.com",
+    "pub_date": "2026-04-23T14:00:00+07:00",
+    "desc": "Kejari Pidie Jaya Tahan Kades Gampong Lancang, Korupsi Dana Desa Rp 450 Juta&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "10156bac16e7",
     "title": "Mendes Yandri Ajak PPPK Kemendes PDT Aktif Bina Desa - infopublik.id",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GRXZ0aG44RXFlY1M5N0plV25ndkJoODJRLWJiYjVOdlJCTVNVOGRueWpqd0h4SV9GNDJFcXo1Sk96RkhES1h3c0M0MmhzY3Rndm9WeFRaOURQdWJxMGhRRWliY1dKY3lEUUpmMF9mT2JqdzFRdVAzdDhtRXg",
@@ -60474,6 +60526,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4b3dab47d774",
+    "title": "Dana Desa Dipangkas, Pengangkutan Sampah di Pulau Sebatik Berhenti - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUxnX25faXl1ZVJJN05MRTZNNmxrQm5QbEFLVno1Vkp5UmJVTmg2VjRKQ2ExWGJ1QUQ4QVlmYlNNaVEtSlpXbG1OaUotM3hoYUtELWxqWW9YWGtkZ1dUMjg4TGRpckQySlRjczU1TDB4V3BpcFJxYlI4YUs5VjhydEVjc3FqZTNMRVoyS1p4YWhLWG9PZFllcE1YU3hQSFdWLTAyOUpXTm1DVzZmS2I5Rlphdmg2Zk40VWZR",
+    "source": "Kompas.com",
+    "pub_date": "2026-01-04T15:00:00+07:00",
+    "desc": "Dana Desa Dipangkas, Pengangkutan Sampah di Pulau Sebatik Berhenti&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "a12504573459",
@@ -66324,6 +66389,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d940b3b39600",
+    "title": "Korupsi Dana Desa Rp 496 Juta, Kades dan Bendaharanya di Bengkulu Ditahan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM1l4V2V2alVkVHMwaEZvTkNNVnJpNXM4VVdHc1MybWdvck5ONmgzeXZRb3Y1SGdTOGl1VE5UNDJjTEVQWEx0U2h6WmdjNXBEOUtHUXN5MTN6QTN1NnNfV1RHRjJLZ044eF9JQlRlWHg1ME0yTFQyc2NscWVQQ19RLXNnSlliSU1nbWp5eWZHU1NxUTltSWlRN1M1QmNsZ0J5bUw5RXNwTWlWRWFnX0NMdmtqR0FqNDJlaEIzMU5BcllfdHVI",
+    "source": "Kompas.com",
+    "pub_date": "2024-12-18T15:00:00+07:00",
+    "desc": "Korupsi Dana Desa Rp 496 Juta, Kades dan Bendaharanya di Bengkulu Ditahan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "1613f8249692",
