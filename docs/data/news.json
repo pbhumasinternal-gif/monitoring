@@ -9971,6 +9971,19 @@
     "sentiment_tag": "Tekanan Anggaran"
   },
   {
+    "id": "13c2f8cedbc0",
+    "title": "Bupati Nabire Perintahkan Tim Dinas Cek Sekolah dan Rumah Guru di Wilayah 3T - Papuapos Nabire",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTU10ODhaRHRVOFhfcGM1NWVkbEZuRGd5OHJmVDRWbllDN1FRQ0RUUnNPV2c3TzY0T1dWcm1UODcwUTNFTzZDWlVRbnRPYnZ0UWlNWEF3Q2sxSHRQUGZlZWYyeEdzMlBweTdGWjdKb2R6N2dBUmxJNmoxQ3laV21iNXhFUnk4ZUx5V29vTTdnRU1WeVJES05FTlZuektfeVZVZm1lSlRzSlhuUkVfQ29PY2JR",
+    "source": "Papuapos Nabire",
+    "pub_date": "2026-10-14T14:00:00+07:00",
+    "desc": "Bupati Nabire Perintahkan Tim Dinas Cek Sekolah dan Rumah Guru di Wilayah 3T&nbsp;&nbsp;Papuapos Nabire",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "166b7547faea",
     "title": "DPMK Mimika Soroti Pemotongan Dana Desa hingga Rp500 Juta - Antar Papua",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTWJtYTVxZGVNcG1wNDFab1VwQUNqcXk5eGo0YkRwVDVlVVZWXzVGSFd4OHpWcW9vM3FfUElKT0QwQmQ2ZWU3Qm83Y0dIal9KT1FDaERhZDh0YXU1b0daWmY2VFlrTHN0anc3OEFUelRCQXJSUG1MQ1ZWd3l6ZFV0cUxKR1kxN0s3",
@@ -14696,6 +14709,19 @@
     "source": "Kompas.com",
     "pub_date": "2026-10-05T14:00:00+07:00",
     "desc": "Tangis Bupati Siak Pecah Saat Lihat Sekolah di Wilayah 3T, Apa yang Terjadi?&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1c16e32c1849",
+    "title": "Foto : Tangis Bupati Siak Pecah Saat Lihat Sekolah di Wilayah 3T, Apa yang Terjadi? - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdW9kZy1wVXI0SEU0cG5NSWQzazBNNHkxNGxDYTNoODNyYm8yNVY5VllMTEF6YmsyZWhnRW5DTlZ2Wk9YMXZQRnFrTDZTTnRHSUw1UzNyZVFpQVhJU2tVMGRnMnpRRUloMEh3VkFaaTRHTUxsNU9qQ1lRQ3Z6MThuNVNFSmZVRVpETzBUVHlCNV9wOHlGakVCaUdDWHFaVmhuanAyZWxsalY1T2g2MjVQckV4YlNFTTY3eXdDZlhnX1JHejFyUE1vUUtB",
+    "source": "Kompas.com",
+    "pub_date": "2026-10-05T14:00:00+07:00",
+    "desc": "Foto : Tangis Bupati Siak Pecah Saat Lihat Sekolah di Wilayah 3T, Apa yang Terjadi?&nbsp;&nbsp;Kompas.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -71823,6 +71849,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6fa0ed236525",
+    "title": "Diduga Korupsi Rp 274 Juta, Bendahara BUMDes di Bali Terancam 20 Tahun Penjara - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0hNT2tlVmFlZzlMdXNGYzA3bmxITjlLbUd0Z2dLNHkwSURrLXc4WmhDc3BkbGlsZ1lsTlo3TTU0R3pDQlJISFVaMFdwS3FrR0twUkZWZURIMHB4Zjk3VldrVXB2enV3ZzFQZVhMclNxRzh5Ti1jLVpIWHpHeHFCYXpxQjB4MVgwcXVIdXdIN25UZzBfcldMMXcwYVJXVm5LN0N0SDUwbVNrcDl2eDZnYWZwQkFiaUNKa1FWM2pMYTM",
+    "source": "Kompas.com",
+    "pub_date": "2023-02-21T15:00:00+07:00",
+    "desc": "Diduga Korupsi Rp 274 Juta, Bendahara BUMDes di Bali Terancam 20 Tahun Penjara&nbsp;&nbsp;Kompas.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "88772390c46b",
