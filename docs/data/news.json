@@ -1,5 +1,70 @@
 [
   {
+    "id": "db6817250a13",
+    "title": "393 Koperasi Merah Putih di Babel terbentuk",
+    "link": "https://www.antaranews.com/berita/5812067/393-koperasi-merah-putih-di-babel-terbentuk",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-26T15:18:02+07:00",
+    "desc": "Sebanyak 393 Koperasi Desa/Kelurahan Merah Putih (KDMP) telah terbentuk secara kelembagaan di Provinsi Kepulauan Bangka ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6c8e65ad5163",
+    "title": "Distribusi MBG ke wilayah 3T di Halmahera Selatan dukung pemerataan akses makanan bergizi - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaE1aNWpTUjhPb18zbnZteGZIc3dhZTZJelBPUHdmbjllel9OMmtEVnRvdDhuelR2NlEzbVB5SzBSZlBPWlp0a0V4Q3NhWWQzRGNFUFpLX1M5MHZuSEY3OE1vNFVSdEFzWFB0eWZ5TVNzU0ZsQUZiUHVxelROMm1xamJHZXhMU0YtZWI3NUJPZkJnWnRKTlRwYl8yRFI2MTlGaFNoZkNZMVNHT015Z2VnMlZ2WlRqUUxnYUdTdHFZUG9qWldEWWZfSw",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-26T15:14:00+07:00",
+    "desc": "Distribusi MBG ke wilayah 3T di Halmahera Selatan dukung pemerataan akses makanan bergizi&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8c931e127214",
+    "title": "Unit Tipidkor Polres Bengkulu Selatan Geledah Kantor Desa Suka Bandung, Usut Dugaan Penyimpangan Dana Desa - Viral Publik",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTzNjTW0wY2R1bzk0SE1HcFBkNjhQYkFnalNocC11REhPMVBkSzlFRk84ZjRpT2I0SmhmVXgxZTBfLXVkS0JSWjhlQm1GX3Zod0EybEc0R1NMbk0tMmEtSVlsOEU3X29CTUhkRWc2cXdBYUlUOWM3bHdzYjZkaHhmNHl2MENmUE5wZjBqdU9LbjA2X3BkY0Jlb2JpWF9wSnFhcnl2VVVPTGVIMlVMa08xcGhQS01ROEFxd2Jsc1pWOVA",
+    "source": "Viral Publik",
+    "pub_date": "2026-10-26T15:12:28+07:00",
+    "desc": "Unit Tipidkor Polres Bengkulu Selatan Geledah Kantor Desa Suka Bandung, Usut Dugaan Penyimpangan Dana Desa&nbsp;&nbsp;Viral Publik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -6,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "87860adc4991",
+    "title": "TINGKATKAN KEMANDIRIAN EKONOMI DESA, BUMDES IKUTI WORKSHOP LITERASI KEUANGAN SEBAGAI TINDAK LANJUT PENGUATAN TATA KELOLA - Target Berita",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFZpWG1ORFJ1YjgtbVRFQ2ZyRzBRTVVwUFhoYndtUUpidWFmNEltcmpVVGJSaGRqX2c3RDZvTHRiTmhZS3RYOTF4ZWxEN2hheVlWMzdZU2xydGhxYUpILWlLLVp0TzNmMDVpeW1tM0xneXhyQ3U3UVE1eGhRRHV3X2Zva3pJYTFteExfREptaWtfT0lJejgyck1OX3pOT0s0cXY0bFl4ckVsVXgtRDdpRHFBV1VnWkNoMmJwS0N4VHhGdmdMWWtPNXNRTlZTcTlaLXhaRFFrcFZPbW94TXJqcQ",
+    "source": "Target Berita",
+    "pub_date": "2026-10-26T15:05:52+07:00",
+    "desc": "TINGKATKAN KEMANDIRIAN EKONOMI DESA, BUMDES IKUTI WORKSHOP LITERASI KEUANGAN SEBAGAI TINDAK LANJUT PENGUATAN TATA KELOLA&nbsp;&nbsp;Target Berita",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "12df98e12df8",
+    "title": "Menembus Laut, Distribusi MBG di Wilayah 3T - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX3MwcG52dnpQU1AxbVZDWnI1RFhzYVlQZlZPc3ltdDRDMGc4NWlxMkEyLVZVTjhsRU1sNEZQTGpJZkNPcXA1eVhTdXlOZEh2cEZHZTBRMWJCbDlZNXZ3TFZGWndodzU1S0F2RWgzekxUN1VfT2xqVkh2MmdadzVqUDA1RUo1d1RnejRjNHp30gGTAUFVX3lxTFA1MHlzUmxSTXMwbzl1RHBGWmg5WGppZ1RpRUZzR09DVGxTaWN5YlZoWGRqeXRZc185Wk9PdGswbjg2ZEluLXNNM0libER5U29nMW8xNGw4MzhkQV9pcFdnX04yVGg4bFBCTUdlQTNJZDROOXJxUnhTSko0QkhVUGV6ZHhWSE1KTjhaR2NEdWprbFZ1WQ",
+    "source": "detikNews",
+    "pub_date": "2026-10-26T15:00:40+07:00",
+    "desc": "Menembus Laut, Distribusi MBG di Wilayah 3T&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "855431b25ea2",
     "title": "Pemerintah Dorong Revitalisasi dan Digitalisasi Sekolah Wilayah 3T dan Daerah Terdampak Bencana - Minews ID",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW5mbVpxamhfY3AwWG1iU2UzNHFNNHVfMUhGSVVJNkdZNXg3Z3BMX19LUk5ScGdMTmlsRjhOZkVxS0htNVdSWE95WGFxdENLNzVHTXlYN09nSUo0UTNOb0s3YVgyYm5wY2Y5ZlcwblVvTEpaTWtGZ3l3ODJpM1JmN2pqaFd2TEZEZnlETWpxcVg4SjZMWVVzN3NZMVVoQVQ0Q21pYTRiZ3ZIVkplWjlkaUljMFFhM2xZNnc",
@@ -232,6 +297,19 @@
     "sentiment": "netral",
     "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "476ee9230f56",
+    "title": "Kasus Korupsi Dana Desa Kades Kedungwaru Dilimpahkan ke Kejaksaan Tulungagung, Kerugian Rp331 Juta",
+    "link": "https://jatim.tribunnews.com/jatim/564508/kasus-korupsi-dana-desa-kades-kedungwaru-dilimpahkan-ke-kejaksaan-tulungagung-kerugian-rp331-juta",
+    "source": "Tribunjatim.com",
+    "pub_date": "2026-10-26T00:37:00+07:00",
+    "desc": "Kasat Reskrim Polres Tulungagung, AKP Andi Wiranata Tamba mengatakan, pihaknya telah berkoordinasi dengan Kejari Tulungagung, Jumat (23/10/2026) kemarin. \"Kejaksaan menyatakan berkas perkara sudah P21 ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "836ca70f1683",
@@ -1870,6 +1948,19 @@
     "sentiment": "negatif",
     "sentiment_score": -5,
     "sentiment_tag": "Kendala Kinerja & Aset"
+  },
+  {
+    "id": "301e0b162c78",
+    "title": "Dana Desa DIY Turun Drastis, Sosiolog UGM Sebut Tantangan Sosial Ekonomi Masyarakat Kian Berat",
+    "link": "https://jogja.tribunnews.com/kampus/1226219/dana-desa-diy-turun-drastis-sosiolog-ugm-sebut-tantangan-sosial-ekonomi-masyarakat-kian-berat",
+    "source": "Tribunjogja.com",
+    "pub_date": "2026-10-23T12:04:00+07:00",
+    "desc": "Tantangan sosial ekonomi masyarakat pedesaan semakin berat seiring pemotongan anggaran dana desa di wilayah DIY.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "97d501b32099",
@@ -65866,6 +65957,19 @@
     "desc": "Pajak Pangkalanbun Ajak Maksimalkan Potensi Desa melalui BUMDes&nbsp;&nbsp;Pajak",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4f159c353c8b",
+    "title": "Pemkab OKU Timur tingkatkan transparansi penggunaan dana desa",
+    "link": "https://sumsel.antaranews.com/berita/781085/pemkab-oku-timur-tingkatkan-transparansi-penggunaan-dana-desa",
+    "source": "ANTARA News Sumatera Selatan",
+    "pub_date": "2025-04-13T19:31:00+07:00",
+    "desc": "Pemerintah Kabupaten Ogan Komering Ulu (OKU) Timur, Sumatera Selatan meningkatkan transparansi dana desa dengan menerapkan sistem nontunai dalam setiap penggunaan anggaran dari ANTARA News sumsel 35 .",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
