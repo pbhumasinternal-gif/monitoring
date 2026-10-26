@@ -1,5 +1,18 @@
 [
   {
+    "id": "5350bcff27f8",
+    "title": "KPH Pekalongan Timur dan BUMDes Bedagung Bahas Potensi Pengembangan Wisata - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMlQzc2JZc1MwZEc2OFQzbFhXTkVSMmI2YUd1eFpHOUhOUUJEd1c2NktYOTY2WkN3THdFNl9fSzJLU2Rkek9IaUlmQXZnV280UHFKdXFnNFFGT2c3ZTlvOEwwcXdnck81dkc3b1FIYk1aOG5UTFU4UnJaMXI5SGpIZlRybm9tdG1HdWFLRC0xelo4eXBGdHJqeDhNYk1MSWZSRDlEQndhRXBSQld0eUJPZ19VdjRJVU5GVVVaYnlYZUpwQVVFV1gxNkhZUVRnQ1hnYXpvMXpKY2FuVVdoYUhnZy1B",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-26T12:06:27+07:00",
+    "desc": "KPH Pekalongan Timur dan BUMDes Bedagung Bahas Potensi Pengembangan Wisata&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "902109c2b033",
     "title": "Kemendes PDT siapkan 71 desa sebagai percontohan Kuantum Desa - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1RkRUZqN3h1c2JhYnZwRHlOS1JYaC1FZWNwWURYT3Q0NHprajlRY0dDU2dWdm1rSThSaTZIdW4tTUpSSkRoRC1nTmFnaFpGalFmWEh2LU1xSEVFdTNUYUIySmNTdzlOUmhrQWdOTWRxRGtSOFdYc0tkZDNQYzRCTEREWFIyanFUa09JSC1Ha3ZvcU1zaHVlVWtMcThqTkhnNVl5WEtibGkzUFNKa1czS1gzZUZPa2t0TTRqek5nblBrUnU5d0lhaG5rV3I2cHg2bU45Q3p4VHF6WEtORmdJRzdMd0tKSXJ2MkJyaDVRZGcwN05rTkNBeUNhMWQ5b2E3",
@@ -37,6 +50,19 @@
     "sentiment": "negatif",
     "sentiment_score": -5,
     "sentiment_tag": "Kendala Kinerja & Aset"
+  },
+  {
+    "id": "1df4364691ab",
+    "title": "Kumpulan Berita pengelola bumdes - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBubThyeHp1Sm85X3RXUGZ2c1R1WkUyNE4yVHhLS09nWlZYTHlWSDNqcXpqV2dKRmJ1M0h6YzRpZmtTRkNtZzNmeVpmSS1uNTZadHNXSlhodFJFcUFiOG9j",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-26T08:00:21+07:00",
+    "desc": "Kumpulan Berita pengelola bumdes&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "c03f606a20fb",
@@ -117,6 +143,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "222a2c5ee6f9",
+    "title": "Kemendes PDT siapkan 71 desa percontohan Kuantum Desa",
+    "link": "https://kalsel.antaranews.com/berita/541123/kemendes-pdt-siapkan-71-desa-percontohan-kuantum-desa",
+    "source": "ANTARA News Kalimantan Selatan",
+    "pub_date": "2026-10-25T22:13:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) menyiapkan sebanyak 71 desa sebagai percontohan dalam penerapan model Kuantum Desa untuk ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "25734df15197",
     "title": "Kades Sama Guna Lombok Utara Minta BUMDes Diaudit",
     "link": "https://lombokpost.jawapos.com/tanjung/2610260020/kades-sama-guna-lombok-utara-minta-bumdes-diaudit",
@@ -125,6 +164,19 @@
     "desc": "Kepala Desa Sama Guna, Kecamatan Tanjung Sutarjo, meminta Inspektorat Kabupaten Lombok Utara (KLU) mengaudit pengelolaan Badan Usaha Milik D ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6b9e0d221c32",
+    "title": "Solusi Dana Desa Turun, Kalijurang Dapat 10 Titik Bantuan Keuangan DPRD",
+    "link": "https://www.portalpantura.com/lokal/solusi-dana-desa-turun-kalijurang-dapat-10-titik-bantuan-keuangan-dprd",
+    "source": "Portal Pantura",
+    "pub_date": "2026-10-25T21:49:00+07:00",
+    "desc": "Kepala Desa Kalijurang, Edi Riyanto, S.H., M.H., mengungkapkan bahwa Bantuan Keuangan tersebut tersebar merata di sepuluh titik wilayah desanya. “Lima titik dari DPRD Kabupaten dan lima titik lagi ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -218,6 +270,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7b857d65e0b8",
+    "title": "KEMENTERIAN PEMBANGUNAN DAERAH TERTINGGAL DAN TRANSMIGRASI - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM09kbUFUWFpuM3pUZldTWVRHbkluNXdoSnJza2RJQnRDd1BLU3ZMdnM1UmV2MGFKQ25yZklWSlQ1TWFqNXhvR3k0NXVBOHpnUk11Y2hOdDZBd1dOUERCRk40bWt1TTdmWTFiNmVVb2FWZ21ncUJYQ0VXTzlCNGsxUXVIQ0ktc1htZFFzbXhOUlY4RmJWaEVFag",
+    "source": "Antara News jatim",
+    "pub_date": "2026-10-25T18:12:28+07:00",
+    "desc": "KEMENTERIAN PEMBANGUNAN DAERAH TERTINGGAL DAN TRANSMIGRASI&nbsp;&nbsp;Antara News jatim",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -53131,6 +53196,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "193788b7d3d0",
+    "title": "Mendes PDT siapkan bantuan kembangkan desa wisata Banten - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkN6Z3FkM0xtZDhWSHNUWmJPckhqMjczTDBxY09wbmN1R05nN1BLTnZjdDRkX24xaXNlY2VzMkI5M213T25wTWZ2ZTROUDJpQWxoblZYakgzQnlBN3plS0xSWllyMkloX3FkbEttOHd2cjJ5dnplY0FybmRMajcwempmNGcyZzB1d1JIYmo2YlFvVG5GNmM0V05uSElnNGvSAaIBQVVfeXFMT3FJcDFTYnNGZW1sd3F2WkdrVzRvc1A3OVB6OS1fVmNQRG1ucDd3Zzh4TVFlWmxET1R2RUt1akJSak1IejhNeGIxRi1iRUdWUGVUb056V01qMkJweHFWZmM1V19rdlRMM04wQWpXNDQxZmRIN1BnV2hJSnFrX203UVo1U0NrakhnNWd0cUI4MW5aNGU5LU42WmpQaDFqYjdyVTN3",
+    "source": "ANTARA News",
+    "pub_date": "2026-06-28T14:00:00+07:00",
+    "desc": "Mendes PDT siapkan bantuan kembangkan desa wisata Banten&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "72fa4397a5ab",
     "title": "MBG: Saat Negara Memilih Daerah Tertinggal Halaman all - kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0dJNUdzY2JwaXhPei1xbUdhS2lsYy03TnFPQTRJWHF5SEhaWFNTb2h3ZEwxVHF2U3FPb2hZRUN4MnNUTE5Gdmt1bmJSeVh6OHJQNmI3YTZxNmUwVG5KdWxUR3BWZ1g3SW1mV1hCTnZadmJCZDk4cjlvYm13YWpaaE9hOGtHT2lnU2NCVnU3bUVSMWhIWDNrbWJENjF6clc3QVNXc3FmMDExVVotUEtV",
@@ -62647,6 +62725,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5bac7842a873",
+    "title": "Kemendes siap libatkan DPD RI mengoptimalkan pembangunan desa - Berita Terkini Yogyakarta - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnRieW5Ca0IzaV9keU0yVmZweFBBTWI3WHoxbUpwRXN6TXBLdTl6czhsOGZTd2RfenBYcUFBQVZqWFVsaEVhS2tKWEEyamN4QjZTZkhzYXJnekczU3NZbndCcXFfcm5OTHl0WEMtVFZmanc5SU94a2RacHJxaEItMGpVSXNNUWFvckNNZjd5dmh6ZlpLNGNJQ2xWQWRvTTF1S01wcE5qMA",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2025-11-10T15:00:00+07:00",
+    "desc": "Kemendes siap libatkan DPD RI mengoptimalkan pembangunan desa - Berita Terkini Yogyakarta&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9a0e538fe319",
     "title": "KPP Purbalingga: Kewajiban Pajak BUMDes Berbeda dengan Pemdes - Pajak",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ2Rhdi1tY0Y1RnlvTTl2ZkhFem5LcjhObTRjVzZSenJ3RmNjQklETG5DQTZzSlhLb1VKZi1yT0hyMWRZUDRMZS1VR2ZMY3VpTm0xMlFMT2o4dWgtbWNjNkxsMlZvUnlqcGRxZ1ZmaUJWN2JjZlpLemUyTFRqX19CQVp1Rmp5b2FkcjVRQ3FDcm1SZHpa",
@@ -64454,6 +64545,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "19b28564b669",
+    "title": "Kemendes PDT mendukung pengembangan ekonomi biru lewat Kopdes--dana desa - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnlvRlR3TzJPN2JsZVlXQ1RSTXR4Nm0wQ2RJM2IwWDdzaFMxS2pnVktudmlBd2tKSFJYeUFPeHFtSDJGZnZUOGZiOENWbmZCd1dqVzM2c29QM3ZCNC1LZWZzVGU0V05la2hmVGZIMXJfczRDX3RUWGhXY1BqZUhrX3RtZlBLUjJwR20wd3Fqb045elVGdXBobGhtYXFCWXltTngtZnVjWXBNSEZ5TENDaFYwc0U",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2025-07-16T14:00:00+07:00",
+    "desc": "Kemendes PDT mendukung pengembangan ekonomi biru lewat Kopdes--dana desa&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c044e38affea",
     "title": "Anggaran Dana Desa Nggak Naik-naik, Anak Buah Sri Mulyani Buka Suara - detikFinance",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2tfQ2RDdUg5VXgtMkl1MmZyQzlVVGxaOHYzeFFuTU9FX2h3elN1clRabW14Y2M4eXM3dmVsUDByczYxMEJGSnhfSnR0VEJDNWktRGdDYk1DM1l1dDh4MVkwYnA3RkpCQkhoSWN1UmNCcnVfSGx3d1NLcmdTd0ZmS3NpZEl2eDliRWJHY2lnSGlsa21ORWNlZTZrRnVYMGhTb2tWWllNeTg5Wk9DREdHZ0JmZGdBZ3k1S1BKZUhJVktneHPSAcgBQVVfeXFMUHhUcUtZa3NfUXc0aUk3cXJrajM2WndGR1d1d1MwQzBxQmZGaHlNUTBFRjdfdlRWTm5pZGZkdnhfcXlLUXlIOUlDWG5uWFUzUUV5NHBNV0lnSkh3dkU5Tm91LXZiRVhSam0wRF9qaWMxeHFmSGdMVS1GYnQ2dExNS0VSUmJMWGh6QTV0WmgwanBPdmJwcHV5a3dMOGZsSkYyV3BiZkZ5Qk5oWGJIakNlNlRoQ2o4Z0FwaVZOdjMzb1FSNG1CQ0ZkaHM",
@@ -65791,6 +65895,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Penyalahgunaan Anggaran"
+  },
+  {
+    "id": "83741596fa19",
+    "title": "KPK-Mendes Yandri Susanto bahas pencegahan kebocoran dana desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOHFoemxIdWVOTEN6aDRuUWdGNHJTMnduMnJCLUVILUpfUm01Z29UTWZ1dVVMRG9aRVhCLXBqM0pRWWozZ2JpMWhUTHdwMkN0XzJKNmIyZUVvTGxKbWh4eVI1RzlKRzBzNTFmVGd3TXRnbFVzYURpUUJJdVRUa0JGci1ZV2EtYVZmb2RfZWxQcElsWjI2MlB2ZzZTNXJJU1JOMkh0UFNwb9IBqgFBVV95cUxPUzNkMlFnUGRJb1ZJMTc3dC1OWlV3em8tSXlCeGlxakpVU3JXdnNob29qbXVZT1RjdDBqb3ZLdnNKVFBVbWxTSWYyc2VNb3ZobGZqVkhnXzdndWdBMXN1eTJHcHJENnRwcm1rVGx6YnA5VXZuZGszc0hjNmx6NndjYm1jazRlR0diVWt3eWo2U182ZVJSNDFidzJDY0YtSnhiUWVUZ0dWay1IZw",
+    "source": "ANTARA News",
+    "pub_date": "2025-03-11T14:00:00+07:00",
+    "desc": "KPK-Mendes Yandri Susanto bahas pencegahan kebocoran dana desa&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "ad782135e7d5",
