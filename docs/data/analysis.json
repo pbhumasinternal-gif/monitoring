@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-27 01:01 WIB",
+  "last_updated": "2026-10-27 01:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 1488,
-  "dominant_topic": "Dana Desa (624 berita), BUM Desa (410 berita), Daerah Tertinggal (229 berita), Kemendesa PDT (225 berita)",
+  "total_checked": 1489,
+  "dominant_topic": "Dana Desa (624 berita), BUM Desa (410 berita), Daerah Tertinggal (229 berita), Kemendesa PDT (226 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -58,7 +58,7 @@
         "title": "Pelimpahan perkara korupsi dana desa di Tulungagung - ANTARA Foto",
         "source": "ANTARA Foto",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10380990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
       }
     ]
   },
@@ -81,7 +81,7 @@
         "title": "BUMDes Banyu Urip Madiun Garap Ketahanan Pangan Lewat Ternak Kambing - BANGSAONLINE.com",
         "source": "BANGSAONLINE.com",
         "topic": "BUM Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10380990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
       },
       {
         "title": "Plt Bupati Kuansing Ingatkan 57 Pj Kades Kelola Dana Desa Secara Transparan Dan Akuntabel - ISBCenter.com",
