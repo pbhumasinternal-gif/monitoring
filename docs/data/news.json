@@ -1,5 +1,18 @@
 [
   {
+    "id": "13b1cde5f730",
+    "title": "Polres Bengkulu Selatan Geledah Kantor Desa Suka Bandung Terkait Dugaan Penyimpangan Dana Desa - ISBCenter.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOE5Eb2hFTHFfYVVBZW9iWXg0WnBhcnlONzJ0VFNkN1IzV3RCdHFEZ28xcDFmZk1TRDhvbjU5Nmx3dDV0dUk4OUhsbFpiTktfbi01dXZIR2tOemhWTXMycXVWemFKeUhfN3N6aFlDTUxOWUlpcnJIckFYS1dTaGE4NEpyZVZoTW5hWU1VdFhQcTFja1ZqSFM2R1NTWTd1eE9mWU1BeUJqU2lCWFZFR252RVVuUkVUODMxWkZaV3lR",
+    "source": "ISBCenter.com",
+    "pub_date": "2026-10-26T18:39:26+07:00",
+    "desc": "Polres Bengkulu Selatan Geledah Kantor Desa Suka Bandung Terkait Dugaan Penyimpangan Dana Desa&nbsp;&nbsp;ISBCenter.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -6,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "2ed92a990f86",
     "title": "BUMDes Jaya Raya Desa Ganggang Panjang Sidoarjo Raup Cuan dari Budidaya Melon Hidroponik - TIMES Jatim",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDZxN1Z6YTBpUVFnUTd2UV9VWVZ2WVFVSkVBQzlUX1RKdzFzOVBBaEI3d3RDNE1lYlBzQWJKSWVUeWJGbjZpS0l2Z2hhbDBTOWVOZThOZjdfX1VRX0RFNU8yVEIxbl9sVzVhMGtyWmJiZUFSVTM2S3BhZlg4eDlBZ1RGRHNpSFhGM3cxb1pUYTNhWXkteWgwaW94LURuWnhkZXVYMHhycHFJcmY0UmdrWlY4SElpeVBhVXlmUGNHcjZGU1kzSVF5RW9MVlhmMDEwUXRQSw",
@@ -465,6 +478,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "32a41dfc5b9a",
+    "title": "Kemendes PDT sebut potensi lokal kunci gerakkan ekonomi desa",
+    "link": "https://elshinta.com/kategori/1/pembangunan/kemendes-pdt-sebut-potensi-lokal-kunci-gerakkan-ekonomi-desa-182559",
+    "source": "Elshinta",
+    "pub_date": "2026-10-26T04:20:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) menilai pengelolaan potensi lokal menjadi salah satu kunci untuk menggerakkan perekonomian sekaligus menekan angka kemiskinan di ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -75679,6 +75705,19 @@
     "source": "detikNews",
     "pub_date": "2021-09-07T14:00:00+07:00",
     "desc": "Menjadikan BUMDes Tulang Punggung Ekonomi Desa&nbsp;&nbsp;detikNews",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a6b1b007988c",
+    "title": "Tinjau Pertashop di Sidoarjo, Mendes Ingatkan Hal Ini ke BUMDes - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXVpSEJRVGJRa0c2SWowZDJOdmlxVXlZOEpaS2JmYUs2N0hfcFBsUEdTbHpMUm5tbzR5NkgteGNkajg2OUdndjQybTVYSVUxLTBqaEpZeE1PV25CSHZqczFSUXJpVnE5S0RHMzRtLTZIenB4UkwzS3FkdHY3ajZzVks4emRuUE1ka3ctZVZaZ21QVEV5X1U4RUNRS3Y0NVd3aEJWb9IBqgFBVV95cUxNbDFiNm9kbldqNXZiWWg5dHNGUzhBMGczcUp1WTY1cS1ydXRERUlVWW05a2dTejZUeUl3Z1owSDZ2VzJ3d1ZORGx4ZHNIdlpwLUVfVzR5T2FLd0Y2clBLZUw2YVVEc3VWQzVUZXFUZVp4NlBGN2RDRS1XbFZjcm9VWS1BMnVLaVVhY1VzT2JHdXFZOVhzNGoweE0wLWVlRW1GWHhkdDFmRlFtZw",
+    "source": "detikNews",
+    "pub_date": "2021-09-04T14:00:00+07:00",
+    "desc": "Tinjau Pertashop di Sidoarjo, Mendes Ingatkan Hal Ini ke BUMDes&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
