@@ -364,6 +364,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "e01c04df941a",
+    "title": "Kanwil Kemenkum Sulbar Dorong Regulasi Dana Desa dan Bantuan Pendidikan",
+    "link": "https://rri.co.id/mamuju/info-kementerian/2843898/kanwil-kemenkum-sulbar-dorong-regulasi-dana-desa-dan-bantuan-pendidikan",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-26T14:25:00+07:00",
+    "desc": "Kepala Kantor Wilayah Kementerian Hukum Sulawesi Barat, Saefur Rochim, mendorong penyempurnaan regulasi daerah yang berkaitan dengan Alokasi Dana Desa (ADD), bantuan pendidikan bagi siswa kurang mampu ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c27c4fe2b98c",
     "title": "Peluang Bisnis Menggiurkan, BUMDes di Kota Banjar Ini Budidaya Anggur Sistem Greenhouse - Harapan Rakyat",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORHUwaW5wRVRYamFYVWdId0N4XzlPWFpwMlVnZE9aRWtHX2tydGFVSVREcGR3b3lEOC1wWVdwcEs2UmJMbXpEV3FwT3c0NUlHVTJpSHMzT1p3S0JaWUo3Z2lOT21fWTZpb1AybmVKdUpDd0cxNFY1R2FmM25VSDY0OG5BMVlWRU96UjFJT1pQbjNiT09oXzBMQ3V0NGJJNWliYTdpUkV0NVZYQ3d2elotSmFYTy0tckxFb2pzNmgwWFdvZ3c",
@@ -53436,6 +53449,19 @@
     "source": "InfoPublik",
     "pub_date": "2026-07-03T14:00:00+07:00",
     "desc": "BUMDes Didorong Jadi Tulang Punggung Pasok MBG, Kemendes Perkuat Desa Tematik Perikanan&nbsp;&nbsp;InfoPublik",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9e018703f362",
+    "title": "Mendes Yandri Susanto Sambangi BUMDes di Flores Timur - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb2xlZm5lWHRfNm1sVTFudnRPaVJpZW5Vb0lDdDZNMDR4WXlKZlhOWm84TzhzUDJHWGlteFR1ci16elptMWdENjJiRm5FU0w0RUx3dVM0NlFsQ2VyeHY1NzU4MXdCWWE4cjYweV9xSm9tSUNIOUJ4S0w0Nkg1VHJkbWRWQ3ZlaXAzMjllWW9uVXBNd0JVcnZvM0NKel9SQdIBowFBVV95cUxQWEJnSzVncmdVWDJkbWV3anNmWGIwWDczd3RSaGtOeThTX1piQ1c3WVBfTWJvR01teXctdUI5TU9BakhGdG1NOEV5REpSVGxiemVIZEhqYlNpd0VTMnFpVUV5NHRlWTJvRFJoQUlWdkJ4eUpxYU1SZjd5cEVsUjNiamtFNEZvXzBfdlNKQk9tOTJtZHRlUVM5R1ZNcmd3LUxFRmlF",
+    "source": "detikcom",
+    "pub_date": "2026-07-03T14:00:00+07:00",
+    "desc": "Mendes Yandri Susanto Sambangi BUMDes di Flores Timur&nbsp;&nbsp;detikcom",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
