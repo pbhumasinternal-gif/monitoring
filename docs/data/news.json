@@ -1,5 +1,18 @@
 [
   {
+    "id": "0635269dbf70",
+    "title": "Zulhas Dialog dengan 26 Ribu Manajer KDKMP, Pantau Operasional-Kendala",
+    "link": "https://news.detik.com/berita/d-8725391/zulhas-dialog-dengan-26-ribu-manajer-kdkmp-pantau-operasional-kendala",
+    "source": "detikcom",
+    "pub_date": "2026-10-26T21:45:15+07:00",
+    "desc": "Zulkifli Hasan berdialog dengan 26 ribu manajer KDKMP untuk memantau operasional dan kendala. KDKMP diharapkan jadi infrastruktur pelayanan publik yang efektif.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "974d6d94dc06",
     "title": "Kasus Dugaan Korupsi Dana Desa Kotaraja Rp1,59 Miliar Bergulir, Dua Pejabat Desa Diperiksa Jaksa - Gerbang Indonesia",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGhWcVlaX3ZHaDRLOFVDTmJLR0NDcHNDRUUwVk5CZHZkbTJpNmh3WjJ3QTF0NmVmMFo3aEZ2MUh4eFNlMmM4VFo4YW8tQW8xbTh1amRiNWc5bjJKdFlYQlJHUVhtcjQ2SzktZ1VsZ29UTUZXWVZ1S3dnSlNhS3FRcjNtY0FyZnlMU1hwRXRvR2RBYllaWVpUdWttaGhLSjRMN1hUTEtDZVlXUzNoRkJMQ1VzVEY5REViMGZsV0VsQ3JDU3ZuT0U0N1BjQzc2V2NFMEFR",
@@ -429,6 +442,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "543c9722682f",
+    "title": "354 Desa Bentuk Relawan Lawan Covid-19",
+    "link": "https://kaltara.antaranews.com/berita/471784/parlementaria-dan-politik",
+    "source": "ANTARA News Kalimantan Utara",
+    "pub_date": "2026-10-26T13:35:00+07:00",
+    "desc": "Pemerintah melalui Kementerian Desa, Pembangunan, dan Transmigrasi (Kemendes PDTT) memastikan penyaluran anggaran dana desa untuk melawan pandemi Covid-19 di tingkat desa terus ANTARA News kaltara 6 .",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c872ef2f8dfc",
     "title": "Kemendes PDT: Pengelolaan potensi lokal kunci kurangi kemiskinan - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSWhYMm9xcTRvcEh5Ry1oTlc1Z1RmYllVZ3I2bVlpU29HejRibV96cGJJOHlzZTRkQ3hJbTBpWGd3RENUSVhMZTVNTFRjLWg5RWI2eVBCaFJYaDhPUGJFZnRJaWh5S1gwU3JUQWlucktqdmxESHNLQ0JXVWFmVjVFVmZReTlwWVY0VFZDd29zaWZUbThpZ19MdThScEEyaEMycHJ2UGZhZEI",
@@ -673,6 +699,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6cf8820b88d8",
+    "title": "Kumpulan Berita Pemerintah Pusat Semakin Berpihak Kepada Daerah Tertinggal - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQW5RQWk4aTZHZ1RPQlpzVk91YTVOUFROaFVZUF9JNW81ODVSc00xeU43MnljU3dZcGdRRmg2bDEwaEh6NjhWTEFnbEZhNGxyR2kyeDNpU29UY2tZeUxWYWVwRTdQaHFjNzNXSHBBdUJzSkM3aEdHc1RBWEN3WEpMb21XTy1Wd0docGNFUDJkSy1QS1lsZUhVZ3B1NA",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-26T04:30:36+07:00",
+    "desc": "Kumpulan Berita Pemerintah Pusat Semakin Berpihak Kepada Daerah Tertinggal&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -77059,6 +77098,19 @@
     "desc": "Gandeng BUMDes, Lumbung Pangan Jatim Layani Ratusan Transaksi Setiap Hari&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f21fe7b9162a",
+    "title": "Kejar Target Inklusi Keuangan, OJK Fokus ke Wilayah 3T - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjRMdmpSM3RCNzV6UHYtckZYcmNvTFF6Zmd5eUtGOExXbWlZTW1QZGFUd21JZmtTQ29QdjQxZjZwNUpPejBWbmdOb2RITDVsWUVsSEZWa2g5QVZPemN1d0xOMWlSbUtpek13R1lvaHY5c1kxR1J5T2tUd2ZxVnptYWlJWUl6Tkxzd0NEVS0tRHY4NGVDWGdJMUV3TS0wMXN6YndLN2lKMA",
+    "source": "Kompas.com",
+    "pub_date": "2020-10-20T14:00:00+07:00",
+    "desc": "Kejar Target Inklusi Keuangan, OJK Fokus ke Wilayah 3T&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
