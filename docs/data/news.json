@@ -1,5 +1,31 @@
 [
   {
+    "id": "4b2990f9452f",
+    "title": "Kejari Lombok Timur tahan tersangka korupsi Dana Desa Kotaraja - ANTARA News Mataram",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFp6R0tHR0tNekhvT3BTLWdNR1JINjZnUm95cHFqWDZySDBaZHdMU3dWNmNUZUo1MjVXSlFCVFUxdllwMXo3RHhVclo4RWQ3eHNsUElXTTQ1OWtSTFlnM2J3RW9ZSVNsa2U5UU5zN3RBWmZVREU3UzZYNWprczl3Zk0wWk9wYmV2SDBIaDFBVlZjODgtVmdkdnR0TFFMcmNoYUo0LUVaNjcwUlU",
+    "source": "ANTARA News Mataram",
+    "pub_date": "2026-10-26T20:16:49+07:00",
+    "desc": "Kejari Lombok Timur tahan tersangka korupsi Dana Desa Kotaraja&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "eff1df7534ea",
+    "title": "Kemensos Siap Bangun Sekolah Rakyat di Intan Jaya, Lahan 7 Ha Disiapkan",
+    "link": "https://news.detik.com/berita/d-8725290/kemensos-siap-bangun-sekolah-rakyat-di-intan-jaya-lahan-7-ha-disiapkan",
+    "source": "detikcom",
+    "pub_date": "2026-10-26T20:02:32+07:00",
+    "desc": "Kemensos dan Pemkab Intan Jaya berkolaborasi membangun Sekolah Rakyat di daerah 3T. Tujuannya, memperluas akses pendidikan bagi anak-anak kurang mampu.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9bddfbd2392d",
     "title": "Wabup Mahyunadi Dorong BUMDes Garap Peluang Usaha dari Perusahaan dan Kontraktor - Korankaltim.com",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRHB1cmh3Y1I5c2ZQRXltcmxibjFnRUxDM1hjN2dpT0RsYVY2T3hwOUo4d2laeGtXc3oyQ1BmQXBHQmxINm9MSFVKMGtmWFZvTW9SZ0RKVmFSbHc0UHlseFdUNTZVenpsYndNdzFoUUNtaWxDOW5LcWFIWEdid3FLWmVoWWpDWWxCN2NFTUNNTURUYTR1QnJRRzQ3bFFFZnFKQjcyYmgzcXhCbzVvZHloUzJSYXB6ajRXMDBINV8xckp6MW5FNjlaLWFDcGxOTnYyVTVoZWh3",
@@ -86,6 +112,19 @@
     "desc": "Bayang-Bayang H Ansori, Sang Mentor di Balik Mangkraknya BUMDes Baruh Sampang&nbsp;&nbsp;Ketik",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b0454c74de2a",
+    "title": "Kumpulan Berita 20 persen dana desa - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tWTNvU0tfVi1OWElzMlY1RDZmWFZZUzJoTktaMVZ1OW1sdVY5NEU4enZVSmZaem9JenZJWXVnT3lleWw1ZklkY24tX0YtUk00S3BuSVBRQnY5YVJ3NTdwdkI3OHpJUQ",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-10-26T17:08:03+07:00",
+    "desc": "Kumpulan Berita 20 persen dana desa&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -505,6 +544,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "91d9335fff2d",
+    "title": "Kades Kotaraja Ditahan karena Diduga Korupsi Dana Desa Rp1,5 Miliar",
+    "link": "https://ntb.idntimes.com/news/ntb/kades-kotaraja-ditahan-karena-diduga-korupsi-dana-desa-rp1-5-miliar-00-r6yv7-vx10js",
+    "source": "IDN Times NTB",
+    "pub_date": "2026-10-26T06:03:00+07:00",
+    "desc": "Kejari Lotim Tahan Kades Kotaraja dan bendahara desa terkait dugaan korupsi pengelolaan keuangan desa 2024-2025 dengan kerugian negara sebesar Rp1,59 miliar.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -11,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "2e9c1300a7ab",
@@ -65413,6 +65465,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "462f3c924ff8",
+    "title": "Mendes Yandri Sebut BUMDes dan Koperasi Merah Putih Tak Saling Mematikan - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc2tldld2V29Xa1BIRzFXYkhTOTBvRUt5bkNyUHozVHhCX3g1SHBteU9FaUtMc0JnLTluUmtVdHVWd3NWV3pvcEdOTWtYWmwxQVVxT29aTnlrblZBaV9XTzdpUFFTQ0ExTGFDb3haVmdtYmh4YWZWS2VsWUt1ck91ZzBGemJHYXNpSnF1MjlUVGlWRHhDSTFQcTB2RkRZU1pfeE5fZGdHQ0VGQy0xMTc2clIyNlU4UdIBuwFBVV95cUxPR01udE56MEpBbnVGZ0ZsSlVZVG9tSElRTlBhc0xSXzNaclBINUtzbHloeXJhZE9IdW9jNHZFR083SjFuMTJpUVlyZ1dxU19rMXAzNUtraGloZFA5UERiZlV3MXRZNW9vRkxuVXBMY3hFUkVDclZPVXJ0WmdsNXA5dnh0bnV4Z0c0eVZpZ1B4R1p6eTkteG1UMWVRS1F5UThsMWRtUVIzYVhVMVJRNVFONUotQlVxNmtRMVdB",
+    "source": "detikcom",
+    "pub_date": "2025-06-23T14:00:00+07:00",
+    "desc": "Mendes Yandri Sebut BUMDes dan Koperasi Merah Putih Tak Saling Mematikan&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
