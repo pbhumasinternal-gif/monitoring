@@ -1,5 +1,18 @@
 [
   {
+    "id": "08dba61eca13",
+    "title": "Perhutani Jajaki Kerja Sama Pengembangan Wisata Bersama BUMDes - Perhutani",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjNKdzhJVmswRHJnTWZkdUgzYzQ4aUV0VXZhVXM4STlGSjQ5TFJGQng4dVd1d2o4Z2pDRVhvWGx5Uk5TUEkyazh6bkdqRTJHNExSWFFCVTMzYmJEUC1yTWFiN2hEYUliNEFGeExFUXhZRW5JY05UQ05NMTZfRkdfckZ2QlJIekhNVkZMUGFDdFFidE8wcUE",
+    "source": "Perhutani",
+    "pub_date": "2026-10-26T16:24:40+07:00",
+    "desc": "Perhutani Jajaki Kerja Sama Pengembangan Wisata Bersama BUMDes&nbsp;&nbsp;Perhutani",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e2ccd2628106",
     "title": "Jangkau Wilayah 3T, Pertamina Gandeng Perusahaan Jepang Kembangkan Teknologi Distribusi Gas Bebas Pipa - Info Ekonomi",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbUtfbFZzenYxN2xvdEw5VDFEQXM3LWxJVXh4eFpfRmRCX0M2cUgxbnZNd0pXS0pvSklNRmhqMmpwY3hZR293eEpvNlJ1Q3M2M3RaRHBtMi1oV2dFMkhKcTFLVGlnM1ZqckhobWw3VmV1dmNPYVRvUFhuUUFxS29YQnBjVWRfaWxZcjkyelYtcGRia0V1WHlpcG5VdTVLb0VCQkZ4WHg1SURjNk5rU2dUS093Tm5ubDBwN2NNcHE5Uk80YkZjbFRtOWJKNF8xQQ",
@@ -195,6 +208,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a42fee79d6a8",
+    "title": "Kumpulan Berita pelatihan bumdes - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1V1oyaldJVFJQQVV6RWFlQlhJU0dERlBmNEM0SmNxQ01XcjF3Sl9vQ0JTTVZ1RzRfUm4yYUpfcUdaUXJuaWQ0SmtpQ29xdTBBR0d2QURNVnpYQURyc3Iw",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-26T12:00:01+07:00",
+    "desc": "Kumpulan Berita pelatihan bumdes&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6207270bbe44",
     "title": "Kumpulan Berita menteri pembangunan daerah tertinggal - ANTARA News Bangka Belitung",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jQm5mdXYteWtIMXljNm0zUUpzMHVZeFlwVkF3STItNFhCYXRxS25DN3QyeWExUEp0QUE3c3JBdmZvV081NDdyVDV3VUM5aWw3dUxZLTdkUVlfdENjbjUzcXZwUkczYlJuNWY1VDEtclNQNlBNdmw0SUdmYWo",
@@ -307,6 +333,19 @@
     "desc": "Pemkab Aceh Barat Aktifkan lagi Keuchik yang Kembalikan Temuan Dana Desa&nbsp;&nbsp;RRI.co.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b9013e2c8fe8",
+    "title": "Soroti Temuan Berulang, Wabup Kutim Minta Desa Benahi Tata Kelola Keuangan dan Perkuat BUMDes - Kabar Etam",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0dKYUszSGhpckl6WnZQdXJyX20tTkE1RUdaTENmMGdVV1VTanRTLVF1ckx1Ul9tQ1R1bVR2ek1QcExKMzM0RHptcWxPb2VmZzdlN21JN3hwWV9XWFVZR3Y0Tl82Y2RodS1jS3dsTE9tLUhydkxsN3l0dzBXQXYyLWFWZldHSEJsaEMxWkw3ZEcxQ1dpbVlnWlpJUmloZGFWZ3N6RXhzMFgzcnVtYUFlMGZKZFhZcFdyWl9KN1FrbzZBcU1B",
+    "source": "Kabar Etam",
+    "pub_date": "2026-10-26T07:08:00+07:00",
+    "desc": "Soroti Temuan Berulang, Wabup Kutim Minta Desa Benahi Tata Kelola Keuangan dan Perkuat BUMDes&nbsp;&nbsp;Kabar Etam",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
