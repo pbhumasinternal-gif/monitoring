@@ -1,5 +1,57 @@
 [
   {
+    "id": "fbdba3916538",
+    "title": "Wagub Lampung: Bendahara KDKMP harus jaga transparansi kelola keuangan",
+    "link": "https://www.antaranews.com/berita/5813047/wagub-lampung-bendahara-kdkmp-harus-jaga-transparansi-kelola-keuangan",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-26T20:41:34+07:00",
+    "desc": "Wakil Gubernur (Wagub) Lampung Jihan Nurlela mengatakan bahwa bendahara Koperasi Desa Kelurahan Merah Putih (KDKMP) di ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "333ffb55155c",
+    "title": "Kemenkum Sulbar kawal regulasi dana desa - ANTARA News Makassar",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ042YTZDOXFBeEd4YWtoZ1B5RzZtRmhyZHRhcFhRaVJmR2ZNcmk2bUVGcjNVZXJzbnBFeTZ6ak1KYi1YVEtKZDRIR3pPSWlJNy1fUE9lOWZYZ2x6TWpDbXc4RklwenFzWGJlRzJldVN0clBqZHU5SG1aY1RjSUx0U1lqTEZKRmREQUhlb3FGbw",
+    "source": "ANTARA News Makassar",
+    "pub_date": "2026-10-26T20:40:52+07:00",
+    "desc": "Kemenkum Sulbar kawal regulasi dana desa&nbsp;&nbsp;ANTARA News Makassar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9cbdbb4d4084",
+    "title": "Pagu Dana Desa Fokuskan Penanganan Pemulihan Pasca-Bencana Dibanding Mitigasi - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOFNQUkhjWVJxbjVLa0Z3OHZqamlEMU5GVDdRbUROWXFJajJBQnUyN0g2V0U1dTdweEkwNml3SmV4TXpNWjl2YVhwT2Z5YnlsYXNhU0stSENxZlV1REpWMlpSSDN2STN2X2VHWXVOSnR0V1hSd19IWVhwZkc0UGFSMU1OTHMzeHpZMTRXcG5oQVZZUDdOMXdnU0U2X3hkdWFDTzZiSVZBeGZpMjVkUG9LaXczLThaVnA4ZnJ5WUR1NVB4Zw",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-26T20:39:00+07:00",
+    "desc": "Pagu Dana Desa Fokuskan Penanganan Pemulihan Pasca-Bencana Dibanding Mitigasi&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "789581a7f0cc",
+    "title": "Polisi limpahkan tersangka korupsi dana desa ke Kejaksaan Tulungagung - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWZfeW9LbGR4SGFROFhQdlJhY2NadVUwR1B6X1lfa05vOEdoRWN4U2IzVFBQQ3ZxZ081OHJ1ZFhNRGhqQ254MEdycTdlTm5fbWh1SnlIQldrUmRhcHh5NFlMRno2VHlMT18yeUZnVnVFbG9XQVFLakxsOXRFeG5FQkNiSHprWEljdFdTSkI2ZF9qdG85dTJpMkJydnR0SmpNS0RNc1MxcHZyMGo1THUwWUhSWdIBuAFBVV95cUxPYzlHc05ZY1BQOGVZM1dsYk9sUnlaRzFWZndmWllqTFZxd0FBUkd4blVtUUpRRHc1RVMxaTVNVW53RXlSc1E4TXU4S3ROZ19VLWEwLVlMNE5CZjdac25uVl9hanRUcHpKcElHZndUaVgzc05VRExOQWYxaVI3S0NldmhMdjFXZ3ZiekcyRDhkNEFHMnhETkF6dXpRSG5KeFVuWWJxN1puU1lkSVh6Z1MxclFvaFBvaDk4",
+    "source": "Antara News jatim",
+    "pub_date": "2026-10-26T20:34:22+07:00",
+    "desc": "Polisi limpahkan tersangka korupsi dana desa ke Kejaksaan Tulungagung&nbsp;&nbsp;Antara News jatim",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "4b2990f9452f",
     "title": "Kejari Lombok Timur tahan tersangka korupsi Dana Desa Kotaraja - ANTARA News Mataram",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORFp6R0tHR0tNekhvT3BTLWdNR1JINjZnUm95cHFqWDZySDBaZHdMU3dWNmNUZUo1MjVXSlFCVFUxdllwMXo3RHhVclo4RWQ3eHNsUElXTTQ1OWtSTFlnM2J3RW9ZSVNsa2U5UU5zN3RBWmZVREU3UzZYNWprczl3Zk0wWk9wYmV2SDBIaDFBVlZjODgtVmdkdnR0TFFMcmNoYUo0LUVaNjcwUlU",
@@ -19,6 +71,19 @@
     "source": "detikcom",
     "pub_date": "2026-10-26T20:02:32+07:00",
     "desc": "Kemensos dan Pemkab Intan Jaya berkolaborasi membangun Sekolah Rakyat di daerah 3T. Tujuannya, memperluas akses pendidikan bagi anak-anak kurang mampu.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2034a7f7f80b",
+    "title": "Intan Jaya Sediakan Lahan 7 Hektare, Gus Ipul: Kita Perluas Sekolah Rakyat di Wilayah 3T - Tribunnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOTdEdTdiSjFHV0lUOW0yTXg3a1o0Wk9WcjVkVmRheF85U0xMdjFjVGhGVFo4ZVd1LVZRN1hEQURidEdFWDdaZFRzY2hsVFVEUHhXcG9EVnYzWEJTUFpYX1hQNl9qV2J0ZEVSZTdOT1Q1RnJEOVJoYl82U09VUm1QSlVQbExpdGRuMjRvczNSY3pmYTg2QW5wcE5YWFY5ZEVWc0pzNVZ4V1dBdkE2MGVDYU1KbWV4QktlbEs1TV8xUm1EZzg0aEJ1SV9pTnlqd0FQUDJxVGJB",
+    "source": "Tribunnews.com",
+    "pub_date": "2026-10-26T19:42:52+07:00",
+    "desc": "Intan Jaya Sediakan Lahan 7 Hektare, Gus Ipul: Kita Perluas Sekolah Rakyat di Wilayah 3T&nbsp;&nbsp;Tribunnews.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -61789,6 +61854,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "0085270fb597",
+    "title": "Kemendes-Bank Mandiri kolaborasi perkuat literasi keuangan bangun desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXZoZnpmaHI2OTZuNnVRdzZTMGNFVVdzR2VCUjk5N19NczE5LUlKZk0xelBtWmF1NEpOemJ3OFBfal9NYWtjSldOWHppT1htSkJwY0c0OHlUX1JGUFprY3pGU2pBdEpPQ25penotRXkzS2NyaEE3UE1Xd0ZuZXAxUndBNzJJQzhwTlRqTTVNZnpNTWhwZEVhV0NjUzJIWXUwME5MWFdodzhNYlFqVG9oem9n0gG0AUFVX3lxTE9kRlo1VXRZaC1EWXRtMVIxZnNMVk9QcTk3TEtOOGJKeV9DWmxJOWQwSlJzTDZYSmdqQU9GS0Q5cW9jNE9hUTEtMXZUdllDQ1FVaWYwenBnV0I5Q3ZrUlRObW5RTXZnOVZfbnJnWER5TEtYQ3dVdEQ1T1JtbWRSS1Y1VzBNb1RmUnBFNVhYdG1HeDBsSDQ5T3ZseGNVVDdTbk1maWRMeE96bDVjUHI5WEZjLVY3Sw",
+    "source": "ANTARA News",
+    "pub_date": "2026-01-05T15:00:00+07:00",
+    "desc": "Kemendes-Bank Mandiri kolaborasi perkuat literasi keuangan bangun desa&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "4b3dab47d774",
     "title": "Dana Desa Dipangkas, Pengangkutan Sampah di Pulau Sebatik Berhenti - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYUxnX25faXl1ZVJJN05MRTZNNmxrQm5QbEFLVno1Vkp5UmJVTmg2VjRKQ2ExWGJ1QUQ4QVlmYlNNaVEtSlpXbG1OaUotM3hoYUtELWxqWW9YWGtkZ1dUMjg4TGRpckQySlRjczU1TDB4V3BpcFJxYlI4YUs5VjhydEVjc3FqZTNMRVoyS1p4YWhLWG9PZFllcE1YU3hQSFdWLTAyOUpXTm1DVzZmS2I5Rlphdmg2Zk40VWZR",
@@ -63789,6 +63867,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "864c87367f33",
+    "title": "Kemendes berupaya cari dana tambahan untuk program pembangunan desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPLTlQc2ZfM25IYnpzMlZxMTVoNVdGQ3FLWEhSejJJS3hMUTJuTWV1RFBaTkpCay13bTlTX2VuWWtsdEZOMUlyRHBKSzFNX19GUEtjckVaR2tQRU1RZ00tbnNmQVRZSHFwc0hrOVNVVnJtUng1X2dDZVRKamdVNWhyMS1lQzk0S2dTbEdhX1RRZGNFaTVGbHROSHBBWDA1cFZLR003UUsyUVk1VmM1VGfSAbABQVVfeXFMUFVyaWFBWERIQWg5TTNULThIbEdwSE16RTBUM1RVSDZfZjA5YkIwZVpvNndGZVAzd0NGcTJqWFVBcmpZZnBSTmhBTWN4NTFaMEhSczB2aEZnU3dXNHowd2R6NjIzZ21VZTczYW5lVmY4UDhVUE91OUxKOUF1R1JmMldoYnphamt5c2hnNl9PTVhYMkFlZkVRbnlheXpLcjBldkI2czlBbHZ3b1A3LXJING8",
+    "source": "ANTARA News",
+    "pub_date": "2025-10-09T14:00:00+07:00",
+    "desc": "Kemendes berupaya cari dana tambahan untuk program pembangunan desa&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "7da7edf5be80",
@@ -67325,6 +67416,19 @@
     "sentiment": "negatif",
     "sentiment_score": -4,
     "sentiment_tag": "Penyalahgunaan Anggaran"
+  },
+  {
+    "id": "001ec2ef5a48",
+    "title": "Mendes PDT Dorong BUMDes Aktif Kelola Dana Desa untuk Program Gizi Nasional - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTjhSczRiWlM0amllQk5YOHBXaV83VW5JSjlYX0h0VjNNdXdEUWJCRVdsNEhGYi1adjBPR0EwZW1rRlFma09hZmpvNFpDN2RkMndMaVhhLVI3MkJyWXQyb1YtcnJNRVM4Yk9UVnJfWWdIZmdpQVpldGQ4UzE3cXdDU3h5QnZtQTktU3dzVHhMaWp5TGpJTHpTczJnUE5GU01NU1lPZS0zekJuWm1NajZiekdUTURBdmt1bHc",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2025-02-03T15:00:00+07:00",
+    "desc": "Mendes PDT Dorong BUMDes Aktif Kelola Dana Desa untuk Program Gizi Nasional&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "6fd5f854c34e",
