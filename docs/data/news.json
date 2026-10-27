@@ -260,6 +260,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "77c2e20064a9",
+    "title": "Bebankan Desa, Koperasi Desa/Kelurahan Merah Putih Digugat ke Mahkamah Konstitusi",
+    "link": "https://www.hukumonline.com/berita/a/bebankan-desa--koperasi-desa-kelurahan-merah-putih-digugat-ke-mahkamah-konstitusi-lt6ae072f395f4c",
+    "source": "Hukumonline",
+    "pub_date": "2026-10-27T09:46:00+07:00",
+    "desc": "Anggaran desa yang telah dipangkas dipaksa membiayai pembangunan KDKMP sehingga berpotensi menyempitkan ruang fiskal desa untuk membiayai infrastruktur dasar da ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "4be134ada273",
     "title": "Menembus Batas Wilayah 3T, Yayasan RIZA Hadirkan Sekolah bagi Lansia - rmnews.id",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkxoeXlRd0N5MV9EdDF4ZllXbExzeTQxOHl0WmEtamVIeEl6N0lVQW5LMXdncUZ5Z3hGWURldWtoVE9kY282ZDFxUzJjSTJTVDV2M1hOOFZYTW5VTm1aN0dsbTI1NmRjTlRYaW9yTno0N3o0RXBjZm1tc1JxMjgxMk0zSlA5dGVGZ3loV3l3WG1meUtjZDNidFRfbXItMnEtRXdj",
@@ -554,6 +567,19 @@
     "desc": "Koalisi sipil dan Kepala Desa Prawatan menguji aturan Kopdes Merah Putih ke MK, menyoroti Dana Desa, risiko pembiayaan, dan kewenangan warga.",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1cb03384de05",
+    "title": "Pencarian wamendes-riza-patria - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44UzUxaGpmRGNlZC0tQ3pla0xjN2txMHl3OUJIdHdrdW1URWdwdUk4X254aDBZaXRGdDA5V0tNQ2JKaExUaWY4cDl2X09TNjZGdTVNLVhIeFlWLVkyaVNucDl2dEV3dw",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-26T23:54:10+07:00",
+    "desc": "Pencarian wamendes-riza-patria&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
