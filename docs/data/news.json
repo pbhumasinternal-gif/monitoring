@@ -169,6 +169,19 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
+    "id": "6d6ec102271e",
+    "title": "Kumpulan Berita Bumdes Bentuk Perusahaan - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2ekJNM3lMQm9ZVWRmN3pqN1ZTSmtXMGpYaklXSk9sNERQRVVzU2xRTmoyQkQwc3VDbjhtc0VzdFppVGUxcHdxUEF4NG5NeDVaOVAydU5HRnBqMmFqQU4wSV9vQkp3T05lOVlPcHhR",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-27T06:25:30+07:00",
+    "desc": "Kumpulan Berita Bumdes Bentuk Perusahaan&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7b188aaa2e23",
     "title": "Kuantum Desa: Mungkinkah Desa Tertinggal Melompat Menjadi Mandiri? Halaman 1 - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ0tHYWM3NGlWczVtV2EyM3dxS0MxWnRzNllYQ0VsQVVYandKOHljZFRJQjZYYlhEQlgtaU1Jc1dTMXRvSXEyTm5kUmo4RzdDaTZ3RWdWbUVEV0F5MnhBQzIwOFZsTm5HRjR4MVRPZkZ0QlE4LXlvTl9HTlBhOTJGYS1Ec2hOUXZ1WTN1Um56LWF1UnF2NkJtcjFzSnF4WUFFU0pySS15MHBna2pkN3BFSUhUQnZ0U3VhdHludzQ4VUc2VVQ1d0FuLUhPWDNoUQ",
@@ -240,6 +253,19 @@
     "source": "ANTARA News",
     "pub_date": "2026-10-27T02:14:34+07:00",
     "desc": "Kumpulan Berita Wilayah 3t&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c1f0cc54b826",
+    "title": "Kumpulan Berita pendidikan daerah 3t - ANTARA News Megapolitan",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXbGVsOWQxaHBhRjZ5dTlnRUNteWhxaDRHYVhlU3A0ME41UkkxclU1Z3FJT1lMaXQxY3BRTWFMSkVzYjJqS0h2VWFwSHZSV014VGxTVF96WktZZGlSU0szeFBPMHhhdzhyT08wb0p3",
+    "source": "ANTARA News Megapolitan",
+    "pub_date": "2026-10-27T01:30:07+07:00",
+    "desc": "Kumpulan Berita pendidikan daerah 3t&nbsp;&nbsp;ANTARA News Megapolitan",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -351,6 +377,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "eeb2eb0871d0",
+    "title": "Bupati Bima Ingatkan Kades Transparan Kelola Dana Desa: Setiap Rupiah Wajib Dipertanggungjawabkan",
+    "link": "https://lombokpost.jawapos.com/bima-dompu/2610270049/bupati-bima-ingatkan-kades-transparan-kelola-dana-desa-setiap-rupiah-wajib-dipertanggungjawabkan",
+    "source": "Lombok Post",
+    "pub_date": "2026-10-26T21:27:00+07:00",
+    "desc": "Bupati Bima Ady Mahyudi mengingatkan seluruh kepala desa di Kabupaten Bima agar mengelola anggaran desa secara transparan, tertib, dan berta ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "974d6d94dc06",
     "title": "Kasus Dugaan Korupsi Dana Desa Kotaraja Rp1,59 Miliar Bergulir, Dua Pejabat Desa Diperiksa Jaksa - Gerbang Indonesia",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGhWcVlaX3ZHaDRLOFVDTmJLR0NDcHNDRUUwVk5CZHZkbTJpNmh3WjJ3QTF0NmVmMFo3aEZ2MUh4eFNlMmM4VFo4YW8tQW8xbTh1amRiNWc5bjJKdFlYQlJHUVhtcjQ2SzktZ1VsZ29UTUZXWVZ1S3dnSlNhS3FRcjNtY0FyZnlMU1hwRXRvR2RBYllaWVpUdWttaGhLSjRMN1hUTEtDZVlXUzNoRkJMQ1VzVEY5REViMGZsV0VsQ3JDU3ZuT0U0N1BjQzc2V2NFMEFR",
@@ -362,6 +401,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "21e9ab078476",
+    "title": "DJPb Ungkap Penurunan Transfer Daerah Riau, Dana Desa Anjlok Hampir 60 Persen",
+    "link": "https://iniriau.com/detail/54323/djpb-ungkap-penurunan-transfer-daerah-riau-dana-desa-anjlok-hampir-60-persen",
+    "source": "INIRIAU.COM",
+    "pub_date": "2026-10-26T21:14:00+07:00",
+    "desc": "iniriau.com, PEKANBARU – Belanja pemerintah pusat di Provinsi Riau mencapai Rp7,06 triliun hingga September 2026, naik 37,17 persen dibandingkan perio ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "fbdba3916538",
