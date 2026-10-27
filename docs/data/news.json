@@ -26,6 +26,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "bdae76625438",
+    "title": "Kemendes PDT Dorong Pemda Tingkatkan PAD Lewat Aset Daerah dan Desa untuk Percepat Pembangunan Wilayah Tertinggal - pantau.com",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQd2pmZk01d2wydDkwWXp3Nmo1OXl4VWZFcnZRMWdLVnRYRS1Lb2FNQ2JfNTBTTWhneHU2cy1sVW9OanI5cVRlal9Fd3MyaUtXeTluaTVUWF9BZmNzTUMtNjNjLUlwZmx0Z3ZBdzFKejFYTmNESFlVUFczcm10YUNKMTVCNjJ0OWNpNjU4U0ZOU3g5dFJCV2hvWFUtX0tZeU1aR1ZZZDdKMHU4NnhJX1p5SHI3N0N5Q0ozMWVQX21LQkdwWUVNYlhWMVVQLXM0blRLVUxEOHZpWEhuZjR2Y2NPUU9oelItX2M",
+    "source": "pantau.com",
+    "pub_date": "2026-10-27T15:28:00+07:00",
+    "desc": "Kemendes PDT Dorong Pemda Tingkatkan PAD Lewat Aset Daerah dan Desa untuk Percepat Pembangunan Wilayah Tertinggal&nbsp;&nbsp;pantau.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "24ae24a72e4a",
     "title": "Menembus Batas Wilayah 3T, Yayasan RIZA Hadirkan Sekolah bagi Lansia di Lingga - Batamnews",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb2VwTzc4cDBGZC1kdnpyVmdJeEVIc21rblpBT08wSXFvUWdxd2hGNzVybVNMaHo4R2lNQzFZUWotT1d1RzN1R2FBZ2c2MjBJN1hZam5IWFpOSDBjemtMT3VTRlVVbVVCVGNQeGFsVnNiTWdzT0Ewa0E2S1N5eHVhcGVOUHNpc2FRdjVZdmZnU2kyNnRfYWVwdzRULUt3S2RnQ3cyd0RWZ2ZRMmxLc1pmOVJld1otX25DS19IUnp4c1c2QQ",
@@ -437,6 +450,19 @@
     "desc": "Kumpulan Berita Wilayah 3t&nbsp;&nbsp;ANTARA News",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8500e41bd82a",
+    "title": "Kepala Desa Asal Klaten Gugat Program Kopdes Merah Putih ke MK",
+    "link": "https://tirto.id/kepala-desa-asal-klaten-gugat-program-kopdes-merah-putih-ke-mk-hEjh",
+    "source": "Tirto.ID",
+    "pub_date": "2026-10-27T02:05:00+07:00",
+    "desc": "Kades asal Klaten dan dua Pemohon lainnya menggugat kebijakan Kopdes Merah Putih ke MK. Program ini dinilai membebani dana desa dan mematikan warung rakyat.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
