@@ -13,6 +13,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "0c8fcd5bcdf9",
+    "title": "Kumpulan Berita laporan keuangan bumdes - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yZFY4R0V5SVdPMUZGM1lOc2trcEdYekdWX2F5U1piaDV0bTNjSWw2MVJJeXRidlpLcFVsbldCaUlFREo5RkFlMHZYeXByQjlYbjR1dU9RckhNY1ktZnI0M0NFUEU",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-27T19:03:09+07:00",
+    "desc": "Kumpulan Berita laporan keuangan bumdes&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0915fad2ad48",
     "title": "Mendes sebut dua tahun Prabowo-Gibran hadirkan banyak desa ekspor",
     "link": "https://www.antaranews.com/berita/5815171/mendes-sebut-dua-tahun-prabowo-gibran-hadirkan-banyak-desa-ekspor",
@@ -219,6 +232,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "14dc1749aafe",
+    "title": "Dana Desa Anjlok 73 Persen, Krandegan Tetap Gelar Pembangunan Infrastruktur Miliaran Rupiah - krandegan-bayan.desa.id",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRnQ3THRHQnQ4eVAtNHlNS1pRa0RBMVUtbENGdmFhSW1qUmxVcWdYX0dNeXZ3MWtBeGJCOWVQdHo1THR2NFI0Y3lqMk92bVdlNnNUMlZhZWJJeHR3amYyaUtsMkl0dDdYLVdiS0YxdGRmdGViUE5hUERUbmNUcWFDMFgwSllaM05iZ3hveDc0alN4a0p4Q1NKazRIR0NzQnVpcWU4V21jMDFUbzJLT09OUVFOSVl0M3N3NVdJZXRST0FQUzRtUU9YcVBuRUVqdm9yVjNiVDlCNmw4WWlMTWk3QjRB",
+    "source": "krandegan-bayan.desa.id",
+    "pub_date": "2026-10-27T13:55:41+07:00",
+    "desc": "Dana Desa Anjlok 73 Persen, Krandegan Tetap Gelar Pembangunan Infrastruktur Miliaran Rupiah&nbsp;&nbsp;krandegan-bayan.desa.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "85bc2048d750",
@@ -2364,6 +2390,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3242fb418408",
+    "title": "Lantik 57 Pj Kepala Desa, Bupati Muklisin Tegaskan Pengelolaan Dana Desa Harus Transparan dan Akuntabel - RIAUTERKINI.COM",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOakhtcmxsakk5azV1MFBYNkQ0WGtwUHhQX0FEa3hDMm1qQVViRXRyc1F1ZmZhYm5HazA3Q29MQ1ZROG9YVnczdWsyQ1R5MXlJM3FSNXZIclZtd3ZLUDdIZWttQjRhMzZYd1gwNTFoVVJwakVuWWdURThvWnB1dnNmSTBwQXM0UjFveEp5YUszbFc0eUVyaUNVQkN0NEg0Rm9MTF9ha0UyU1BWTzVBM2hZWGMtVDZtY0U0MFgwM1Q5di1lUTVUSHpZLWFjZDhJOUppbk5tcGtleElMeTRGUW43bWxpSktDQ3M0LUpQX0JjOWkwSkhxalhQNWxabHlQZw",
+    "source": "RIAUTERKINI.COM",
+    "pub_date": "2026-10-24T21:53:35+07:00",
+    "desc": "Lantik 57 Pj Kepala Desa, Bupati Muklisin Tegaskan Pengelolaan Dana Desa Harus Transparan dan Akuntabel&nbsp;&nbsp;RIAUTERKINI.COM",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "e4f2f7afcba6",
@@ -6485,6 +6524,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Pemberdayaan Masyarakat"
+  },
+  {
+    "id": "58a3b5175f0a",
+    "title": "Tahun 2027 Dana Desa Di Merauke Diperkirakan Berkurang Hingga 90 Miliar - Suara Merauke",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkhNbEVrb1UtZ3QtTzZLT0lhUjhWRDR5cVpsV2xMY3JZTHItcWFzdlRnRkZiUWhJUmFrbkJfSmh6dnhwelBLcnduQ0h2TmpESVFZSklTNmFlTGdSNFJXMGJ0cWdoZ28yTFFja3BoSTVYR19SVjdmRWpLMDRiNVpEcGZpTV9FeGVQVXljR2ZFbC1BMVJnNk1tSnJaMGs1d2ltWTdwbDlmRF9rc1BZM2REd0NoNkg",
+    "source": "Suara Merauke",
+    "pub_date": "2026-10-20T16:22:27+07:00",
+    "desc": "Tahun 2027 Dana Desa Di Merauke Diperkirakan Berkurang Hingga 90 Miliar&nbsp;&nbsp;Suara Merauke",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "f15e33120f73",
