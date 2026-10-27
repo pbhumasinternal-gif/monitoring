@@ -52,6 +52,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "db9eea293ec9",
+    "title": "Pemdes Damarraja Salurkan BLT Dana Desa kepada 16 KPM - | Sukabumizone",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3piMlBhbU1sNVp3STJLTmxKOFhtRjJRcTE4UTI0NkQwQU5ZdGY3QXF5blU5OVMzTlo2REdLcVNrUDVDYkJRWmt0d0V3OTd3R3FZT0pIbUZ2TG5ULXdhWjlkVi0zdG0tQzdDdEl5RG9VSEczTnpmcFJ2cUI2TnpLR3cyYXgzd2RwU3ZTclFUSEJTOHZG",
+    "source": "| Sukabumizone",
+    "pub_date": "2026-10-27T19:03:17+07:00",
+    "desc": "Pemdes Damarraja Salurkan BLT Dana Desa kepada 16 KPM&nbsp;&nbsp;| Sukabumizone",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0c8fcd5bcdf9",
     "title": "Kumpulan Berita laporan keuangan bumdes - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4yZFY4R0V5SVdPMUZGM1lOc2trcEdYekdWX2F5U1piaDV0bTNjSWw2MVJJeXRidlpLcFVsbldCaUlFREo5RkFlMHZYeXByQjlYbjR1dU9RckhNY1ktZnI0M0NFUEU",
@@ -570,6 +583,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "e8d112457773",
+    "title": "Capaian 2 Tahun Prabowo-Gibran, Mendes Sebut Banyak Desa Ekspor Lahir",
+    "link": "https://www.ntvnews.id/news/01123435/capaian-2-tahun-prabowo-gibran-mendes-sebut-banyak-desa-ekspor-lahir",
+    "source": "NTVNews",
+    "pub_date": "2026-10-27T06:27:00+07:00",
+    "desc": "Mendes PDT Yandri Susanto memaparkan salah satu capaian signifikan dalam dua tahun masa pemerintahan Prabowo-Gibran adalah lahirnya banyak desa ekspor di berbagai wilayah.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "6d6ec102271e",
