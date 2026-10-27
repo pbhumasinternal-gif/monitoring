@@ -195,6 +195,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f14256385285",
+    "title": "BUMDes di Musi Banyuasin ini raup omset Rp15 miliar/bulan, suplai TBS ke pabrik pengolahan",
+    "link": "https://sumsel.antaranews.com/berita/511640/bumdes-di-musi-banyuasin-ini-raup-omset-rp15-miliarbulan-suplai-tbs-ke-pabrik-pengolahan",
+    "source": "ANTARA News Sumatera Selatan",
+    "pub_date": "2026-10-27T07:14:00+07:00",
+    "desc": "Salah satu Badan Usaha Milik Desa (BUMDes) di Kabupaten Musi Banyuasin, Sumatera Selatan, meraup omset Rp15 miliar/bulan dari usaha menjadi pemasok tandan buah sawit ANTARA News sumsel 2 ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "250af4798812",
     "title": "Pemda Parimo Usulkan 23 BUMDes Dapat Dukungan Pengembangan Usaha ke Pemerintah Pusat - the OPINI",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUnhRdmNhUmxzZFNHUXozeHZpTVdjSW0yT1FqbVFBd1g5YnZUcjUtLXZkd2NTbHlLRmhQZHhNMzIxMk5ZVjFFVVlUd1lCS19KZXNnWDkzYVpRbjlpaHdRMzg4ejBLczlSY0MxT2lTeXozaE9FX2hYRVBzbGtWR1RJOWVhNzcyZTduTUc5NVpId0tKQUJESlZzY1FSZEdHYmo5UkR0RTRQVXZiZ3dpcFJNT2Uzd1l5ZWc",
@@ -390,6 +403,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "c323383363e3",
+    "title": "Koalisi Sipil Uji Kopdes Merah Putih ke MK, Persoalkan Beban Desa-Model Koperasi",
+    "link": "https://www.idntimes.com/news/indonesia/koalisi-sipil-uji-kopdes-merah-putih-ke-mk-00-jkxzp-zlx24d",
+    "source": "IDN Times",
+    "pub_date": "2026-10-27T00:00:00+07:00",
+    "desc": "Koalisi sipil dan Kepala Desa Prawatan menguji aturan Kopdes Merah Putih ke MK, menyoroti Dana Desa, risiko pembiayaan, dan kewenangan warga.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5e164871fde2",
     "title": "Polisi Limpahkan Kasus Dana Desa Rp331 Juta ke Kejaksaan - bsinews.id",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96cDYzZjZvODBheDkwc05icldfVUlKZ1RvMF9NWmg4N2ZYbjRPUkJNYjQ5Sm5GY2ZqbFdRZFZHNEM1b1FodUQ4aGVtUUtZbjdZQ2ljWG9PbDZiOEtEUUlxMURTaw",
@@ -565,6 +591,19 @@
     "source": "ANTARA News Mataram",
     "pub_date": "2026-10-26T20:16:49+07:00",
     "desc": "Kejari Lombok Timur tahan tersangka korupsi Dana Desa Kotaraja&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "24a1a3f758c9",
+    "title": "Berkas Tersangka Korupsi Dana Desa Akar-Akar Dinyatakan Lengkap Pekan Ini",
+    "link": "https://lombokpost.jawapos.com/hukrim/2610270032/berkas-tersangka-korupsi-dana-desa-akar-akar-dinyatakan-lengkap-pekan-ini",
+    "source": "Lombok Post",
+    "pub_date": "2026-10-26T20:05:00+07:00",
+    "desc": "Penyidik Satreskrim Polres Lombok Utara (Lotara) telah melengkapi petunjuk jaksa peneliti. Dipastikan seluruh petunjuk tersebut sudah dipenu ...",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "negatif",
@@ -3962,6 +4001,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a3b500af52e1",
+    "title": "KESEHATAN DAERAH TERTINGGAL - ANTARA News Gorontalo",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3QlJ0S19UT3dmZ2RQMk51aGFvdnprSzhSQW5HakprWDMwVG1EVGRlRm9tUFpUdi1XVTVSLWJmUktkelY4Mjl1cUZueUN4eVJrZXJjUDVGcFRiODY0aVJ2eEdPWjhyYXR2SjNuN2h3WnhldHBX",
+    "source": "ANTARA News Gorontalo",
+    "pub_date": "2026-10-22T14:15:59+07:00",
+    "desc": "KESEHATAN DAERAH TERTINGGAL&nbsp;&nbsp;ANTARA News Gorontalo",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -55601,6 +55653,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b1979278cd5d",
+    "title": "Video Mendes Yandri: Hampir 1 Juta Perangkat Desa Sebut Dukung Penuh MBG hingga KMP - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVUFzdjZ1YkFiYTZoLTR3ZGRsOXhrM1p5U2hmcjE5UkZSN09lQlFkR0FMakFRMzB2eWRFZVFEMDktWWlMU2VoaTlGT3owS0ZyOVQwRE4zamVNTVE5Q3V4cmt1ckJRSWVDc1ItVWlmV0ZSazd4dzhpbEZiV200U1ZnOFZIYXR3Y2t0ZjFGQkFPVzliTkV1TU8xeXR3a0xqNWJjYjMxTUI0YWRwVmlBTExxMGtKQ0FoMldkSWROMTc5Qmd4WkpGWC1BYUNfOTNxSE0",
+    "source": "20detik",
+    "pub_date": "2026-06-17T14:00:00+07:00",
+    "desc": "Video Mendes Yandri: Hampir 1 Juta Perangkat Desa Sebut Dukung Penuh MBG hingga KMP&nbsp;&nbsp;20detik",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "55f20da521f8",
     "title": "Hasil Evaluasi Kemendes PDT Arsip - SUARANTB.com",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCX3VtYWlDZUxMSGFjeklfMF9mcDB2QW5XNjNHcHdxYzBUSnd0RGJzbmhCY3l2RzlPSDJRSElQNFduTHJJclpDN2FmR0s1TkF3NWljNDl2dFZhdlpCVkF5SWZVZw",
@@ -79709,6 +79774,19 @@
     "source": "Kompas.com",
     "pub_date": "2019-07-10T14:00:00+07:00",
     "desc": "Cerita M Idris, Anak Petani dari Daerah Tertinggal, Jadi Lulusan Terbaik Akpol 2019&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4db966b64f4e",
+    "title": "Kemendes Dorong UMKM di Daerah Tertinggal Go Online - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbml3WmVzX0QydmZrUlFDdFlCQ2EteGdPN0hHZDFybEZ0eG5ST0U3SGl0NDZ1c1lQX3FDNmpLN0E2bGZTYXhWSDQ3MHVUMHlHSGhFTmtWNVRTODg0akxPMU9XVHNXLWJMT0hXUnFvbHJ0MU1pbkY2U29RZ09SRkxhdWFCdHNoOW1jOUhROFV4T2VYSXI3a0E",
+    "source": "detikNews",
+    "pub_date": "2019-07-09T14:00:00+07:00",
+    "desc": "Kemendes Dorong UMKM di Daerah Tertinggal Go Online&nbsp;&nbsp;detikNews",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
