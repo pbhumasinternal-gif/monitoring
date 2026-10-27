@@ -156,6 +156,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "52ab5dfe5088",
+    "title": "Wujudkan Akses Pendidikan di Daerah 3T, Kemensos Siapkan Pembangunan Sekolah Rakyat di Intan Jaya",
+    "link": "https://suarapemerintah.id/2026/10/wujudkan-akses-pendidikan-di-daerah-3t-kemensos-siapkan-pembangunan-sekolah-rakyat-di-intan-jaya",
+    "source": "Suara Pemerintah",
+    "pub_date": "2026-10-27T00:00:00+07:00",
+    "desc": "Kementerian Sosial terus berupaya memperluas akses pendidikan bagi anak-anak dari keluarga kurang mampu, salah satunya melalui pembangunan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5e164871fde2",
     "title": "Polisi Limpahkan Kasus Dana Desa Rp331 Juta ke Kejaksaan - bsinews.id",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96cDYzZjZvODBheDkwc05icldfVUlKZ1RvMF9NWmg4N2ZYbjRPUkJNYjQ5Sm5GY2ZqbFdRZFZHNEM1b1FodUQ4aGVtUUtZbjdZQ2ljWG9PbDZiOEtEUUlxMURTaw",
@@ -921,6 +934,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "66636c02db26",
+    "title": "Kades dan Bendahara Kotaraja Ditahan Selama 20 Hari Kasus Dugaan Korupsi Dana Desa",
+    "link": "https://ntbsatu.com/daerah-ntb/lotim/rizkitaarum/kades-dan-bendahara-kotaraja-ditahan-selama-20-hari-kasus-dugaan-korupsi-dana-desa",
+    "source": "NTBSatu",
+    "pub_date": "2026-10-26T10:12:00+07:00",
+    "desc": "Kejaksaan Negeri (Kejari) Lombok Timur menahan Kepala Desa Kotaraja LS dan Bendahara Desa Kotaraja M, pada Senin, 26 Oktober 2026.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "8af3f0833f28",
@@ -77577,6 +77603,19 @@
     "source": "detikFinance",
     "pub_date": "2020-12-14T15:00:00+07:00",
     "desc": "Mendes Buka Peluang Swasta Tangani Produk BUMDes&nbsp;&nbsp;detikFinance",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8b0bf2b82d92",
+    "title": "Mendes Jelaskan Cara BUMDes Bisa Berbadan Hukum - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdXVQQ1pHdkRRWklZYTFHZlQwb0FpTkp5ZC1FUlZtS3B6dlFiTmxmdTB6c0NoQjV6N05ibUZQZTRHRjNYUlNnUGtFVzhwMXN5b2FFdXBta3lRZVdKWWtlYnNBeDM2VjQ5dFg1b00tZ0NHamxZNE45OUhYOTZpTXVlRFdCaTlMQjM3YmNwaXJaRHY",
+    "source": "detikNews",
+    "pub_date": "2020-12-05T15:00:00+07:00",
+    "desc": "Mendes Jelaskan Cara BUMDes Bisa Berbadan Hukum&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
