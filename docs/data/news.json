@@ -4472,6 +4472,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5efe54032e86",
+    "title": "Dana Desa Dipangkas, Sekda Kabupaten Tegal Minta Kades Tak Takut Lakukan Ini",
+    "link": "https://radartegal.disway.id/kabupaten-tegal/read/730254/dana-desa-dipangkas-sekda-kabupaten-tegal-minta-kades-tak-takut-lakukan-ini",
+    "source": "radartegal.com",
+    "pub_date": "2026-10-22T09:30:00+07:00",
+    "desc": "Sekda Kabupaten Tegal Amir Makhmud minta Kades tak takut kelola Dana Desa meski alokasi menyusut akibat pembiayaan KDMP. DPR RI janji bawa keluhan ke Menkeu.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "b31e39ede628",
     "title": "Lantik DPD FBMP, Wabup Iing Dorong Pengelolaan Bumdes di Pandeglang Unggulkan Potensi Desa - bantentv.com",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFEzd2o2VGJTUm9yVjNGYWRXcy1wZmgwbWl2MzNVYlVtLTBmR0RzYVBPdmdTZm1wY3psa0xBY1A3TFBCS0VlZjMtcTFUWTdIRHhyMFdkM1M1ZDZiVkVkaXBrNDBfVGlZanYyQjZVaTMzUGRuaENHMDBfUGJEaGt6WWhWZ2N0eUFyeHRhbnNWQWNsWWs5NXVpRVg4MG5UbU1aVHVLWXZFdDR1R21BWG1ZZHpXZndZbGZNU0E",
@@ -68614,6 +68627,19 @@
     "sentiment_tag": "Penyalahgunaan Anggaran"
   },
   {
+    "id": "eb15874ea931",
+    "title": "Alokasi Dana desa Rp13,84 miliar dukung ketahanan pangan di Pasaman",
+    "link": "https://sumbar.antaranews.com/berita/657437/karkhas",
+    "source": "ANTARA Sumatera Barat",
+    "pub_date": "2025-02-07T09:40:00+07:00",
+    "desc": "Pemerintah Kabupaten Pasaman, Sumatera Barat mengatakan besaran nominal dana desa yang dialokasikan untuk ketahanan pangan tahun 2025 sekitar Rp13,84 miliar dalam mewujudkan misi ANTARA News sumbar 21 ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "ab53e46bdc5a",
     "title": "Yandri Susanto Masuk Jajaran Menteri dengan Kinerja Kepuasan Tertinggi - detikNews",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjFZOXF0TUNERkJKWUMxZVRUeTlVOXBiZ3B4dW5SaEE3T193a3FsNFZyVFltZndrcktGZy1kcUpLdkZ1b1ZHYXdLdlVHNi1qZ3A4eWhOTk1SNlUwclotM05HRVZzd29EbWdmU1NaRGlJVFpsUnF2Sm1hWlAwdXFXa2RiZkl0TjdiaVhsYmRqRy1CRTlxdXV2dVN2dU5tekRpX2VxWWF6S056VXFJaE1Z0gG0AUFVX3lxTFBMOWlVNHllTU5WWkNCemZnWXRaZnZ2a1IwVXFLcHdGRWN2QmpZOHd2UFpjbGtZS2lkNXBoM1hkLTA2b2lfMVN0cVFvdV92VG9JQlI5aV9RZlg2OWpfaF93RE9tS0FVY3FVZjl0N2t0eWJGYmJjQVpaZER2cmFjV0FJNlVWWjhidWtFUDQtWWZWekFNYlN6b3BNSTV3aEdNT2tLTGRob21PWHJ6b3J4bHhyQzRDbA",
@@ -79649,6 +79675,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "0291e8898fa7",
+    "title": "Izin Kerja Lapangan, Wamendes: Saya Mau Cium Bau Rakyat di Desa - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1pDTWp6LXBHOVZYcFZfVzNZUk9DNzd0YlhGR2Z3TnBKLXg0OHM2VTByUl9qZEZMTlRqVDdfdk5qYm82S082aExSR21KaFo2REN1NHRKNUFnY3lVcW1pSFJPTHk1U1owQ1hxV1lRbFM0TFdJZXh6Q3NOaksxRFM1T1BEdGY0ei1rdE9DYkl0b2VJYkswY0dPLURaUGhONDVhY0M0TFg3LWNRNGkwSXdESlVqdmtHOXVBMUxv",
+    "source": "detikFinance",
+    "pub_date": "2019-10-25T14:00:00+07:00",
+    "desc": "Izin Kerja Lapangan, Wamendes: Saya Mau Cium Bau Rakyat di Desa&nbsp;&nbsp;detikFinance",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "a39824deebbe",
