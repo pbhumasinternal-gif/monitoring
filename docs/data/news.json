@@ -13,6 +13,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "12c91536940e",
+    "title": "Pemkab Taliabu Jajaki Dukungan Kemendes PDT Dalam Pengoptimalan Potensi Perikanan, Desa Wisata dan Memperkuat BUMDes - mimbarrakyat.co.id",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQ08wbklIY0cwajQ3eUN1RzlWV3JNckxnOW94d0kxeDlVZmRSVU9mMEk5NXM5dDJpZkhDdEpQaFdRaHhHN0N4STNWWFBQNVY2cWZCb3dpTzNHU2tIWkJJRDBSdTdWVlBfNTdHbkUyNi05MVdCd1FjYTVOSW1SaFZPM0pVbHBmQkx6aUVwWHFmVWh4WkRPNEJSSmFUdjhxN2JEQ0RQTlh3U1hDQ2p6OTNOLVpaWlZpR09lZHRNWUZFek5XbmZMUWZrV1FfRU9zMS0xZGdLVEhHVm52aDg5Qm1PUDZSS2UtcGpvOVE",
+    "source": "mimbarrakyat.co.id",
+    "pub_date": "2026-10-28T01:55:53+07:00",
+    "desc": "Pemkab Taliabu Jajaki Dukungan Kemendes PDT Dalam Pengoptimalan Potensi Perikanan, Desa Wisata dan Memperkuat BUMDes&nbsp;&nbsp;mimbarrakyat.co.id",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "96f4de549503",
     "title": "Kemenkop perkuat pengurus KDKMP untuk kembangkan usaha",
     "link": "https://www.antaranews.com/video/5815747/kemenkop-perkuat-pengurus-kdkmp-untuk-kembangkan-usaha",
@@ -180,6 +193,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "7316a8a669a4",
+    "title": "Dana Desa 2026 Menyusut Drastis, Penanganan Sampah di Leuweunggajah Cirebon Terkendala - radarcirebon.disway.id - Radar Cirebon",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONUQ1dzBtdFpmTXdpY1l3U2QxLXVSVFRUb0YzOWdYYjV2cGVMbG5vUzMxS3UzSDhSVnBLRDlSNXV1WWV5dHBNTWNnNl9xX2ljMUREd0tpeHdBejhjLVM5MTRCYmUtOTR2U3gzLXdVYVhteWY4ajBfZlF2VU0tS0F2Z1BQQ2M0M1VNT21wdGp4Vmo0UmVla3lOd2JHa2tjcGVYZEVYeU1TSXVRWXRnc3FjSzEzWHA3ajJ2dEpEUGtWQnhaSndXNmZJbGF2cHl4QTFJVWVlRTdqUXBGVXJzY01N0gHGAUFVX3lxTFBYemxvN014cVotVHowSjd4ZlJoTXVpWlZ3Nm9fc3o0dU9lNVp1d085M2dIYnRmZUJQVGF6Yno2bzVVRWRCSEtMeDl3MUdxc0R1UGJrMTRwelBWQkxhWnZaWGNFWnpWXzM5cmxPSjAwNlBlVHZuOFljSWhBYWJ3elBKYkhwX05mRnZwbnRiSThiakpuN2VYZ3NLNWNqVE0wX2hVZ3pDeU80ZllISzBkdzVEeHNILTdoS1JLWlZJelJLcmNfLUJVUQ",
+    "source": "Radar Cirebon",
+    "pub_date": "2026-10-27T18:33:00+07:00",
+    "desc": "Dana Desa 2026 Menyusut Drastis, Penanganan Sampah di Leuweunggajah Cirebon Terkendala - radarcirebon.disway.id&nbsp;&nbsp;Radar Cirebon",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "c016bd66159c",
@@ -66813,6 +66839,19 @@
     "source": "detikcom",
     "pub_date": "2025-07-24T14:00:00+07:00",
     "desc": "Mendes Yandri Targetkan Desa di Pati Jadi Eksportir Nila Salin&nbsp;&nbsp;detikcom",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "568004df56c9",
+    "title": "Mendes PDT Yandri Susanto Luncurkan Program GeMAR di Desa Pelem Blora - Pemkab Blora",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLVFZUTJQVjN1QTlqQ09sQWZJQkd0aFdlbWlzMDNnaFZQMEZsaWdOb3gwY0JfWUt5SXJnVnhTU3BVTm5LbDBRSFpUcEJ5OFVmTTZQS0dORWt0TlZfQ3hSRng4b2w2MnpHWVpKQnV4MFJ4NEl4U0RLZXJEQU11OXh2YXg2T1dXNzVIeGpmd3A1VTdhOG5LUnBwT1JWT2U2ZHc3TnUtbUFLVWlDaVFDZlNPZllkcUdzMFFXUTlkWjNqNGhteXJybHZwbkwwelE",
+    "source": "Pemkab Blora",
+    "pub_date": "2025-07-24T14:00:00+07:00",
+    "desc": "Mendes PDT Yandri Susanto Luncurkan Program GeMAR di Desa Pelem Blora&nbsp;&nbsp;Pemkab Blora",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
