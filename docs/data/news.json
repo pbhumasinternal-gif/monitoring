@@ -1,5 +1,31 @@
 [
   {
+    "id": "e3fea70e89df",
+    "title": "Ketua DPRD Tanjab Barat Soroti Peran BPD, Pengawasan Dana Desa Jadi Perhatian - Bekabar.id",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0RpWXN4S0xmeXh4NmFKQmgyc0xybzZnY0JPWTJVNlZWbFFNWjBlTTVkSFBlT2RycW41WWdTOUcwME5FRURKdXFYY1VrWlptdkFBY2VrMkhaeG5mQkZPbUFhUjgtM0R6U0xSNWRJTF8yeVRaQVJDOEx4X0JweTg4QU1KMHNHTzFMT1ZKelUyZ3hXc3ZGOHZyYnlnTHR0dnMxRGdWZHoyZWVJNVpJ",
+    "source": "Bekabar.id",
+    "pub_date": "2026-10-27T12:14:14+07:00",
+    "desc": "Ketua DPRD Tanjab Barat Soroti Peran BPD, Pengawasan Dana Desa Jadi Perhatian&nbsp;&nbsp;Bekabar.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "882f9339e75f",
+    "title": "Jaga Keberlangsungan Peredaran Uang di Wilayah 3T, BI Sumut Lepas Tim Ekpedisi Rupiah Berdaulat 2026 - Waspada Online",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWpoZTlVZmZZQVdoRl9OU0EyOXlCVU96cnFTVVlkNHBMRWRHa1JMR0JwVHRLOTFqWG96ZVVqbFRRV2NCT3hsQXpxT1doM2FHWDNvSi01Tk1WQ3YyamFPdEZPcWpOeVhTeVRRbUI2VkZDMUtIekJMOU9BUERFZENnZWRXMVFXU2pTM2tiR0RfRmN2VVhFRFBkSS14V3pkMGhjbldCQ0NtbDROZjB6bHBYbUNxelJuWVc1Q09QRTN1SQ",
+    "source": "Waspada Online",
+    "pub_date": "2026-10-27T12:05:00+07:00",
+    "desc": "Jaga Keberlangsungan Peredaran Uang di Wilayah 3T, BI Sumut Lepas Tim Ekpedisi Rupiah Berdaulat 2026&nbsp;&nbsp;Waspada Online",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "866216eaab2e",
     "title": "Danantara optimalkan peran KDKMP untuk distribusi kebutuhan pokok",
     "link": "https://www.antaranews.com/berita/5813999/danantara-optimalkan-peran-kdkmp-untuk-distribusi-kebutuhan-pokok",
@@ -102,6 +128,32 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "91da66ca45ff",
+    "title": "Kumpulan Berita Penyaluran Dana Desa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55S0NWbW5oWDNtSWM3c3RmT19mQVNiT19tbnh2U0hybllsTTYtVDUwM0hKb2w3bW9PUG9wMXRDMEp6d0FoTnNhUktEUHhFMUpUd2VybGQ0TU1LTlhwYTV1WmpLLVhhMXRH",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-27T07:35:01+07:00",
+    "desc": "Kumpulan Berita Penyaluran Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "93953fa11e8e",
+    "title": "Kumpulan Berita kepala desa korupsi dana desa - ANTARA News Bengkulu",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Cdzg4U3dsN3pDa25lMHBMUmFQcXlQNDJzRHZRQ1c5SldCRGxsUzVRWlplcWR3Y1lUX0JibUVyMUpMSlZjQXdNWVJ4c0ZRUkVacVRrSUtOTjROZGhWdER4Z2d6TVREWnNCMkNFbTVZUjBCZXpTdlRv",
+    "source": "ANTARA News Bengkulu",
+    "pub_date": "2026-10-27T06:53:34+07:00",
+    "desc": "Kumpulan Berita kepala desa korupsi dana desa&nbsp;&nbsp;ANTARA News Bengkulu",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "3b48b0f734c5",
@@ -279,6 +331,19 @@
     "source": "detikcom",
     "pub_date": "2026-10-26T21:45:15+07:00",
     "desc": "Zulkifli Hasan berdialog dengan 26 ribu manajer KDKMP untuk memantau operasional dan kendala. KDKMP diharapkan jadi infrastruktur pelayanan publik yang efektif.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fd97a36b892e",
+    "title": "Kumpulan Berita kemendes - ANTARA News Banten",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GZDVubDFfOWhJU0tpTjJ5SE1CcDA5RU5mcmNVLWJ2b2o2VFExUmo2LWk0LUg1ZnlCazRxUDVjdkhXWlBZZ2I1a1o3WXg4aENXSjAyS0gtSlo",
+    "source": "ANTARA News Banten",
+    "pub_date": "2026-10-26T21:43:39+07:00",
+    "desc": "Kumpulan Berita kemendes&nbsp;&nbsp;ANTARA News Banten",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -72941,6 +73006,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "7dd4b3a7deb2",
+    "title": "Kemenkeu Paparkan Arah Kebijakan 2024, dari Dana Desa hingga Otsus - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3NmY3VpbjhrOEdDanJCMWJJMW1UWllITXBPVDZxWmVId1BNYWtOYjJMUlY4a0JzRTZGVWVrQWJwYmpOUVdscDdta2l6alE4TmhiSlhIT195RFBQRXp3WW1kMFNJWFBNM2ozbDhMVzRPVXdsUEZvNzFKY1l0MjZpcUYyM3AwS3Z6eTRFQmRmQlFkaFB4QzNwRFZjQnFEdkVsZFBqUnRYbkU4blhhMHJQTjNzYmVMaTNHRzNEU2luUVl2Y3c",
+    "source": "Kompas.com",
+    "pub_date": "2023-10-20T14:00:00+07:00",
+    "desc": "Kemenkeu Paparkan Arah Kebijakan 2024, dari Dana Desa hingga Otsus&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "9da85f210b3b",
