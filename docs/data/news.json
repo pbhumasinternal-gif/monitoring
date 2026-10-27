@@ -1,5 +1,31 @@
 [
   {
+    "id": "866216eaab2e",
+    "title": "Danantara optimalkan peran KDKMP untuk distribusi kebutuhan pokok",
+    "link": "https://www.antaranews.com/berita/5813999/danantara-optimalkan-peran-kdkmp-untuk-distribusi-kebutuhan-pokok",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-27T11:46:16+07:00",
+    "desc": "BP BUMN bersama Danantara terus memperkuat sinergi antar-BUMN untuk mendukung pelaksanaan program Koperasi ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "17bbfe022cd3",
+    "title": "Wali Kota: Program KDKMP terus dioptimalkan di kota Medan",
+    "link": "https://www.antaranews.com/berita/5813983/wali-kota-program-kdkmp-terus-dioptimalkan-di-kota-medan",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-27T11:38:12+07:00",
+    "desc": "Wali Kota Medan Rico Tri Putra Waas menyebut seluruh program pemerintah pusat termasuk program Koperasi Desa/Kelurahan ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d67353913c2f",
     "title": "Kemendes: Pemda gali potensi PAD percepat bangun daerah tertinggal",
     "link": "https://www.antaranews.com/berita/5813947/kemendes-pemda-gali-potensi-pad-percepat-bangun-daerah-tertinggal",
@@ -414,6 +440,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "97af2f107621",
+    "title": "Polres Bengkulu Selatan Geledah Kantor Desa Usut Kasus Korupsi, Sita Ponsel dan Berkas",
+    "link": "https://regional.kompas.com/read/2026/10/27/090156478/polres-bengkulu-selatan-geledah-kantor-desa-usut-kasus-korupsi-sita-ponsel",
+    "source": "Kompas Regional",
+    "pub_date": "2026-10-26T19:01:00+07:00",
+    "desc": "Polres Bengkulu Selatan menyita dua ponsel dan sejumlah berkas saat menggeledah Kantor Desa Suka Bandung terkait dugaan korupsi Dana Desa 2022-2023.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "6fde4453af19",
