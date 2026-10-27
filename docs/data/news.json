@@ -1,5 +1,31 @@
 [
   {
+    "id": "d67353913c2f",
+    "title": "Kemendes: Pemda gali potensi PAD percepat bangun daerah tertinggal",
+    "link": "https://www.antaranews.com/berita/5813947/kemendes-pemda-gali-potensi-pad-percepat-bangun-daerah-tertinggal",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-27T11:27:49+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) meminta pemerintah daerah (pemda) menggali sumber ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "53078db19949",
+    "title": "Kasus Dugaan Dana Desa Kerumut Naik Penyidikan - Radar Lombok",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkt2aE54RGRBczZiazBDNGljR2I1ckp6clNlRjFXVGY1ZlRFVWQ1OWxfRzNpUzhja09WUklJNzdnc3VrZ2N3YVFUdlc0clF4YlpsM0lfQ1c5dFZZNXQ2T2xzYzM2Q3VZWTZUSkMyNmduX3ljYWNCNnhmclBrbnZhVGJxYw",
+    "source": "Radar Lombok",
+    "pub_date": "2026-10-27T11:07:20+07:00",
+    "desc": "Kasus Dugaan Dana Desa Kerumut Naik Penyidikan&nbsp;&nbsp;Radar Lombok",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4be134ada273",
     "title": "Menembus Batas Wilayah 3T, Yayasan RIZA Hadirkan Sekolah bagi Lansia - rmnews.id",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkxoeXlRd0N5MV9EdDF4ZllXbExzeTQxOHl0WmEtamVIeEl6N0lVQW5LMXdncUZ5Z3hGWURldWtoVE9kY282ZDFxUzJjSTJTVDV2M1hOOFZYTW5VTm1aN0dsbTI1NmRjTlRYaW9yTno0N3o0RXBjZm1tc1JxMjgxMk0zSlA5dGVGZ3loV3l3WG1meUtjZDNidFRfbXItMnEtRXdj",
@@ -166,6 +192,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0b4b4c700aa7",
+    "title": "Laporan Keuangan Desa Membaik, Mahyunadi Dorong Inovasi BUMDes",
+    "link": "https://beritaborneo.com/laporan-keuangan-desa-membaik-mahyunadi-dorong-inovasi-bumdes",
+    "source": "beritaborneo",
+    "pub_date": "2026-10-27T00:00:00+07:00",
+    "desc": "Mahyunadi, Wakil Bupati Kutim, Wabup Kutim, Pemkab Kutim, Kutai Timur, keuangan desa, laporan keuangan desa, pengelolaan Dana Desa, BUMDes Kutim, Badan Usaha Milik Desa, pendapatan desa, ekonomi desa, ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -64155,6 +64194,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f23ee3c6c52b",
+    "title": "Kades di Jambi Ngaku Bangun Jalan Pakai Dana Desa Padahal dari Pihak Ketiga - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUS1MdEc4OGY3TEZqUWFfZ0NBblAyMmtZMEFFY0VUWnNGV041VUFkY0R4b3lmcm9rTTBSWUFpMzdKSmZUQXpPejB5UjExMVZzaHdiUjRINlhHc0otdGhKQzlacy00SEt0MFRNaGhKTmNxTnFiMUZsdzhwSkVZc3NOZ0g4LUNQa0wzenM1Rml4a25JYzM2dTNaYlNBVkt4Q1lqeTFNXzZKNTFVbXBkQjdZenpwNGpoYjM1eXBWQlFZQWs0eHFydllN",
+    "source": "Kompas.com",
+    "pub_date": "2025-10-24T14:00:00+07:00",
+    "desc": "Kades di Jambi Ngaku Bangun Jalan Pakai Dana Desa Padahal dari Pihak Ketiga&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4a35d8ee644c",
     "title": "PESIBAR RESMI LEPAS SEBAGAI DAERAH TERTINGGAL - Pemerintah Kabupaten Pesisir Barat",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLW12TmZFNEVZWmdSRTdvQTFZMXpnYmVsTmNWZ2poNm1jZG5ZU3FFLUxyMmVWd1dmUk1tRWNyT2laQm1OZUVNS1dOUVJiS2Fod252eGF5NElBb0dyeG9JUUt3UjNIOU9seU1hdmF6WmNGMmpBakNUeW95Tnh4cWQ5Nnh6U1VXNFB4c3VJajZkek0wLWxUOU1JUmJyRENLZw",
@@ -64386,6 +64438,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5a2e6d2565b1",
+    "title": "Dana Desa Rp 1 Miliar Diduga Dibawa Kabur Bendahara di Banten, Polisi Turun Tangan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRkFWaTdWV1NQcGZhc1dwM3VvTmQ4Qk9hRFNVcDU0eDhidkJjbGp2aFNfbHMxalpMSkRnWkxFOWlYWmY3alJieXU1T1VUWHBnX2N6d3Z2bEJyZTVoVk5EYlVMakVjb3EyWC1PZVNXZWxYaFlEdzRSdGJNUXIzWVhlVmhjY3JOUGNCd3c3OUVrRHNoTThhbVBHT0R4aGFyOUVjNUdiSld5TnBCdXdONTRnMzVhcHI5dGRCZ2dNeE9pZUc5WU5wUVgw",
+    "source": "Kompas.com",
+    "pub_date": "2025-10-10T14:00:00+07:00",
+    "desc": "Dana Desa Rp 1 Miliar Diduga Dibawa Kabur Bendahara di Banten, Polisi Turun Tangan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
