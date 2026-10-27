@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-27 18:31 WIB",
+  "last_updated": "2026-10-27 19:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 1544,
-  "dominant_topic": "Dana Desa (649 berita), BUM Desa (419 berita), Daerah Tertinggal (241 berita), Kemendesa PDT (235 berita)",
+  "total_checked": 1551,
+  "dominant_topic": "Dana Desa (653 berita), BUM Desa (420 berita), Daerah Tertinggal (242 berita), Kemendesa PDT (236 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,6 +13,12 @@
     ],
     "cases": [
       {
+        "title": "Dana Desa di Riau Anjlok Hampir 60 Persen! Transfer Daerah Ikut Merosot - BUALBUAL.com",
+        "source": "BUALBUAL.com",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+      },
+      {
         "title": "Dana Desa Sukarami Diduga Dikorupsi, Kejari OKU Selatan Tetapkan Cik Ani sebagai Tersangka - Warta Terkini News",
         "source": "Warta Terkini News",
         "topic": "Dana Desa",
@@ -20,6 +26,12 @@
       },
       {
         "title": "Dugaan Korupsi Dana Desa Rp240 Juta di Jabung Wetan, Kejari Probolinggo Lakukan Penyelidikan - TIMES Indonesia",
+        "source": "TIMES Indonesia",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10380990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+      },
+      {
+        "title": "Dugaan Korupsi Dana Desa Rp240 Juta di Jabung Wetan, Inspektorat Hitung Kerugian Negara - TIMES Indonesia",
         "source": "TIMES Indonesia",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
@@ -46,19 +58,7 @@
         "title": "Bebankan Desa, Koperasi Desa/Kelurahan Merah Putih Digugat ke Mahkamah Konstitusi",
         "source": "Hukumonline",
         "topic": "Dana Desa",
-        "core_issue": "Bebankan Desa, Koperasi Desa/Kelurahan Merah Putih Digugat ke Mahkamah Konstitusi .title-large{font-size:2rem !important;font-weight:700 !important;line-height:48px !important}.title-medium{font-size:..."
-      },
-      {
-        "title": "Kumpulan Berita kepala desa korupsi dana desa - ANTARA News Bengkulu",
-        "source": "ANTARA News Bengkulu",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
-      },
-      {
-        "title": "Kasus Korupsi Dana Desa Kades di Tulungagung Dilimpahkan ke Jaksa - detikcom",
-        "source": "detikcom",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+        "core_issue": "Bebani Desa, Koperasi Desa/Kelurahan Merah Putih Digugat ke Mahkamah Konstitusi .title-large{font-size:2rem !important;font-weight:700 !important;line-height:48px !important}.title-medium{font-size:1...."
       }
     ]
   },
@@ -71,6 +71,12 @@
       "Menyusun rubrik khusus 'Kabar Desa Mandiri' di kanal media sosial resmi Kementerian."
     ],
     "cases": [
+      {
+        "title": "TEP Unair kembangkan format keuangan digital untuk BUMDes di Prafi",
+        "source": "ANTARA News",
+        "topic": "BUM Desa",
+        "core_achieve": "TEP Unair kembangkan format keuangan digital untuk BUMDes di Prafi - ANTARA News {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"TEP Unair kembangkan format keuangan digital untuk B..."
+      },
       {
         "title": "Dari Pencegahan Korupsi hingga Akuntabilitas Dana Desa, Kanwil Kemenkum Kalteng Harmonisasi Dua Raperbup Kapuas - kalteng.kemenkum.go.id",
         "source": "kalteng.kemenkum.go.id",
@@ -110,12 +116,6 @@
       {
         "title": "Sukses Bermitra dengan PT BSI, BUMDes Gangga Jaya Bantu Perbaiki Irigasi Warga Sumberagung - Kabar Jawa Timur",
         "source": "Kabar Jawa Timur",
-        "topic": "BUM Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
-      },
-      {
-        "title": "Bukti Sukses Binaan CSR PT BSI, BUMDes Gangga Jaya Pesanggaran Bantu Perbaiki Irigasi Pertanian Rp15 Juta - File Satu",
-        "source": "File Satu",
         "topic": "BUM Desa",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
       }
