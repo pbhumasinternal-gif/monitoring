@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-27 16:30 WIB",
+  "last_updated": "2026-10-27 17:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 1536,
-  "dominant_topic": "Dana Desa (642 berita), BUM Desa (419 berita), Daerah Tertinggal (241 berita), Kemendesa PDT (234 berita)",
+  "total_checked": 1538,
+  "dominant_topic": "Dana Desa (644 berita), BUM Desa (419 berita), Daerah Tertinggal (241 berita), Kemendesa PDT (234 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -12,6 +12,12 @@
       "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
     ],
     "cases": [
+      {
+        "title": "Tilap APBDes Nyaris Setengah Miliar, Kades di Sukoharjo Jadi Tersangka - detikcom",
+        "source": "detikcom",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+      },
       {
         "title": "Saksi Bantah BAP di Sidang Korupsi Dana Desa Lubuk Muda, Hakim Beri Peringatan - Suara Publik",
         "source": "Suara Publik",
@@ -53,12 +59,6 @@
         "source": "Antara News jatim",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
-      },
-      {
-        "title": "Kejari Lombok Timur tahan tersangka korupsi Dana Desa Kotaraja - ANTARA News Mataram",
-        "source": "ANTARA News Mataram",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
       }
     ]
   },
@@ -71,6 +71,12 @@
       "Menyusun rubrik khusus 'Kabar Desa Mandiri' di kanal media sosial resmi Kementerian."
     ],
     "cases": [
+      {
+        "title": "Dari Pencegahan Korupsi hingga Akuntabilitas Dana Desa, Kanwil Kemenkum Kalteng Harmonisasi Dua Raperbup Kapuas - kalteng.kemenkum.go.id",
+        "source": "kalteng.kemenkum.go.id",
+        "topic": "Dana Desa",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
+      },
       {
         "title": "Pemetaan Indikator Jadi Langkah Atasi Desa Tertinggal di Bengkulu - RRI.co.id",
         "source": "RRI.co.id",
@@ -112,12 +118,6 @@
         "source": "File Satu",
         "topic": "BUM Desa",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x10300990, 0x1004, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https:/..."
-      },
-      {
-        "title": "Transformasi BUMDes Betoyoguci Gresik: Dari Sub Agen LPG Jadi Motor Ekonomi Desa",
-        "source": "klikmedianetwork",
-        "topic": "BUM Desa",
-        "core_achieve": "BUMDes Betoyoguci saat ini mengelola empat unit usaha, yakni pertokoan, jasa transfer dan pembayaran, sewa peralatan bangunan, depo dan cafe ......"
       }
     ]
   }
