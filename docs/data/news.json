@@ -1,5 +1,18 @@
 [
   {
+    "id": "502e44ea7ee3",
+    "title": "Komisi II DPRD SBT Minta MBG Jangkau Wilayah 3T - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbWxRd0lVWnVkclJMeDRSd3BSM1VfWHhqMkE3WVBtZ0NFUjZhQU5MTWJYQ040TFN6elZ0V1BKaUYwTWkxZXQzNGpLcm9CcURGdDJXaDlLR29nWGVnSTJhaThwemZwRFRJQ0YxbFQyU18xLTZ6MnlSYjNhdkNhNV9IVW5YLTZiMW5GUEhjckFiZUpxdw",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-28T18:06:00+07:00",
+    "desc": "Komisi II DPRD SBT Minta MBG Jangkau Wilayah 3T&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "32237f97498d",
     "title": "Dana Desa Ponorogo Dipangkas Rp 130,92 Miliar, DPRD Minta Pemkab Jaga Infrastruktur - beritajatim.com",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTlHbzlJMlZGR3NQcExUTThTQmVqSzNxcFY5VVpONHhDZXZTZGkxOHhnYmF2cHpHU3RQNDNtV1lIX0M1MHM1cHhIcWhsZjlrcXB5bllscE1DbWs2S096QldZTUcyR0Q5RHhWblBybXo2NWRTRlVMWXlHVGU1YWs4TkFSelphUHpISDJhWlVUb2hiNjc4Zlp2ZjJEV0FMdHpQbDg2VWVqTE0",
@@ -63,6 +76,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e0ca5705bcd1",
+    "title": "Audiensi BUMDes Kauman Belum Tuntas, Dana Rp238 Juta Dipertanyakan, Sekretaris dan Bendahara Absen. - media seputar kita",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjkzYUthcE52R2FocHdvaUxCeDNIT19YdWd2RnkzenRFd2xnU3FXWE9wTGxUNENRbnhsUDlVMXJYSUVsZlBqMjNqUmpNNHp4OW5EdFhGUHRsU1czZUFQVUZsNnFlUlJKQzhFRl8waGFhRFdjcUk4NnNHM3RsUzlpYXBUQTZSYXVla2JzXy04V0pDcDRRT1ZCTWNpT1BZeUJ1NFJ4eFVxZGhGakFPYmF4NkdJd2tRMFplNFJQanJZUl9UTkxo",
+    "source": "media seputar kita",
+    "pub_date": "2026-10-28T16:34:28+07:00",
+    "desc": "Audiensi BUMDes Kauman Belum Tuntas, Dana Rp238 Juta Dipertanyakan, Sekretaris dan Bendahara Absen.&nbsp;&nbsp;media seputar kita",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi Publik"
   },
   {
     "id": "942d83f264a7",
@@ -40313,6 +40339,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "03fb21ce0d12",
+    "title": "Menko Pangan: 170 SPPG wilayah 3T di NTT siap operasional - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjd4X1dRNVhRZk5GNkJlM1RzcERyeXZQZXU1QlQ3NG04ZDdZZlpCRVc5cy1oVkVnWTJTdGN1cy1pMXFHWU5HWVZ2VElEbVRQengwUG5FMFdxeE5ReUhwN0lVanh5eFNLemUxYld6NGdobWpJMUZDbFh3anQ4Tko0MV8yQkJ6MDBsT3BZRWNiLS1ic0NSQ1phOXJObURPcktLWUtiTThYMFo",
+    "source": "ANTARA News",
+    "pub_date": "2026-08-20T14:00:00+07:00",
+    "desc": "Menko Pangan: 170 SPPG wilayah 3T di NTT siap operasional&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "85cf653b4da8",
     "title": "BLT Dana Desa Tahap Kedelapan Disalurkan, 14 KPM kembali Menerima Bantuan - Media Center Sembada",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTlBtdG1IOUhTbkRTeTlFaXIwVks4S29FZlhXYzlUa0FtR0wzUmtXYnRNNXAxUnVnNzNXZExZNGc2MU8zbEdVRi1Kd2FjekxKYmJia0lkc2hRaXJ5OElOZC1LdUZFa2tPaTdFY1JtRlhqZEVCbDIxdlJ4NjBwbUtBMkNkdm0taXpxVE9Yb0lGejhLN19EMUI3MkJlcTN1ZVdQS1V6ME5VRG5TUUdlZ1A1MVJnWE83Y2RwUGRxUw",
@@ -46429,6 +46468,19 @@
     "source": "detikNews",
     "pub_date": "2026-08-09T14:00:00+07:00",
     "desc": "Legislator Puji Ekspedisi Merah Putih Polda Riau, Negara Hadir hingga Wilayah 3T&nbsp;&nbsp;detikNews",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "35df944c3c07",
+    "title": "Inovatif! UGM Kembangkan Teknologi Skrining Tuberkulosis untuk Wilayah 3T - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc2I4QUpzX0UxSWg3LXJyMjR4RUVwODhENC1kdnhQdmRWTXcxUXh2VkhPUmJSX0c1aHZxSXhzUU55OGI5RXR2anJhQVpmNldMV05LRW5VU0lHcWVtLUtEVVAwMzFKWWhuNWlrVjFnaDhWRUVlN2pBai1pZ2gzNll4bkZ2aUtGQlFlSVdiVGRDUklFMXRPVGZzV2ctNFYycGdlbWpXSURvZmdaMVNGSnl3OE1pZ0lpTnpPcHg0ZNIBwgFBVV95cUxOa2NGVnl1WVdYY3pzX3VHTGxZOFFQRjNNUjl2N0tMemdMSldYemk4OHZWa3dNSlJVQjdVMW9DSG80Slp6czFUajN2ZW0zYU0wd2hXTUpvcWc5WDFkZE1PUG9XejRLZXU4SmdseGZGdWlmek5PN3RrRHdrTUdtTGhEZEttRWpFTno2RkxTZ1NwYkExakZYMDdqSTRIdHNDTXBTNDN3WWNZMjRKUXpwYXhkMncwdEZZSUE4X0t3cF9kQmFVZw",
+    "source": "detikcom",
+    "pub_date": "2026-08-09T14:00:00+07:00",
+    "desc": "Inovatif! UGM Kembangkan Teknologi Skrining Tuberkulosis untuk Wilayah 3T&nbsp;&nbsp;detikcom",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -79841,6 +79893,19 @@
     "desc": "BumDes Jadi Badan Hukum, Warga Desa Nggak Perlu Repot Bikin PT&nbsp;&nbsp;detikFinance",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f1436fdd21ca",
+    "title": "Wujudkan Kepedulian Kepada Penyandang Disabilitas, Kemendes PDTT Kembangkan Desa Inklusif - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZW55VzB6bWJVdnNwUWlWZF93azZyM0FQb0NaZmdhQ0o3MTY4V0Rkc0R5OXdWbmIxb2xBcjM0eDVmQ052VnlDd3ZZeW03UC1RcDZ2R25OZE8xUE1TVjRWRjFMejF2cFd4UUZKd2pGWmFva3NrYU9KVWphSGV3Z09aV1JGcmpsb0lPV2lWTG5HOU8xWVR5d01nRmdvbHYtc2h5MWVscWVNWXpfaUY2bTU3WlpiUzBIbkdSdmU4LTVpZTlBOGtfa1E",
+    "source": "Kompas.com",
+    "pub_date": "2020-11-20T15:00:00+07:00",
+    "desc": "Wujudkan Kepedulian Kepada Penyandang Disabilitas, Kemendes PDTT Kembangkan Desa Inklusif&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
