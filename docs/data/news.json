@@ -1,5 +1,31 @@
 [
   {
+    "id": "3a2bead7f728",
+    "title": "BNPPDT petakan kebutuhan paspor gratis hingga jembatan di perbatasan",
+    "link": "https://www.antaranews.com/berita/5816123/bnppdt-petakan-kebutuhan-paspor-gratis-hingga-jembatan-di-perbatasan",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-28T08:29:48+07:00",
+    "desc": "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Jenderal TNI Maruli Simanjuntak meminta para ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5af97d1628a9",
+    "title": "Luwu Timur Siapkan Eksportir Baru, BUMDes dan UMKM Dibekali Strategi Menembus Pasar Global - exposetimur.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaDRpTlJmbU93MVlMMDdLVWprSm9kR1htRGF4Q25DejdvZmRVd3JzaFRJT2RsazByRjZUUHE2OW1lNUI4WThTR3ZPQnQ1d3FCbEp4VkZxWE9aRnNxQmlTYjZwbml3ekdFc3dDaTFJSGpSNFdtRUc1OTlZczJHMmR5S2t0ZnBXZEk1c1BkUDhLTVZMQno2ZHB5VVExek95dEI0djdXSTZwUURLLV9UMkZXdVhPWEd3MnVQNHpDQzZvYVdBZUU",
+    "source": "exposetimur.com",
+    "pub_date": "2026-10-28T08:24:50+07:00",
+    "desc": "Luwu Timur Siapkan Eksportir Baru, BUMDes dan UMKM Dibekali Strategi Menembus Pasar Global&nbsp;&nbsp;exposetimur.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 3,
+    "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
     "id": "4cb4330c477d",
     "title": "Laksanakan Ketapang, Bumdes Banyu Urip Garap Ternak Kambing - Grafika News",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUFHakNCb1M0WFI1RHJ4dHJpMmRIalVLUFVGT2NpOXFkQnJ6VFJNOXZENzgtQkRoR1RXQVhCTnRmbjYxam1nc1pJb2ZkZnh2c1hIdmtHMjRQQm9hODNBRHFBbnpVT2xFQ29lemd2RFhFT3BlRmhoTGVHNGZhenUzSHN0ZGl3TUZVR0FZaW9iWWtBM2tSZjFyM3ln",
@@ -414,6 +440,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "e930d76a2bf5",
+    "title": "Bumdes Mandaya Panen Telur dan Kembangkan Usaha Telur Asin",
+    "link": "https://rri.co.id/banten/daerah-3t/2844291/bumdes-mandaya-panen-telur-dan-kembangkan-usaha-telur-asin",
+    "source": "rri",
+    "pub_date": "2026-10-27T15:59:00+07:00",
+    "desc": "Suasana ibu-ibu PKK Desa Mandaya saat mengolah bahan untuk pengembangan produk telur asin di Kecamatan Carenang, Kabupaten Serang. (Foto: RRI/Fitria Aulia) RRI.CO.ID, Serang - Pemerintah Desa Mandaya, ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "e8cd9d8442df",
