@@ -507,6 +507,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "c00745be44e0",
+    "title": "Dugaan Penyalahgunaan Dana Desa, AF Kades Tanah Abang Susah di Hubungi",
+    "link": "https://suarasumutonline.id/berita/daerah/dugaan-penyalahgunaan-dana-desa-af-kades-tanah-abang-susah-di-hubungi",
+    "source": "suarasumutonline.id",
+    "pub_date": "2026-10-28T09:39:00+07:00",
+    "desc": "DELI SERDANG, SSOL.ID – Sejumlah warga masyarakat Desa Tanah Abang, Kecamatan Galang, Kabupaten Deli Serdang, melaporkan dugaan penyimpangan pengelolaan keuangan desa yang dinilai ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "49abf25658c7",
     "title": "Kemendes PDT gandeng UI dan PT Pegadaian perkuat ekonomi biru di Nias Utara",
     "link": "https://sumut.antaranews.com/berita/675103/kemendes-pdt-gandeng-ui-dan-pt-pegadaian-perkuat-ekonomi-biru-di-nias-utara",
@@ -713,6 +726,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "f07761fe9b5c",
+    "title": "Dana Desa Ponorogo 2027 Dipangkas Rp 130 Miliar, DPRD Desak Infrastruktur Desa Diprioritaskan",
+    "link": "https://radarmadiun.jawapos.com/ponorogo/2610280037/dana-desa-ponorogo-2027-dipangkas-rp-130-miliar-dprd-desak-infrastruktur-desa-diprioritaskan",
+    "source": "Radar Madiun",
+    "pub_date": "2026-10-28T05:45:00+07:00",
+    "desc": "Dana Desa Ponorogo dalam RAPBD 2027 dipangkas Rp 130,92 miliar. DPRD mendesak Pemkab memprioritaskan infrastruktur desa dan mengoptimalkan aset daerah.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "5e68f2aca818",
@@ -70655,6 +70681,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "cfe776c1e34e",
+    "title": "Hari Desa, Momentum Wujudkan Asta Cita Presiden Prabowo Subianto - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2tPRktHWUJscUxtcmM2dHhTWXh4elczSWYwcVpCNWVIeHMyWXZlWnU0bjVwaFJLRmVTUzBtMmlmMG5jNXZueDFIbWxhUEs0aHZ6dDdDUjRhelpkQlJ3YzhiVEEtTl8xMXVrUWlOcHg0N1AybTBFYko2R1ZhbEMzdUZTZTNhTFFvTnBBVkJUX2hteDFMZ0xvRC1fbXB0Vmpvdno4WDhLNko4NHlU0gGyAUFVX3lxTE53RG50VjBheE9EbThFaDRKMVdYY3BRdVpiT0poRWVJYWdoWHFqSkJZeWdvRDFLT2Z2UXJrU05WcmVsV0tYcVhPUzllYWVCc0Z1YXlvV0ZNVXlXVmlxTWVpaDNDcUtOb0RCWWJXUVBsZmtoLTVXLVJUcl93NDVxNEhiZzQwUzMwSlJQb3RLbUUtd2NWeGQ5bXRlNjRVbU4yZk00WTRzUU0wclM1WE5mdUVtNHc",
+    "source": "detikcom",
+    "pub_date": "2025-01-14T15:00:00+07:00",
+    "desc": "Hari Desa, Momentum Wujudkan Asta Cita Presiden Prabowo Subianto&nbsp;&nbsp;detikcom",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0398a8470b38",
     "title": "Puluhan BUMDes Bakal Pamer Kerajinan Tangan-Hasil Bumi di Hari Desa - detikNews",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnlud1JhakE5M3RRZU5LVF9qb2pmS1AzcmJ1eVE0U05xQ2d0dENFdVUzS2VQZTEtVUEybHp0SFBTQUFLeUlFSGk3eWxXSzlhSWdjTGlnR1pXLU5xLUU0UFV4OTVxNGxjejcyckNrZ1RQcmgwellfbEN2MFpLNFBrajcxY1VIOHQyV2x4QVNxQV8wRm5JZERMMVVyTEdTWW1nYnNHS2E5cFdBS2fSAbABQVVfeXFMTjZ2SVdfWHA1VWN4MkxXeERHNGZNbldrLU9STUpYTmpKVndfWHJ4Z1d1Zll5WkRsMFNYTTd4emNJZVdneHBaVHB5Z21yMVNQQUY0R28zTGNkZkFPbXdkNVk3TTNMMUp3cUdkUGcyYk50bjN6Znl0aHJoOTY1M29QN29tYlhJUmhPT1hDazNvQ2hRQlYtbFVKQ2hKN1JMMGhDbVhUU2dEemFtZlRpYzcya1g",
@@ -79326,6 +79365,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "bcf89ceecf51",
+    "title": "Tersangka Kasus Korupsi Dana Desa 1,19 M Ditahan Kejati Kalbar - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0NuYjVtOWdzRTlDZVFBSWxFOWV0VEl0elN4M3BXbHpXbGhJVE5hTWZqVmdFa0gtaTBKNU5oRFNMWXlOdjIwM3NFVWdYZTdiZVFzamlXaXlwakd6bVVlaEFScG1IRW02b1FiSmo5SWdVUVd6YURkR3Mwc2xaOFdaNi0yNnMyUXk0bV83R3JyS1NsWDdENXlBOE1EMURzZVNBZVJCStIBqgFBVV95cUxNLXEtR0xEdkRGbzRYTXd6ejktLXBCeDRnUEoxaW5iRlpCU0dpMlFqb0tnejZDakJoTVEwRk9jTEFqWUJDdlhZMk1hZTl6bVZtTFpuSzFDOXdvXzlOVzhKRUlJV09PYzJjU0pLUEJHQVlPcU5QS2hPR2FYMzhZb3Atc3NIeGNKMDNkTjhMck9DOW9FSHBiYlphTUp2blhueXBUelZpVUsyZmpRZw",
+    "source": "detikNews",
+    "pub_date": "2021-09-02T14:00:00+07:00",
+    "desc": "Tersangka Kasus Korupsi Dana Desa 1,19 M Ditahan Kejati Kalbar&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "d1bae0e22aab",
     "title": "Sebagai Konsolidator, BUMDes Diminta Gus Menteri Jangan Timbulkan Kegelisahan - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ25jbEdicFF5RDdzNm1PWnUwNmR1NE52Z00zN3ZpTV8yTDc2LTBLb25Vcmg2UFRZV1FOUVpydk92WWZaR1VudGpfdXU1Vmd3RG02ZFJnMFpJeU5jOW82STFkcjliNHgwT3V6VDYwbkJQRFFMQ2d5Zm5aQ1ZKRzBMNE9mWlFiUk9lR1k5YzljQWV3SW13REU3Y2xSQ1lKQ0NCUlVSeXJ3dlhlMW9IUU9tbWVIT2p0ZU5IZDhraXdJLTZRNE1NcHJuVw",
@@ -80663,6 +80715,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3db5779cade6",
+    "title": "Kepala Desa di Dompu NTB Jadi Tersangka Dugaan Korupsi Dana Desa - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ0dVdl9OSWx1S3k1b3ItVnBxQnItbjBpcWlId1hzSXRMUktqb1BBZnFkOEFKakNwSzZ0MGV6b09tMVBRanV5TzZNSFdwVGIxZlRMTTgxbVRPWml1Rnd2U0VDcTBvalpVeXFzd1FCdzdOUkNKcERoa18xU2xkRnN2d2tmMFZidW1OY3ozWGkybTZoaTd5b3FVbWktV2cxdmZxZzJxNzU2QQ",
+    "source": "detikNews",
+    "pub_date": "2020-07-22T14:00:00+07:00",
+    "desc": "Kepala Desa di Dompu NTB Jadi Tersangka Dugaan Korupsi Dana Desa&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "a903553bc097",
