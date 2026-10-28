@@ -1,5 +1,31 @@
 [
   {
+    "id": "6f683a46e8cc",
+    "title": "Realisasi Belanja APBN di Tuban Capai Rp1,63 Triliun, Dana Desa Terserap 99,86 Persen - Nusantarapos.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHVwdzRJenVLUHFYNnRiM25HX0pVb2syX3c0aHB5b0lfOGM3a2stcnhhem9DWE43ZWhZaHFqVUhNWmhZWUQxeUpyR0RmeVNGYzdMMlBoTlRhdFhXSmFnbVQ0bHdvY2xnYnVIZXdpc0NMRzZYbHZ4b3NiUXdzYUJaaENHbGw5dEUzRU1XRjVhSkhTVW5WUW5tUE5JTU1kUnJBX1dyQVJDVngxbnhmOVJsbmsxbnFCbzBl",
+    "source": "Nusantarapos.co.id",
+    "pub_date": "2026-10-28T19:29:35+07:00",
+    "desc": "Realisasi Belanja APBN di Tuban Capai Rp1,63 Triliun, Dana Desa Terserap 99,86 Persen&nbsp;&nbsp;Nusantarapos.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "16249ef8f433",
+    "title": "WAPESA GERAKKAN AUDIENSI EMPAT DUSUN DESA SAWANGAN, KLAIM PERSETUJUAN PT. CMM DAN TRANSPARANSI BUMDes DIPERTANYAKAN - deJurnal.com",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTlNdDFfa3ZiZmdfVm1Pc2Zma19hcGFfcFdGRFZMZUJSWU5wemlKYXFGc0MySDctNEdDNTJfdHZIcTU2eWprQzFzOUNHLUpWY05iSnBpZF9pa05HaDlETGFCWGtRY2F6bS01NV9hR0ZxSEpUUVVLNDB4WWFWVEJyOExNMmFjOU44SEJ2bU9vcGdrb0JCTW50YUlKRXpIeG1QRHNaNXJNZDg0NTNfSHpXZnJOZmx2Zk10TjNuZzRkazF1RkZkMHYxRzA3bXRROU9nUUsxdmdKSnJWMlE",
+    "source": "deJurnal.com",
+    "pub_date": "2026-10-28T19:22:52+07:00",
+    "desc": "WAPESA GERAKKAN AUDIENSI EMPAT DUSUN DESA SAWANGAN, KLAIM PERSETUJUAN PT. CMM DAN TRANSPARANSI BUMDes DIPERTANYAKAN&nbsp;&nbsp;deJurnal.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
     "id": "650b5999685e",
     "title": "Dugaan Penyimpangan Dana Desa Cihanjuang Ditangani Kasi Pidsus Kejari Pandeglang - IndoSatuNews.com",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmphVUhCMTQwYjBZYVcxZkF6Z0pCQ3RzWHNreDRxb053MTJ0eExlR0NUMzVSeEZxMUR6VUdyQzRjc0pPN1N3MVlKa2dIM0xxcEtBSFQtWTZ4NmRHaFVZb0h0c2c3cGVFVmRQeFNpelA4OE1BTVIyV0hxMDd1Z3pjeEx0S25QdjlVVVdvZVRmc2w1cE1JWUNENjhTcGh3ZDMzcTVwYUo1cGxXUQ",
@@ -11,6 +37,19 @@
     "sentiment": "negatif",
     "sentiment_score": -6,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "65a753881737",
+    "title": "Mendes PDT Ajak Mahasiswa Hidayatullah, Penggerak Ekonomi Desa - SinPo.id",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFk0X055d0s5UjhGdlp6Rko2SndmLW5VcjZGUVJWSlRYRVJGRWFhV1E4OFhvMkliYkc3NWpfbnRsdjkzZHVXdENWcy1QVlYza05TWWJ2NHpOcmljR2tXS09fN2h1MG85S2M2dkhXaDIwNkpPQ3ZESzZYZDdVejQ5RkpFRWVYSEJ3OWhNNXE1d1E4QQ",
+    "source": "SinPo.id",
+    "pub_date": "2026-10-28T18:10:00+07:00",
+    "desc": "Mendes PDT Ajak Mahasiswa Hidayatullah, Penggerak Ekonomi Desa&nbsp;&nbsp;SinPo.id",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "502e44ea7ee3",
@@ -227,6 +266,19 @@
     "source": "Gotvnews",
     "pub_date": "2026-10-28T13:15:28+07:00",
     "desc": "Program Kopdes Merah Putih Digugat ke MK, Dinilai Bebani Dana Desa&nbsp;&nbsp;Gotvnews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ad8620ca7411",
+    "title": "Para kepala desa berkumpul di Semarang, Pilkades, MBG hingga dana desa jadi sorotan",
+    "link": "https://www.msn.com/id-id/berita/other/para-kepala-desa-berkumpul-di-semarang-pilkades-mbg-hingga-dana-desa-jadi-sorotan/ar-AA2geu4l",
+    "source": "Tribunjateng.com on MSN",
+    "pub_date": "2026-10-28T11:40:07+07:00",
+    "desc": "TRIBUNJATENG.COM, SEMARANG – Puluhan kepala desa berseragam krem memenuhi ruangan Hotel Grasia, Kota Semarang, Rabu (28/10/2026) sore. Mereka duduk menghadap panggung dengan spanduk bertuliskan Sinerg ...",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
