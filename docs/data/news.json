@@ -182,6 +182,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "9d46bfa0af2a",
+    "title": "Panen Jagung BUMDes Tiru Lor Libatkan Petani, Polres Kediri Dukung Ketahanan Pangan - metrotv9news",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeU9iaHUtUFBsUWJJTWdlSVNfalIzYVVlb1NYX3lsNmpNUENXSGdobDJGYkduLU5UaVkzUi16SkhiLUM2NC10Z19MaUxyRDJ3clVkdFVDZFBRRzl2cGZMQUNubDlQVGpjNktUM1FvdTN0QmoyVGNDcFZHalZyeGFHWkc4c25CeWZZT3R5V0NYeklRTmpIMGRNZ0pYT3BJWkVWYV9mU1FnMTdOTW9aOWc3ekJfZWFlcmZ2Z1E",
+    "source": "metrotv9news",
+    "pub_date": "2026-10-28T17:31:19+07:00",
+    "desc": "Panen Jagung BUMDes Tiru Lor Libatkan Petani, Polres Kediri Dukung Ketahanan Pangan&nbsp;&nbsp;metrotv9news",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "301ad07a5ca6",
     "title": "Bupati Tulungagung Ingatkan Kades, Setiap Rupiah Dana Desa Harus Dirasakan Warga - Ketik",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEh4LTBOamlreE96QW1FTDI2TUdpb0RzMF9ZMXAxWUlYMXpnMzloWnNHX053WWFkMUt4S25UNEp6T2dKRTNzZUI4Y2FFZVBkY2dWcEM2UDJFcU1pMm56aVBXMkpEZVpzci1VbmRXNU5PVi00YTlTMXFEd2RlbU9UZ3F2YU9FZXc2Z3d5NzZwcEdjWGlfZnNZZUx3bG9YckY3VHVseXl4SHRCb2tSNFhDUWtNYjFGTU3SAaMBQVVfeXFMTnZGQWhvaWxRZVZoOHluNC1Ka0s3dlItdDNoVHpFUzF0VmxoblhGUEx5UGphYVZ3WVpUVkxya1lFdzJmU0JLTmh2eUZEZzNwRGFsdnkzMjhkZTRwWU1LMjdyTl9vNklVUTV6eVdpMkd3MWxLV01tcF95Z0RQOE1CZzEwTHBKQnpKYWpFTEVxbm1scFZSbG5lNEswbWZsVktHbVZtcw",
@@ -632,6 +645,19 @@
     "desc": "Tidak Habis!!! Sapi di BUMDes Bringin Masih 4 Ekor, Sisa Uang Masih di Rekening&nbsp;&nbsp;patroli indonesia",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3a20bb099db1",
+    "title": "Jangan sampai salah! Ini perbedaan BLT Kesra dan BLT Dana Desa 2026",
+    "link": "https://radarjember.jawapos.com/nasional/2610280053/jangan-sampai-salah-ini-perbedaan-blt-kesra-dan-blt-dana-desa-2026",
+    "source": "Radar Jember",
+    "pub_date": "2026-10-28T03:45:00+07:00",
+    "desc": "Bantuan Langsung Tunai (BLT) dihadirkan sebagai bentuk dukungan dari pemerintah untuk membantu warga menghadapi tantangan ekonomi. Namun, penting bagi masyarakat u ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
