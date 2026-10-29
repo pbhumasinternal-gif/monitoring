@@ -91,6 +91,19 @@
     "sentiment_tag": "Penguatan Ekonomi"
   },
   {
+    "id": "50d3aed91b0e",
+    "title": "Kendati Tahun Ini Gagal Panen, BUMDes Sumber Purnama Loh Sumber Hasilkan PADes Rp10 Juta",
+    "link": "https://nomorsatukaltim.disway.id/advertorial/read/81783/kendati-tahun-ini-gagal-panen-bumdes-sumber-purnama-loh-sumber-hasilkan-pades-rp10-juta",
+    "source": "Nomor Satu Kaltim",
+    "pub_date": "2026-10-29T00:00:00+07:00",
+    "desc": "Hasil pertanian Desa Loh Sumber yang dijadikan produk beras oleh BUMDes Sumber Purnama. Produknya bermerek beras CapTugu. ----Istimewa. KUKAR, NOMORSATUKALTIM – Pemerintah Desa Loh Sumber di Kecamatan ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0d0049988188",
     "title": "BUMDes Gangga Jaya Salurkan Laba Usaha untuk Fasilitas Publik - bsinews.id",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUjBRVW5uZC0xdEo0X3lTVFFzTVZudjBHTWZ0ZThST0hkM25FRWpuVXVJdGljcmJKck1fU0dxczVVWjBZV0d4SGNpcVliNDRlMG1TcXNhTlY3VEE0WExtYW9FaFk",
@@ -76528,6 +76541,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e6efd7f9e208",
+    "title": "Gubernur Sumsel tak ingin lagi mendengar Muratara disebut kabupaten tertinggal",
+    "link": "https://sumsel.antaranews.com/berita/709194/gubernur-sumsel-tak-ingin-lagi-mendengar-muratara-disebut-kabupaten-tertinggal",
+    "source": "ANTARA News Sumatera Selatan",
+    "pub_date": "2023-06-15T14:55:00+07:00",
+    "desc": "Gubernur Sumatera Selatan H Herman Deru menyatakan tidak ingin lagi mendengar Kabupaten Musi Rawas Utara (Muratara) disebut sebagai daerah tertinggal. Ia menegaskan komitmen ANTARA News sumsel 35 ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
