@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-29 16:01 WIB",
+  "last_updated": "2026-10-29 16:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 1642,
-  "dominant_topic": "Dana Desa (691 berita), BUM Desa (455 berita), Daerah Tertinggal (258 berita), Kemendesa PDT (238 berita)",
+  "total_checked": 1649,
+  "dominant_topic": "Dana Desa (695 berita), BUM Desa (455 berita), Daerah Tertinggal (258 berita), Kemendesa PDT (241 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -78,6 +78,12 @@
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       },
       {
+        "title": "Beri Penghargaan kepada Desa Berkinerja Baik, Mendes Yandri Sebut Pencegahan Stunting Jadi Kata Kunci Kemajuan Bangsa - MetroTVNews.com",
+        "source": "MetroTVNews.com",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
         "title": "Kemendes PDT Beri Penghargaan ke 9 Desa Berkinerja Baik Cegah Stunting - detikNews",
         "source": "detikNews",
         "topic": "Kemendesa PDT",
@@ -110,12 +116,6 @@
       {
         "title": "Kemendes PDT Beri Penghargaan kepada 9 Desa atas Kinerja Penurunan Stunting - TVRI News",
         "source": "TVRI News",
-        "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "Mendes Yandri Sebut Pencegahan Stunting Jadi Kunci Kemajuan Bangsa dari Desa - detikFinance",
-        "source": "detikFinance",
         "topic": "Kemendesa PDT",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }
