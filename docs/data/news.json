@@ -1,5 +1,18 @@
 [
   {
+    "id": "3f99820afe97",
+    "title": "Bupati Banyumas: Pengumpulan minyak jelantah buka peluang usaha baru",
+    "link": "https://www.antaranews.com/berita/5819515/bupati-banyumas-pengumpulan-minyak-jelantah-buka-peluang-usaha-baru",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-29T16:54:31+07:00",
+    "desc": "Bupati Banyumas Sadewo Tri Lastiono mengatakan pengumpulan minyak jelantah melalui Koperasi Desa/Kelurahan Merah Putih ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c981c8e82010",
     "title": "Kemendes Raih Nusantara Awards Kategori Orkestrator Transformasi Ekonomi Desa Nusantara - NusantaraTV",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM2JyT20tU01VTG1qRi1OTnFpN0oyOFNHZEdXMkJHN1VFRWh0VDg4SjVVUXdUMEJDZURneEVkR3ZZVGNqTlNpelF6YTVyamFvV1c1T3VZdWFvUzMwSVVHY012dFRjQTZBRndaV2pob2lQYkRPUHlpQ29iOUxyZUcwNUdWVXY3UU5XRXYxdDRpUW52ekdjbm9iN2cxOFpNUy1zSFVaTlMweDJ0WmtCWERJMGw5dmpLb2huUlVrNkJTSjM",
@@ -52,6 +65,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "9d71c7f6249f",
+    "title": "BUMDES, SPIRIT MEMBANGUN PEREKONOMIAN DESA RAHARJA - Tribuntipikor Online",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVdEangxSXNfQ1M2N2NyMmZ3eTlxSmF6TTBQZTMtRE1taEtCcXplRXk3QXlTeTItd05qZVVBT3JhdUNUeU4zMkEyUS1nS1NOZ2psYk9rb0pDSUs0THJwMzJaRXZXSzJXdVY0ZFhPUlVITmxPU1dVQ2JIbmx2M0k5WW9nNy1IUE9MY2pEMWpTX2c",
+    "source": "Tribuntipikor Online",
+    "pub_date": "2026-10-29T16:28:00+07:00",
+    "desc": "BUMDES, SPIRIT MEMBANGUN PEREKONOMIAN DESA RAHARJA&nbsp;&nbsp;Tribuntipikor Online",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "130982ac6dce",
     "title": "Mendes: MBG dan dana desa dapat dukung penanganan stunting - ANTARA News Sumbar",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVWlDYVA0aDN5bXBJSWJ2M0U3VHA2eXdfaEJrczllRzNTZjhFM3dYb1JRazNpYXg1LTBBVnFwYWtkR0pJN3UtaHRGM2pUZ2xXVXFYai1LUm44aDBrQmtvOEcyUXZucVNyNXM1NHpOSmd3SHJYcFJQb09uRlJFdnB2cDVnaFkzcVRUdTUwUWZuOWJOZ3Bsb3NGWVUyaVp4Nnd4Rnk0",
@@ -76,6 +102,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "67b6b8f3667c",
+    "title": "Korupsi Keuangan Desa Paniis, Eks Kepala Desa Diduga Selewengkan Rp. 530 Juta. - jurnalpolisi.co.id",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbzZLRE0yZS1lMXZuSlR6ZFhXU202ZU1Qb2JYWTAzQ2s2b3BES2hXeDd2SUZBZFB5UWk3SG5IS2xmNjkwVGwwSkgyZ1dtWi0zMkZWTEtULWxMZnpnWjNZcGROWjJoRkd2eWZHTjlGOWV2Q0dqWUFKdzVWTHU3djJDSGUzOWMwcTJMb2hiNmhCNS1vWkRXa01tMURvNGphTktTVTRHeG5R",
+    "source": "jurnalpolisi.co.id",
+    "pub_date": "2026-10-29T16:20:03+07:00",
+    "desc": "Korupsi Keuangan Desa Paniis, Eks Kepala Desa Diduga Selewengkan Rp. 530 Juta.&nbsp;&nbsp;jurnalpolisi.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "0f25f350d615",
@@ -414,6 +453,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
+    "id": "24d096b366bf",
+    "title": "UNJ Jajaki Kolaborasi dengan Pemprov Papua Selatan untuk Kembangkan Model Pendidikan Transformatif di Wilayah 3T – UNJ - UNJ",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbllrUEpnU3Q5bE9lQ3ZZbldiMmx1amlicnM2aGVYa2JDblRlV01VX2ZKVmVKQVlYWDNyYnpHd0oxMmhndWE5TldSU2I5SnBSUV9rbWlEbGwzQ0doQWV3blJibDh6cmsyQkMxUnZ3UnA1dVNDcXd1RXpGNW9rRVIwX3RaekVsZDBMRjdnMzlGUk9MTXNYQ242cDNxc1k0M29KZHhzeWdzS1o3Skt1c3J4Z21kalFIZXdvbVNPR2JhVy0yVEpvM0xEd1JCOA",
+    "source": "UNJ",
+    "pub_date": "2026-10-29T11:19:49+07:00",
+    "desc": "UNJ Jajaki Kolaborasi dengan Pemprov Papua Selatan untuk Kembangkan Model Pendidikan Transformatif di Wilayah 3T – UNJ&nbsp;&nbsp;UNJ",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "2b043df9016b",
@@ -858,6 +910,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "7ef939f89dd3",
+    "title": "Dana Desa untuk Kopdes Merah Putih Dipersoalkan di MK",
+    "link": "https://terkenal.co.id/dana-desa-untuk-kopdes-merah-putih-dipersoalkan-di-mk",
+    "source": "terkenal.co.id",
+    "pub_date": "2026-10-28T18:20:00+07:00",
+    "desc": "Para pemohon didampingi Koalisi Gugat Kopdes Merah-Putih yang melibatkan CELIOS, Themis Indonesia, Indonesia Corruption Watch (ICW), Transparency ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "65a753881737",
     "title": "Mendes PDT Ajak Mahasiswa Hidayatullah, Penggerak Ekonomi Desa - SinPo.id",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTFk0X055d0s5UjhGdlp6Rko2SndmLW5VcjZGUVJWSlRYRVJGRWFhV1E4OFhvMkliYkc3NWpfbnRsdjkzZHVXdENWcy1QVlYza05TWWJ2NHpOcmljR2tXS09fN2h1MG85S2M2dkhXaDIwNkpPQ3ZESzZYZDdVejQ5RkpFRWVYSEJ3OWhNNXE1d1E4QQ",
@@ -1061,6 +1126,19 @@
     "desc": "Monev 25 Desa, DPRD Gresik Ingatkan Pentingnya Transparansi Kelola Dana Desa&nbsp;&nbsp;Harian Bhirawa",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ca8a1104653c",
+    "title": "BUMDes Sungai Bawang Kembangkan Usaha Ayam Petelur, Kini Masih Terkendala Pemasaran",
+    "link": "https://nomorsatukaltim.disway.id/adv-dpmd-kukar/read/81764/bumdes-sungai-bawang-kembangkan-usaha-ayam-petelur-kini-masih-terkendala-pemasaran",
+    "source": "Nomor Satu Kaltim",
+    "pub_date": "2026-10-28T14:47:00+07:00",
+    "desc": "Menurut Kepala Desa Sungai Bawang, Martinus, pengembangan ayam petelur merupakan hasil kesepakatan bersama antara tokoh masyarakat, warga dan BUMDes.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
