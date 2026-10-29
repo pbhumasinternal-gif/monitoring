@@ -1,5 +1,18 @@
 [
   {
+    "id": "cfb76c505c5b",
+    "title": "Hadirnya Website Desa Milik Kemendes DPT Dukung Transparansi - Harian.news",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQjRZMXdPTVFOQnk4blhUWFFkN2luWEw1ZjFxMTY1RWxhcjBDMlNZb0lGbGlVZ3JGT0wxUG9tSlowRFpmQlZnc0Z0eHZnQWhyZ0QyRmJtdmVLcy1ON1d1T3RpcDQzd0ExS21kNFltWHRHYTV6MGFfanJvUmJKc2E1V3N4VlpqV28",
+    "source": "Harian.news",
+    "pub_date": "2026-10-29T12:59:14+07:00",
+    "desc": "Hadirnya Website Desa Milik Kemendes DPT Dukung Transparansi&nbsp;&nbsp;Harian.news",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f06b639c6095",
     "title": "RI &amp; Malaysia Bahas Rencana Dorong Ekonomi di Wilayah Perbatasan",
     "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8729246/ri-malaysia-bahas-rencana-dorong-ekonomi-di-wilayah-perbatasan",
@@ -86,6 +99,19 @@
     "desc": "Indonesia meluncurkan Program Revitalisasi Satuan Pendidikan untuk memperbaiki infrastruktur sekolah di daerah 3T, dengan anggaran Rp 26 triliun hingga 2026.",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fda9280fc055",
+    "title": "Kumpulan Berita Bumdes - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83c1YzUzNEUUVHdDR5TDZPR2dRck03Rl9VVEcxenNiVEVMY3RzMF93V3VTY2hvSkhBblVuOEw0YTk0TWpaVVQ5QXlrYVVZNGN3OElHYQ",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-29T11:06:09+07:00",
+    "desc": "Kumpulan Berita Bumdes&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -271,6 +297,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "6d4a7fca16f5",
+    "title": "Mendes PDT Dorong Desa Kreatif Gunakan Dana Desa untuk Tekan Stunting, Ini Strateginya",
+    "link": "https://radarbogor.jawapos.com/kota-bogor/2610290061/mendes-pdt-dorong-desa-kreatif-gunakan-dana-desa-untuk-tekan-stunting-ini-strateginya",
+    "source": "Radar Bogor",
+    "pub_date": "2026-10-28T22:58:00+07:00",
+    "desc": "Mendes PDT Yandri Susanto mendorong desa memanfaatkan dana desa secara inovatif untuk menekan stunting melalui pemenuhan gizi.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "eb41f24ee281",
