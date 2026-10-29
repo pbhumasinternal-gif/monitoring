@@ -1,5 +1,18 @@
 [
   {
+    "id": "ec0a431ff25c",
+    "title": "Forum BUMDes Kabupaten Cianjur Terbentuk, Fokus Perkuat Usaha dan Profesionalisme Pengelola - Pakuan Raya",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX2hjSVBtME8zUzRUWGlWeTc3cWNtWDduN2ZJQ0p5OVJYS3ZncXFHbGpWS1FyRXJnWFlOcE4yc3F1V21wOF9uVDh1RjJqUUxNaHJ1Nk9PNUltSHlWOExqQTNaX1k3TTlNOWYzTHBqWkUxSUVMMzdNNFhMWmlLSnFSbnZZZzlwUTJJa0pLWU1aSGY0QkNmc3M5Y0RqdkhHc1FmYUktZUU0X2dMSnpZNVhnZzdMNU0",
+    "source": "Pakuan Raya",
+    "pub_date": "2026-10-29T15:22:38+07:00",
+    "desc": "Forum BUMDes Kabupaten Cianjur Terbentuk, Fokus Perkuat Usaha dan Profesionalisme Pengelola&nbsp;&nbsp;Pakuan Raya",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "35f9fdb1e281",
     "title": "BGN Siapkan Aturan hingga Penyesuaian Anggaran MBG di Wilayah 3T - MetroTVNews.com",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkRMU0NXTFBaZThsQmRFLS1PbVZiaFZkai1JM05rN2pSZDIzc2ctVXRWR0p6Zm1CcVFYZHRZeW96NTdWOXZFdS1EZm1jcmlmWm5IRjd2UXhRajdTcEFrSkxoc1pXMUxJQVFLUHk4SEFHMGNsY3Q3NjZQTFJIZnc5N3Q0SThMV1prX0hzODJwMmZqa1pOTFBuUUNIaWZvZ2s5OXpfYUtSWkxaZw",
@@ -205,6 +218,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ff73cd7a8cf1",
+    "title": "Peringatan Sumpah Pemuda Soroti Pentingnya Akses Pendidikan dan Teknologi bagi Pelajar di Daerah",
+    "link": "https://www.tribunnews.com/regional/7904050/peringatan-sumpah-pemuda-soroti-pentingnya-akses-pendidikan-dan-teknologi-bagi-pelajar-di-daerah",
+    "source": "TribunNews.com",
+    "pub_date": "2026-10-29T08:18:00+07:00",
+    "desc": "Kesenjangan pendidikan di daerah 3T masih terkendala akses internet, infrastruktur, distribusi guru, dan pemerataan teknologi digital.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -19133,6 +19159,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bdc9ede5d416",
+    "title": "BGN Aktivasi 480 SPPG di Wilayah 3T dan Rawan Stunting, Moratorium Dapur MBG Dicabut - news.okezone.com",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0o0UzNLRFBMTDZZOGc4c0s5RUhrRGQ3akxLNDRmbjlTZG9YeldDWEhDMmRiOFFNemE2bTNTOWVBLU51UlVWYWhIdlhPNXg2OGM1YnBKdk5nNnR6dl9peUFvdERndlJxWVhHdHVFVE5hVHFrZW5LOU0tRmhvdXR6ME5seUlTMldNZnk3TjVWZFNTYURVTUpXcmtrN0NYUmpVTWhXRjkxdjMwcUFJNER3bHV2eHZ4QkpKUmhHOVBPTU5weGNOWE9zUlJOZGJHYjhONkHSAdABQVVfeXFMUC1WX0l3dDZiSVZYQ3U1RVJRZFBmaU1MVDJKU0M3RlM5dE1CVmpYZGhZdnZJRHE1aHVRMWhTNURneE43UXcyZWlXM19LQWtMTFBCdDhjcmpHSklhR1EyRDhycnNpNFZYSGMtR2dXS08xMmdpYUlmWWQwM2lhbXhGb0pDM1RsYnhDZExXVE5vWlhvMjRiSGdBS3h1QUdRNlFEMlVyWldMWko3UE9qcWVVeDlMckVRZjBWcENmZTJJOHhHdmxHSDJXbGFhYzFyUFVTSQ",
+    "source": "news.okezone.com",
+    "pub_date": "2026-10-03T14:00:00+07:00",
+    "desc": "BGN Aktivasi 480 SPPG di Wilayah 3T dan Rawan Stunting, Moratorium Dapur MBG Dicabut&nbsp;&nbsp;news.okezone.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
