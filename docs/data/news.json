@@ -1,5 +1,44 @@
 [
   {
+    "id": "2420b152a79a",
+    "title": "Kemendes: Website desa dukung transparansi - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTl9FcG1WU0hNRnFSWmlPbHVYaWRwOWFJSlpSVWJuTVRpa1RxNV8teWhKRWpvb25nSlNPblU5eWVaZVRiVVZzbUM3V3RtenlPeVF3eHQ1V0l6MEY0bUljaEd5RWl2LVVMZFpLWGw2eGRSYnllSy1QUjROQjJaU2tHOFE4Q2lMdmRmcTFv0gGOAUFVX3lxTFBHcjR5NlVuWEJva2M4emxVdzRidUQ5a0lzS0IwMVpONjBqOUlzUEZaTUlUU1U2WGR6ZloyTWVaUFZVdGt4OXNQbU5CV1VvbE5ueENTYnUyXzZsakttdklkQnJWcXJHaVp6emRfWXVuSEEwWnlXNnQydC1MZWF2aWZNQWxzMVRMb1FDOFhRWGc",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-29T11:32:41+07:00",
+    "desc": "Kemendes: Website desa dukung transparansi&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6da4d971f8a2",
+    "title": "Dana Desa Dipangkas hingga 70%, Guntur Wahono Serap Keluhan Kades di Blitar - DPD PDI Perjuangan Jawa Timur",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdkpEQjRuRmZrZkVHTXg3WkNqSG5VdnNwV256Q1ZQZXpqWXJ2Vm1ZcmlRMG12ZC01UF8zcHZBa2pVamRQeDU0bXIxNi10VnhxUFF5M00wMVNEbVBjd3ZVemx3bXFFdFpKbTR3THRzN2d3UU0yOWdrU2h2eDdOMFRvZDdVNkdoMHFXN3UtazRqdm83UGhiWmlRNUpqdmZpa29jaEhzZFh5Sy1Qdw",
+    "source": "DPD PDI Perjuangan Jawa Timur",
+    "pub_date": "2026-10-29T11:28:00+07:00",
+    "desc": "Dana Desa Dipangkas hingga 70%, Guntur Wahono Serap Keluhan Kades di Blitar&nbsp;&nbsp;DPD PDI Perjuangan Jawa Timur",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "47a11e196fb2",
+    "title": "Digitalisasi Koperasi Desa Didorong untuk Perkuat Ekonomi Masyarakat",
+    "link": "https://news.detik.com/berita/d-8729108/digitalisasi-koperasi-desa-didorong-untuk-perkuat-ekonomi-masyarakat",
+    "source": "detikcom",
+    "pub_date": "2026-10-29T11:26:33+07:00",
+    "desc": "Digitalisasi koperasi desa memperluas pemasaran produk lokal dan efisiensi operasional. Inovasi berbasis potensi lokal dorong pertumbuhan UMKM.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
     "id": "2b043df9016b",
     "title": "2 Tahun Prabowo-Gibran Revitalisasi Sekolah dari Aceh hingga Papua",
     "link": "https://news.detik.com/berita/d-8729078/2-tahun-prabowo-gibran-revitalisasi-sekolah-dari-aceh-hingga-papua",
@@ -1077,6 +1116,19 @@
     "sentiment": "negatif",
     "sentiment_score": -14,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "fcd3e0e2e2d0",
+    "title": "Dari Internet Hingga Budi Daya Melon, BUMDes Kidang Mas Cilongok Banyumas Raih Omzet Rp99 Juta",
+    "link": "https://banyumas.tribunnews.com/adv/97529/dari-internet-hingga-budi-daya-melon-bumdes-kidang-mas-cilongok-banyumas-raih-omzet-rp99-juta",
+    "source": "Tribunbanyumas.com",
+    "pub_date": "2026-10-28T00:00:00+07:00",
+    "desc": "BUMDes Kidang Mas Cilongok Banyumas andalkan usaha layanan internet dan budi daya melon lewat greenhouse dalam ajang Anugera BUMDesa 2026.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "96f4de549503",
@@ -5198,6 +5250,19 @@
     "sentiment": "negatif",
     "sentiment_score": -14,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "e88cfdd00da6",
+    "title": "Berita Terkini Harian Wilayah 3t Terbaru Hari Ini (8) - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpRVkwLXAwd0wzQjB1U1QtdlFMSnk4dk1ENzAxa252RmFnQ1MzNEF0ZzJrOTg5WGQxSTRHdHhxWVgzLUl1SDRPOFI1VnowclJyRXBTTmlQQQ",
+    "source": "Kompas.com",
+    "pub_date": "2026-10-22T23:18:43+07:00",
+    "desc": "Berita Terkini Harian Wilayah 3t Terbaru Hari Ini (8)&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "9b7eb082840a",
