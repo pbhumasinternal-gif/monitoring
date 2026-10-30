@@ -195,6 +195,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "dfe135a535b6",
+    "title": "LIRA Soroti Bimtek Kades di Wajo: Tak Transparan, Bebani APBDes - pedoman.media",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVFVSN0l0cy1yVUJCQUtNSE51NXFWS0lLY181NHlKWE81emY4NVd2Yk5BRGNSY0laNFNoYmV0bDdQbnA3c2M2bEJXS25Ma2JYTHZ3SEhqLXlNdkJSdUE2dzByWHJLRlVpdW1KR1pQcDJTejRZSnFXMGV6YjZNbWpyWE9vUUFqaEo1cExFZlJQX2IxMWU5bElwdjZ30gGfAUFVX3lxTFB0SnFwNzNxajVVNXhJNURZZzhpcGRiMEpsdmgxMWZtUFNrX3lzMjFWdGh3OVN6cFg2WHJGVmt0ZkRDc1hjVlpRTkc4VUd5VlBlTTlMNVg3WUN4RktoSmtrT0hFNU1FbHJHbXhCbGtBZG5kSVpCVUo3Y3hqQTQtN1VDRTdSeGhCT29sX1F4X3pmbnJoMThFd21HZkp1dHJ5QQ",
+    "source": "pedoman.media",
+    "pub_date": "2026-10-30T19:51:01+07:00",
+    "desc": "LIRA Soroti Bimtek Kades di Wajo: Tak Transparan, Bebani APBDes&nbsp;&nbsp;pedoman.media",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Kendala & Sorotan"
+  },
+  {
     "id": "c6f7c0a691af",
     "title": "Audiensi BUMDes Kauman Capai Kesepakatan, Sisa Dana Rp125 Juta Lebih Dikembalikan 7 November. - media seputar kita",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWNsZHF5aWVsY1NRX0ZzWXBtQWRvX2hUUTdVVGZhZDBnejhYaFlYcHdTYUt0dXNUZ0tfdDNvdXJQb2d1TXlBQ2t4M0EtU2d6TTFoZXVUWlgwaHdPZVN3SGZzSXllRXRsbWs1RW1rR0ZuSFBCbjRVWWV6NFBad25KbzNJdEhRMUxPWTZZYy1zbFNOVE5SNEJOMThXWG9IdzVKeFRCM20xVWFiU2w0VGNMa1JMVjZaVWVIU0d1bnZB",
@@ -1280,6 +1293,19 @@
     "source": "Good News From Indonesia",
     "pub_date": "2026-10-29T22:48:03+07:00",
     "desc": "Perjuangan Kepala Desa di Klaten Mempertahankan Dana Desa dan Marwah Koperasi&nbsp;&nbsp;Good News From Indonesia",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b3c87f5b03b1",
+    "title": "Perjuangan Sabiq Muhammad, Kepala Desa di Klaten yang Kekeuh Mempertahankan Dana Desa & Marwah Koperasi",
+    "link": "https://www.goodnewsfromindonesia.id/indonesiana/nasional/perjuangan-kepala-desa-di-klaten-mempertahankan-dana-desa-dan-marwah-koperasi",
+    "source": "Good News From Indonesia",
+    "pub_date": "2026-10-29T22:48:00+07:00",
+    "desc": "Kades Prawatan, Klaten, Sabiq Muhammad, bersama dengan koalisi masyarakat sipil menggugat pelaksanaan program KDKMP ke Mahkamah Konstitusi.",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -2587,6 +2613,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "07eb6ba3f934",
+    "title": "Audiensi Warga Balaradin dengan Kapolres Tegal: Bahas Soal Dana Desa",
+    "link": "https://radartegal.disway.id/lokal/read/730534/audiensi-warga-balaradin-dengan-kapolres-tegal-bahas-soal-dana-desa",
+    "source": "radartegal.com",
+    "pub_date": "2026-10-29T00:00:00+07:00",
+    "desc": "FPDB audiensi dengan Kapolres Tegal membahas soal kepastian hukum dana desa, PBB, dan bansos di Desa Balaradin.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0d0049988188",
     "title": "BUMDes Gangga Jaya Salurkan Laba Usaha untuk Fasilitas Publik - bsinews.id",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZUjBRVW5uZC0xdEo0X3lTVFFzTVZudjBHTWZ0ZThST0hkM25FRWpuVXVJdGljcmJKck1fU0dxczVVWjBZV0d4SGNpcVliNDRlMG1TcXNhTlY3VEE0WExtYW9FaFk",
@@ -3674,6 +3713,19 @@
     "desc": "Terdakwa Perkara Tipikor BUMDes PPU Divonis Bersalah&nbsp;&nbsp;Detak Kaltim",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b5c11b62f71c",
+    "title": "Kumpulan Berita Dana Desa Ntb - ANTARA News Mataram",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBORGc3VllodjMxQ0hJM2lnNHE3Q19xamdkc25CU0FfZkU3Nl8xeTljc0ZoUS1iRkdCTWZkUktFM2EtS1UxUkZic1ZxSkV5am82Y1h1MnhIYnB4OHFrdFJnWg",
+    "source": "ANTARA News Mataram",
+    "pub_date": "2026-10-27T21:06:37+07:00",
+    "desc": "Kumpulan Berita Dana Desa Ntb&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
