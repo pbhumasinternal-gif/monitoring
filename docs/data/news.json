@@ -1,5 +1,31 @@
 [
   {
+    "id": "23afcb0bae22",
+    "title": "Manfaatkan Dana Desa Rp193 Juta, Program Ayam Petelur Lae Bangun Mulai Dinikmati Masyarakat - Gakorpan News",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEZjNkdWUUUwdUstSDZ4V0F0WXVZdkNoWk5fbVJPNkQyZWRSd0tQNEdrbUo5QzVVSEo0LURFV1dEWUREQjlQZW0yRjU3ZWpqdUZZUnFJd2kyeWRxajJlUTRndXR2UjctT0paNGtHRmRTUmF6QkMxNXozUG9OOThKbjJwbUF0dlc3U0NWdE55Q20yelV2ZlRPRV83dEFhaHQzb2FjbWdycGVsOW1UZDFBS05jZVFvZw",
+    "source": "Gakorpan News",
+    "pub_date": "2026-10-30T15:53:46+07:00",
+    "desc": "Manfaatkan Dana Desa Rp193 Juta, Program Ayam Petelur Lae Bangun Mulai Dinikmati Masyarakat&nbsp;&nbsp;Gakorpan News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "864842f7ae2a",
+    "title": "Pendampingan Guru Wilayah 3T Terancam Tak Berkelanjutan - KoranKaltara.com",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUwxUERjU1RrOEcyOF9VSDR5LWQ4WUllbFcxZ2trdGd5TEtZeXc3enlTZTZuaFE3dU00bDktMmh3UnlxRDdfcmcyTnNSb1hZMUlKSTU0Q2tQMUI1RkNjLXZSSlhiSS05WnIyMjVjWjQwSzNIeFdOWnJ5U29VTVphTm5WdVpSWE5v",
+    "source": "KoranKaltara.com",
+    "pub_date": "2026-10-30T15:53:36+07:00",
+    "desc": "Pendampingan Guru Wilayah 3T Terancam Tak Berkelanjutan&nbsp;&nbsp;KoranKaltara.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ec957ce42ad2",
     "title": "Perkuat Keuangan Desa, Kemenkum Sulteng Harmonisasi Ranperbup Banggai Kepulauan - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNk43V1dhNmxVb05qVk16OFVZMWFYWWVVT2R4WGYzZHQySHRDTG9IWUR6WEt1a1RPWUhmWGlFMkJpTEcyR1hlRWpaanktSGJKeW50WWpGQ1A5X2NkTW9fNnN4T3RkVFFQaFJyOEt4MFJnbjd3b0diQ3RzNGFiS3gtcUlvejl0SzBvSGcxbkpsVnZtYUlKRnRNQVB6X0xBMDVsMFYydDNET01aUk9HQ0tTQWtaOVIxY2k4c1E",
@@ -63,6 +89,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "5bd251ddba83",
+    "title": "APDESI Bandung Barat Dorong Penambahan Anggaran Desa Tahun 2027 - Koran Gala - Koran Gala",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFc4RHdTclpFTEJjMnhESTh2YVVONTk2dnowQkU1eXp0VnBLNnV2c1lfang3NGh5a2FfeXJTeVNRRnBVZU83TEhIX3d0cjdQT1d1Y1E3ZVQ1RG5hWVBSRkFOLVBpVWhxSnBBUkhWcW9Pa1h2REI0LV9TZmNMWlBZR1BaZk0waW5DRDNQRk1QRjZuekJUbHNYeWNNWFBMWVhXNmVHeEQzTU5Ld9IBrwFBVV95cUxPWm5nVVhXaGYzeEoxQXNsVnVRVkxkZmQzTVQ0bzJuUTlvekRFRE94RzJFdmx0eDdHLTNmR3Fhc3lSN0VqUF9yMEVDUVZRRzlJcUZKczRxeGRNWndvYTZHSHluUjQxTFk5QkZla3JWT1NYbFBnR3hZUjgzeHRuckVDQ3BpbWtxYUtYd3hmb3czajBqZDFiczBqWlJ3RDhTLXNiQlVwbDBWWlNqN0lZSmpB",
+    "source": "Koran Gala",
+    "pub_date": "2026-10-30T13:45:00+07:00",
+    "desc": "APDESI Bandung Barat Dorong Penambahan Anggaran Desa Tahun 2027 - Koran Gala&nbsp;&nbsp;Koran Gala",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "e85df3e91ecd",
@@ -1207,6 +1246,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "62194d669d84",
+    "title": "Tilep Dana Desa dan Bantuan PDAM, Pak Kades Ini Akhirnya Diseret ke Meja Hijau - Kalamanthana",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXZBSUx3V01Dc3I0eXR5TVFRcTF4LUVWcVhHaGNKNmsxS3pDSVZGR3hScWNlRFh5dzk0dFlIcHc0cXctWGZQX3JySXVaQnBGb2FFZFBIamRDQ2xMT00xbG43TVQ1U1g5YkhSMVptVjdvd1ZJZXV1TVJ1RGswaXJ3UG9RbDVvdk5WLXplc1NSdnlacXRFSURCTlpLcHFCZDRmQ0ZWZnhoN0ExTTdYS3U1emtRUjnSAbABQVVfeXFMUDhMaFh2Ujg4QTFUYWpoQkJROXQtYjNFSjRXX2NGaU1qRlNFbTRYeUlFQ2VzV01USGZPbV81dXZxUmtnTl9velZaYzRPczNFWWI5VndSMVU4b19vcElUZTJsX3hnM19STzR2UXdJbVYxSWpDdnFZVTF3SlZVTXpzZUV1VzEwVkZBRE53Y19YVXU2U3k3Q242c2hKSERlZDVlei1fMTJkbm5tSnl6aHBxY3Y",
+    "source": "Kalamanthana",
+    "pub_date": "2026-10-29T15:12:24+07:00",
+    "desc": "Tilep Dana Desa dan Bantuan PDAM, Pak Kades Ini Akhirnya Diseret ke Meja Hijau&nbsp;&nbsp;Kalamanthana",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -4,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "35f9fdb1e281",
@@ -85303,6 +85355,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f8b9029ffb7e",
+    "title": "Kemendes PDTT dan Pos Indonesia Tingkatkan Logistik Hasil Produksi Daerah Tertinggal",
+    "link": "https://www.tempo.co/info-tempo/kemendes-pdtt-dan-pos-indonesia-tingkatkan-logistik-hasil-produksi-daerah-tertinggal-814286",
+    "source": "Tempo",
+    "pub_date": "2018-09-23T19:14:00+07:00",
+    "desc": "INFO NASIONAL - Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (Kemendes PDTT) bekerja sama dengan PT. Pos Indonesia untuk meningkatkan sistem logistik hasil produksi di daerah ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
