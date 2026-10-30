@@ -286,6 +286,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d334f1fc15fc",
+    "title": "Polisi Bongkar Dugaan Korupsi Dana Desa Paniis Kuningan, Kerugian Negara Capai Rp530 Juta",
+    "link": "https://jabar.suara.com/read/2026/10/30/121200/polisi-bongkar-dugaan-korupsi-dana-desa-paniis-kuningan-kerugian-negara-capai-rp530-juta",
+    "source": "jabar.suara",
+    "pub_date": "2026-10-29T22:12:00+07:00",
+    "desc": "Kades Paniis, Kuningan, berinisial R (66) ditetapkan sebagai tersangka korupsi dana desa dan bantuan PDAM 2021-2022. Negara rugi Rp530 juta untuk bayar utang pribadi.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -15,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "549441c22ebe",
     "title": "HSI: KDMP-KNMP instrumen strategis tingkatkan kesejahteraan masyarakat",
     "link": "https://www.antaranews.com/berita/5820451/hsi-kdmp-knmp-instrumen-strategis-tingkatkan-kesejahteraan-masyarakat",
@@ -75668,6 +75681,19 @@
     "desc": "Pendampingan Tahap II BUM Desa Auditable pada BUM Desa Bandung Bondowoso, Desa Sidobandung, Kabupaten Bojonegoro, Jawa Timur&nbsp;&nbsp;Politeknik Keuangan Negara STAN",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "de2681de823c",
+    "title": "Yandri Susanto Ajak Akhiri Perdebatan Pemilu: Mari Bersatu Kembali - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOS1KQnVCRUNfMFJiM1BqS0kwcEhLSFRRYjlKVGhSanpoSE5yZlg2dlJNUDN1cVZ2dDhZRkdaY3ZrSV9ncTE4NmdmZlMzb25IaW9YeWJfVnNLQlQwUWVKbFFneDRFS3ZZUVB3bEdsWXRFZnhGRlhqdmhkdElNUDNoeG4zZ3BpWjRGTDZDdHJmMGpQRGdUa1VJenNHSDg3OW1mX1RwUE1kMVDSAa4BQVVfeXFMTkp3VjVfSVJsX0dKdHVDLUxoZDBPT184cmpWM0xjcFNpNFA1UmdXZThLang3U0tQWVNfRlhGWG42OHcxRlR1UEpmQWl4MHlZRkNMSUx0dkdlTndVWi0xeDkzak40bnU5NXRrWkQwTWN5b1lKS2xydWdKZXFSWHJ4UHhoMmJEQVBXNEJ2R2pKWHhscTJhVVdvUnJJTWZTN1pXbjJ1cXF1dy0taVpJckFn",
+    "source": "detikNews",
+    "pub_date": "2024-04-28T14:00:00+07:00",
+    "desc": "Yandri Susanto Ajak Akhiri Perdebatan Pemilu: Mari Bersatu Kembali&nbsp;&nbsp;detikNews",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
