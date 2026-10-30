@@ -3302,6 +3302,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "6ec70b4d97eb",
+    "title": "Anggaran Desa - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tcC1WUUdJVzRoQXNKYmwxeWg3UldQWEh0SVh1OFhTNnhWNThEcUxfSU43NHpPRldqZ1BuZm1JdV9GdXNzVUJHRVoySlRCZ2JlLUhSVldCNE9CRUw5",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-10-28T07:24:11+07:00",
+    "desc": "Anggaran Desa&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8057c3f503ac",
     "title": "Pemda Taliabu Jajaki Dukungan Kemendes PDT untuk Pembangunan Desa - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcjNkYnRzNGxTbk92MFBybFhqNU5hZVFrLWczT0RKbWNhZ0RHNDlvY1BpTEFzRi1XWmZzQzk5ZXowY0FEcjhxZGVHcHNzMlE2djYyQ2NRd2JuSVlacUJneUFZeF9xTXhnVEdpSkc2Z3hUc1J3OVNvMEJuSzVKb2ZmYzVPSTdGTjNWSGdvN3ZwQTdFNGRXdHN1cWFEeU1jbHVZNGswMHFRMUJZR1NVdTN3",
@@ -21916,6 +21929,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "b0553e1e9f2e",
+    "title": "BGN Aktivasi 480 SPPG di Wilayah 3T dan Daerah Stunting Tinggi - InfoPublik",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDdGaUJLTGZIekhreG9QME1IU054amJnQWF4alVOVGY4UU9rYXRsRElCWVlmS3UwYzVJZ3o2d2g3bG9TVTVpVXFmSDBtdXAtT3hMRUpEYUZ2OE9ibnZzRmtzbm56bzdJdkhZMzRWNUtYSlZQM05XRTlGd0tITkoyUWc0ZFd6c1ZucnhlelJQWlRnMmRYa25jenB0TFlUdHJ2M09maVZTQ2h4TG1wMlg0ZzIzNmpldUFQaWRoeFM0dHRtd3BoMjRfYnUxS0ZLN2c",
+    "source": "InfoPublik",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "BGN Aktivasi 480 SPPG di Wilayah 3T dan Daerah Stunting Tinggi&nbsp;&nbsp;InfoPublik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "5afc234ed199",
@@ -81323,6 +81349,19 @@
     "desc": "PAN Tunjuk Yandri Susanto Jadi Wakil Ketua MPR Gantikan Zulhas&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0787c17aad6e",
+    "title": "Bertemu Perwakilan Kades, Bamsoet Dorong Optimalkan Pemanfaatan Dana Desa - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3VKMU5CSUZDaGM4WjJVRmVsWlFKU0hxRDdSS3haMFJmUk04Q2ZaRFAtYWFYNXN4QWQtaEFPeTYyMk1za2luN29DQ3l5RzV5Q1YyckVFT2M2RXZFbDFvRmVZYjRKYW1Wbzl2T2ZjNnZQdzJfeTVDZjctT3hCaEg4VGluSW1kNjl4bWNCS1RzOG5oS3pLOWJMRDdaX1NlSWdtdjNxblNKSmZ5X2ZfTEQ1UFpR0gG3AUFVX3lxTE9teEpiX2VMVmRxS2FnZ0ZubktqSHdRUFhNX0o3cmphVGVVal9nYkpPQ1JkR3dfNjZ0MV8zUzR4SXhJU1dFcVdNM1MtZ1pHQXhrMkhWbDgxQ0JndUZ5RlVKUzc4dGdFeWw5X21UYWpxY1FidGp3R0ZiV1ExMDM5eEpCNVd1MjVMT0g1MHh0NkpXMkV1SGZGeVBVUXYyRzM5UnVwRXlfZWtaMDBVWFljSkxTeHI1elZvbw",
+    "source": "detikNews",
+    "pub_date": "2022-06-25T14:00:00+07:00",
+    "desc": "Bertemu Perwakilan Kades, Bamsoet Dorong Optimalkan Pemanfaatan Dana Desa&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
