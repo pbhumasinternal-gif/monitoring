@@ -572,6 +572,19 @@
     "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
+    "id": "d3f2fd1ababd",
+    "title": "Kumpulan Berita Dana Desa Di Pariaman - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzUXVUSmR0NEdWc0pLbk1wWW43ckJMa29pQ1VFQ3dKbmFkWDMtLXJPU01FanM1S2ROYzVQRWtjSnlZNEtfRW9ZSW00Z2FXemY4eVZMRGtvSDcxd1dnOTBOeHFwYjgtdHNrQ1E",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-30T13:45:07+07:00",
+    "desc": "Kumpulan Berita Dana Desa Di Pariaman&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5bd251ddba83",
     "title": "APDESI Bandung Barat Dorong Penambahan Anggaran Desa Tahun 2027 - Koran Gala - Koran Gala",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbFc4RHdTclpFTEJjMnhESTh2YVVONTk2dnowQkU1eXp0VnBLNnV2c1lfang3NGh5a2FfeXJTeVNRRnBVZU83TEhIX3d0cjdQT1d1Y1E3ZVQ1RG5hWVBSRkFOLVBpVWhxSnBBUkhWcW9Pa1h2REI0LV9TZmNMWlBZR1BaZk0waW5DRDNQRk1QRjZuekJUbHNYeWNNWFBMWVhXNmVHeEQzTU5Ld9IBrwFBVV95cUxPWm5nVVhXaGYzeEoxQXNsVnVRVkxkZmQzTVQ0bzJuUTlvekRFRE94RzJFdmx0eDdHLTNmR3Fhc3lSN0VqUF9yMEVDUVZRRzlJcUZKczRxeGRNWndvYTZHSHluUjQxTFk5QkZla3JWT1NYbFBnR3hZUjgzeHRuckVDQ3BpbWtxYUtYd3hmb3czajBqZDFiczBqWlJ3RDhTLXNiQlVwbDBWWlNqN0lZSmpB",
@@ -892,6 +905,19 @@
     "desc": "Kalsel kemarin dari peningkatan BUMDes hingga optimalisasi sumur minyak&nbsp;&nbsp;ANTARA News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ac7843a7b28f",
+    "title": "Kapolri Gandeng Kemendes, Dorong Desa Bersih Narkoba dan Pemberdayaan Masyarakat",
+    "link": "https://www.ntvnews.id/news/01123929/kapolri-gandeng-kemendes-dorong-desa-bersih-narkoba-dan-pemberdayaan-masyarakat",
+    "source": "NTVNews",
+    "pub_date": "2026-10-30T07:15:00+07:00",
+    "desc": "Upaya menciptakan lingkungan masyarakat yang aman, produktif, dan bebas narkoba terus diperkuat Polri. Kali ini, Kapolri Jenderal Polisi Sujudi Ario Seto menggandeng Kementerian Desa dan Pembangunan D ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -1950,6 +1976,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5cd2c21fba0e",
+    "title": "Dugaan Korupsi Dana APBDes dan Kompensasi PDAM: Kepala Desa Paniis Kuningan Terancam 20 Tahun Penjara",
+    "link": "https://jabarpublisher.com/2026/10/29/dugaan-korupsi-dana-apbdes-dan-kompensasi-pdam-kepala-desa-paniis-kuningan-terancam-20-tahun-penjara",
+    "source": "Jabar Publisher",
+    "pub_date": "2026-10-29T12:15:00+07:00",
+    "desc": "KUNINGAN — Penanganan kasus dugaan tindak pidana korupsi pengelolaan keuangan desa di Kabupaten Kuningan memasuki babak baru. Kepala Desa (Kades) ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "f06b639c6095",
     "title": "RI &amp; Malaysia Bahas Rencana Dorong Ekonomi di Wilayah Perbatasan",
     "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8729246/ri-malaysia-bahas-rencana-dorong-ekonomi-di-wilayah-perbatasan",
@@ -2364,6 +2403,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "566e377e850e",
+    "title": "Korupsi Dana Desa Paniis Rp530 Juta, Kades R Terancam 20 Tahun Penjara",
+    "link": "https://radarkuningan.disway.id/kuningan/read/680858/korupsi-dana-desa-paniis-rp530-juta-kades-r-terancam-20-tahun-penjara",
+    "source": "Radar Kuningan",
+    "pub_date": "2026-10-29T00:00:00+07:00",
+    "desc": "Dugaan korupsi Dana Desa Paniis Kuningan merugikan negara Rp530,1 juta. Berkas Kepala Desa Raski dinyatakan lengkap atau P-21 pada 27 Oktober 2026.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "0d0049988188",
