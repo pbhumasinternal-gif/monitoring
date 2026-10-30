@@ -1,5 +1,31 @@
 [
   {
+    "id": "a4036d99f82a",
+    "title": "Warga Pertanyakan Dana BUMDes Rp207 Juta di Grobogan, Saldo Rp115 Juta Diminta Dibuka - bidiknasional.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3VqdHNCVEtWUXhicDdRdjRrWnBoM1I0MTRtV1dfWkNXbFh5MUFZcWhCM3E5N2I2bGNzMW53dlNBcEFvRjY4ZGZ0U3ZiS090bEV1S1VhMkllSFFVTWJDbURVdmdBd1RxOW9jN2k1T2QtTXpPQUxxcUVYalQ4TXBIYk9FRDVaNXYxajNGYjFscm1FcHVLUnpIOF9JbVU1WXJqWDBPQW9ybk80Y3NqMDVndVVzM1VVUVpHYmpMQWNRYw",
+    "source": "bidiknasional.com",
+    "pub_date": "2026-10-30T18:22:38+07:00",
+    "desc": "Warga Pertanyakan Dana BUMDes Rp207 Juta di Grobogan, Saldo Rp115 Juta Diminta Dibuka&nbsp;&nbsp;bidiknasional.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "aba00b5cb315",
+    "title": "Kapolri-Mendes PDT Audiensi di Mabes Polri, Bahas Berantas Narkoba di Desa dan Poliran - Kabar24",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS1ppQVZYMGdhVnBHTUlDTk8zUnI2TXlYdTREa0h1MHVEdFFZMm5hRURZU2tuWXBfcGVOUTh5dnpxejczYXByeUIzazh4S2ViV3hhakhlY0lWNndrd291RjRvcVhCSTN6RHNvQzJkTG8xMDRvY0dDdDNPMF9GZWV1WFNfbkJnSEZ0WEpNZWFHaUQ5T1Q0RW5pNzRlYkRzcVQ2c0FSZWtyOGJyRjBNclcwZWh3eV82UER5d3JIMkJVQlZldVJCdGY2ZDRFNkNPY3lkS3JJ",
+    "source": "Kabar24",
+    "pub_date": "2026-10-30T18:10:37+07:00",
+    "desc": "Kapolri-Mendes PDT Audiensi di Mabes Polri, Bahas Berantas Narkoba di Desa dan Poliran&nbsp;&nbsp;Kabar24",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c066f3e66838",
     "title": "Polri Gandeng Kemendes, Desa Bakal Dibersihkan dari Narkoba dan Pengangguran - VIVA.co.id",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb0xKU1l4OGQtM25TaTg3S0NCN3Z6UVlhMEkzekh0RXNKTno3UTZYaVZRVTBOdTlwaEh0d05HMzk3TXEtSGY1OUMyekNTQnRwMU91d1FkZzF2cnItWk12a3JlMy1PVEtFWDJQbC0wdV8xZVhvVHQ0dUt6YktjeU15UXlTVmQtTHViTGVzOVBxVEZtOE1rczJGcVdsRi1zYmE1SHdMdXUyQS1WT1k1Uk1kY25qajMwN0F6eGY2amNkY9IBxAFBVV95cUxQbGx0WUNOR0p0VmJrSTgwRzM4TkpjajlCWklUcFlSamZjejBVcF9mTnNYajFGUTcyWGRtVDhNUVY4OVlSbVVMdUdTeWZ0MnVWVlpFSDNFWUJBSGdaTXB6clI3STRvd2VDeUc3WXQtNnpVVGNVd0pWUGFkRFMxVmJ6VFBudkVNR3hsU0hhV0R0aHVBVUFoYllKYWpkQjljWDhsU3JLTmJXUm1HSGJFV3FUR1JJRGV5Y05xcmxSYlBsMFRtc2p5",
@@ -723,6 +749,19 @@
     "desc": "Desa Leosama Belu Alokasikan Dana Desa Berencana Rabat Jalan Masuk Dusun Korbau&nbsp;&nbsp;RRI.co.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ec8d8b61f58d",
+    "title": "Kapolri Targetkan Desa dari Sabang Sampai Merauke Bebas Narkoba",
+    "link": "https://nasional.kompas.com/read/2026/10/30/18194701/kapolri-targetkan-desa-dari-sabang-sampai-merauke-bebas-narkoba",
+    "source": "Kompas.com Nasional",
+    "pub_date": "2026-10-30T04:19:00+07:00",
+    "desc": "Polri dan Kementerian Desa berkolaborasi perluas program Desa Bersinar ke seluruh Indonesia. Tujuannya edukasi bahaya narkoba dan mewujudkan desa-desa bebas penyalahgunaan.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
