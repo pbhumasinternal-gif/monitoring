@@ -1,11 +1,50 @@
 [
   {
+    "id": "1fb9682ec926",
+    "title": "PLD Yusuf Setiawan Dampingi Evaluasi Usaha BUMDes Sidorejo - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFh5bkFnMGVVVmdTMC1jQjRNQ1hUTHFmU1BHT3dfM1p3RUUwNTZuMmJwTEhQWFBteFJrbmNaekZqLVZpWFJJUk04bHNjTTNzaE1feWlscTRVN2FxMmpmMDNTRWFTT0l5YkF0VFYwaHFWNjlVVXprOVh1bjNQVi1ZNm9mWWl5TkJ4SWtQWk1rYWlHWm1PbGxsOVRGazJ2LV9UYWx6TjdJbGR4ZDh2d09SWFZLWU5uNktQZWR6Zm13",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-10-30T12:30:00+07:00",
+    "desc": "PLD Yusuf Setiawan Dampingi Evaluasi Usaha BUMDes Sidorejo&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a72e60b5df40",
+    "title": "Koperasi Merah Putih Hadir, Warga Punya Pilihan Belanja Lebih Terjangkau",
+    "link": "https://news.detik.com/berita/d-8730837/koperasi-merah-putih-hadir-warga-punya-pilihan-belanja-lebih-terjangkau",
+    "source": "detikcom",
+    "pub_date": "2026-10-30T12:29:20+07:00",
+    "desc": "Koperasi Desa Merah Putih (KDKMP) menyediakan kebutuhan pokok terjangkau dan peluang pemasaran bagi UMKM. Dapatkan produk lokal dengan harga bersaing!",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1d19b485a0d5",
     "title": "KPPM Pagerungan Besar Soroti Dana Desa hinngga Desak Transparansi dan Penegakan Hukum - Limadetik",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGl1V1BzczJQNFJEb0lqYTZxNFVobVFrQVNIYi1raUFtVlFvMHlzZXg0M3Etb1pLWlNuR1RqNGh4UXh6SHg0NTM5cDdZemk3MzlSTkt3QkZxcEV1Mk5RRDVJV0hnYzBJVGxGVkpmNnkxeDFrTU9WSEFlcDRvLVp0NGdLTWxUR1V6aXd1LWhzS1JuSTR4U3lsdzFJeTduQkNrUkhIV19YdkRQMGFtdl91NVcxa05xY2lBNHlz",
     "source": "Limadetik",
     "pub_date": "2026-10-30T11:53:00+07:00",
     "desc": "KPPM Pagerungan Besar Soroti Dana Desa hinngga Desak Transparansi dan Penegakan Hukum&nbsp;&nbsp;Limadetik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5361018063a1",
+    "title": "Kopdes Merah Putih Digugat ke MK, Dana Desa hingga Usaha Warga Ikut Dipersoalkan, Pantau di TribunX - Tribunnews.com",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQllEU3NtVVgyTDJ6Nm85S2g1MkZoN1FMM1Jhd2VBZ0twSEh4UzE0YXZqT1NLTHJ6TXpVU0xkZ1l1UE4yNndtUUQxWDJETDNmYkR2b3JhdjJmTkJneFFFLWl3ODM4RTFrZkI1RmdqMFBrSktDT0YtVGFoVTRqTXJwWEZwSkRKYnJlVG1TYmw2bmNsc2RRTUM0V0RvQ3pQTWhXMGNyS3dxR1ZMckZQTHlSMnkwZGdpbzRxVUNvTlFaUUZqSzJiYzFLbmNfaXhjaUg0V3haVXRBTQ",
+    "source": "Tribunnews.com",
+    "pub_date": "2026-10-30T11:50:12+07:00",
+    "desc": "Kopdes Merah Putih Digugat ke MK, Dana Desa hingga Usaha Warga Ikut Dipersoalkan, Pantau di TribunX&nbsp;&nbsp;Tribunnews.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -268,6 +307,19 @@
     "desc": "Kemendes Pilih 9 Desa Berkinerja Baik Tangani Stunting, Apa yang Membuat Mereka Unggul?&nbsp;&nbsp;Koran Jakarta ®",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "caf9c6d48ab6",
+    "title": "Perjuangan Kepala Desa di Klaten Mempertahankan Dana Desa dan Marwah Koperasi - Good News From Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVG9CMHJ5RW9TbUdwR29aaGhUb3U0ZzI3MU4wQm5YMEhOUDR4ejlFLXRSakNHdDgxekNQS01YNkxVZ1ZNOFFHdFhYeUZaSmRpS2J2NXpLLVB2ZWZiVFZkU09BR3dqcTJiT0g0NWtPcFNjSTZLS3RxdzZadWlCRDNRb0NDWGZJTWxpSVVBbVVWYmFDTnpxb2xYMFplNWhxSVJGalh6cW9Ic3lVRWtzMlBESENfNVVOdWowTVl3N3pJT3RKSjcxQ0RDNTlZUUNvdmxf",
+    "source": "Good News From Indonesia",
+    "pub_date": "2026-10-29T22:48:03+07:00",
+    "desc": "Perjuangan Kepala Desa di Klaten Mempertahankan Dana Desa dan Marwah Koperasi&nbsp;&nbsp;Good News From Indonesia",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -86164,6 +86216,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "56419be5040f",
+    "title": "Sektor Infrastruktur Prioritas Penggunaan Dana Desa 2016 - Bappenas",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbUpfbHlzekJzWnlDdGJ2WGduampWWkRVbGk0ZjdYVTczclIzR21zbXNWaFF1bmpac0tfT3hLSWtHMU9faTdNTUVZZmFTVE83Tko2VHdpY1AwYUNvRjd2a0YzNF9YcjlxUU80bGphckFlQldKMWVoUEdLQzJocmZBVVltRG13MXktOGQ2dmJQV2F5Q1ZJZXFZNA",
+    "source": "Bappenas",
+    "pub_date": "2016-04-28T14:00:00+07:00",
+    "desc": "Sektor Infrastruktur Prioritas Penggunaan Dana Desa 2016&nbsp;&nbsp;Bappenas",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8954594225bf",
     "title": "Menkominfo Cari 50 Aplikasi untuk Bantu Desa Tertinggal - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFJJUW10TkZieGRod25ZZ1dybGN4bTJiRlA4SHZHejJnWC1RSTRsdGUwc0cxeWVsNjR6YlRFYVNCZ2R0VVB4NVNVb09RWG1OeXJNOHBpYnZwOTlzOWJlc0FyMm0zMnBjUkhBdnNPLVBUOWtEU2hqS29GUk9HUmVlbEJpb29IaTRtNE10VFVQVHZZT2ZTRkRYTlp2bVBNa1Iwa3V3RW1Denc",
@@ -86538,6 +86603,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "28b7ed1b6c8f",
+    "title": "Sumut Dapat Rp 384.043.298.512 Dana Desa - Pemerintah Provinsi Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUxBbF9wajVfRHo1Y0VPSWI3Y3h0cXVMX2NuUFZCV0R5dVJnUHptcWJlZ2l5V2JsUkVac3NlQ3JuaWs3VmVRdzVsS01MOXQ1WGY3Ri0zN2pQeGc3SlNSdWFWa3VLZlZmMHgyRjJ0NUJWa0VSVkU1SE5Lak5XTHVsU2ZkbUZnVEU",
+    "source": "Pemerintah Provinsi Sumatera Utara",
+    "pub_date": "2014-12-08T15:00:00+07:00",
+    "desc": "Sumut Dapat Rp 384.043.298.512 Dana Desa&nbsp;&nbsp;Pemerintah Provinsi Sumatera Utara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
