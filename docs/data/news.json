@@ -1,5 +1,18 @@
 [
   {
+    "id": "eeb7d7cef30a",
+    "title": "TNI AD Bangun Jalan dan Jembatan di Wilayah 3T Kabupaten Katingan - Mata Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjFBRmY4MDRVbXJNYUVPZnFObU5PbjA1MFNLLTVEb2ZZcWFtR3RJY1VPdFZxSzJtZnBKVVpyV3FWOHZ4REhRcFVxVklibHpEMDJ0SmxFUFIwczFKTUxJRjA1VWVKS3BZYXFuSVF0bTd1T3dXVkJuVkU5enIxYkRMVVVucEZDV0hSTllJeGR2YXRzeDd2S0Fmck1PcTdVMjJIcWVfUXJYVTIwMGtLMGp3",
+    "source": "Mata Kalteng",
+    "pub_date": "2026-10-30T13:04:06+07:00",
+    "desc": "TNI AD Bangun Jalan dan Jembatan di Wilayah 3T Kabupaten Katingan&nbsp;&nbsp;Mata Kalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1fb9682ec926",
     "title": "PLD Yusuf Setiawan Dampingi Evaluasi Usaha BUMDes Sidorejo - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTFh5bkFnMGVVVmdTMC1jQjRNQ1hUTHFmU1BHT3dfM1p3RUUwNTZuMmJwTEhQWFBteFJrbmNaekZqLVZpWFJJUk04bHNjTTNzaE1feWlscTRVN2FxMmpmMDNTRWFTT0l5YkF0VFYwaHFWNjlVVXprOVh1bjNQVi1ZNm9mWWl5TkJ4SWtQWk1rYWlHWm1PbGxsOVRGazJ2LV9UYWx6TjdJbGR4ZDh2d09SWFZLWU5uNktQZWR6Zm13",
@@ -1155,6 +1168,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3f5e932d82f7",
+    "title": "Korupsi Dana Desa Paniis Rp530 Juta, Kades R Terancam 20 Tahun Penjara - radarkuningan.disway.id - Radar Kuningan",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzJNdUtJUlhCdFlzXzcxRndWVUZBNEJqbmxpTFItcGlOcVhKZmxpdDNsTE5LSmtTMmJ4aFZXaWVUQTk4MHZMRGRXa2thWmJfbGJUTXFwWFVhQjAwb2dHbXROZDNCM2pXRGVfLXF4ZVpRMF82ei1ydWhEdjBvM3VRdWNuV05pWExLdkUzanNHMXYxOXVKQXpYWV9GWVV2b2F0dnRTV3pzSEJmMHI5eVVUV001SHJtcnZrT0cwQUE4c9IBsgFBVV95cUxQVlFNOEJHMFhxaEVlMzAydXZSc3YtODJFaTB3QTBGUWtTTGxOOTA0V0FxU19vRkgtYXdUWkJlTWFDRGhjMTZDdEMyc0hQZm1wNUxCVDF4Rkljd1N2OVZVQk82NmdRMWZvU25zNmJLeTJ6eW1sS1VTU0tWSnZVX2dNM2laVmlFZUNEV3lSSVNGZm5Sc1B4MWdyTGR0NEJBbEVkQi1faWQyQS03c2RGb19MZXF3",
+    "source": "Radar Kuningan",
+    "pub_date": "2026-10-29T11:29:00+07:00",
+    "desc": "Korupsi Dana Desa Paniis Rp530 Juta, Kades R Terancam 20 Tahun Penjara - radarkuningan.disway.id&nbsp;&nbsp;Radar Kuningan",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "6da4d971f8a2",
@@ -2502,6 +2528,19 @@
     "source": "Tribunbanyumas.com",
     "pub_date": "2026-10-28T00:00:00+07:00",
     "desc": "BUMDes Kidang Mas Cilongok Banyumas andalkan usaha layanan internet dan budi daya melon lewat greenhouse dalam ajang Anugera BUMDesa 2026.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7f6b59c2df2c",
+    "title": "Berkat BUMDes Elsam, Pasar Kapulaga dan Gula Semut Produksi Warga Sunyalangu Banyumas Makin Luas",
+    "link": "https://banyumas.tribunnews.com/better-banyumas/97565/berkat-bumdes-elsam-pasar-kapulaga-dan-gula-semut-produksi-warga-sunyalangu-banyumas-makin-luas",
+    "source": "Tribunbanyumas.com",
+    "pub_date": "2026-10-28T00:00:00+07:00",
+    "desc": "USAHA PENGERINGAN REMPAH - Petugas dari Dinas Pemberdayaan Masyarakat dan Desa (Dinpermasdes) Kabupaten Banyumas mengecek produksi pengeringan gula semut dan kapulaga dalam usaha BUMDes Elsam di Desa ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",

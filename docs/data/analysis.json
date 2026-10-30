@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-10-30 13:01 WIB",
+  "last_updated": "2026-10-30 13:30 WIB",
   "days_analyzed": 30,
-  "total_checked": 1696,
-  "dominant_topic": "Dana Desa (707 berita), BUM Desa (465 berita), Daerah Tertinggal (269 berita), Kemendesa PDT (255 berita)",
+  "total_checked": 1699,
+  "dominant_topic": "Dana Desa (708 berita), BUM Desa (466 berita), Daerah Tertinggal (270 berita), Kemendesa PDT (255 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -43,6 +43,12 @@
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       },
       {
+        "title": "Korupsi Dana Desa Paniis Rp530 Juta, Kades R Terancam 20 Tahun Penjara - radarkuningan.disway.id - Radar Kuningan",
+        "source": "Radar Kuningan",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
         "title": "Dana Desa Dipangkas hingga 70%, Guntur Wahono Serap Keluhan Kades di Blitar - DPD PDI Perjuangan Jawa Timur",
         "source": "DPD PDI Perjuangan Jawa Timur",
         "topic": "Dana Desa",
@@ -52,13 +58,7 @@
         "title": "Kejari OKU Selatan Bongkar Dugaan Korupsi Dana Desa 2022–2024, Eks Kades Jadi Tersangka - Kompas.com",
         "source": "Kompas.com",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81c04d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "Penyidikan Korupsi Dana Desa Trimulyo Berlanjut, Eks Kades Bambang Iskandar Buka Suara: “Laporan Sudah Diperiksa Inspektorat dan Bebas TGR”",
-        "source": "Sinarlampung",
-        "topic": "Dana Desa",
-        "core_issue": "Penyidikan Korupsi Dana Desa Trimulyo Berlanjut, Eks Kades Bambang Iskandar Buka Suara: &#8220;Laporan Sudah Diperiksa Inspektorat dan Bebas TGR&#8221; | Sinar Lampung  | Sinar Lampung Jalan Laksamana..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }
     ]
   },
@@ -81,7 +81,7 @@
         "title": "Kemendes PDT Gandeng UI dan Pegadaian, Perkuat Ekonomi Biru dan Pemberdayaan Masyarakat Pesisir Nias Utara - UtamaNews",
         "source": "UtamaNews",
         "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81c04d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       },
       {
         "title": "Sukses Tekan ATS, Kadisdik Sinjai Jadi Narasumber Praktik Baik Kemendes PDT - klikkiri.co",
