@@ -1,5 +1,18 @@
 [
   {
+    "id": "ec957ce42ad2",
+    "title": "Perkuat Keuangan Desa, Kemenkum Sulteng Harmonisasi Ranperbup Banggai Kepulauan - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNk43V1dhNmxVb05qVk16OFVZMWFYWWVVT2R4WGYzZHQySHRDTG9IWUR6WEt1a1RPWUhmWGlFMkJpTEcyR1hlRWpaanktSGJKeW50WWpGQ1A5X2NkTW9fNnN4T3RkVFFQaFJyOEt4MFJnbjd3b0diQ3RzNGFiS3gtcUlvejl0SzBvSGcxbkpsVnZtYUlKRnRNQVB6X0xBMDVsMFYydDNET01aUk9HQ0tTQWtaOVIxY2k4c1E",
+    "source": "RRI.co.id",
+    "pub_date": "2026-10-30T15:01:00+07:00",
+    "desc": "Perkuat Keuangan Desa, Kemenkum Sulteng Harmonisasi Ranperbup Banggai Kepulauan&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f77adac539af",
     "title": "Wilayah 3T Bengkalis Terhimpit Kelangkaan Pertalite, Warga Minta Pengecer Diizinkan Berjualan - RIAU24JAM.COM",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa25TUE5KbV9Fd1JsNS1WcG8yeGYxR29LMXoteDRXY1g4ekpaZXB2WThwd3U2S25pMXRPUUtmakFma1NaaS1WdHg0TElYZGNhNTdrMFhyVkhHTXFlWkFQSXFzcnM0RTlhNHBTSlVsQzB3U29hRVNTVHpVSlZheXQ3X255X3Byek4tYzZ0b2J4Ri00V3A0djhaTGR1bnRvbl9iOFRzNVNyeFA3OHBQMTdYVko5N1JvZ0hWQVA4Q1pTWVJaT0I3",
@@ -60424,6 +60437,19 @@
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
+    "id": "1faa6d660a92",
+    "title": "Aturan Baru, PT hingga BUMDes Tak Lagi Nikmati Pajak Penghasilan Final 0,5%",
+    "link": "https://www.liputan6.com/bisnis/read/7548001/aturan-baru-pt-hingga-bumdes-tak-lagi-nikmati-pajak-penghasilan-final-05",
+    "source": "Liputan6",
+    "pub_date": "2026-06-01T18:20:00+07:00",
+    "desc": "PPh Final 0,5% tidak lagi berlaku bagi persekutuan komanditer (CV), firma, perseroan terbatas, atau badan usaha milik desa (BUMDes).",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "169ea5213272",
     "title": "Nias Utara Raih Apresiasi SPM Pendidikan 2025 Kategori Daerah Tertinggal, Kadisdik Terima Penghargaan dari Kemendikdasmen - 86News",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM0ZYd1c0S2V2MTJySWR0Zkl2enRTLWVBRkx4M2RTcm5ZSXNyU2JGZW1oQ01IN3Yydkh2Z2hQb3RkamdXZldOYXhOUUNiNkhYSE83UU9fZFI5UXdtWGNFYWRpSHNaV0t4dUJkMVBPQk9FUnUzNk1hOVZtVjFFaU1Zd0h4aEgzVjJfeUhlLVhKWGxKamtmZG40YnpMaGdOZzdQY2p2S3N4UzRDZUtwaTFTcnVHaFU0OWhUN3FQekUyclhqelB3RER0Q2M4Y3psaTN5N01pcFZxRWhqVHViQ3FUck80QVE",
@@ -86578,6 +86604,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3c48828da0b3",
+    "title": "Ratusan Penduduk di Tolikara Mengungsi karena Konflik Antar Warga, Dipicu Dana Desa - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOTlqblp5WFY3TkpYV3NvcHRRZnFGVzN0QTVxSWJnMk1VS1hCY1BvRlZXV2hyekV2dUx1Z2hQRndiTngweEFZY3JVMF9SQkVjZ0dNdEFKVm9xcHliRGd3THJOVjZQaXNhWDc3aEZ1NW0xeVlXZjNFX2o4eWdLTVFkSXRjeHpNWXh0VFJmYUF2WUFteVQwWEhDQW1mZ2VucGd6Q0U4Qy1NOVZyS2ZxSE5OeG1ZMmxubE5QMy0yUngybw",
+    "source": "detikNews",
+    "pub_date": "2016-04-25T14:00:00+07:00",
+    "desc": "Ratusan Penduduk di Tolikara Mengungsi karena Konflik Antar Warga, Dipicu Dana Desa&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "8954594225bf",
