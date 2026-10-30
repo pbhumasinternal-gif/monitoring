@@ -1,5 +1,31 @@
 [
   {
+    "id": "f5fcee338867",
+    "title": "Tebu Pekat Menggeliat, Saatnya Desa Konsolidasi dan BUMDes Naik Kelas - Kabar Sumbawa",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDNZb0JQc05JVlZRdFpXR09DZURBZEx0OHlrSE9rajFIX2Vjd2I3YkVwQ3NtNXpsVUY4dENaWEtvTVpKSzloMXFLUkgwR1FfQXRHcmtvOGc4bDBqZzhNVjMwQkNQOHFaSll6VjNtRTk0RzloOThTRmtCUUdBa2h2Qk9MR3U1Z0Zza0tUekxsX3l3Z0tSVjJWSEJMM253T0xNVldFUEtSOV8",
+    "source": "Kabar Sumbawa",
+    "pub_date": "2026-10-30T10:18:32+07:00",
+    "desc": "Tebu Pekat Menggeliat, Saatnya Desa Konsolidasi dan BUMDes Naik Kelas&nbsp;&nbsp;Kabar Sumbawa",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 3,
+    "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
+    "id": "01269ea8ab40",
+    "title": "Enam Bulan Kasus Dana Desa Gamongan Bergulir, Polisi Belum Tetapkan Tersangka - Suara Desa",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXFjanBzeDM0dWtqS2pUdzdXbURoa1JWQUh0dU9qdk5Pek5sZFV3Wll2ZFYwWUlvX25TTEkzYUtvdFlvcjhWQllPZjVPdFRVQ1k0S20wc2JINmhLZHU3cms4UnhXYWJoSmxya0g3ZV93UV9ObU0yOHZ1MEtvWHB1eEo2bDdtTjhvTkdvRnQzaDJaVy1wczNVbUR3SXEtMGxoVm9qN0QxUkwtWER0T1o3b2ZwRQ",
+    "source": "Suara Desa",
+    "pub_date": "2026-10-30T09:40:31+07:00",
+    "desc": "Enam Bulan Kasus Dana Desa Gamongan Bergulir, Polisi Belum Tetapkan Tersangka&nbsp;&nbsp;Suara Desa",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "00a93a9b0d17",
     "title": "Kapolsek Pagaden Gelar Green Policing Bersama Bumdes di Desa Cidadap - lampuhijau.co.id",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcFJLZl9BRTBVWl9yTmtWckpRNUMwNG1ld0RjQU5TTlItOEpTQlRpUlI5bmxwcG5OOGxuTjc5V1hfcUJNMmttVDJpRDJMOTZaeXE5ckNSZXZfQWhjcEdXQ1Q5U0lGRzZVQ1dwblJ0R1BPR0lkc3FuLUtfb0RXOWw3Y1gxT0xLU0pOY3VuZzhUZFFZZ3l1b2JybHF3b3djTE42LUVGU2MybXlLQm5oNHIxZVFMSjlLMkJNR2VWbmNTQmM",
@@ -97,6 +123,19 @@
     "source": "RRI.co.id",
     "pub_date": "2026-10-30T05:24:00+07:00",
     "desc": "Desa Leosama Belu Alokasikan Dana Desa Berencana Rabat Jalan Masuk Dusun Korbau&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1d78e24460f1",
+    "title": "Wisata Edukasi dari Dana Desa Berdaya Sengigi Lonbok Barat",
+    "link": "https://mandalika.pikiran-rakyat.com/berita-mandalika/pr-27710531482/wisata-edukasi-dari-dana-desa-berdaya-sengigi-lonbok-barat",
+    "source": "mandalika.pikiran-rakyat",
+    "pub_date": "2026-10-30T02:58:00+07:00",
+    "desc": "Program unggulan Desa Berdaya yang digagas Pemerintah Provinsi NTB membuka peluang bagi Desa Senggigi, Kecamatan Batulayar, Lombok Barat, un ...",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -245,6 +284,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d9c90c6d8dd0",
+    "title": "Julie Laiskodat Gandeng BPK Sosialisasi Akuntabilitas Pengelolaan Dana Desa, Bupati SBD Apresiasi",
+    "link": "https://kupang.tribunnews.com/regional-ntt/985300/julie-laiskodat-gandeng-bpk-sosialisasi-akuntabilitas-pengelolaan-dana-desa-bupati-sbd-apresiasi",
+    "source": "Pos-kupang.com",
+    "pub_date": "2026-10-29T20:01:00+07:00",
+    "desc": "Dana desa merupakan instrumen penting mendukung pembangunan, pemberdayaan masyarakat dan peningkatan kesejahteraan warga desa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "9833ed9fbc0a",
@@ -79038,6 +79090,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "09960a0c0b2d",
+    "title": "Diduga Korupsi Dana Desa Rp 500 Juta, Kades di Lumajang Ditahan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVpfcmVZRFMxT3lHU3c3M3VqcTAyZC0zR1A2RUtuRjlELWQxN0ZYeFhNRmdlNGhseVliclhQYnRwUXVyVmJLZ2pIeXhCc0U0TXpGRzctNjA3OXB1MVBYUlVNdnRYZGY1VHpENnFqTDlKRVFFdlVWem5kT1R6ODNYTVRjemtxOXFFMjllZy1zS0VxVTVuZlZFOHQ4OU9XSXAweFUtTVN0X3hWOHpwUmhqZGx5QmJtYWM",
+    "source": "Kompas.com",
+    "pub_date": "2022-12-08T15:00:00+07:00",
+    "desc": "Diduga Korupsi Dana Desa Rp 500 Juta, Kades di Lumajang Ditahan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "ed74f3073fab",
