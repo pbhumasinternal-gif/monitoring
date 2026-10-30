@@ -117,6 +117,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "82453c9bc475",
+    "title": "Yandri Susanto Tegaskan Pentingnya Super Tim Kemendes-Polri - TVRI News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXh5a1MyQnBFbjl3aUNOM2VVRG9SaElNMVRkeW10Z0ozMDlVYURqb2RXWTNLNWozcHhBOXdJMmJNMkhjdHZpMHhRX2xLVThDekQ4eGlEWXZGWHl6MlRJcXBmTFlwTURLSFdxbE1nR2JfbDdWb0J3Vl9KQVBHVzBIa05iRjB5Tnd1Y0JqR1J2X2dtY1Iya0p4WnhqMnBYcTU0dGg0NVJhQQ",
+    "source": "TVRI News",
+    "pub_date": "2026-10-30T20:50:00+07:00",
+    "desc": "Yandri Susanto Tegaskan Pentingnya Super Tim Kemendes-Polri&nbsp;&nbsp;TVRI News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "71a5e5ea1d4c",
     "title": "2026 Sisa Dua Bulan, Dana Desa Berdaya Baru Dicairkan ke 116 Desa - SUARANTB.com",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1paWkJGSm51NWxhSTBGbjI0S3dEb2NFT0ZfanNCVnFSN2o1X1RsTlFVNl92eXR6ZkprdVVjdWhXUGRDaS01SVd4eURmV3RnY2tGZ1ZVZVRNRGl2cTB2UzNHdHdMaWJZZjFGUG1PcjZRUmFFVlJVWGNoYThMZS1jaUFoS29VdmR0dndzY3pYTlpucFdlSWdlbzhPcnZzQQ",
@@ -125,6 +138,19 @@
     "desc": "2026 Sisa Dua Bulan, Dana Desa Berdaya Baru Dicairkan ke 116 Desa&nbsp;&nbsp;SUARANTB.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "65276040a1e5",
+    "title": "Polri dan Kemendes Perkuat Edukasi Anti Narkoba Hingga Desa - TVRI News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd2RYdUpOUGZqeTJxNnZ0aHdCZ3FsNUFRQlg1cncyLWIzT0o5Q2dGcVZ6VU1CX2JwYmlLN0FUV2lERGZ4LXVIemUzYzNadW0zTEMwRUdJSHdZSURoX2JhNkp6UlFvZEdMX0kwUkdmaDR1UjVNaVNiX0J5bV9rWm5rc1JKbFNqa3NWVVE0Mkk5dWh5WEdUUGhtcmZFZktKOWVMZFZrMW1wcw",
+    "source": "TVRI News",
+    "pub_date": "2026-10-30T20:27:00+07:00",
+    "desc": "Polri dan Kemendes Perkuat Edukasi Anti Narkoba Hingga Desa&nbsp;&nbsp;TVRI News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -71329,6 +71355,19 @@
     "sentiment": "netral",
     "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4cf6aab210a5",
+    "title": "Sekdes Cipaku Majalengka Korupsi Dana Desa Rp 513 Juta untuk Judi \"Online\" - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWN3ak1jbmZOUE9MZ2NQbEd0cW1HV1ZKWm84YlhwTVhCVXVLYUp0dl9MWWlHNWJXcGNGTUxUMzJUblo3bV9jaVZkb09vMmRUdmhpcjUxdFgxRXlFN2JsZ1piQW1qSzhWWk5qQWNrQndNdkJ2Z1dNbXZrZnlxOHVjUXJsRDVuM242YzVaRjdsNGlfV3hMa3pUZ1I2SU5zaGZXUnZHT05DVkdMYlNvNEVMZ0NWekhBdDNSTGI2aHpKaldtYUE",
+    "source": "Kompas.com",
+    "pub_date": "2025-07-03T14:00:00+07:00",
+    "desc": "Sekdes Cipaku Majalengka Korupsi Dana Desa Rp 513 Juta untuk Judi \"Online\"&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "0b65a348766a",
