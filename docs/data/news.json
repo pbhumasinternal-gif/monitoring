@@ -1,5 +1,18 @@
 [
   {
+    "id": "efa3a95e5df9",
+    "title": "Kumpulan Berita bumdes hst - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRWdkWU1HZ083WjlrRkNXSWhzV3JCWmxMSVd3REZPVVMzRGNKdDNaekRRYUl6TTVfNUI0ZlBqU0ZPYVdBUWNQcnFhWGw2cGg0WGJpVlBQYXRmaVE",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-31T23:20:02+07:00",
+    "desc": "Kumpulan Berita bumdes hst&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6a90bdd2c946",
     "title": "Dana Desa - ANTARA News Sumbar",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9STVpCUlBtVlItdmtoU0ZJbElWUVB5bE9qVllQZjNVUlZxN3lpLUNpOU1obHhVOEUySFgydUwzcTVabW1tQTZwZUx3bGNCQ2dTYmhxYXJKekRUZw",
@@ -17223,6 +17236,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "a5b6ae78f620",
+    "title": "Kelola Dana Desa Secara Tepat, Desa Tuntang Sukses Cetak Pendapatan Rp1,6 Miliar - InfoPublik",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDc5TFkyUmswVUo2ejAwd3BWOXhLNHVBT1JZVV9naWlzVEdfWDdieHpYMlJlalpZZG1fYkhGazlkNXZVQUpYbzNpUWUyVDd2TnFtMVpWNVE3azhsUXFMZmVwYVl5NmhibTY1cEUwSE81T00yaXZjTzlGMElfOVZxMlJtbzdxNnFLeTgyQ2lmLWwzM3NNeVRhalRhbmVOS2NWbXFYaWV4SWczZ29kX3FjWkJLcXpGb3VqYUk5dzA1TG5WLTFWcklxaXRSdjYtd0dTZ1pudm1VVQ",
+    "source": "InfoPublik",
+    "pub_date": "2026-10-14T00:38:55+07:00",
+    "desc": "Kelola Dana Desa Secara Tepat, Desa Tuntang Sukses Cetak Pendapatan Rp1,6 Miliar&nbsp;&nbsp;InfoPublik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "b945f9fc7874",
@@ -71497,6 +71523,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b7bbfbacb205",
+    "title": "Pemerintah alokasikan anggaran Dana Desa Rp60 T dan KDMP Rp83 T pada 2026",
+    "link": "https://jatim.antaranews.com/berita/961533/pemerintah-alokasikan-anggaran-dana-desa-rp60-t-dan-kdmp-rp83-t-pada-2026",
+    "source": "ANTARA News Jawa Timur",
+    "pub_date": "2025-08-16T18:25:00+07:00",
+    "desc": "Pemerintah menyiapkan anggaran sebesar Rp60 triliun untuk Dana Desa dan Rp83 triliun untuk Koperasi Desa/Kelurahan Merah Putih (KDMP) pada Rancangan Anggaran ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
