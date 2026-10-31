@@ -1,5 +1,31 @@
 [
   {
+    "id": "77bd3c4c2ee4",
+    "title": "Dana Desa Dipangkas, Sejumlah Desa di Utara Kotim Gandeng PBS Bantu Bangun Infrastruktur - TintaBorneo.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUi12NzEwcnUzOWY2Q0lvTUN1T2JHQTl5NUJmbWVSWnZjRjJuVTJ3d2Zicnl0UF9tVUVIMU1pODNrWVJKMDdKb1EtUUFweHBXeHU0OGh1d2JyUUg1bUZXMXVfV0NLLTZuVjZVWVdjc2szZUtsOXFzLUYzQ09BbWdGM0J5MEhnS2VhRURKQXJjWE1JOG9CcXBHaTdmN3FMcHlmWXY4Nm9Wby1OWi1IM3VFQVBuYTctczlvbEVDbw",
+    "source": "TintaBorneo.com",
+    "pub_date": "2026-10-31T15:21:18+07:00",
+    "desc": "Dana Desa Dipangkas, Sejumlah Desa di Utara Kotim Gandeng PBS Bantu Bangun Infrastruktur&nbsp;&nbsp;TintaBorneo.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "e3fef41c8a57",
+    "title": "PLN dan Kemendes dorong pemanfaatan biomassa untuk pembangkit listrik - ANTARA News Banten",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV0FIRmRkSlQyV0tPLXVZNl9CR0FRMUFRbko5RUpKV3h0anFKX3BoMFNEaGVzQThRQXdPMDV4b1hVamlTZW5FUFl5dzFLbTF5SmhlOV8tMU8tZERKODg2eGhpOUpFMjhtS3lTSUN1bGJJMVV1TV84dkNmUjN2dGcyVzNDM0l1cXc4ZTAtRkNDOXFqd1oxNE4yV0thN1N3d1pOZHJmcS1HaUN5UzhsSmpLSEh3QdIBuAFBVV95cUxNdTk4aWllT2dKa28wWjhGYjJ6QTFYb1V6RWN6VmRyRTR6a1ZSX01EWTlsdHFiMHRwWGdOeXYwVkNjR18xZlB4SmgwUThweWFsOXZ4T2x4LUpUQThNOGtXTUFBeXBVNlZQN2dqUEtxWTJ5bl9VckpQeUNieENTT2J1eVRONFVDdVdOdktlTHRwWDFkLW9VeGRBMm92ejhFYkkycXZicW42eGF2VG5lcFlkWENEMHR5aUFL",
+    "source": "ANTARA News Banten",
+    "pub_date": "2026-10-31T15:19:08+07:00",
+    "desc": "PLN dan Kemendes dorong pemanfaatan biomassa untuk pembangkit listrik&nbsp;&nbsp;ANTARA News Banten",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a0fa84ab726e",
     "title": "Skandal Aset Desa Tebel: Selain Caplok Sempadan Sungai, Setoran Sewa Kios Diduga Bodong Tanpa Bumdes - harianradar.com",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNnphSmlIMWVWU2FybGQ4UFdtR0FZbWtJN1Y1N1NsbVowNnJfanJFUmMtSkFhb2lnUG41NlJVNFdKOW00Szg3Rk5uVzdwOFVQc3Y3ZUQtOXhYX1BpbGFVQ0drRmVXRGp5eGpock8tRGR0WEVTOVprYzhEdWVVWXFjbFlBekk5dTkzRE9RODlHdmxxUFhKME9xeGlpaUUtMi1KeUVTZFZMbE9lNUpnTFZ6bFhlck00V2d1QXV2M0U5UU1sTUc2eG81dnZZN2ZGRHM",
@@ -57393,6 +57419,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e651d6af33b0",
+    "title": "Berita dan Informasi Korupsi dana desa Terkini dan Terbaru Hari ini - detikcom",
+    "link": "https://www.detik.com/tag/korupsi-dana-desa",
+    "source": "detikcom",
+    "pub_date": "2026-07-17T11:40:00+07:00",
+    "desc": "Mantan Kepala Desa Serapuh Asli, Sumut, Nazrul Hapis, didakwa korupsi dana desa sebesar Rp 387 juta lebih untuk membiayai kebutuhan pribadi dan selingkuhannya. Kepala Desa Jangkar, MS, dan bendahara ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "ca9044ddc8d3",
