@@ -234,6 +234,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "e3607dfc2095",
+    "title": "BLT DD Agustus-September Cair, 4 Warga Ulak Lebar Masing-Masing Terima Rp600 Ribu - Bengkulutoday",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUxUWjVsVlY3NFRITUVuZEpYYVVyUGZWV2xqUmNvTkNCM2U5MVpXU0FoTm5rc0ppTllWSmRhZTFUNWRMaU5nVktHbm9rQ0kzbmVTTzZOMGJtbDVyVkRTWUR3c2VCeVd5TFJNTkhTSzV6VG9xa051cExHcTY5S1lLWVptVjI5ME1MUDFVY2xRdXVRVzY5b0UwNEJWS3hDb3NNa1ZKTlNhN2h3aXYyWDhz",
+    "source": "Bengkulutoday",
+    "pub_date": "2026-10-31T16:36:41+07:00",
+    "desc": "BLT DD Agustus-September Cair, 4 Warga Ulak Lebar Masing-Masing Terima Rp600 Ribu&nbsp;&nbsp;Bengkulutoday",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c7fbf6395b2c",
     "title": "Mendes Luncurkan Program Desa Pasok Biomassa ke PLTU, Dimulai dari Serang",
     "link": "https://news.detik.com/berita/d-8732593/mendes-luncurkan-program-desa-pasok-biomassa-ke-pltu-dimulai-dari-serang",
@@ -307,6 +320,19 @@
     "desc": "PLN dan Kemendes dorong pemanfaatan biomassa untuk pembangkit listrik&nbsp;&nbsp;ANTARA News Banten",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6379ee6fb6a3",
+    "title": "Resmikan Biomassa, Mendes: Bagian dari 12 Aksi Bangun Desa",
+    "link": "https://www.bantennews.co.id/resmikan-biomassa-mendes-bagian-dari-12-aksi-bangun-desa",
+    "source": "BantenNews.co.id",
+    "pub_date": "2026-10-31T15:04:00+07:00",
+    "desc": "Sementara Bupati Serang, Ratu Rachmatuzakiyah mengatakan, Kabupaten Serang memiliki 326 desa, dengan 324 desa telah membentuk BUMDes. Ia meminta BUMDes ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -478,6 +504,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "445f49ecbeca",
+    "title": "Kemendes PDT dan Polri Perkuat Program Desa Bersinar dan Poliran",
+    "link": "https://www.headline.co.id/154768/kemendes-pdt-dan-polri-perkuat-program-desa-bersinar-dan-poliran",
+    "source": "Headline.co.id",
+    "pub_date": "2026-10-31T10:52:00+07:00",
+    "desc": "Headline.co.id ~ Headline.co.id, Jakarta, Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) dan Kepolisian Negara Republik Indonesia (Polri) memperkuat kolaborasi program desa untuk me ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -2842,6 +2881,19 @@
     "desc": "Mendes Yandri Dorong Dana Desa untuk Percepatan Penurunan Stunting&nbsp;&nbsp;JPNN.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "df973f125d1b",
+    "title": "Usai Bantu Gempa NTT, TBIG Perkuat CSR di Wilayah 3T - Tagar.co",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOd2JRRVJocGVtekg4a1cxc21PR3Z6Sldxd1hKX2pQYkI1MHRWM0x4Vl9tSXd3a1N0WUVvNFVPSUxPd0RrVXk2aEVVQ1A1SWF4WS1iazd1ZUtaXzR2UHctTjhhTkhteVpydkxnQ3lCWUFUd2xvdVo2WA",
+    "source": "Tagar.co",
+    "pub_date": "2026-10-29T14:00:00+07:00",
+    "desc": "Usai Bantu Gempa NTT, TBIG Perkuat CSR di Wilayah 3T&nbsp;&nbsp;Tagar.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
