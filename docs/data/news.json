@@ -1,11 +1,37 @@
 [
   {
+    "id": "1adfcba08568",
+    "title": "Menkop dorong KDKMP masuk rantai pasok energi nasional",
+    "link": "https://www.antaranews.com/berita/5823983/menkop-dorong-kdkmp-masuk-rantai-pasok-energi-nasional",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-31T20:36:18+07:00",
+    "desc": "Kementerian Koperasi (Kemenkop) mendorong Koperasi Desa/Kelurahan Merah Putih (KDKMP) terlibat dalam rantai pasok ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "35c58e99f348",
     "title": "Mendes Dorong Limbah Produk Unggulan Jadi Energi Alternatif bagi Desa",
     "link": "https://news.detik.com/berita/d-8732857/mendes-dorong-limbah-produk-unggulan-jadi-energi-alternatif-bagi-desa",
     "source": "detikcom",
     "pub_date": "2026-10-31T20:26:37+07:00",
     "desc": "Menteri Yandri Susanto dorong pemanfaatan limbah sebagai energi alternatif di desa. Program biomassa diharapkan tingkatkan kesejahteraan masyarakat desa.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "270db3defe1c",
+    "title": "Warga Setor Minyak Jelantah ke Kopdes Merah Putih, Dapat Uang Tunai",
+    "link": "https://finance.detik.com/energi/d-8732870/warga-setor-minyak-jelantah-ke-kopdes-merah-putih-dapat-uang-tunai",
+    "source": "detikFinance",
+    "pub_date": "2026-10-31T20:05:36+07:00",
+    "desc": "Warga Desa Dawuhan kini bisa menukar minyak jelantah dengan uang tunai di Koperasi Merah Putih. Program ini mendukung ekonomi dan pengolahan limbah.",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
