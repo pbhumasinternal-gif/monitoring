@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01 02:01 WIB",
+  "last_updated": "2026-11-01 02:31 WIB",
   "days_analyzed": 30,
   "total_checked": 1788,
   "dominant_topic": "Dana Desa (732 berita), BUM Desa (487 berita), Kemendesa PDT (300 berita), Daerah Tertinggal (269 berita)",
@@ -28,7 +28,7 @@
         "title": "Audiensi Forum Masyarakat Desa Loning Berjalan Kondusif Bukti Nyata Profesional Dalam Penyampaian Aspirasi",
         "source": "mediapurnapolri.net",
         "topic": "Dana Desa",
-        "core_issue": ".spinner {\n    -webkit-animation: spin 1s ease-out;\n    animation: spin 1s ease-out;\n}\n@keyframes spin {\n    0% {\n        -webkit-transform: rotate(0deg);\n        -moz-transform: rotate(0deg);\n       ..."
+        "core_issue": "Audiensi Forum Masyarakat Desa Loning Berjalan Kondusif Bukti Nyata Profesional Dalam Penyampaian Aspirasi - Media Purna Polri {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"Article\",\"@id\":\"ht..."
       },
       {
         "title": "Kasus Dana Desa Suka Bandung, 62 saksi diperiksa terkait dugaan SPJ dan honor fiktif - ISBCenter.com",
