@@ -65,6 +65,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "308407810986",
+    "title": "Kumpulan Berita Kemendes Pdt Ts - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fZGlfY09GZHZlUlpINWx1aTBwRnBvc2lmclZkSThZZ0pwajBiWXc0N1dpN1pLcFpJTDZiLTFkbjRBWWdjajY2dEdUdzYtUUE3Zm1rVjBIb1RLamIxTzE0UFZ3",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-31T10:00:27+07:00",
+    "desc": "Kumpulan Berita Kemendes Pdt Ts&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d6b013379c3d",
     "title": "Kapolri dan Mendes PDT Perkuat Gerakan Desa Bebas Narkoba - tangselpos.id",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNW1MQlA5b3lTUnQ2Smc3WmdQS0t4THc1ZzdYNUdrRVNVWDEzY282LUpFZFNnM2N5LXk3TDcyRno1RTRBWGM4NVUxMl9ycXRCZnlUTkN4TXB0Qk9hazJGRVlyakwyeU0tX2hxNGhDVTNEX1ZaRG9GXzZwMGNaR0VfNl9mNTlvT0YtRmRaXzVoLVlfZnI2eTY0",
@@ -203,6 +216,19 @@
     "desc": "Polri dan Kemendes Perkuat Sinergi, Desa Bersinar dan Program Poliran Jadi Strategi Tekan Kriminalitas&nbsp;&nbsp;Tipikorinvestigasinews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c0e470f13af5",
+    "title": "Taman Wisata Randu Bengkong Banyumas, Mesin Ekonomi BUMDes Mitra Sejahtera",
+    "link": "https://banyumas.tribunnews.com/barlingmascakeb/97609/taman-wisata-randu-bengkong-banyumas-mesin-ekonomi-bumdes-mitra-sejahtera",
+    "source": "Tribunbanyumas.com",
+    "pub_date": "2026-10-30T22:53:00+07:00",
+    "desc": "BUMDes Mitra Sejahtera tidak hanya mengelola Taman Wisata Randu Bengkong, tetapi juga memiliki empat unit usaha ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
@@ -1256,6 +1282,19 @@
     "desc": "Kalsel kemarin dari peningkatan BUMDes hingga optimalisasi sumur minyak&nbsp;&nbsp;ANTARA News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6a629851c86b",
+    "title": "Foto Menangis Saat Baca Pledoi, Mantan Kades Bangunan Ngaku Pakai Dana Desa Rp563 Juta Buat Bayar Pengacara Kasus Asusila - VIVA Lampung",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMUQxN1VXQXZNeUY2c3o4dDJQMnBoXzhuNDdrN2xxdFJnaWhsMGJFZkpDZm9OdFYzeGs0UWJqRWRHU2xBTThuN0dnUERnM2VfTGJQUm5DOHpEZ0l4SnRsWW43ZERDQ2RpVy05RUh3UGszQ0RrNlVwUzZHOG1faFRWR1VyeDlSVXlOaDA0ME5ZRUFMLVctWGZBM1JaTFJjM1BONmFyQ0V5OGRsSnVwWmsyTWZfQ2ZkRXdwTnV3eVpfSHRmbk01VTZwRldqYXpSNXhsd1NaVU5YSTREZXV6MWl0d2MxM3l2SFZX",
+    "source": "VIVA Lampung",
+    "pub_date": "2026-10-30T07:24:11+07:00",
+    "desc": "Foto Menangis Saat Baca Pledoi, Mantan Kades Bangunan Ngaku Pakai Dana Desa Rp563 Juta Buat Bayar Pengacara Kasus Asusila&nbsp;&nbsp;VIVA Lampung",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -81196,6 +81235,19 @@
     "sentiment": "netral",
     "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c3e0dcbc0d86",
+    "title": "Kabupaten Garut Bebas dari Desa Tertinggal dan Sangat Tertinggal - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcE1URFRoc1RzdWRHQ3ZDb3M3YVZuZUdmbVQ3aFljTlhtYlZ6Nm9Pb2NWeVdQbXB3REM3ZmU1cmVOX0QzNUM5eVFOTXVLZDMxRi03S1hVZnQwV25SRUhWUFJTcGZVS3RlUWwyMGNWQmpfQnNIZlFMSV9XUFJtRzV4RGRWdUtIWFVLVDZZQkxNN0l3T1FQdF9telVNS1VBUzM0RjBULTlPRTk2YTdXZEI4bE9ZY2pCbG_SAbwBQVVfeXFMTTVQelVCOVdlRXdGTFVFNU0wejJaSkFvc2o1ZVh1d3MzeEUxNHNBQkh3RW5QMVo2NzJxd0Y2UWNIdmxqTmg1Z19LMnc1U2ZjVWFPekdtUlN2ZEhta0FYT05Ocmc0UWJYY3hqSlEtRUZVa0NyN0d2Rkw1ZlB0ZTE1TS1GaVM3SGNYOFU1QnV6TExQMmNmZEJLNi1LV0lYOHNkbEJhdl9FdVlJY09vYzRNS0xEUzNRR3MzbUJfc20",
+    "source": "detikcom",
+    "pub_date": "2022-10-19T14:00:00+07:00",
+    "desc": "Kabupaten Garut Bebas dari Desa Tertinggal dan Sangat Tertinggal&nbsp;&nbsp;detikcom",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "23288953fcef",
