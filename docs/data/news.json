@@ -312,6 +312,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "820fdeda9d09",
+    "title": "Audiensi Forum Masyarakat Desa Loning Berjalan Kondusif Bukti Nyata Profesional Dalam Penyampaian Aspirasi",
+    "link": "https://mediapurnapolri.net/2026/10/31/audiensi-forum-masyarakat-desa-loning-berjalan-kondusif-bukti-nyata-profesional-dalam-penyampaian-aspirasi",
+    "source": "mediapurnapolri.net",
+    "pub_date": "2026-10-31T13:47:00+07:00",
+    "desc": "Pemalang,MP-POLRI - Balai Desa Loning Kecamatan Petarukan Kabupaten Pemalang Jawa Tengah diadakan audiensi terkait dugaan penyimpangan Dana Desa Tahun 2025 dan Bumdes Sabtu (31/10/2026). Tampak hadir ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "c2f2f38a8b9e",
     "title": "Polri Gandeng Kemendes PDT, Pencegahan Narkoba dan Pengangguran Desa Jadi Agenda Strategis - BatasMedia99",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2htS19aZzlqS0FibVhzcWt6RzR2WTNqd0ZnZ0x4a1BNRGxJYkFqdjRUTUthdFFaclNNaDNvTDdnaWJkSi1vcExVMnlQSWRUM291Njl1dFNnZDhGUk9jZXRWcUhQT0dxdXktVVdVNExmV3RxV0M5MnNFR1hHc1JOSkR3ekFEa2x6UWloc1RZeElXb2pVaXUxU1VDT3BEQVgtRVNYSmU2Q2FNaFlzUDEwQzVOQmpjYTM5ZTdmRC1RREVQVXFWRzZ5UQ",
@@ -502,6 +515,19 @@
     "desc": "Kumpulan Berita Bumdes Ntb&nbsp;&nbsp;ANTARA News Mataram",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a17618f9346d",
+    "title": "Pencairan Dana Desa dan ADK di Berau Tembus 95 Persen, DPMK Sebut Sisa Delapan Kampung Berproses",
+    "link": "https://beraupost.jawapos.com/utama/2610310006/pencairan-dana-desa-dan-adk-di-berau-tembus-95-persen-dpmk-sebut-sisa-delapan-kampung-berproses",
+    "source": "beraupost.jawapos",
+    "pub_date": "2026-10-31T04:05:00+07:00",
+    "desc": "BERAU POST – Penyaluran Dana Desa (DD) dan Alokasi Dana Kampung (ADK) tahap II di Kabupaten Berau telah mencapai lebih dari 95 persen. Terdapat delapan kampung masih dalam proses pencairan.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
