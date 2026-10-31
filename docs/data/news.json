@@ -26,6 +26,19 @@
     "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
+    "id": "bdc3e5f2752a",
+    "title": "Kumpulan Berita Bumdes Ntb - ANTARA News Mataram",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02SUZONVFidU5KQ1owaThiRWp6ZXIxOGwtUnRhOXhuSWdrZlgxRENIRUdnNWZvQXp2c1JTYndSUFJBT28zOVJRcU9Ca2xTV2pPUXJ5VFBXU09iQWpn",
+    "source": "ANTARA News Mataram",
+    "pub_date": "2026-10-31T04:54:51+07:00",
+    "desc": "Kumpulan Berita Bumdes Ntb&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "83e6339b3c05",
     "title": "Aset BUMDes tembus Rp2 miliar, Desa Maja raih predikat mandiri - ANTARA News Banten",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFJSZjEtb2wyY1E2RGJsZ1hqSTd1Nmd6MmozQzhUcG9qTnRjelJKQWIzaDQxSExvd19yXzNsN29USk5lYjFIUE1MSHpyRmUyOHctYnh2dVJsUnp2c09WVUo4MFRXNU80UVVEekczNzJxaWhNWE9NUllKQ25PYjljMFVJV2lwX3hVemdCYnRSMkJsN3E4LTItbFQ0YUoyVVNCMTByRVFNZlLSAa4BQVVfeXFMTll4VXpFTXFDanJBQXQtWllQTzQ2MU1URDBPNjlYMGlwVm9hVy1ha09KeFV6c0ZLRk1USnFpaVJ5ZVlCbDVxdGZETVdzeWZPUkNlTW1KZ0FDVU41Ty1UbHBjYXZOZHhsVF9lVWNGeGhDWXZvV0w3aWdHVmg0YWJIWnI5NkFwV2FGYWo3YTE2U2hRRThsX2JIZ2dfRURrYUJjQjQ1MjVKX3NqMGVKdXJB",
@@ -65572,6 +65585,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8ee86a383625",
+    "title": "Dana Desa Anjlok, WiFi Gratis di Desa Digital Krandegan Purworejo Terganggu - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVp0aTNzd0J1eUMtM1lzSGt0LU11WWdkTWNQU0Uxc21DZVdGcVhvcFZRenpVT05DVWNjeGNQcG5rOW9lekh1WjFYakV3czFhdFhXTEEzeEVkLS1LamE2WGNNZjhHcklMeFdOdzlLRzRpRXhJZ3gxNmRpbEMwbjJwTlRhMGFpR1NpTE5MWUVNTmpZRWFNNldhZmdVTjZreUxVdk5HVGhHcjMxRkEwbTE0RlE4TmplWkFiQ29COW9VbjlsZ3pQTk9n",
+    "source": "Kompas.com",
+    "pub_date": "2026-02-20T15:00:00+07:00",
+    "desc": "Dana Desa Anjlok, WiFi Gratis di Desa Digital Krandegan Purworejo Terganggu&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "bc5cb9d3a3f6",
     "title": "Panduan Pengelolaan Dana Desa 2026, Skema Penyaluran Lengkap Daftar Alokasi per Daerah",
     "link": "https://batam.tribunnews.com/news/676527/dana-desa-2026-regulasi-baru-skema-penyaluran-dan-daftar-lengkap-per-daerah",
@@ -67743,6 +67769,19 @@
     "sentiment_tag": "Penguatan Ekonomi"
   },
   {
+    "id": "32e5af18e7c8",
+    "title": "Dugaan Korupsi Dana Desa Ngunut, Polres Gunungkidul Periksa 8 Saksi - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON2diV2xGQmJ4SEpraFhVMXVPVnlCVzNwU3hqUnNHY3lMclVieWJxMHRDeXc0aExkOGtNTGJMQXVmSUJLZ2NDUFl6a3FkVXBJV1o1Tl9vd0ZBNDRyUUxkNFdpVk1ielludEJyY3RvckFxa0FTd3hETmFVR1BmeWtOZW9DZzMtRXNpLUcxMzE4ME5kNm54b0cwb1NrRkVxV0sxdzZCbUN0U1Yzb1N6U25jTXlPZEFrR3cwNVVBS3hkZw",
+    "source": "Kompas.com",
+    "pub_date": "2025-12-26T15:00:00+07:00",
+    "desc": "Dugaan Korupsi Dana Desa Ngunut, Polres Gunungkidul Periksa 8 Saksi&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "f689853bed94",
     "title": "PKN STAN Dampingi BUM Desa Grobogan Susun Laporan Keuangan untuk Ketahanan Pangan - Politeknik Keuangan Negara STAN",
     "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5fVTkxQTljNEwyTmdQVVVPSnRyRnRVUHRmdUNJdTdzeXdzM1k0ZU8tZ3pOVjhLd05lY3FaM2hUc2lpRklGVjVETTFQOHI",
@@ -68222,6 +68261,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3c7b3a7a2cc4",
+    "title": "Polisi Usut Dugaan Korupsi Dana Desa Ngunut Gunungkidul Usai Warga Demo di Kalurahan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV2R5VExwOVI1OXdXak1RWjgwRi1vVWtMZWhuN3lBSzdGWFpUSHBnb01PT0praGxhc29lNHNYTGZCMV9kTDVTczBBMzh6YktkMGwwRHlNYzlra21PQjRnVDRIN2N2SHNJV1NJd0cxM25OUnhDYUNHWGNXOS02UVROM0IyVk1ENDlGT3NjN1E3WFZNOXV0dUJFd1lONjRIM3FGTjFocnNTQW1KRzVXUl94am9vb1BmMktJaFFhNzhISUpHb1lwNlE",
+    "source": "Kompas.com",
+    "pub_date": "2025-12-09T15:00:00+07:00",
+    "desc": "Polisi Usut Dugaan Korupsi Dana Desa Ngunut Gunungkidul Usai Warga Demo di Kalurahan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "249944381c40",
@@ -73356,6 +73408,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3608f5b8a914",
+    "title": "Tak Bisa Bikin LPJ, Desa Kanekes di Lebak Banten Tolak Dana Desa Rp 2,5 M - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZDRURUZ2Z3ozUlpMTWxIWFVLZnlNUkFhZ0h0TzFlQkpGd2hhNl9SMmtyYkgyMVI5RmQyTExQLXl2aFpMS2NKV1dralVsUnZoTFpkM3F5bm13MFQ1Y1o1c29haDRoOE5FcXVXTnVkZ1RQdlJ6X09KYURKZ0pUWHZRNVBPWE50YlBEWHVCeFhwTExvQURYN3Y4Sms5cjRHVEdjUEYwRUVuMkJvZlBGSzRPQ2pKdy1jeWg4NEMyUHF3X1k0RDA",
+    "source": "Kompas.com",
+    "pub_date": "2025-02-13T15:00:00+07:00",
+    "desc": "Tak Bisa Bikin LPJ, Desa Kanekes di Lebak Banten Tolak Dana Desa Rp 2,5 M&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -84121,6 +84186,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e91fbf4d894d",
+    "title": "Korupsi Dana Desa, Kades di Barru Sulsel Terancam Penjara Seumur Hidup - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0t4ekFGMU5aMHdPOHlCWVY2LVdRVEt2Qkt3TUdicW5SSnZscTlBaFI0SVNEa0hRUTI3b1AyTVQxR3lJNUl1VFplclBET05kV0swTzBmWXppSHBYbEk1elJaU3gwSEhaMUt2ZlVpM2FDbVJVQXM1UVVlZ1NwNFFHNVo3UDRydWs3czVZNjRyOGZxZ0VwOFh4bmh2WnBabHpEMl9uRDZQVHExdFhNbkE",
+    "source": "detikNews",
+    "pub_date": "2020-10-26T14:00:00+07:00",
+    "desc": "Korupsi Dana Desa, Kades di Barru Sulsel Terancam Penjara Seumur Hidup&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "873c39c66da1",
