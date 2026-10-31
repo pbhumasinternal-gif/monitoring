@@ -1,5 +1,18 @@
 [
   {
+    "id": "937cf16ee7da",
+    "title": "Kasus Dana Desa Suka Bandung, 62 saksi diperiksa terkait dugaan SPJ dan honor fiktif - ISBCenter.com",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX29qMFAtREZzVGV6bFhqZFpRcEk2amJtRFVHRDRtTE1fWDBDcmpYcEdiMlkzZ3ROYjk1STYtNk1vaHBBbHNLeTZFR19nRkNOakJZdEhSRldBaEtnWGhSV2xUMXgtbGlCYS0waHpwSnlTd25KN0FvaHp2SENUM0JnUGlhM05LeG80MnMwLXFyenZFVjJLdWtmdTJQckhCb1pFSmk1UG5SZGlabmFqakxJ",
+    "source": "ISBCenter.com",
+    "pub_date": "2026-10-31T08:38:49+07:00",
+    "desc": "Kasus Dana Desa Suka Bandung, 62 saksi diperiksa terkait dugaan SPJ dan honor fiktif&nbsp;&nbsp;ISBCenter.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
     "id": "ff93b0cd4b13",
     "title": "Kapolri Gandeng Kemendes Perkuat Gerakan Desa Bersih Narkoba - Klikwarta.com",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmNDX2p4YzVReTUzUnJMVkZKbk1VQ3ZPQ1ZtZEVfUk1nR0JPQmpaX2l4dkd4YjlYUW1oSVhtazF3OFlQcHlwZ1NlWDJGblQzOEhTeHZ6MmRGeVYwNmllMFFpU3I0SHJwdTh4eGZYSXZibThhd2I0cnNSWkFjcWdiSFYyVGtuSFo4VWc3SW5DYw",
@@ -296,6 +309,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "793764eafa47",
+    "title": "Berita Terkini Harian Kolaborasi Polri Kemendes Terbaru Hari Ini - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nLVZaOWctem9ZZzdYT19WbTlmY09rUWUyUDlYemQzQ0Z5RnVHSzJuWGZQb0Noa1pqdWpXRTdTT0VZWVpibWw1cmktRXF2Xzd1ck9haVllekpOMUFYRzliZkhR",
+    "source": "Kompas.com",
+    "pub_date": "2026-10-30T19:04:57+07:00",
+    "desc": "Berita Terkini Harian Kolaborasi Polri Kemendes Terbaru Hari Ini&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
