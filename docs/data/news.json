@@ -195,6 +195,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "60681c6635f3",
+    "title": "Kumpulan Berita kembangkan bumdes - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yQ3R6MWlfWGdJdHBwV0RGMFVxVGRyYmphaG53Ty1LV0VTXzl2Q2w5akZyUFJXZnlhUmtjZDZKYnhtVHdUYlZvQk1sOUhfVDVVUnNWRHRzbjlvUDdXUVNGcF9R",
+    "source": "Antara News jatim",
+    "pub_date": "2026-10-31T19:02:06+07:00",
+    "desc": "Kumpulan Berita kembangkan bumdes&nbsp;&nbsp;Antara News jatim",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "50bddf020743",
+    "title": "Kumpulan Berita Bumdes Bersama - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SSkQtUGNjTTRRVlFjTWU4VVZCRHpYb25zYmw4RGhvbmZiZ2pQYTJjTG01T1hWNlNCUHhxUUE5NUFybXktZmk1OFo4aFpYdTcxNUlVRE12Z25zZEJVcDlv",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-31T18:51:58+07:00",
+    "desc": "Kumpulan Berita Bumdes Bersama&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a6a73323cd33",
     "title": "Kemendes PDT dan Polri Perluas Program Kerja dan Desa Bersinar - شبكة تواصل الإخبارية",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GOHhZQkNwOGxaeW9HQUN5NjItanVHZ1lUNFJxQ0FDWTIxRGpHN01xMFl3VDl1anVGR1NveHhYTmVNM3BWV0VlWUFhazZKYkMwMm1z",
@@ -463,6 +489,19 @@
     "desc": "Bantu Kesehatan Ibu dan Anak di Wilayah 3T, Dompet Dhuafa Raih Mandaya Award&nbsp;&nbsp;Kompas.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d9698e3863fa",
+    "title": "Kumpulan Berita W Sumatra Encourages Villages To Form Bumdes - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEtxV29fTlZGd25WM2hPSUJFNVBoZ1RqU1dwbk5mR01wUFNZZkFqeVYwa0J0aDE3LUdvV3F0LW9NUHA1bEQ2QkNGMzRfVU1RbHUwRGlTOXJvSldabjZwVjZ1Q1NSNVpyM2VDQUdyRjNWU0ZZWThyZmRTMjEydUhnMUI2NlRFNzdy",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-10-31T13:49:20+07:00",
+    "desc": "Kumpulan Berita W Sumatra Encourages Villages To Form Bumdes&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
