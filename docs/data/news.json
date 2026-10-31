@@ -1,5 +1,57 @@
 [
   {
+    "id": "e95cd1683090",
+    "title": "Wamentan: KDKMP jadi solusi kurangi peran tengkulak beras",
+    "link": "https://www.antaranews.com/berita/5823499/wamentan-kdkmp-jadi-solusi-kurangi-peran-tengkulak-beras",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-31T14:21:20+07:00",
+    "desc": "Wakil Menteri Pertanian (Wamentan) Muhammad Saleh Mustafa menilai Koperasi Desa/Kelurahan Merah Putih (KDKMP) dapat ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f4669c43db5f",
+    "title": "PLN-Kemendes mendorong pemanfaatan biomassa untuk pembangkit listrik",
+    "link": "https://www.antaranews.com/berita/5823495/pln-kemendes-mendorong-pemanfaatan-biomassa-untuk-pembangkit-listrik",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-31T14:19:11+07:00",
+    "desc": "PLN Group melalui anak usahanya, PT PLN Indonesia Power bersama Kementerian Desa dan Pembangunan Daerah Tertinggal ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "397fd8123475",
+    "title": "Mendes: Pemanfaatan biomassa di desa bisa tingkatkan ekonomi warga",
+    "link": "https://www.antaranews.com/berita/5823491/mendes-pemanfaatan-biomassa-di-desa-bisa-tingkatkan-ekonomi-warga",
+    "source": "ANTARA News",
+    "pub_date": "2026-10-31T14:17:08+07:00",
+    "desc": "Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT) Yandri Susanto menilai pemanfaatan limbah pertanian dan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4adcc6928e97",
+    "title": "Bantu Kesehatan Ibu dan Anak di Wilayah 3T, Dompet Dhuafa Raih Mandaya Award - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmhYZWZsZU5WOGQwSW9URExTOWlBemZWLVpnaTh6UzlfTmZEenNENVgtZ0U3UnNiWDFwNG1tTy1yRFVjaFpxLV85ZzRWNmJVNHlvN0tHUzE2RnR4VnRoaVVfaDVXWUtQM2pfY1pUazVhNDhuX3hBSFhWVFRfa09XX012ZlJSZ1lxQ2lBcmFFNEczSVN3VjROUXMwSFZ0cGtjNnprdG8wWERmY3hCRVhYQms3STFPUGIxdlFtM3BBTDJlTXhDbTUw",
+    "source": "Kompas.com",
+    "pub_date": "2026-10-31T14:16:00+07:00",
+    "desc": "Bantu Kesehatan Ibu dan Anak di Wilayah 3T, Dompet Dhuafa Raih Mandaya Award&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "106b6b19deb1",
     "title": "Dari UNNES untuk Desa: JOTA, Tertibkan Arsip BUMDes dan Arsip Warga Jombor - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOUhRbmVfSlNRQnE0QWc1aXJOUUlNd3VwME9EM01YRkxyXzY5b3Fjd2IybjJxUXBVdjZPYjk0VlFlQnhWaHB6amFYaVVPNjFLX056aWVyT1pIM29wbVlZWjRVT1Q4R2RKRkdNQmxhMnhkMHRCOEFDdEtZQUkzWXZYODQtVEdUV2JPczhXT3V2Wjd2Ry1CUE9VQzBtZnBsSm93Xzh3eG96Q1V4ZUp1UzhscFdYSzMySjBCaVp1UjdzcDBvN2JpRnBSbUlMaDNza09rcnVYOUZrdlA",
@@ -8,6 +60,19 @@
     "desc": "Dari UNNES untuk Desa: JOTA, Tertibkan Arsip BUMDes dan Arsip Warga Jombor&nbsp;&nbsp;Kompasiana.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c2f2f38a8b9e",
+    "title": "Polri Gandeng Kemendes PDT, Pencegahan Narkoba dan Pengangguran Desa Jadi Agenda Strategis - BatasMedia99",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2htS19aZzlqS0FibVhzcWt6RzR2WTNqd0ZnZ0x4a1BNRGxJYkFqdjRUTUthdFFaclNNaDNvTDdnaWJkSi1vcExVMnlQSWRUM291Njl1dFNnZDhGUk9jZXRWcUhQT0dxdXktVVdVNExmV3RxV0M5MnNFR1hHc1JOSkR3ekFEa2x6UWloc1RZeElXb2pVaXUxU1VDT3BEQVgtRVNYSmU2Q2FNaFlzUDEwQzVOQmpjYTM5ZTdmRC1RREVQVXFWRzZ5UQ",
+    "source": "BatasMedia99",
+    "pub_date": "2026-10-31T13:29:00+07:00",
+    "desc": "Polri Gandeng Kemendes PDT, Pencegahan Narkoba dan Pengangguran Desa Jadi Agenda Strategis&nbsp;&nbsp;BatasMedia99",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -216,6 +281,19 @@
     "desc": "Kapolri Gandeng Kemendes Dorong Desa Bersih Narkoba&nbsp;&nbsp;Rmol.id",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c7c654c9cc7b",
+    "title": "Perputaran Anggaran Desa di Bojonegoro Tembus Rp1,2 Triliun, Ke Mana Uangnya Mengalir?",
+    "link": "https://damarinfo.com/anggaran-desa-bojonegoro-2026",
+    "source": "damarinfo",
+    "pub_date": "2026-10-31T00:00:00+07:00",
+    "desc": "Anggaran belanja desa di Bojonegoro tahun 2026 mencapai Rp1,21 triliun. Simak alokasi belanja modal, pegawai, dan barang jasa serta potensi perputaran ekonomi desa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
