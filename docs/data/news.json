@@ -1,5 +1,18 @@
 [
   {
+    "id": "0018307a3ac7",
+    "title": "Brief Update - Pengalihan Dana Desa Hambat Pembangunan| Listen - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNE4xMk1sNFA1VU1jVFFoVDd4NjJqcGxDTjZBTnhtQ002eGhuY0J4dXMyMk8xb0o0bjBRa1pld1VxbC1paG9UelRmWU9saGI1S0JYLVZDMTllZ21yeWRfZE5Za2NvcGtXRS1nOEdhQTNOQzlTdUVNWkY1QUIzSVRzSV9rdkpCNFdHck5EQTduTDNSUW56Skk4YlFGdGgyWndMenRmV1dhZU1WWmQzRzU0Zmo1b2owUUZEOThZZFRZVzRhYldl",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-01T12:05:05+07:00",
+    "desc": "Brief Update - Pengalihan Dana Desa Hambat Pembangunan| Listen&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1b2ec0fe1505",
     "title": "Paradoks Dana Desa dan Kesejahteraan Perangkat Desa - شبكة تواصل الإخبارية",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95UDQ5Xzlpdk5pbTZ1NThsSUp5SVkwVGR2WUdBcTU5TWtrcmJJeDZaYTVhNlFYWnlhRzBCZWFoVDNOeHZVYVJqelFzdlFQWUVodC13",
@@ -270,6 +283,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8c703456f58f",
+    "title": "POLIRAN: SINERGI POLRI-KEMENDES PDT PENGANGGURAN DIBERI KERJAAN - Opung News",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEdvYXFFbkluY1hXb0t3SnBjUWFYUmxJVEx2VGVvWWFGU1BYdnNVUlBTWWtCVlF5WkxFX3RZd0lpY0x3Q2ZWMzlvYTlMRWF2OFVYWTM3bnhlWHlTUVNjLURmMXdQbnBXZ2N2eFNQWmdBWlp1X1NBN0xjekpET3NvSU9rRW40Z2I4Tks4ZkV3",
+    "source": "Opung News",
+    "pub_date": "2026-10-31T21:26:31+07:00",
+    "desc": "POLIRAN: SINERGI POLRI-KEMENDES PDT PENGANGGURAN DIBERI KERJAAN&nbsp;&nbsp;Opung News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
