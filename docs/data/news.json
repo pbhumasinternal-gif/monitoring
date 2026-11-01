@@ -403,6 +403,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "e70454d3e291",
+    "title": "Wabup Andreas Apresiasi BUMDes Tenjoayu Kembangkan Melon Premium, Bidik Pasar Ekspor",
+    "link": "https://www.sukabumiupdate.com/produk/182936/wabup-andreas-apresiasi-bumdes-tenjoayu-kembangkan-melon-premium-bidik-pasar-ekspor",
+    "source": "Sukabumi Update",
+    "pub_date": "2026-11-01T07:09:00+07:00",
+    "desc": "BUMDes Tenjoayu Sukses Mandiri, Kecamatan Cicurug, Kabupaten Sukabumi, mengembangkan budidaya melon premium berbasis greenhouse. Pada panen perdana, usaha ini meraih pendapatan sekitar Rp30 juta.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 4,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "ccc3827e2d17",
     "title": "Kumpulan Berita Bumdes Kopi - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtQXRIU2plQjhabWRLZGxqLTVZVzVoREtaZWU1Uzl3WFJGVFlqemkwaktNT252bll0aWlUWXpOb2tRQTlTSThUeUR6U1VTcnozakt6UktiT0ZTLUQz",
@@ -411,6 +424,19 @@
     "desc": "Kumpulan Berita Bumdes Kopi&nbsp;&nbsp;ANTARA News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1f0b03d9dbec",
+    "title": "GMBI KSM Sangkapura KRITIK KERAS Lokakarya PMD DAN KEJARI GRESIK Di Bawean, Bicara Tata Kelola Dana Desa, Tetapi Ruang Tanya Jawab TIDAK ADA - Teropong Indonesia News",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSHV2T1BFbUY5SUZROWJWZ1VmakJOd0ZuTko5TjJRVXN2QUZPa0ljbjlRNHBFbkVscVU4cTM5N1NES0p6SERUNndRNV8yRDNpNS1KR3c5aUVnQ3ZMUFBUeGViUkY2WFRDSk41NFpYQm45RFdOSkhuSjlXdnFJd08tZ1hsQ2J5Nk1PZUZNOVpoWFlJTm8wYzRSV0hTSzJTVFluWjhtR3R4ZVkzelFEMVJKcVBSLWRpUkVBREpFZ3ZybXhmUWRXUU1hWFdmcTNiT3hXeEd2N3JkaXV2OXRBUzJCOTduZ1ZsZjlZVEdaNkFfSzh3RERqcExiM0sxU1lQUUxLV25ISmZ4MEZnNlNSbXdaTjVWNWNkYVE",
+    "source": "Teropong Indonesia News",
+    "pub_date": "2026-11-01T05:00:05+07:00",
+    "desc": "GMBI KSM Sangkapura KRITIK KERAS Lokakarya PMD DAN KEJARI GRESIK Di Bawean, Bicara Tata Kelola Dana Desa, Tetapi Ruang Tanya Jawab TIDAK ADA&nbsp;&nbsp;Teropong Indonesia News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -86677,6 +86703,19 @@
     "source": "Kompas.com",
     "pub_date": "2020-02-25T15:00:00+07:00",
     "desc": "Mendagri Imbau Dana Desa Digunakan untuk Bangun Perpustakaan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d041c8a5f532",
+    "title": "Dinas PMD: Alokasi dana desa Sulteng naik menjadi Rp1,6 triliun - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPejBoZmxES3J0LWtQaEZ3SjZCMldfcDdtbHd2LWZwTUQ4RTh0d0oyUzhvQjg0Q0RLMWJhVWtTQnV2cEVlZ2R5VzBhUl9Ja3otMEJLcXB1OEV3S2dBTzN3cUVvYUNweWtVWU1hYTFkeVVIZUQ4ei1SYzMwV29tVkJyMHVabEV1TEx3Y05VOEd3MkpCWTlBU25FMEx5bm5NUnFEQ0pZSTEtZ1A",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2020-02-22T15:00:00+07:00",
+    "desc": "Dinas PMD: Alokasi dana desa Sulteng naik menjadi Rp1,6 triliun&nbsp;&nbsp;ANTARA News Sulteng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
