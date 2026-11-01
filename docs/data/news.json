@@ -1,5 +1,18 @@
 [
   {
+    "id": "1b2ec0fe1505",
+    "title": "Paradoks Dana Desa dan Kesejahteraan Perangkat Desa - شبكة تواصل الإخبارية",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95UDQ5Xzlpdk5pbTZ1NThsSUp5SVkwVGR2WUdBcTU5TWtrcmJJeDZaYTVhNlFYWnlhRzBCZWFoVDNOeHZVYVJqelFzdlFQWUVodC13",
+    "source": "شبكة تواصل الإخبارية",
+    "pub_date": "2026-11-01T11:02:53+07:00",
+    "desc": "Paradoks Dana Desa dan Kesejahteraan Perangkat Desa&nbsp;&nbsp;شبكة تواصل الإخبارية",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "57810d566acb",
     "title": "Cegah Pengangguran dan Kriminalitas, Kemendes PDT-Polri Perkuat Kolaborasi Bangun Desa Produktif - Suara Pemerintah",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZzdFaGtURlNDZ19vVUFaN2ZraEp2ZVBOeUg5bXhwZHdFbUpEVmIzTS1ubDRMS1BkaVNGb1QwUzJSbHFIbW9aZXpTZXU5UXphOTQ0UnJhVmFtTEM3RnFzZF9FRW4xNXByOUlMRHl3QkVwZ2ZJcENxeV96a3hOWmtvZElxZnlBdEZrZGJCanpTdmlnSERKR2d3MWtpelluS1pvYzJQdW9lT3dpSWFPN2F4dHhyX1d2VTdYRDhTR2p1cFJDNHAyOXZIZWdDRQ",
@@ -60,6 +73,19 @@
     "desc": "Audiensi Jilid II, FMLPD Desak Penjelasan Dana BUMDes dan BPD&nbsp;&nbsp;RevolusiNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "add1bfe9b09c",
+    "title": "Kumpulan Berita Pemangkasan Dana Desa - ANTARA News Mataram",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjemx1WDhxakk5cE5KbnNURUhPQnRaTWFRTkpCQk9GQjNaNEVOTnNVdGVJUmt3Umt4bngwazEzSmpkTDRmQ0VMcE5KTlNRaGZtaE1UYUNyMVhxa3RVazg4VTMzUFV1cjlVX2Nv",
+    "source": "ANTARA News Mataram",
+    "pub_date": "2026-11-01T08:47:25+07:00",
+    "desc": "Kumpulan Berita Pemangkasan Dana Desa&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
