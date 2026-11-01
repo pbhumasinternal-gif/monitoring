@@ -1,5 +1,18 @@
 [
   {
+    "id": "66bcf42724ff",
+    "title": "Kumpulan Berita Registrasi Bumdes - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DUmFGMENkUkhLVXpMNDJJZEZ0WUNjSGFuZmlGQUpfbnltWUZCcVpQcUFRd25VN29oZGd4bkszRnRobEYyanNaY2FuZE94VlVVSzFqcGpYcERSSVFFNS1Zd2I3ank",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-02T02:18:49+07:00",
+    "desc": "Kumpulan Berita Registrasi Bumdes&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2bb9bbaed84f",
     "title": "BUMDes Tenjoayu Sukses Mandiri Kembangkan Melon Premium, Wabup Dorong Kerja Sama Antar Desa - Sukabumi Ku",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUl9KNjlNVWdBZmhibjFhOXR5VFFaNXVZZGlVeWxOb293bnNmRnlfYTQ5REx0N3NVUXVKUXhlR2s2OTl4cER3eUxxaWp5alNZWWFsR2J4bGRJelRBSUxWVUM0UGlXRl9EdHJhVENzQzRGRUJWV2hvMmsyU2lfaGJlVmNuM0NwNFhsWGFkWTlNcGxzZFNfVGZhTFhObGNjbmZkaXlLQVhVcGtBNGlwWUI5UmV1UQ",
@@ -67452,6 +67465,19 @@
     "desc": "Kemendes siapkan strategi nasional kembangkan desa berketahanan iklim&nbsp;&nbsp;ANTARA News",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b94400b58614",
+    "title": "58 Persen Dana Desa Dialihkan untuk Koperasi, Ini Alasannya",
+    "link": "https://www.beritasatu.com/nasional/2968639/58-persen-dana-desa-dialihkan-untuk-koperasi-ini-alasannya",
+    "source": "BeritaSatu",
+    "pub_date": "2026-02-19T09:43:00+07:00",
+    "desc": "Sebanyak 58 persen dana desa 2026 dialihkan ke Koperasi Desa Merah Putih. Riza Patria jelaskan alasan dan fasilitas lengkap KDKMP.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
