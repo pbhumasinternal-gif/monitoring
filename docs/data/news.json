@@ -338,6 +338,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "e5e8c3ea83c7",
+    "title": "Kumpulan Berita Sekjen Kemendes Taufik Madjid - ANTARA News Mataram",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80THFIMWdHTEMzcko2LTRlWndabFFPbWJxQnNqWU9hR3dDWG1QRHZjSWJfMTl4WmR4RUdybE5uV3hZLUFseTVZNlpKMGRVT3hQbGJpeXVTZ0ZXVjdpOWh6M0Y3cXdUcVFxcGJ6XzdDaGpGOTZX",
+    "source": "ANTARA News Mataram",
+    "pub_date": "2026-11-01T07:16:15+07:00",
+    "desc": "Kumpulan Berita Sekjen Kemendes Taufik Madjid&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ccc3827e2d17",
     "title": "Kumpulan Berita Bumdes Kopi - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtQXRIU2plQjhabWRLZGxqLTVZVzVoREtaZWU1Uzl3WFJGVFlqemkwaktNT252bll0aWlUWXpOb2tRQTlTSThUeUR6U1VTcnozakt6UktiT0ZTLUQz",
@@ -63973,6 +63986,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a849ce991ac5",
+    "title": "Buron 7 Bulan, Bendahara Desa di Serang Ditangkap, Diduga Korupsi Dana Desa Rp 1 Miliar - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZWRyX1hpdFJhZFUxa3d5MDhrVjFBUFVMb1EtZnZQMGZCdEFTMEtLeFBaUjN6bnRGM2ZveGZDXzZKTnR1U0g3czRXS3FhZG5ZdGowNFE4dEN4Nmh2MlJUamRxcGNPc0Q1MzB2VG9uMkVHaDIya2xvdWdKRmZMczhTQTZoWXpTdkpITGszX3VRQkJlSFoxVk1janQxZUQ0UVA3UUtieEtFX3VJenViOTUyTmFFSXl2UmcwU3g0UkVheVFlUVdzWXc",
+    "source": "Kompas.com",
+    "pub_date": "2026-05-05T14:00:00+07:00",
+    "desc": "Buron 7 Bulan, Bendahara Desa di Serang Ditangkap, Diduga Korupsi Dana Desa Rp 1 Miliar&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "866aa1bd3e7a",
     "title": "Press Release: Dari Keterbatasan Menuju Transformasi: Kisah Guru Menghadapi Tantangan di Wilayah 3T - Kemendikdasmen",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUkpMVktOUl9EUE9FMWZLOXdtSmZUM3VHempnVnIyNmVGdTV4NFlBeWZ2RF9QOWlXTHdPcGVHejIyM3ZjUHNpaHdmRkxpVm80Q00zc1JTSlBWdHp1RWpjTWZXNzhqcmlpSVlsOGE0dWF0bUdfTXRCdmhKQk80YmJreURlX1BENVNrU1NhQlQ1eVE1N3oyU1lDXzYwdEY2TTNKNERiSmtlTzlMVERJZzZLSUptd0xxMVN3OHM5Mmh1X3Y3a3lBVFpqMEFtRFVhaUU",
@@ -72928,6 +72954,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b95419fd2cc2",
+    "title": "Kejari Simalungun Tangkap Saksi Korupsi Dana Desa, Usai Calon Jaksa Meninggal Dunia Mengejarnya - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb3dWRXNYVUQ0TXJaYWhNdUJPUlBIODZPV3poS0RtajZYbmx3LVVZX1k5ZndINWlVdGx2eExTcXNkN2k2dVd3cnMwejJhN0M3b3c5MHZJTjctaTNOZl8tVGdhVXFvWmlicUFHZVV5d3BCZVdhWlZ6MkVpN3VPQkdhNHA3LUEzN3JfMlJuOWpwR1k2SVRETVlXa185T0ZJcXN0RlBzN1dtQ3hIMWI4M1hPc09ocEpiLTV1UEQxTHR4cXFrTVFyYmRJNmRoNG1zUQ",
+    "source": "Kompas.com",
+    "pub_date": "2025-07-06T14:00:00+07:00",
+    "desc": "Kejari Simalungun Tangkap Saksi Korupsi Dana Desa, Usai Calon Jaksa Meninggal Dunia Mengejarnya&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "2087fff77dfa",
