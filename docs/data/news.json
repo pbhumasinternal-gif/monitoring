@@ -1,5 +1,44 @@
 [
   {
+    "id": "9497d0cd6772",
+    "title": "Bulog Magelang gandeng 252 KDKMP untuk perluas distribusi beras SPHP",
+    "link": "https://www.antaranews.com/berita/5824699/bulog-magelang-gandeng-252-kdkmp-untuk-perluas-distribusi-beras-sphp",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-01T12:50:33+07:00",
+    "desc": "Perum Bulog Kantor Cabang Magelang, Jawa Tengah, menjalin kerja sama dengan 252 koperasi desa/kelurahan merah putih ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bddd36cc8560",
+    "title": "BUMDes Berpeluang Kelola Air Bersih Teluk Pandan, Perumdam Kutim Siapkan Skema - RADAR BONTANG",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUVfR2F4Zm9LTXZuZ3pCWjJRcjRJT216eUxtWmJZRHVoMzFHUFhZaGhlTUk5ZF9adEtvNkMta1Jod29iVGZRcEpsejhzMVdxa1RTR3JEVkNIalBIV1NJZXF1elRQUkIybGJhTldwS0xDcUxTRWU3LXJFVW1vZ1dqRG9zRUJLNTlhUDMyZ3VQek9jN0NIaE0zaGpwTVJ1UzBMTHRNcjRn",
+    "source": "RADAR BONTANG",
+    "pub_date": "2026-11-01T12:29:50+07:00",
+    "desc": "BUMDes Berpeluang Kelola Air Bersih Teluk Pandan, Perumdam Kutim Siapkan Skema&nbsp;&nbsp;RADAR BONTANG",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a38d40ba91b1",
+    "title": "Mahasiswa KKN GIAT 17 UNNES Kembangkan Website BUMDes Desa Kawengen - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORkVMZy12UHBLWmUzZnJycFcyTHhKYlRNaDdBb3p2bXhKVi04NUI1OHp5RlFkSjR1ZlRTeFBEeEh6MkE0amVWYUpWdlhWeHVIWUx5NzdzWHlicU1kLW01di04c3lKaktOclMzTEdNOUNoSGY1ekJ5TDBFcVBqNEdXTDhZMW5CcHhGT3lLZ0RRcDhxUnpBQTV1Nk0yMWd0UVNJam92RnNxYkJTM01PamhGSFE3bVotWm9wTG5ZdF9JRlRpTmFUMjhDZ1JjQkF5UGc3SXlTUEF0X2tNcVdyRnNBdWR3",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-11-01T12:29:09+07:00",
+    "desc": "Mahasiswa KKN GIAT 17 UNNES Kembangkan Website BUMDes Desa Kawengen&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0018307a3ac7",
     "title": "Brief Update - Pengalihan Dana Desa Hambat Pembangunan| Listen - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNE4xMk1sNFA1VU1jVFFoVDd4NjJqcGxDTjZBTnhtQ002eGhuY0J4dXMyMk8xb0o0bjBRa1pld1VxbC1paG9UelRmWU9saGI1S0JYLVZDMTllZ21yeWRfZE5Za2NvcGtXRS1nOEdhQTNOQzlTdUVNWkY1QUIzSVRzSV9rdkpCNFdHck5EQTduTDNSUW56Skk4YlFGdGgyWndMenRmV1dhZU1WWmQzRzU0Zmo1b2owUUZEOThZZFRZVzRhYldl",
@@ -208,12 +247,38 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "96375e5e55ef",
+    "title": "Kelurahan Telaga Bertong Kelola Rp500 Juta Dana Desa Berdaya",
+    "link": "https://ntbsatu.com/advertorial/andiniputri/kelurahan-telaga-bertong-kelola-rp500-juta-dana-desa-berdaya",
+    "source": "NTBSatu",
+    "pub_date": "2026-11-01T00:00:00+07:00",
+    "desc": "Sumbawa Barat (NTBSatu) - Kelurahan Telaga Bertong Taliwang mengelola alokasi Bantuan Keuangan Khusus Desa Berdaya senilai Rp500 juta.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "efa3a95e5df9",
     "title": "Kumpulan Berita bumdes hst - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PRWdkWU1HZ083WjlrRkNXSWhzV3JCWmxMSVd3REZPVVMzRGNKdDNaekRRYUl6TTVfNUI0ZlBqU0ZPYVdBUWNQcnFhWGw2cGg0WGJpVlBQYXRmaVE",
     "source": "ANTARA News",
     "pub_date": "2026-10-31T23:20:02+07:00",
     "desc": "Kumpulan Berita bumdes hst&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a05e94944c46",
+    "title": "Kunjungan Jumog Tembus 5.800 Orang Sehari, BUMDes Berjo Optimistis Kejar PAD",
+    "link": "https://jogja.viva.co.id/solo-raya/12588-kunjungan-jumog-tembus-5800-orang-sehari-bumdes-berjo-optimistis-kejar-pad",
+    "source": "Viva Jogja",
+    "pub_date": "2026-10-31T22:51:00+07:00",
+    "desc": "Kunjungan wisata Jumog dan Telaga Madirda terus tumbuh. BUMDes Alam Berjo optimistis mencapai target PAD Rp5 miliar dengan pengembangan fasilitas wisata.",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -229,6 +294,19 @@
     "desc": "Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f9655b85668a",
+    "title": "Mahasiswa KKN GIAT 17 UNNES Kembangkan Website BUMDes Desa Kawengen sebagai",
+    "link": "https://www.kompasiana.com/nabighhibatillah5524/6ae6ce25ed6415654a7ede71/mahasiswa-kkn-giat-17-unnes-kembangkan-website-bumdes-desa-kawengen-sebagai",
+    "source": "Kompasiana",
+    "pub_date": "2026-10-31T22:29:00+07:00",
+    "desc": "Mahasiswa KKN GIAT 17 UNNES mengembangkan website BUMDes Kawengen melalui WordPress untuk memperluas promosi produk, informasi usaha, dan digitalisasi ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -515,6 +593,19 @@
     "desc": "Kerja Sama Kemendes PDT-PT PLN, Bupati Serang Dukung Pengembangan Ekosistem Biomassa BUMDes&nbsp;&nbsp;suluhnews.id",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "183481438cb7",
+    "title": "Dana Desa Belum Cukup, Mawokauw Jaya Harapkan Dukungan APBD Mimika - Koran Papua",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHM3VGd2SEQ3VDRfZEp5RW9TVGN4aWJYczVxYVR5Rlhnd3ZKSVBkeVVGcUxTXzgwdHRmWGI2THh3T1NZdGhKYml5bjNNd3RqYnY1Y290LWFpMGlITXZoa3B1S2lvYTVvNjhvRjdOdWpXTmVKVmEtMFgwUDA3NHhvUnlyN3dCb1hDWHFDTUJLdTdjb2lLaW1pdFAxVk1LNTJX",
+    "source": "Koran Papua",
+    "pub_date": "2026-10-31T16:46:34+07:00",
+    "desc": "Dana Desa Belum Cukup, Mawokauw Jaya Harapkan Dukungan APBD Mimika&nbsp;&nbsp;Koran Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
