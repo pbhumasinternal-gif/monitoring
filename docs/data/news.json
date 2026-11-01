@@ -52,6 +52,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f5a4147c4700",
+    "title": "Pengurus Tak Aktif, BUMDes Mawokauw Jaya Berupaya Bangkit - Koran Papua",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeWliYjZxYTZWbE1wVW1tYndaZWJMNDJMUXRIeU9pVE1MMGhZUDZaTEgwaV82cFdGNGtBR1Y5VFhaZ3pFUnpoTlBHWnM3NkF4V29vV0h1RFFmRWJlVmNmelp1RGFsRGROZmxmT1RaUlFkTVI0T2ZfWVdSVjRnak41bkVQRm1oWVpwS19ObkZqUTJqRzAt",
+    "source": "Koran Papua",
+    "pub_date": "2026-11-01T13:03:59+07:00",
+    "desc": "Pengurus Tak Aktif, BUMDes Mawokauw Jaya Berupaya Bangkit&nbsp;&nbsp;Koran Papua",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ab1f365845b9",
     "title": "Pemprov NTB Minta Percepatan Realisasi Dana Desa Berdaya 2026 - Tribunnews.com",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3c2MU1aSWN5Q1hzMk5tallRNTU5MDhOWVlBZ0U0QTFIdnlfTFNoUURvcU5naloyZG9mbkVISWxsTERfRW5JWXhiekdkTXRKTUFfV2lmV3l1RGZ2d3hWdFpGZHhWOHQzd3UxLWEwT0RhMkF6SW1kVHZVNThTbXh0TDFRNU9ZdVV1YzdHa0VVQk1vaThLR0RPaG56SFhNbUJ0b3VfcQ",
@@ -346,6 +359,19 @@
     "desc": "Stefanus Liow Ingatkan Tanggung Jawab BPD Kawal Dana Desa&nbsp;&nbsp;totabuan.news",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c294f8b6638b",
+    "title": "Bupati Serang Dukung Pengembangan Ekosistem Biomassa bersama BUMDes",
+    "link": "https://www.satelitnews.com/168175/bupati-serang-dukung-pengembangan-ekosistem-biomassa-bersama-bumdes",
+    "source": "Satelit News",
+    "pub_date": "2026-11-01T02:10:00+07:00",
+    "desc": "SATELITNEWS.COM, SERANG - Bupati Serang Ratu Rachmatuzakiyah, mendukung penuh Program Pengembangan Ekosistem Biomassa bersama BUMDes, sebagai salah satu ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -68050,6 +68076,19 @@
     "desc": "Kemendes: Fokus dana desa 2026 untuk mengatasi kemiskinan&nbsp;&nbsp;ANTARA News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1a827d3e7065",
+    "title": "Kemendes beri keleluasan desa atur pemanfaatan Dana Desa 2026 - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNnhEem1vTHBzYjN4SUZ3d1cxMFZEUzk0bmdGc1dHaFRPcm5ualFrNmg0TnBsQWNQZkJnbXBRa05vemJNOVpmMzhJR0VkZkNFT3p1bzNHMnJ3UzFNVUJ0NUxoQU4wVHlHUGpQVVltWk93VkpLMWhqOTEwQVpoM0tSVDFfbGVQeDZoVndsSXF4VkVHb2V4djRpQlA1bVNidENzSlJRYWJR0gGoAUFVX3lxTE5BZDM2bHF0MWZEcHdrYXRaa1BpTWZGSmZHT042b0MyRVhnS0VuUS1NY2d0UGtnSWdxZjZkWi1XYWp5b1BlUS1MSGhXSHVURWUxbnlseHBkWW91ZVY5SlZZbGlhZUpEYk5KRUM2OG5HeVZTbTRyZWZjTXkyV19oWllObklVc0FJRFE5WGtvNVEyQkluYmI5MEdMcW9pbDBGY0JkSFFEcnFwWQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-01-27T15:00:00+07:00",
+    "desc": "Kemendes beri keleluasan desa atur pemanfaatan Dana Desa 2026&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
