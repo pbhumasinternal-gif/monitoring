@@ -1,5 +1,57 @@
 [
   {
+    "id": "25e9e2f10504",
+    "title": "Berkas Kasus Dugaan Korupsi Dana Desa Akar-Akar Dinyatakan P-21, Mantan Kades Segera Diserahkan ke Kejaksaan - Radar Lombok",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOVo5RDB3TWhleVNQVVhySVJpTU1YYUpVd281NklGdnVGUW0zYUEweUROcUJaaE9HdnZTQTNMSDV5RjJ1X0NhZkdoSWtITEFlWHpzOFg1bml6Q2hKYzdYeWdpeG9SSTRiZTBNUl9ZcHFwRTB6WXZZSW9kSWJPeDl5cFhmMWVjZmdTUjNQNWRWVWhVR2ZfVXY1NmNUS3Flb2N3SngwLU5uQWkyWlROSWpjU2puSm8wSkE4eGdsYmd0NGtUcldSblVnd05wT0Vhb29pUDRoNw",
+    "source": "Radar Lombok",
+    "pub_date": "2026-11-01T07:34:50+07:00",
+    "desc": "Berkas Kasus Dugaan Korupsi Dana Desa Akar-Akar Dinyatakan P-21, Mantan Kades Segera Diserahkan ke Kejaksaan&nbsp;&nbsp;Radar Lombok",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "ccc3827e2d17",
+    "title": "Kumpulan Berita Bumdes Kopi - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtQXRIU2plQjhabWRLZGxqLTVZVzVoREtaZWU1Uzl3WFJGVFlqemkwaktNT252bll0aWlUWXpOb2tRQTlTSThUeUR6U1VTcnozakt6UktiT0ZTLUQz",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-01T05:46:45+07:00",
+    "desc": "Kumpulan Berita Bumdes Kopi&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6e8d7a457b36",
+    "title": "Kumpulan Berita pencairan dana desa tahap ii - ANTARA News Bengkulu",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiai03UlFJZDZaa0UzVWRjYzl6OG5Pb1I4b3dBSjlLaWtMU2hHYWljTmdfZ1hleERNaWp0U3cteUJTcnZyX3ZCQXdjTFFlQmtVVlo4cXZBekxFdzR5UWljejl0dmpsX1EyM1FGei1uaS1KdWo4",
+    "source": "ANTARA News Bengkulu",
+    "pub_date": "2026-11-01T04:25:09+07:00",
+    "desc": "Kumpulan Berita pencairan dana desa tahap ii&nbsp;&nbsp;ANTARA News Bengkulu",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "56c0a43e1794",
+    "title": "Kumpulan Berita akibat dana desa - ANTARA News Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ReHlCMnRBVVJHelZIVzRBcXAtcHlPS0Etak5tMTNfbmduT3RYelUxeFU1SEUtTTJnSW02bWpzV1NOSGJ3Y1c1aUs3Mmh6cEtkR1gxdDlmMTZTZnJ6anNzNW1B",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2026-11-01T03:56:46+07:00",
+    "desc": "Kumpulan Berita akibat dana desa&nbsp;&nbsp;ANTARA News Sumatera Utara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9276980222d0",
     "title": "Stefanus Liow Ingatkan Tanggung Jawab BPD Kawal Dana Desa - totabuan.news",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcllVZ3Fsa2dMVDJzVURZVEVkQW0ydUFxazA1eVhJaWFyNUVKd0ttLTc1TWxiTHpKM3F5VU9DSDlSdm9mN0szYTJUZnotRmZDVEc5ZnFKMnBnQ3VIbS0weWc5TC03bFQ1WC11UVFZVnFZTFV1MjVCNG84Q3BfWFRfNk54a2lIdjlYWGl3blg2LWpRUQ",
@@ -6861,6 +6913,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "da4dc5936af6",
+    "title": "Kumpulan Berita dana desa cair - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0SmhQZW4zNGhITzNrTkhUcU4wM0tiSVo1cEpjbFNRQlpMamd4OWxyS2I5NDFaYnpZMkE4c2hDZUpkcENUcVVLVmZ6MlhBUUpvYl85S2tzTG8taXczLUpB",
+    "source": "Antara News jatim",
+    "pub_date": "2026-10-25T18:08:44+07:00",
+    "desc": "Kumpulan Berita dana desa cair&nbsp;&nbsp;Antara News jatim",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
