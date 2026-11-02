@@ -208,6 +208,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d6e71b5dddac",
+    "title": "Kumpulan Berita Penyelewengan Dana Desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ucmRTeDJ3S3A1MHZWclppUjJTaVBjblRBeHJYcmF5WkdIOU5pOHV0TGNaNExtblpZTkxCVjJFLUY1R1dUUnBYUnh6bi1WQnlOWVhVQzNvYk90blBhTTctSjNRS0JFNUJDMlkxbg",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-02T18:28:21+07:00",
+    "desc": "Kumpulan Berita Penyelewengan Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "f3afefd5d622",
     "title": "Kemendes PDT & Polri Bersinergi Cegah Narkoba Di Desa - SinPo.id",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXhENUsxVEVBT1F1eW4tN2FNOWxTWTZVSGplby1UQkFoMzFLakdWNDJWUmdPb2Q1WFFmSEFYU3AtYjRnTVhXaWJ1S1kzS0JrWXhYODkyYU1Rc2xKUjYxd0pnenhHdFc1QmtOeG9WdlZhTFNZSllUMXN0dFVWYU5TZ0Y1RG4",
