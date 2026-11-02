@@ -1,5 +1,18 @@
 [
   {
+    "id": "f3afefd5d622",
+    "title": "Kemendes PDT & Polri Bersinergi Cegah Narkoba Di Desa - SinPo.id",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXhENUsxVEVBT1F1eW4tN2FNOWxTWTZVSGplby1UQkFoMzFLakdWNDJWUmdPb2Q1WFFmSEFYU3AtYjRnTVhXaWJ1S1kzS0JrWXhYODkyYU1Rc2xKUjYxd0pnenhHdFc1QmtOeG9WdlZhTFNZSllUMXN0dFVWYU5TZ0Y1RG4",
+    "source": "SinPo.id",
+    "pub_date": "2026-11-02T18:10:00+07:00",
+    "desc": "Kemendes PDT & Polri Bersinergi Cegah Narkoba Di Desa&nbsp;&nbsp;SinPo.id",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "550dcc647d7d",
     "title": "Anugerah BUMDes Banyumas 2026, Harus Mampu Gali Potensi Tersembunyi Desa untuk Naik Kelas - Tribunjateng.com",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanQwV0ZJY0hEMWpJZVQ0dHlDdXJQTFY4NmFJNm9QRW53MW1lU2VSd0ljUXFKeWJDeHBrWW0yZUxEYTRQX1FnSS1XVEw1R2dVcmxyMlBtMjlvSGJLcllUb1BxSGw4SUlrSk16TldKVDA0RHFNSGo1TVA1Sk9JN2xkX3RRcFlDOWZyRmdXNXRsVW5UcnZwdFFaN0lBNk5WQnRCa19TdUNlVWhTX21GMWxONHNCTmZlb0J4QXYxTEE2TFh5dDBMWk4yVGhn",
@@ -344,6 +357,19 @@
     "source": "Tribunnews.com",
     "pub_date": "2026-11-02T10:22:58+07:00",
     "desc": "Dari 119 BUMDes di Lombok Barat, 40,3 Persen Masih Berstatus Perintis&nbsp;&nbsp;Tribunnews.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3c576d61484f",
+    "title": "Daftar Enam BUMDes Terbaik Banyumas Masuk Nominasi Anugerah BUMDesa Tahun 2026",
+    "link": "https://banyumas.tribunnews.com/adv/97664/daftar-enam-bumdes-terbaik-banyumas-masuk-nominasi-anugerah-bumdesa-tahun-2026",
+    "source": "Tribunbanyumas.com",
+    "pub_date": "2026-11-02T10:13:00+07:00",
+    "desc": "Tim juri Anugerah BUMDesa 2026 tetapkan enam BUMDes terbaik Banyumas usai wawancara dan pendalaman dokumen pada Senin.",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
