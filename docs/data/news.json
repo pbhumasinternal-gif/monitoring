@@ -13,6 +13,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3a14f2bb37f3",
+    "title": "Penerimaan Negara di Banten Tembus Rp53,2 T, Dana Desa Dipangkas 62 Persen demi Kopdes - Faktabanten.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVlOd1J6QjBSWWkwLWR1SGFFOFFpN1plQm1lTnR5ZkwxbXB5U29RWElOWUp2eU80cTVFV0dVMXdzM1VxcEwxSVJLRE90Q3g4VWlJMDdqVXpadjZ0dXBZUmxzVU4ybjRuY2dXOE1HWHJNZ3d4bFpIT01qMjMtQ2tuZ3RXVEhTN0wtSXBfWl90LVlYaHNKYkJVM1lOLTJySWFKaWRRZU4zWHhRY0NxNDQxQlVMdWRkb1ZpWGc",
+    "source": "Faktabanten.co.id",
+    "pub_date": "2026-11-02T22:06:16+07:00",
+    "desc": "Penerimaan Negara di Banten Tembus Rp53,2 T, Dana Desa Dipangkas 62 Persen demi Kopdes&nbsp;&nbsp;Faktabanten.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "768d54aa5fe0",
     "title": "Isi Peringatan Keras Asintel Kejati Kalsel Untuk 126 Kades Tapin, Hindari Korupsi Dana Desa - Banjarmasinpost.co.id",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQV0xWS1hRUE9rU1lFdjNWUzM3R3NRNWQ0RGFQN2JtZUM2Q1FfVzRnWXYzc1pUU0VnWl9kN1dKR25SRE9DcFFyaXhrX0NQY0hEX3ZFZks0RXdNbWtkTEZ3ZlpYSTNvT3lpbzNpcl94T3pkTU5oc2loRV9uOXc5Wk1kamppYUxnQUdoUm16bEhlbVNFcFdBZlNBbVNOcUhtSE1pUjREM1h5Wno3SGR3ZFNUd1o5aWFmNUUxV3lhdjRXMmRaejdKR2wwSktxaGxCbmZlM2xoXw",
@@ -219,6 +232,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "f7784a92ec7e",
+    "title": "PEMKAB TARGETKAN ENTASKAN DESA TERTINGGAL 10 PERSEN PER TAHUN - ANTARA News Banten",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMU9wWFZ5TndjbE00VEFlQW9jbmt6R1poVlZNem9uUUR5R0JUOGZrUkpDNTc2LXVSdGREOWlVdlNaV05KTkc3MFprNWdtU20zclpPZnJXRGNBR3ZYX3IzZ1JoZlRxV3JLakVkYWxldG91eml2MzBqWlI5cFZCUmo1SHVuT09XdmR2dG1IZ0VzbmtlSXdjNGc1N1RNbw",
+    "source": "ANTARA News Banten",
+    "pub_date": "2026-11-02T18:13:40+07:00",
+    "desc": "PEMKAB TARGETKAN ENTASKAN DESA TERTINGGAL 10 PERSEN PER TAHUN&nbsp;&nbsp;ANTARA News Banten",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
     "id": "f3afefd5d622",
@@ -621,6 +647,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b75eb2e4fb22",
+    "title": "Kumpulan Berita pandeglang minta kpdt bantu desa tertinggal - ANTARA News Banten",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUVHYjI0M0Rhd3RXNlg4NmEybXItVW5TLXc3QkFycEhFel9MclVLZnk1WlhmV0dGYk1YVnI2MGVLSFdLN1psaTltcGRLMGFCeWxXUFl0bnJLX1huLXpNeWQ4TGVFR0VhM2ZJM1BtWG81WUFUcmM0V1o4YUEtX0Ztb2U5RQ",
+    "source": "ANTARA News Banten",
+    "pub_date": "2026-11-02T11:41:54+07:00",
+    "desc": "Kumpulan Berita pandeglang minta kpdt bantu desa tertinggal&nbsp;&nbsp;ANTARA News Banten",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
