@@ -1,5 +1,57 @@
 [
   {
+    "id": "afeb26f5c448",
+    "title": "Mendes Yandri tegaskan seleksi beasiswa ke Jepang tanpa intervensi",
+    "link": "https://www.antaranews.com/berita/5827163/mendes-yandri-tegaskan-seleksi-beasiswa-ke-jepang-tanpa-intervensi",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-02T19:21:53+07:00",
+    "desc": "Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT) Yandri Susanto menegaskan bahwa hasil seleksi beasiswa bagi ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f41e504ba1da",
+    "title": "Bangun Beranda Negeri, BNPPDT Petakan Kebutuhan Infrastruktur Perbatasan",
+    "link": "https://news.detik.com/berita/d-8735364/bangun-beranda-negeri-bnppdt-petakan-kebutuhan-infrastruktur-perbatasan",
+    "source": "detikcom",
+    "pub_date": "2026-11-02T19:17:10+07:00",
+    "desc": "BNPPDT luncurkan program Bangun Beranda Negeri untuk identifikasi kebutuhan infrastruktur di kawasan perbatasan.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8afd3b485bf3",
+    "title": "Dinkes Aceh Selatan turunkan dokter spesialis ke wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEh1Tks5VVVjODlUcUFGNWljdUdVVGFnendKMDNQUlBHeGhqdXNDSEpVTEg3Nm1aall4MjV2OXJGNkVKekpQVmVid2tGZzI1YkkxZmIyZEotTDNfbC1UaTFZT0FaMU15S1VueXU4TTMtMTdvSFFUN0w0b3FvTVphMXNPTXRmc1ltYi1LM0xyUFNmY2M2QUhoVXp5UVFMWGdjcXpV0gGoAUFVX3lxTE52d2FqckJqd3lGbElQRWFLRDFLQTZPTDllOTZrVUQ0Zm8yRDNadXMxeVR2aWF4dXhTcmdTT3Y1UkxVbGR6QnZwY3Q1a05oREFSVE9OUzlSei10SUVtQ0pETUhfZjNBQXFLbUN3WEVJbzFhdHc4WkkwUTA2RUEwMjJuWG52NFJMQ2IwQml4WUI1cTZKSDl0ZGNJTEtKOUctS0YyUDBONEdMSQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-02T19:12:21+07:00",
+    "desc": "Dinkes Aceh Selatan turunkan dokter spesialis ke wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a0fe82c14892",
+    "title": "Wapres RI, Gibran Akan Intens Koordinasi Tangani Wilayah 3T di Sulbar - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeVhiRFBSd0hsUmZPTUlKZjdleHg1SEJvZkU5a2pIaGw1a2tya3k4QWNCXzZMYTlQanpkR29CQzhsaDR6d1lRMC04ODhHU09QSExYOFJrczBQbmpDSjZuMlVpMjN3LVhUckFNVUVIRFlWRXBuTzJZSFBreGVIdjFDcXJreTk0YXdYSHNoYko0cFJJYTJxYmlVX0NhRWlNNHItZzJsWnNoTmdVMkNTREIxLQ",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-02T19:00:00+07:00",
+    "desc": "Wapres RI, Gibran Akan Intens Koordinasi Tangani Wilayah 3T di Sulbar&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f3afefd5d622",
     "title": "Kemendes PDT & Polri Bersinergi Cegah Narkoba Di Desa - SinPo.id",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXhENUsxVEVBT1F1eW4tN2FNOWxTWTZVSGplby1UQkFoMzFLakdWNDJWUmdPb2Q1WFFmSEFYU3AtYjRnTVhXaWJ1S1kzS0JrWXhYODkyYU1Rc2xKUjYxd0pnenhHdFc1QmtOeG9WdlZhTFNZSllUMXN0dFVWYU5TZ0Y1RG4",
