@@ -1,5 +1,31 @@
 [
   {
+    "id": "19c94e39a60e",
+    "title": "BUMDes Tenjoayu Sukabumi Kembangkan Melon Premium, Panen Perdana Raup Pendapatan Rp30 Juta - Radar Sukabumi",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOVBZV2ROT1E1SUtrOUJRU3hodW5YOXBkV2x4dXYxTGFma1MtbnltSDJ4Nlc5ZGRQZzFYaC1aLUU4b0Mxdjd3RjBVVXhSel9FaGw2OC1mRzl2SDZGVW5Ia1ZoWWtHc1dZYlNnSTBVSW44VnZuY1BGb3A5Y1lWSHE3Q21QbkNxRWd4WjBwcFpqM0pkeG9pRFVLblR0alBCdnA4U0VJSTUyT0ZkU3AzSWc3eUJUdzItZ2ZWRV9VQjVRN09MVnJvZFF2dFJObXdBaVYt",
+    "source": "Radar Sukabumi",
+    "pub_date": "2026-11-02T08:46:16+07:00",
+    "desc": "BUMDes Tenjoayu Sukabumi Kembangkan Melon Premium, Panen Perdana Raup Pendapatan Rp30 Juta&nbsp;&nbsp;Radar Sukabumi",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "60c50b012242",
+    "title": "BGN Siapkan Skema Khusus Anggaran MBG di Wilayah 3T, Papua Tak Disamakan Rp15.000 - garuda tv",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbzBtRndUWGoyVUVIa1Z1eGpPQzlQNHM5Y1NqdjR6SmpuczMtLUQ4SmV2VjVMLTlmQkZlNEJGa2d6ZnJ2bkdrZDVnNXVreGcyYUhhUThzWTdCN0ZYWFhtUXJDaTlDMDE0Z2UwRjJIa0ZaMklKeDVNTlI0RVNra2pJMjUyWk0wbTRYVWpCdU50WERBN0tOSmxaNjJVakVrbVk5",
+    "source": "garuda tv",
+    "pub_date": "2026-11-02T08:00:37+07:00",
+    "desc": "BGN Siapkan Skema Khusus Anggaran MBG di Wilayah 3T, Papua Tak Disamakan Rp15.000&nbsp;&nbsp;garuda tv",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "081056213174",
     "title": "ESDM Maluku Usulkan Sembilan Lokasi PLTS Terpadu untuk Wilayah 3T - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdjMwajRtZ2xLeUtjWE1odW1hTHpEXzVRRzIyVVQ5LUEyMHNkUEJ6Z2lpTUh0WEgybWRQZjZlLUpYR2MxdnM5YmVzVmxYakItaERseTNOWUwzUVFTTEotYi1CQVdlZ3FuSDRKRVd4cF81amMwWTBDdk1DV2RhLVJpZlhsdEd4amhjNEFoRWdzVEQ1REhkaDVrMjdIQVlGUHMzLUNJeU9mYW1iQVds",
@@ -52,6 +78,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "680c49823227",
+    "title": "Kumpulan Berita pengawalan dana desa - ANTARA News Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQNnN2RS10UWdVbkN3TXppQko4SmoxVVJMWDRqSGUzSjRVSnhqNlktNXFwTU5pUWZUdWNOelN2SjFrdHJVdFZrTlpXLUIyUHBOeFh3N3hlSm5OMG5WZWxfblA0NHc5Zw",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2026-11-02T04:24:48+07:00",
+    "desc": "Kumpulan Berita pengawalan dana desa&nbsp;&nbsp;ANTARA News Sumatera Utara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "66bcf42724ff",
     "title": "Kumpulan Berita Registrasi Bumdes - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DUmFGMENkUkhLVXpMNDJJZEZ0WUNjSGFuZmlGQUpfbnltWUZCcVpQcUFRd25VN29oZGd4bkszRnRobEYyanNaY2FuZE94VlVVSzFqcGpYcERSSVFFNS1Zd2I3ank",
@@ -60,6 +99,19 @@
     "desc": "Kumpulan Berita Registrasi Bumdes&nbsp;&nbsp;ANTARA News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3c99e92937dc",
+    "title": "Kumpulan Berita dana desa tahap dua - ANTARA News Bengkulu",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlUEJGMldvT2g3VnJGMXlST3lUWE5menFPY3BpaGJrQXpjS3EyTzNKX2ZEbEYxWjVzUlVUSEEyQ2NJRVhqdFhZTmZaa21HVHJNaWwtMkx2WjlIY3M0N19xWmt4cGUwMzlxWXc",
+    "source": "ANTARA News Bengkulu",
+    "pub_date": "2026-11-02T01:25:31+07:00",
+    "desc": "Kumpulan Berita dana desa tahap dua&nbsp;&nbsp;ANTARA News Bengkulu",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -179,6 +231,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b9bc513ef435",
+    "title": "Kumpulan Berita daerah tertinggal - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EdkxIT1BtSnAxRFUzMGwyaExxZ3dRRlJrYXV5TTJsQVZoMzZnZ3hQalJPV1BSN3ZCUkNRUHpXckpRZXlLdmIzam55OXphdUtrcmRNQzdXMXFmb1RRQ3JHLTBB",
+    "source": "Antara News jatim",
+    "pub_date": "2026-11-01T20:08:21+07:00",
+    "desc": "Kumpulan Berita daerah tertinggal&nbsp;&nbsp;Antara News jatim",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -80923,6 +80988,19 @@
     "sentiment": "netral",
     "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "017e1d10b973",
+    "title": "Korupsi Rp 274,7 Juta, Eks Bendahara BUMDes di Buleleng Divonis 2,5 Tahun - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDJZVUNibGprYTM1ZjJkQ1pzdGRfLUtmVThpUGFxN3hiWUk1TWl6WEd1Rlg0R2l0WDVGRmxrbkUwSzU5VjBBUnpBazBGZEVzUFBVckRoeWR2Qzg0Q1g5YWd3TGQ0ZnRJaXphWXRSMllvZHRsRWY4a2VPNTVlRHFRWXg0VjRSazROa0dNOW1UWVM4NWlDcEo0ckdWVWJUQWduY0txdldQUk1VV2xCY2o2YjdjT1RwTWJmMDk1cTY4WXJFMnE4SUJB0gHMAUFVX3lxTE0wWE5RUFdpVTlOcDN1TDJYQUNZdmlzSDg3eDRWZ3pVQXg5LVRabGFadjE3bkNIakt6NUpyMm1Ed0hmU04ySDAwdmswY2lMcE0wSDVNeHdNdzBtTjRQSFJGVzJKNVAyelNQNTZhRFNwcXhwNXo0dVpDYzdWVXR3T21acFgzVFBreTFwc0l2R2dBR3cxc1NWd203ZWZmOHA5Vkp1blA4Z0tvSVRTNFU5TlVIY3E0Y0FXVGtJSzIyRnVDb2Vwb2dIUnNiZ0c2LQ",
+    "source": "detikcom",
+    "pub_date": "2023-10-03T14:00:00+07:00",
+    "desc": "Korupsi Rp 274,7 Juta, Eks Bendahara BUMDes di Buleleng Divonis 2,5 Tahun&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "cc9c3bfff129",
