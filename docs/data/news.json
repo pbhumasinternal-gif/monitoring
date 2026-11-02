@@ -13,6 +13,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "b7fb35ba24a1",
+    "title": "Beasiswa Kemendes - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHY2Q5RjdVVjBDN1ZIa2k4VzhnYVh1WW0xX3RuZE1XN1NxR3AtUFdNYUY0VG54NFN3NVY3VlBfSzR4azhqVU5JSjNyRDNycC04ZG5vTy05dmFwcTNIdWJz",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-02T21:11:04+07:00",
+    "desc": "Beasiswa Kemendes&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "bf42f76caf98",
     "title": "Kunjungi Sulbar, Wapres Gibran: Pemerintah Fokus Bereskan Berbagai Isu di Wilayah 3T - Lingkar TV",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SUzJnSEV1NXZDbmlPLW8wVlA3WWdZRWp1SkIzYURZLW5pSnpucHg0eFNmdE5YRE9DZThNY20xcXc5YVVYMkg1eFJrOE1WTmFEOG9ua1I2RXp5LWhpeV9wMW9EQ0pXUUVISkVDaVFGUQ",
@@ -60,6 +73,19 @@
     "desc": "Beasiswa FKG USG 2026: Peluang Emas Santri dan Wilayah 3T&nbsp;&nbsp;Kompasiana.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a5c72a9d89c2",
+    "title": "Kumpulan Berita Beasiswa Kemendes - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Vb3czdWxQd3N4a1NNc0haeVIzZmhjTnhjeHl1LTFZRk85NkZNd3otMDg4cWtRWGtycG5VamVSMGRmTHlpZ29WNlpXOXY0Q3VqM0daMk5lTk40ZDVNOFZLLQ",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-02T19:36:22+07:00",
+    "desc": "Kumpulan Berita Beasiswa Kemendes&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -359,6 +385,19 @@
     "desc": "Olah Limbah Pertanian Jadi Bahan Bakar PLTU, Kemendes dan PLN EPI Luncurkan Program Biomassa di Serang&nbsp;&nbsp;MetroTVNews.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "96a7d1754d98",
+    "title": "Dana Desa Bisa Digunakan untuk Peningkatan Kapasitas Aparatur Desa",
+    "link": "https://nomorsatukaltim.disway.id/advertorial/read/81999/dana-desa-bisa-digunakan-untuk-peningkatan-kapasitas-aparatur-desa",
+    "source": "Nomor Satu Kaltim",
+    "pub_date": "2026-11-02T14:17:00+07:00",
+    "desc": "Menurut Titin, Dana Desa dapat dimanfaatkan untuk mendukung kegiatan peningkatan kapasitas sepanjang kebutuhan tersebut memang menjadi prioritas.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -70289,6 +70328,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d3e10e777db7",
+    "title": "Dana Desa 2025 Tahap Kedua di Pati Tak Cair, 22 Desa Terdampak Kebijakan Pusat",
+    "link": "https://www.suaramerdeka.com/jawa-tengah/0416522096/dana-desa-2025-tahap-kedua-di-pati-tak-cair-22-desa-terdampak-kebijakan-pusat",
+    "source": "Suara Merdeka",
+    "pub_date": "2026-01-06T07:55:00+07:00",
+    "desc": "Pencairan Dana Desa tahap kedua 2025 di Pati belum terealisasi. Sebanyak 22 desa terdampak kebijakan pemerintah pusat.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Polemik & Aksi Massa"
   },
   {
     "id": "353738d1e207",
