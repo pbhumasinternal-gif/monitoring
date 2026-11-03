@@ -156,6 +156,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "1798ce4f3151",
+    "title": "Kumpulan Berita peran bumdesa - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WOWJvWEhseFptV3czb2tZWFBFSWo5b3hSczc4Q2JlSmpXcHBIYTR3V3J6OXZfdEo3LTZBZ192U2l4eFhMdDdJbWFEU04yRW1tOW1aS0QzSlc4RWl6",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-03T18:26:53+07:00",
+    "desc": "Kumpulan Berita peran bumdesa&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "dede18efbba9",
     "title": "Gerakkan Ekonomi Desa, BUMDes Berkah Mulya Karangsono Prioritaskan Kebutuhan Pertanian - Radar Madiun",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzZqY05lemxyYmc3b3dGem9nbDEtZHRpbWdaY2tKOE51U0Joa1dtN1IxUThkRVJHb1VyQUNrN21BclRqeHJQM0FtWjJCcnlfaU1hWlhMY0RDaWVqTlM1VFNTek9Pbi14TjlycmFGX05oOW1YYmFpTVdrWWJ6TUVWcnpYeHhNZ1NWdHVwTHFiV05mWWZlS2s2OXR3eDBVc29qWWZOWm1PbmJUNFRUbFhBNnl2ZndEZXkxdU5hd2xuX0JJMzdpTVdJOW00b1d4ODjSAdQBQVVfeXFMUHZIQnZ1NXJyMzREdjJ0QktrNmdZanNyWFZ1SDF3OTNUNnNBVEloRTNfX2xRX2FULThNZHlOSG1EVldodi1DUVhuLTZCUXAyNjVxUG1SY29Vc0MwZjhKWG10bndaM0dRMkYzQmUtNHBiSUZ6aU9Xc0w4LVRyZjhMeVBFZF80QTlYeGJ3eUU3QlZDaVBVd0c4X3FLVlN2R0RRS21ZcEJEdlRkNFhJakhOMGZVS01ZVzl0M25HdXg2NHN3OTNGa0NNWC1udWNvWWNaU3l2ZnQ",
@@ -895,6 +908,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "172a5cb7a0ae",
+    "title": "Inspektorat Ekspos Audit Desa Tamblang, Ketahanan Pangan hingga Bumdesa Diperiksa",
+    "link": "https://www.nusabali.com/berita/235380/inspektorat-ekspos-audit-desa-tamblang-ketahanan-pangan-hingga-bumdesa-diperiksa",
+    "source": "NusaBali",
+    "pub_date": "2026-11-03T09:50:00+07:00",
+    "desc": "SINGARAJA, NusaBali.com - Inspektorat Kabupaten Buleleng mengekspos hasil audit investigasi pengelolaan keuangan Desa Tamblang, Kecamatan Kubutambahan, periode 2022-2025. Audit yang menindaklanjuti la ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "83a899e8d84a",
