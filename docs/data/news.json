@@ -1,5 +1,18 @@
 [
   {
+    "id": "bd08dd6f14e7",
+    "title": "Korupsi Dana Desa Rp1,14 Miliar, Kades Lingai Anambas Ditahan Kejari - prokepri.com",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZG9JVE54Uk9ZZXdGUTM2V1h2d08zQWZpN1I4MU1CRldvT2tfamdhM2NZQ1RRczVaOEFqenZyUjU4cm94YVJEazFPeF84cV81Ty1ybW9QYmVBY1ZyZmEyOUVIUWhYamlwZTF5cUo4elI0cFRyS1kySkhPNF92M3J5dWNsWjloZlVxNnVxRFRGYkFqUQ",
+    "source": "prokepri.com",
+    "pub_date": "2026-11-03T22:41:28+07:00",
+    "desc": "Korupsi Dana Desa Rp1,14 Miliar, Kades Lingai Anambas Ditahan Kejari&nbsp;&nbsp;prokepri.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -11,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "739a38992510",
     "title": "Revitalisasi Sekolah Bantu Pemerataan Pendidikan di Wilayah 3T Sangihe - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYldDQU9EanhvMHM2Q2hNUlpWN0Y4LU9xbml0ZU9IZGNoeFFGZWVSOVdHS3Byd1FKcTNhbEJ6a2lKQTc3dXZXWFRRQ2l4MWdUSXU5cUNyZ0VyOFNObUNKbE9YUFZfcVpOR09iNWpKQkl6VmZkR3lsUWdFZUkxdXFiTEY5TXNObDA1SzZZRC15R3lIdzRTbzI3d1lBOFNzazdSQkhNWXdVWktwX0dYa1RWeDZzcw",
@@ -214,6 +227,19 @@
     "source": "Liputan6.com",
     "pub_date": "2026-11-03T16:50:24+07:00",
     "desc": "Papua Tengah Usulkan Dua Lokasi Sekolah Rakyat, Mensos Gus Ipul: Wilayah 3T Jadi Prioritas&nbsp;&nbsp;Liputan6.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9f9613f6f062",
+    "title": "Telkomsat Perluas Akses Pendidikan Anak di Wilayah 3T - Cirebon Times",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00MzJ2Z285MzAwNl9VRnpoXzhabGkzV3JmX3VJN0Vvb05GcG5wbzVnc1VOTFlFdWV3UDZYQnI0WFNtaFdQQmNVXzZKa2dsZmtKQXRPWFFiSEpEdEx6T1I0OUthR2JvMDJGd2JJU1BVRkpWX0Vp",
+    "source": "Cirebon Times",
+    "pub_date": "2026-11-03T16:41:31+07:00",
+    "desc": "Telkomsat Perluas Akses Pendidikan Anak di Wilayah 3T&nbsp;&nbsp;Cirebon Times",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -4652,6 +4678,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "21844ae94bd4",
+    "title": "Dana Desa dan KDMP Digugat ke MK, Ini 5 Hal yang Dipersoalkan - krandegan-bayan.desa.id",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0NJRmFsNWVieXc4MnQwcW8wbFpJRlZVWjdPZ2ZyQ0dmX292ZGkzLVlnN3Y2SGhOTGJubDBnV0tZRHRsMklBRDR5cEtQNkJQSGVmaFUwNEdQa255Z191R3IwakctYjBaR3pjTmFFbkU2SDRGZWZ5Qy1UOUNINjVRQkhoM1JoMC1MdGNIamVZTHNXQ0pIVmYzekFGeUtlaGVUMVAzYTIzaXZ2a3NWeGVSU2hLMnZwRmxCd3c",
+    "source": "krandegan-bayan.desa.id",
+    "pub_date": "2026-10-30T14:00:00+07:00",
+    "desc": "Dana Desa dan KDMP Digugat ke MK, Ini 5 Hal yang Dipersoalkan&nbsp;&nbsp;krandegan-bayan.desa.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "d3f2fd1ababd",
@@ -27311,6 +27350,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "29ffdef07d9a",
+    "title": "BPK RI Dorong Pengelolaan Dana Desa Lebih Transparan dan Akuntabel - BPK Jatim",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHpnOWtJQ3RCbGZia2trVFRpSkJjVjNpejVPWmVTN09WdnlsY2lNbTRBa2RINF9VWWhVSXJsejNfMWl3ajFWd2c4WjJQcmhrQkNtUEk1dS1jVTBZQkw0eUlxZV9lQk9ELTZhUEN4cDlsaFRQLXlLU04zQWtobkhBNTdKcWs4Mkd3dndDenQ0ZzlhcVdGRENHT0NDeUFSNk1lWjNEbw",
+    "source": "BPK Jatim",
+    "pub_date": "2026-09-30T14:00:00+07:00",
+    "desc": "BPK RI Dorong Pengelolaan Dana Desa Lebih Transparan dan Akuntabel&nbsp;&nbsp;BPK Jatim",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "da3b3ed614a4",
