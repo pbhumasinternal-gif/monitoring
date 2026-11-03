@@ -156,6 +156,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "9c86287f274a",
+    "title": "BREAKING NEWS! Kejari Batang Hari Tahan Kades Lopak Aur, Dugaan Korupsi Dana Desa Rugikan Negara Rp542 Juta - Jambi One - Jambi One",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeHFRUnFqQUtaSzJGRFNZZF9LT19tcjVPUFpoc2h1WkpFcjh1NG0zM0hxQWxBcEJRUDlhbTlUQjNMa1BBUmxGX085N0d6bm5YZXlnaEJ4Qjh2Y01IZlVlcl9QUGk5Q0lQdmNEWU9YNnUzR2owSkliTHpEa3ptRHl0STJ0U2ZXOXo5WmEyc2NuZEVjSGQwRGN3MDlLTlRxQnZxeFpLbkNDcnRUbV9ZVHJ2SllrejZaeFdxb0M1QXliLVl2cktldnFndFNPUEtfbXM0ak5zTGxUQkljRW8tMWtIbGJn0gHnAUFVX3lxTE1valI4SjdxVHo5YWN1MDE1VEtBQjd3N1ZUR3dCTlFLQmxBMjdhSnBLa0IxNzdKZ1RmOXJydUp6b1gwQkNYVXlERjFvNGw4Qm92UEw3NHhmS2diVW1pSXU3VWFjcGxKU29rQ05aTWp4azhJUU9RMG9YMlNJVXJ3NnUtTGRYVkFiTEpuVHhCRmpyc1ZHOUUyMFk5RGx6YXVzUGdCdlo5NTRaVFZaSjdfMVRVMUxaSXZuaDJPeEROd2Jtd3E1RnR0YklBRHVrWXpRRkJpVXZzcTV0WFFmZ2xtTUlJZDE5TnRsRQ",
+    "source": "Jambi One",
+    "pub_date": "2026-11-03T19:31:29+07:00",
+    "desc": "BREAKING NEWS! Kejari Batang Hari Tahan Kades Lopak Aur, Dugaan Korupsi Dana Desa Rugikan Negara Rp542 Juta - Jambi One&nbsp;&nbsp;Jambi One",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "1798ce4f3151",
     "title": "Kumpulan Berita peran bumdesa - ANTARA News Bangka Belitung",
     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1WOWJvWEhseFptV3czb2tZWFBFSWo5b3hSczc4Q2JlSmpXcHBIYTR3V3J6OXZfdEo3LTZBZ192U2l4eFhMdDdJbWFEU04yRW1tOW1aS0QzSlc4RWl6",
@@ -3037,6 +3050,19 @@
     "desc": "Kumpulan Berita akibat dana desa&nbsp;&nbsp;ANTARA News Sumatera Utara",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e3cb6d431b36",
+    "title": "Kumpulan Berita Nominasi Bumdes Digital Nasional - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ocTl1c1d5UXhXRVlIUUFibGlOUnpFRmFWNEo5Y3lKaWZBSWcxeEluNlhtQThpVHZzdW5yaTA5cGpDVnRTTDFuOFpVdV8yWUswemJkYjV1d3BHd0NVMHQ4Z0V3cndsUld4R21Bcmp2X3U4bkN4Y2Jr",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-01T03:54:18+07:00",
+    "desc": "Kumpulan Berita Nominasi Bumdes Digital Nasional&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
