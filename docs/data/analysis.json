@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-04 18:01 WIB",
+  "last_updated": "2026-11-04 18:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 1986,
-  "dominant_topic": "Dana Desa (828 berita), BUM Desa (516 berita), Kemendesa PDT (328 berita), Daerah Tertinggal (314 berita)",
+  "total_checked": 1992,
+  "dominant_topic": "Dana Desa (833 berita), BUM Desa (516 berita), Kemendesa PDT (329 berita), Daerah Tertinggal (314 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,6 +13,18 @@
     ],
     "cases": [
       {
+        "title": "Dana Desa dan ADD Dipangkas, 154 Kades Baru di Kabupaten Bekasi Harus Putar Otak - Berita Cikarang",
+        "source": "Berita Cikarang",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Dana Desa Grobogan Tahun Depan Masih Dipangkas, Jadi Rp 96,1 Miliar - murianews.com",
+        "source": "murianews.com",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
         "title": "Polisi Tahan Tersangka Kasus Dugaan Korupsi Dana Desa Gunung Pulo Aceh Selatan - theacehpost.com",
         "source": "theacehpost.com",
         "topic": "Dana Desa",
@@ -21,6 +33,12 @@
       {
         "title": "Kejari Anambas Tetapkan Kades Lingai Tersangka Korupsi APBDes - bsinews.id",
         "source": "bsinews.id",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Korupsi Dana Desa Lingai, Jaksa Sita 230 Dokumen dan Periksa 55 Saksi, Tersangka Bisa Bertambah - Tribunbatam.id",
+        "source": "Tribunbatam.id",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       },
@@ -39,24 +57,6 @@
       {
         "title": "Polres Aceh Selatan Tetapkan dan Tahan Tersangka Dugaan Korupsi Dana Desa Gunung Pulo - Tribrata News Aceh Selatan",
         "source": "Tribrata News Aceh Selatan",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "DANA DESA TANJUNG MEDAN DIDUGA MENGUAP, KADES BUNGKAM, WARGA MINTA INSPEKTORAT TURUN - Cakra Bhayangkara News",
-        "source": "Cakra Bhayangkara News",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "Kejari Batang Hari tahan Kades Lopak Aur, dugaan korupsi dana desa - ANTARA News Jambi",
-        "source": "ANTARA News Jambi",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "Dugaan Korupsi Dana Desa, Warga Resmi Laporkan Kades Sermong ke Kejaksaan - - Inside NTB",
-        "source": "Inside NTB",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }

@@ -1,5 +1,31 @@
 [
   {
+    "id": "9966c49f3a79",
+    "title": "Dana Desa dan ADD Dipangkas, 154 Kades Baru di Kabupaten Bekasi Harus Putar Otak - Berita Cikarang",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVlJZU5KcnVwNVk0M1NtbU14WmFscVlYY3FiaVJYMGFWNXhfOFBFWlFPVGsxVy1hemZmbnBpWmJaYXRKbHFjdGdJenlENnJBMkhKN1BUUkE0ekhXQ1ZCeDk0RUFsbWJZTlBhLTFEbVN0ZEFDX0RfNy15d2V6QVBORHQzQUFTRGhjTXd5aGp4eDdxR3dzMVdsX25lZFRPRDFJSTRZajNLSWVWZ00",
+    "source": "Berita Cikarang",
+    "pub_date": "2026-11-04T18:20:27+07:00",
+    "desc": "Dana Desa dan ADD Dipangkas, 154 Kades Baru di Kabupaten Bekasi Harus Putar Otak&nbsp;&nbsp;Berita Cikarang",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "920794f67c11",
+    "title": "Tanah Bengkok Bekasi Dipersoalkan, IKA BEM Nusantara Sentil Mendagri dan Mendes PDT - Bela Rakyat",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnRJM1RLOWx0YUZHSnlrdGdkdVBHZlpGcVNpeGlrR19hcW5UaFc0WnNhWmprMFlhbWhwaFpvRnhETEszSmtBYnhlZ2VPQ3RlNVlpdjhsaGVFNkRFYkpyZWJnTW44ZEY4cXBEb05WaEZibnFqY1VQQ3hGTWh3VjFmam81MWZuMWg1VDFnaHA5bkR5aXBOV0cxY0tGWWlOSFlYdDVaOTExeUNNdw",
+    "source": "Bela Rakyat",
+    "pub_date": "2026-11-04T18:03:49+07:00",
+    "desc": "Tanah Bengkok Bekasi Dipersoalkan, IKA BEM Nusantara Sentil Mendagri dan Mendes PDT&nbsp;&nbsp;Bela Rakyat",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e7d53f9efaad",
     "title": "BTS 4G di Wilayah 3T Mulai Beroperasi, Kontraktor Klaim Tagihan Ratusan Miliar Belum Dibayar - Mediakarya.id",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON29ZLTBtUngzdDIxVlU0WlA3WWd3T05CZGVHZUZCVEVIVjB6QXhHbVJFWnJYSDhoaXZDTUVndHd6YzlFRzFyTmRLcEEzTW5CbERyU3VHdEpMZlU4bDhMalNfNkNnZng3TjVjcjNUdXE2Q1VyTFNFWUV5aGltTWRDUEEtd2pmdzhyeWg1RFBhNjdsYm9vR0hDdnRTbEtCaDJvOWNFczVVR1k3dGhNRWNSbDZMbE51RUdFTWc",
@@ -50,6 +76,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1598d84b4b65",
+    "title": "Dana Desa Grobogan Tahun Depan Masih Dipangkas, Jadi Rp 96,1 Miliar - murianews.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMndxZEhFZVZZUHF4dDVQbm1uZnNsNXNsR29jOHA4b1FjWHlDSi1STzNLRHZUcnNhWXpTMHpSOGFFTFpJaklaX3hmMmNZb2N4STQzOVVSRnU0UUR4cmk1aHFhZUZRUXZUVTRDb284MFlpcWlsZzN4ZGdWbk1oT19Ed1M1a3VCS3FoSDZKT184MGRnd2p6bDdHYmFiaEx6ckdfTWl5UXptWV9qTHY2Z1pTQ1lrcThWdw",
+    "source": "murianews.com",
+    "pub_date": "2026-11-04T17:14:00+07:00",
+    "desc": "Dana Desa Grobogan Tahun Depan Masih Dipangkas, Jadi Rp 96,1 Miliar&nbsp;&nbsp;murianews.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "1312903d9358",
@@ -110,6 +149,19 @@
     "source": "bsinews.id",
     "pub_date": "2026-11-04T16:20:19+07:00",
     "desc": "Kejari Anambas Tetapkan Kades Lingai Tersangka Korupsi APBDes&nbsp;&nbsp;bsinews.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "c86ea7d5115a",
+    "title": "Korupsi Dana Desa Lingai, Jaksa Sita 230 Dokumen dan Periksa 55 Saksi, Tersangka Bisa Bertambah - Tribunbatam.id",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaTV1aDk2MlRFem16X2hwLTQzbmF0eW9LZ2YyVVNnWUh3OXNhMDd5MVloS002QjRPcmx5eHIxU1R3cGZBYjRvY2ZqZnpva2hoVThQYTFkaXlWS3UyZE1YTWQwN2UtTEJUNDRrek8wbUNhVVM0clg1RURFcjVIb0tIWFFHeE01eHMxZ21hVldsbWJ1dUxkbHQwd2QxWkNnNUxfVVJpLXFSNzYyaWpibWlLMW1xelpCb1BsTi1sOXlLekJhV3JtTVVBbHBiZU1uTjNnQnhr",
+    "source": "Tribunbatam.id",
+    "pub_date": "2026-11-04T16:13:51+07:00",
+    "desc": "Korupsi Dana Desa Lingai, Jaksa Sita 230 Dokumen dan Periksa 55 Saksi, Tersangka Bisa Bertambah&nbsp;&nbsp;Tribunbatam.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "negatif",
@@ -336,6 +388,19 @@
     "sentiment": "negatif",
     "sentiment_score": -10,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "1d72e0470bc9",
+    "title": "Kumpulan Berita Prioritas Dana Desa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FdnUxcHhPZTVKanJuWUlqY1pSY3B0R2lud0M3ZHA1c2p4X0h0MDdTME16RVAzR3JOWm9IUFQySmkzMWNOejBKUFZpbmpEd3NnbDUxVmpwZjAyX0ZldUlfMzdHbnN2QQ",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-04T10:55:54+07:00",
+    "desc": "Kumpulan Berita Prioritas Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "228a2a14d649",
@@ -1930,6 +1995,19 @@
     "source": "ANTARA News Sumatera Utara",
     "pub_date": "2026-11-03T05:57:39+07:00",
     "desc": "Kumpulan Berita kades asahan diberikan penyuluhan tentang pengunaan dana desa&nbsp;&nbsp;ANTARA News Sumatera Utara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "19c1fb879b5c",
+    "title": "Kumpulan Berita dana desa 2017 - ANTARA News Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54bnljRUNKVEdlTmJKelJWWkgwZ0Jzb0xST0Vha3NIOEJMSWNFUHhyQTRRaXdNYW9UUm5wc1NlUEJsU0hfV09GRmRlZTZlU011eExodE1WcUV2eGZwSmtR",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2026-11-03T05:33:09+07:00",
+    "desc": "Kumpulan Berita dana desa 2017&nbsp;&nbsp;ANTARA News Sumatera Utara",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -43846,6 +43924,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a3496395e0c9",
+    "title": "Menepis Mitos Impor: Inovasi Anggur dan Branding Digital BUMDes Srogol - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQkdJTjIxSVBwN2U0cFJOM25VQ2RYUVlKOGplRDR2ZzBnczhqdUNfN1Vpd19DWnRsRGNnMFBIMEtGWHVINERhUE1NUVIyck92YlRBb0NZVVFRU3NHNUxlUFRvdmZkZzFpekpUNzNTVi1QdC1PZ2pTVkZ5ZXJsTGtNRVFtUUNXUHpyRDBPWHRValpTODdGcXBEYlNvQi13OHlOY3JuUzVXWUd4by1OdXVSNjNLUGlVd0ZxVEZxSEIxQkNtajNZeFpETmRhVFItUUM4VXduRw",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-08-30T14:00:00+07:00",
+    "desc": "Menepis Mitos Impor: Inovasi Anggur dan Branding Digital BUMDes Srogol&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
