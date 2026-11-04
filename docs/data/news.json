@@ -533,6 +533,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "1a5823ca93d8",
+    "title": "Kumpulan Berita desa tertinggal - ANTARA News Banten",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yd3dWY0FMeFJia0xUUlhaNmRESXRFamNmdlFoN2hDVkpPeHF6LUstVXc5OVYxN0tTOF92RGZrNGtQUVFVR0xkNmpZNTZadGE0eHItLWNvUDVFaHhYdi01QUx3",
+    "source": "ANTARA News Banten",
+    "pub_date": "2026-11-03T22:32:30+07:00",
+    "desc": "Kumpulan Berita desa tertinggal&nbsp;&nbsp;ANTARA News Banten",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "739a38992510",
     "title": "Revitalisasi Sekolah Bantu Pemerataan Pendidikan di Wilayah 3T Sangihe - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYldDQU9EanhvMHM2Q2hNUlpWN0Y4LU9xbml0ZU9IZGNoeFFGZWVSOVdHS3Byd1FKcTNhbEJ6a2lKQTc3dXZXWFRRQ2l4MWdUSXU5cUNyZ0VyOFNObUNKbE9YUFZfcVpOR09iNWpKQkl6VmZkR3lsUWdFZUkxdXFiTEY5TXNObDA1SzZZRC15R3lIdzRTbzI3d1lBOFNzazdSQkhNWXdVWktwX0dYa1RWeDZzcw",
@@ -75705,6 +75718,19 @@
     "source": "ANTARA News Jawa Timur",
     "pub_date": "2025-08-16T18:25:00+07:00",
     "desc": "Pemerintah menyiapkan anggaran sebesar Rp60 triliun untuk Dana Desa dan Rp83 triliun untuk Koperasi Desa/Kelurahan Merah Putih (KDMP) pada Rancangan Anggaran ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7c9223b09cb6",
+    "title": "Pemerintah menyiapkan Dana Desa Rp60 T dan KDMP Rp83 T pada 2026",
+    "link": "https://kupang.antaranews.com/berita/165857/pemerintah-menyiapkan-dana-desa-rp60-t-dan-kdmp-rp83-t-pada-2026",
+    "source": "ANTARA News Nusa Tenggara Timur",
+    "pub_date": "2025-08-16T18:21:00+07:00",
+    "desc": "Pemerintah menyiapkan anggaran sebesar Rp60 triliun untuk Dana Desa dan Rp83 triliun untuk Koperasi Desa/Kelurahan Merah Putih (KDMP) pada Rancangan Anggaran Pendapatan dan ANTARA News ntt 2 ...",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
