@@ -1,5 +1,18 @@
 [
   {
+    "id": "184b5d71855d",
+    "title": "Perkuat Sinergitas Pemerintah Desa, Babinsa Ikuti Rapat Optimalisasi Pengelolaan BUMDes - Gentra News",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemwwbVdreGJpcVBfeHMxWWtQdkRvVFpvUFhGZ3NZOW95azhyR2NaVEZkc2ZZSFBMNzBMSmNvbm54SmFXX25BeEZyN1VZWFF2Q3ZVenVnOTlkNHFFTWc0Q3A5aU1qanRfUzNZWVdEQl9McDNOQWdmMEJMcDc1LU1ORXpvLUY1ZXVvRjZsaHpNUEZoQzBIOHBaUUNCVlNYaFVyNnFqTHc2dTZXS2Z4TlRxeDI2TGtDSmQ0TWs4",
+    "source": "Gentra News",
+    "pub_date": "2026-11-04T21:01:08+07:00",
+    "desc": "Perkuat Sinergitas Pemerintah Desa, Babinsa Ikuti Rapat Optimalisasi Pengelolaan BUMDes&nbsp;&nbsp;Gentra News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f2ee7c163c02",
     "title": "Melihat anak muda berlatih jadi pembarong dalam melestarikan Reog Ponorogo",
     "link": "https://www.antaranews.com/foto/5832223/melihat-anak-muda-berlatih-jadi-pembarong-dalam-melestarikan-reog-ponorogo",
@@ -778,6 +791,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d7897bda5c8c",
+    "title": "Gugat KDMP, Kades Prawatan Klaten Ungkap Dana Desa Turun Drastis, dari Rp 1 Miliar Jadi Rp 373 Juta",
+    "link": "https://solo.tribunnews.com/solo-raya/352992/gugat-kdmp-kades-prawatan-klaten-ungkap-dana-desa-turun-drastis-dari-rp-1-miliar-jadi-rp-373-juta",
+    "source": "Tribun Solo",
+    "pub_date": "2026-11-04T06:01:00+07:00",
+    "desc": "TRIBUNSOLO.COM, KLATEN - Dana Desa yang diterima Pemerintah Desa Prawatan, Kecamatan Jogonalan, Kabupaten Klaten, Jawa Tengah mengalami penurunan drastis pada 2026. Jika sebelumnya mencapai lebih dari ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "fe464405c6d1",
