@@ -1,5 +1,31 @@
 [
   {
+    "id": "1b60295bb424",
+    "title": "[SALAH] Mendes PDT Marah karena Warga Tidak Belanja di Kopdes - TurnBackHoax",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNei04ckJidHlvd2tfSGl0VHhHbVhJSFpZWm80amRwUmFQLXBWZl9CTkI1bC1NWWR4aG5OeWdmaDFxWk9Oc0U3a2dSODJwQVNsb0ZELUItTnY3dkVINnlxS0YwQTJldnU1c0EtX2NHWDhZSG0xbG9ZU25vR2ViOFZOTno3bWhobzduTGRzdTRJeWpTMmtQejNVS2ZodG8ySkk",
+    "source": "TurnBackHoax",
+    "pub_date": "2026-11-04T15:22:27+07:00",
+    "desc": "[SALAH] Mendes PDT Marah karena Warga Tidak Belanja di Kopdes&nbsp;&nbsp;TurnBackHoax",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1afec2531d96",
+    "title": "Polsek Kenohan Kawal Penyaluran BLT Dana Desa di Kahala, 28 KK Terima Bantuan Rp300 Ribu - Halo Terkini",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb21UVS0tTnluM0t0b292YnVYWDlUSFZYM09BdnJPOFl0MTIyQmVTWU9BcnFVaUNJNEZmM0VfMEZnZ0JVeVp6RlBXOGhTVUdNd2VyYkhtdUwzdVFRLTJGVnJIOU9VZlZrY1BoVTN2MWNqdXRPR1FKSHJPSTloTzVHM2ZrSFYwZEVTb01DazZLdFA4ZVNfNmJvQzlrVkRJREF6Z25TYjhwRzNTNzNxN29qYXVZSEl2QTd3V3pfMHZrbUZySzNkT0E",
+    "source": "Halo Terkini",
+    "pub_date": "2026-11-04T15:04:03+07:00",
+    "desc": "Polsek Kenohan Kawal Penyaluran BLT Dana Desa di Kahala, 28 KK Terima Bantuan Rp300 Ribu&nbsp;&nbsp;Halo Terkini",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c1ef3ab8687e",
     "title": "Kapolres SBT Edukasi Kades Pahami Aturan Penggunaan Dana Desa - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOHpkN09fSG5nUDlYUmJpR3RDejJSS1hDZnJuMk5kU3NScFpoT0RaYWduVkFGcGstS0QxZlhBakszMVVsOGtoLTFJem9LRHNkbjdwOEpka1NSYXVPWWlxRTZHQkxGQ3hTUzhRYk50MHNMRTVFQ0RkNkdqMEdoOHEyYU9uUHlMMlZCWWJTdVZROG1vRXpUaTZBUThTLU12elFNNXNr",
@@ -489,6 +515,19 @@
     "desc": "Bumdes Kalsel&nbsp;&nbsp;ANTARA News Yogyakarta",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "20b76cf53770",
+    "title": "Sejarah LPD di Bali, Lembaga Keuangan Mikro yang Kelola Dana Miliaran",
+    "link": "https://bali.idntimes.com/news/bali/sejarah-lpd-di-bali-lembaga-keuangan-mikro-kelola-dana-miliaran-00-pfsg1-j5h8kl",
+    "source": "IDN Times Bali",
+    "pub_date": "2026-11-04T00:12:00+07:00",
+    "desc": "Sejarah LPD di Bali bermula pada 1985 dan berkembang sebagai lembaga keuangan desa adat di tengah persoalan pengawasan. Simak riwayat dan tantangannya.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -78962,6 +79001,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "31ea1b7f7da4",
+    "title": "Dana Desa Rp20 Triliun Bakal Dialihkan untuk Makan Bergizi Gratis",
+    "link": "https://news.ddtc.co.id/berita/nasional/1808335/dana-desa-rp20-triliun-bakal-dialihkan-untuk-makan-bergizi-gratis",
+    "source": "DDTCNews",
+    "pub_date": "2025-01-19T14:30:00+07:00",
+    "desc": "Dari total dana desa Rp71 triliun yang dianggarkan untuk 2025, Rp20 triliun akan dipakai untuk bahan baku program makan bergizi gratis.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8208c56beff5",
     "title": "Suplai Bahan Baku lewat BUMDes, Kemendesa PDT Siap Sukseskan Makan Bergizi Gratis - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPenB3bDRudGd3MEcwTEJtUzlRZVpmd3Z3RUlBSmhDanp0VDlCMjhFOGRTa1Z6RVpaOUh3aEE3X0lIQUU4ejJlMWRjYXZ2bm1QUWRVRHJ0NjJjV0pESGo3V3Jxd2VxaW05TDBQeHlQY2dBcjFHS2R3NUl0TTVjTlNKSlVtbHNzMDVTcmhScXJheTdFRTRSQ0ZBS2draGkxOHFaR0NFQXhYZi1pdVhLYWl0d0FuUFdGNlF4UExSWUFnSWNJZnY1",
@@ -91065,6 +91117,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "76d4c57d0815",
+    "title": "Pimpin Komisi VIII DPR, Yandri Susanto Diingatkan soal RUU PKS - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1NtREd3dERSd281QXVLMk00eEE2UjdGU0staWdmUzJaX2dkbl9oQWNXLUt3SHEyUTR1TGtkc1QtMzRPNTlaaTB6QktKWUVEdVpGb3ZwMU5JRjExZHFpeGFXR1N5Xy1iSnBkSDNQeDVDb0liTHlYalpLOXNVZ0huOU1VX01nSUNHVE1YWUVSci1keHk2eXpXZS0wQzNVNkNaZjFPQWFZZUVZN0hWY2JIZE9FSjQ",
+    "source": "Kompas.com",
+    "pub_date": "2019-10-30T14:00:00+07:00",
+    "desc": "Pimpin Komisi VIII DPR, Yandri Susanto Diingatkan soal RUU PKS&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8b265f11fd1f",
     "title": "Kisah Dana Desa Sukses Ubah Tempat Pembuangan Sampah Jadi Ekowisata - detikNews",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMlNVVmN0cFZDN2FFN1FtZUhTOUo4cm1yVFlzWEd2UG56LW9XRmdvVmNrZ3NOS3hhbEl1cVZnTmYwT3dJX3paLTBPN3FhaVUxd0pQXzZoRldBdV9HSW9DWDZSbG94UnRxTXhhXzlLR0NIYTFzZUstS2c3MUpBZm10NktVTXpYVV9NZll0T0NlU2hfaFp6SnJCS1otcG9XenppZThtcl9TQk1MaEE",
@@ -91322,6 +91387,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b8a742f37447",
+    "title": "Punya 1.507 Desa, Apa Kendala Program Dana Desa di Ujung Sulawesi? - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQThENEVQTmxYTUhZODNZeE9qcDZGMEdRMjl0VjJJY2NoUmZfa0RNbUlhb3NBb3pzVjF2TnYzZFhONGZVdHppZF9tRHpJam8wcHZxLWYwUUFzNllLUG5EZWl3ZEZWcnBMVzkxd21hck4xNEhleDdmU2lEWVBqQ0xFZFJiTWx2ekw3ME5uTWxSeFpycUZuSzVpMXREc2ZPRF9SdFFwTGpLMGhJcWFSZksxMXpGZVk2Mm1lZzlLZHFNYw",
+    "source": "detikFinance",
+    "pub_date": "2019-08-28T14:00:00+07:00",
+    "desc": "Punya 1.507 Desa, Apa Kendala Program Dana Desa di Ujung Sulawesi?&nbsp;&nbsp;detikFinance",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
