@@ -156,6 +156,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "269b0bdad08c",
+    "title": "Kumpulan Berita Penerima Blt Dana Desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqcmkzRlpsSmdqcGR2WmNFaUZQNTlvMF9od1JCcUEzcWE3OTZzLWdxb2QzUUloczRxd19mLUtoVmNJME83SVgxZ1M2VWdvX1lyX2xUS0ppM0k0V0hJcTYybWpqUVA5SGp5Vncw",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-04T07:31:34+07:00",
+    "desc": "Kumpulan Berita Penerima Blt Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "56190b7c60e6",
     "title": "Evaluator APBDes Dibekali Bimtek, Sekda Minut Tekankan Pengelolaan Dana Desa Tepat Sasaran - Redaksisulut.com",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUxudkdyaXRFSHpZcUVaTGM1TTROMEVsN2tDZFVQSERvc01xWTliRGRoWE9BM25fcjlocHk0TXNvdGVia2N1TWlsTDNrY2xlYVVyOXg3YzZnbnNzYkZOYWJOQjFPZE1BVjVVOVg2cm1Edng1MkpTai13TlJTX3ZOSEVoZ3BkLUtySXpLbUp5T3VmODY3bTFVaE8wS0czaWxhVkJrb3ZLT3NUZkpPbm9CTXpTY0drZw",
@@ -242,6 +255,19 @@
     "desc": "Headline.co.id ~ Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT) Yandri Susanto menegaskan penurunan stunting harus dilakukan dengan menuntaskan akar masalah dari desa, bukan hanya melalui ...",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "460506673998",
+    "title": "DPR Minta Pemerataan Teknologi Pendidikan hingga ke Daerah",
+    "link": "https://faktakalbar.id/berita/dpr-minta-pemerataan-teknologi-pendidikan-hingga-ke-daerah",
+    "source": "faktakalbar.id",
+    "pub_date": "2026-11-03T23:00:00+07:00",
+    "desc": "Wakil Ketua Komisi X DPR Lalu Hadrian Irfani meminta akses teknologi, fasilitas sekolah, dan kualitas guru merata hingga daerah 3T.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -427,6 +453,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b38d5b2b4fa9",
+    "title": "Polres Aceh Selatan Tahan Tersangka Korupsi Dana Desa Gunung Pulo",
+    "link": "https://www.bithe.co/news/polres-aceh-selatan-tahan-tersangka-korupsi-dana-desa-gunung-pulo/index.html",
+    "source": "BITHE.co",
+    "pub_date": "2026-11-03T18:48:00+07:00",
+    "desc": "\"Penegakan hukum ini diharapkan dapat memberikan efek jera sekaligus menjadi pengingat agar pengelolaan dana desa dilaksanakan sesuai ketentuan, secara transparan dan bertanggung jawab,\" kata ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "1798ce4f3151",
@@ -81560,6 +81599,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "523827b11c98",
+    "title": "M Nuh soal Anggaran Pendidikan untuk Dana Desa: Penyimpangan yang Luar Biasa! - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZm5CR3lHaG4wMFM2LW16Vl9HMXRRZGx6WEg3ZURLOFdzRGh1bVo2eFJHQ211U1luQzNQT2hyT1I5a0ViME5BNzdCX29MSGtFVkt0Z3NRTkxFM2xUZGRJdHpab2FzSVFiYUpJYlgtQzhjc25jSGRuWmV5ZVdBdUc1R0NodEM3TXBSVC1xZU1EcmViM0tYU0ZyMm9qYWN0enByUmFCQjd6OUFBNjZDcGd0bnBoZ3hHMnVuUXVoQ19wUEdGVFZLR1E",
+    "source": "20detik",
+    "pub_date": "2024-07-02T14:00:00+07:00",
+    "desc": "M Nuh soal Anggaran Pendidikan untuk Dana Desa: Penyimpangan yang Luar Biasa!&nbsp;&nbsp;20detik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "c06a34eb294e",
