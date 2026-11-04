@@ -1,5 +1,31 @@
 [
   {
+    "id": "9b875d1ad49f",
+    "title": "10 BUMDes di Lebong Tengah Merugi, Camat Minta Inspektorat Audit Menyeluruh - Go Bengkulu",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1NwbFJaNk9YSldvMGZON1dtRVh5QU96NlMyanlieWNZQXZIRWxGN2xROGJVMzNZWDdjNDk0OTQ1Rm5JcFJGNkNBeFl1NEUyVU11VnVUY2k1NzRsNmpvdXJTOEhiRVVGOXl6eHlZNXZLbzRJUUZsZ3BiOU0yUzhzZGd4d0Z4V3Uxd0JtVVZPWko5RDNNUmxjNnpmcGpyc2NkbXBVN1ZSNXJ4SFhnaFVWWmdYcw",
+    "source": "Go Bengkulu",
+    "pub_date": "2026-11-04T23:14:41+07:00",
+    "desc": "10 BUMDes di Lebong Tengah Merugi, Camat Minta Inspektorat Audit Menyeluruh&nbsp;&nbsp;Go Bengkulu",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "171a8250db41",
+    "title": "Kades Iskandar Ditahan Kejari Anambas Diduga Selewengkan Dana Desa Rp 1,1 Miliar - Tribunbatam.id",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmhCejNSYkRXY1NLX1c5d21pclEyUmJmUUNId05MOW5ZU202b1dVQ1VHUXZVUG9zUmFkdTcwLWExRU5TM3JObDBrUHhGcXNVUGctN1ZBZXA0eEVaTTZjSEhmZVhEMV92Wms3Rk9CV095SDZyVng0czZ4c3R5VkRFQ04yNlduMEZTQ3g4M1VGOUh4VE1QNWZ0TXdnUkgtekQwMkJvWHJOOFV0NlFlOXpkVm5fNU80MDJlbGxaMW5OUVo",
+    "source": "Tribunbatam.id",
+    "pub_date": "2026-11-04T22:49:51+07:00",
+    "desc": "Kades Iskandar Ditahan Kejari Anambas Diduga Selewengkan Dana Desa Rp 1,1 Miliar&nbsp;&nbsp;Tribunbatam.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -11,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "184b5d71855d",
     "title": "Perkuat Sinergitas Pemerintah Desa, Babinsa Ikuti Rapat Optimalisasi Pengelolaan BUMDes - Gentra News",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNemwwbVdreGJpcVBfeHMxWWtQdkRvVFpvUFhGZ3NZOW95azhyR2NaVEZkc2ZZSFBMNzBMSmNvbm54SmFXX25BeEZyN1VZWFF2Q3ZVenVnOTlkNHFFTWc0Q3A5aU1qanRfUzNZWVdEQl9McDNOQWdmMEJMcDc1LU1ORXpvLUY1ZXVvRjZsaHpNUEZoQzBIOHBaUUNCVlNYaFVyNnFqTHc2dTZXS2Z4TlRxeDI2TGtDSmQ0TWs4",
@@ -1011,6 +1037,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "225c89d84dd9",
+    "title": "Bimtek Dinas PMD Minut Bagi Evaluator APBDes yang ada di Kecamatan, Sekda: Dandes Harus Tepat Sasaran - Peta Sulut",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTnJzWFdabk1OdTMtMnBKVGxkSUtMSDBMdDk3aUFyaWhqc1dwck94NVlnU0R0LTM3VUlZZ0FRYWtxVWYwMUsxRU1uQmt1dmdXbzdxRVU3bXFuR3VqMlhURUQ5QUx3ckZwamhVc281WEpsYlVKVEJ1X2dTbmxENXk5WldOb1V2elozczRzaUxzZEhBQXRoa3E0ejFyMzYwOExITTEtRDBqb1Y0ZzIxSmFZOVF6ZjdkcnhRT3ItekYzVQ",
+    "source": "Peta Sulut",
+    "pub_date": "2026-11-03T22:30:13+07:00",
+    "desc": "Bimtek Dinas PMD Minut Bagi Evaluator APBDes yang ada di Kecamatan, Sekda: Dandes Harus Tepat Sasaran&nbsp;&nbsp;Peta Sulut",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -82946,6 +82985,19 @@
     "source": "Kompas.com",
     "pub_date": "2024-05-11T14:00:00+07:00",
     "desc": "Berdayakan Masyarakat Desa, MHU Raih 2 Penghargaan dari Kemendesa PDTT&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "f4e504df7a43",
+    "title": "Kemendesa PDTT Apresiasi Konsistensi Pertamina Dukung Percepatan Pertumbuhan Ekonomi Masyarakat Wilayah Transmigrasi - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb2RsT1dubHNQaEhwS016STNrVzI5dVhab2Nic2laNFYyVnF2MUFBV0c1LW03TGFNZmpaemk4OVVxZjdTdnJvSHE2RWtuUWM5SlpxTHpMSm1iTHFvZUxDQzAzbE5zOU1fN1A5WllFTjR0YzJvYy1KTE5iajhWVU9ELTNqX2tYQUlTTkMxa3ppWkp6UUJCRDZncWc0TnRMQjBrem9OM09SWXYxY21OUFAyX05yOVpyVnBGQ3JJczFveXNWT29TbzNMNw",
+    "source": "Kompas.com",
+    "pub_date": "2024-05-11T14:00:00+07:00",
+    "desc": "Kemendesa PDTT Apresiasi Konsistensi Pertamina Dukung Percepatan Pertumbuhan Ekonomi Masyarakat Wilayah Transmigrasi&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "positif",
