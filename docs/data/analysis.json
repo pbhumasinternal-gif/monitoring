@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-04 10:01 WIB",
+  "last_updated": "2026-11-04 10:16 WIB",
   "days_analyzed": 30,
-  "total_checked": 1959,
-  "dominant_topic": "Dana Desa (806 berita), BUM Desa (514 berita), Kemendesa PDT (329 berita), Daerah Tertinggal (310 berita)",
+  "total_checked": 1962,
+  "dominant_topic": "Dana Desa (809 berita), BUM Desa (514 berita), Kemendesa PDT (329 berita), Daerah Tertinggal (310 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -12,6 +12,18 @@
       "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
     ],
     "cases": [
+      {
+        "title": "Bupati Ingatkan 154 Kades Baru Jangan Korupsi Dana Desa - Berita Cikarang",
+        "source": "Berita Cikarang",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
+      {
+        "title": "Polres Aceh Selatan Tahan Keuchik Gunung Pulo dalam Kasus Dugaan Korupsi Dana Desa - Serambinews.com",
+        "source": "Serambinews.com",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
+      },
       {
         "title": "Kades di Batanghari Korupsi Dana Desa Rp542 Juta, Uang Dipakai Judi Online - iNews.ID",
         "source": "iNews.ID",
@@ -46,18 +58,6 @@
         "title": "Kejari Batang Hari Tahan Kades Lopak Aur, Dugaan Korupsi Dana Desa Rp542 Juta - Jambiupdate.co",
         "source": "Jambiupdate.co",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "BREAKING NEWS! Kejari Batang Hari Tahan Kades Lopak Aur, Dugaan Korupsi Dana Desa Rugikan Negara Rp542 Juta - Jambi One - Jambi One",
-        "source": "Jambi One",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
-      },
-      {
-        "title": "DUGAAN KORUPSI UANG BUMDES DI MINAHASA - WARGA DESAK KEJARI MINAHASA SEGERA PIDANAKAN NL DAN LW, DIDUGA RUGIKAN NEGARA RATUSAN JUTA - mabes pkri",
-        "source": "mabes pkri",
-        "topic": "BUM Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x6000000, 0x81804d0, 0x802, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://f..."
       }
     ]
