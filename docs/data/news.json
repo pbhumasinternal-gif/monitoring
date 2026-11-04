@@ -702,6 +702,19 @@
     "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
+    "id": "849b1f4051fc",
+    "title": "Anggota BPD Diminta Awasi Penggunaan ADD dan Dana Desa, Bupati Nunukan Soroti Aturan Baru",
+    "link": "https://kaltara.tribunnews.com/kaltara/125206/anggota-bpd-diminta-awasi-penggunaan-add-dan-dana-desa-bupati-nunukan-soroti-aturan-baru",
+    "source": "Tribunkaltara.com",
+    "pub_date": "2026-11-04T08:38:00+07:00",
+    "desc": "Bupati Nunukan, Irwan Sabri meminta Badan Permusyawaratan Desa memahami regulasi agar pengelolaan anggaran desa berjalan transparan dan akuntabel.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0965664f4c28",
     "title": "Kemendes PDTT dan PLN EPI Bangun Ekosistem Biomassa, Dorong Desa Jadi Pemasok Energi Nasional - OG INDONESIA",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pVWRxRkxhajgxV05PM05XMmRCd0RLZnNnVjhkLUZTVjN6MmZFaC1MSXlvQ3RNTXJGMnlrVVlqZVJDRmVOblVZLUpGRXVkVkpVdDA5RTRBWFc1NnE1QVRsdHVGRFFZeXNtclVsb1Z1bjZLYU1SUXU5M1hrb1U",
@@ -817,6 +830,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "3570f7d6348c",
+    "title": "Kemendes PDTT & PLN EPI Bangun Ekosistem Biomassa",
+    "link": "https://rm.id/baca-berita/ekonomi-bisnis/333080/kemendes-pdtt-pln-epi-bangun-ekosistem-biomassa",
+    "source": "Rakyat Merdeka",
+    "pub_date": "2026-11-04T05:43:00+07:00",
+    "desc": "Kemendes PDTT dan PLN EPI mengembangkan ekosistem biomassa berbasis BUMDesa untuk memasok kebutuhan pembangkit listrik sekaligus mendorong ekonomi desa ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "fe464405c6d1",
