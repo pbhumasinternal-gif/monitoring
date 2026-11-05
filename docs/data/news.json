@@ -1,5 +1,18 @@
 [
   {
+    "id": "dedf0da4de53",
+    "title": "Strategi Badan Gizi Nasional Tuntaskan Makan Bergizi Gratis di Wilayah 3T - Prokalteng",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTW1rc25BVWRMRmx0OFphUHAtOEExeEJMT2RYVWpNTC1QTE1iSlV6dnR6cEF0M0p3ZGFYaC0yT1JFWkhSTE9EQVFQZi1tNnBoY2R2SkxfUkFBckphNHhTa3RiYWNrOFZpeGE1dDhPQzZUZFVSWTNrbWIyYmtkeVJSbmFBbWJtaF9OMnV5bUQ2ZVhnM25uWnVhUVFCdElua1VQQnFDV19qb0x6eFZlUUhROVBSWVVVZ3V0Y2RXN2ZNNlhpX3hlNlE1aWxPVEt4MUZJY0lvMA",
+    "source": "Prokalteng",
+    "pub_date": "2026-11-05T14:33:00+07:00",
+    "desc": "Strategi Badan Gizi Nasional Tuntaskan Makan Bergizi Gratis di Wilayah 3T&nbsp;&nbsp;Prokalteng",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "957f19403d95",
     "title": "Wamendes PDT: Desa miliki peran strategis percepat penurunan stunting",
     "link": "https://www.antaranews.com/berita/5833571/wamendes-pdt-desa-miliki-peran-strategis-percepat-penurunan-stunting",
@@ -208,6 +221,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "fa464a2bb510",
+    "title": "Unismuh Luwuk Kerjasamakan KKN Tematik Bersama PT PAU Untuk Dampingi BUMDes dan Kelompok Tani - Beritabanggai.com - Kabar Dari Sulawesi Tengah",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTmQ0M3FSQlQ0TXdzdkhpU1hHTmVicXV3dVVDNE5aQ21qbnFYNTl4TGc4WkQxTFhJNk5PTGJReDRNSi1ObVFmQzc5TVg5ZmRGajJpNzdUbUxMaVM0Z1pNN2RHV3F3UFhJY2pSeURLUlN3T2RzcVRXQk9zbHdHTDNNUS1reHVfRFNrVEFyNE5RNE1OdkpCZ1lzelM1cFNRcmxDWDgtNm96SkRGT053ZXplOElCTDlSeUhOR21fSU1SRnBVNlJNdHc",
+    "source": "Beritabanggai.com - Kabar Dari Sulawesi Tengah",
+    "pub_date": "2026-11-05T08:53:24+07:00",
+    "desc": "Unismuh Luwuk Kerjasamakan KKN Tematik Bersama PT PAU Untuk Dampingi BUMDes dan Kelompok Tani&nbsp;&nbsp;Beritabanggai.com - Kabar Dari Sulawesi Tengah",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5f1c13690171",
     "title": "Pekon Banyumas Bangun Pagar TPU Lewat Dana Desa 2026, Warga Diimbau Jaga Ketertiban dan Kebersihan - BeritaNasional.ID",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnM5YlhHS0dVRlNSdXVFMGViVjR6SW4wcGVoUzY0YjA5WXBMX0o4bk1QOEVqOVpQSE1xRGZKOUdvQWdoWXA4U0d6MGZySHNBenZpUmh1RG1walhKdzBjYWVpQUljUklWUzZ3OFpPbGVhUFBRM1F3cG9vc0hQcG0tYl9IR29kLUg4ZW14MFIxaVdxQXlPZVhYYzdvR1dJS1JQY01ndUhKYkZ1U1BKTjBSSWliVGgxcFE0Mnp6NVlRYlZ0dw",
@@ -310,6 +336,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "6f961211813f",
+    "title": "Bupati Nisel Tekankan Akuntabilitas Dana Desa & Penguatan Layanan Publik di Kepulauan Batu",
+    "link": "https://sumutpos.jawapos.com/sumatera-utara/2611050019/bupati-nisel-tekankan-akuntabilitas-dana-desa-penguatan-layanan-publik-di-kepulauan-batu",
+    "source": "Sumut Pos",
+    "pub_date": "2026-11-04T23:30:00+07:00",
+    "desc": "Bupati Nias Selatan Sokhiatulo Laia menegaskan transparansi Dana Desa, pencegahan penyimpangan, dan peningkatan layanan publik ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
     "id": "9b875d1ad49f",
@@ -94542,6 +94581,19 @@
     "source": "ANTARA News",
     "pub_date": "2016-12-07T15:00:00+07:00",
     "desc": "Dua Desa di Kutai Barat Tidak Bisa Gunakan Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9aadb3bb89f6",
+    "title": "Dana Desa di Poso sudah cair semua - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZWowbkw1YThBSkVyYUdLNDAtaDhYSVhMMlQ4d3lEMEpfUlI3WndwaC02MkJzc1FJVmlsbG5haERHNFRGb2pCNkI0RThWS2l2X1lEa2lqZ2JkNlRhck1LWVQtTEZpNFpmNk1QSUhXYXJzSEctbDkxZU1rS2gyMmwtMmxRU2M",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2016-11-16T15:00:00+07:00",
+    "desc": "Dana Desa di Poso sudah cair semua&nbsp;&nbsp;ANTARA News Sulteng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
