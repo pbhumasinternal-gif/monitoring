@@ -1,5 +1,31 @@
 [
   {
+    "id": "a6d72a2fd5ff",
+    "title": "Penambahan KBLI BUMDesa Berkah Amanah Bantarwuni #KompasianaDesa Halaman 1 - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1VZQWRsczBibVN5M3NsMEVfR3o2V211TmZuVnNtNW9xXzRBb3k4ZVNxY1ZUXzQxamdFMzl3T1hBMEN3b0JSa2hST1V3eWpRNk82MzJLc21Nb1E2dEtlMkF0RWxXMFB3aWpKdWJoV2pJMkNDWFF2Mkg4RGFTRnZ2U1R4aEpLRXdybFdvMHBzTnNINzZIZ05ha01hUmoyLTFJcDFOc1gtT1J4VnhncWNFdGZUYTFzNndDZnhDVklEY2NIZk5XYWdBZHZDRQ",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-11-05T19:35:17+07:00",
+    "desc": "Penambahan KBLI BUMDesa Berkah Amanah Bantarwuni #KompasianaDesa Halaman 1&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4e2d149b6d47",
+    "title": "Dampak Dana Desa Dipangkas, Gaji Guru PAUD di Kulon Progo Turun hingga Rp50.000 - Espos.id",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOEpwWENSZFY1am4wamRvOHhUN2Jjd0Jlc3JUbnRiX0VSZkd2M2ItcElWNndyMTF0RzFOOF9aOWNHRzFFYVk2RzFiS2N3ajFwdUFzZDFWRUhQSVdmelo3VXA5MlU3TEJxUVZpaWp2MU1vUVRnM0RfcDJaUHVBNk9HYVN6UndwSEFEU3BzYlBJemxGQVV1eDN3RFVFN0VjdGdTczRFNTJMaDgwMHhTb01OZg",
+    "source": "Espos.id",
+    "pub_date": "2026-11-05T19:28:37+07:00",
+    "desc": "Dampak Dana Desa Dipangkas, Gaji Guru PAUD di Kulon Progo Turun hingga Rp50.000&nbsp;&nbsp;Espos.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "5370064f01db",
     "title": "Kementerian PAN-RB Gandeng RRI Perluas Informasi Pemerintah hingga Wilayah 3T - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVQtVVNCamVKZlBzbTZXbzNOQ3d4bHRzWDFsdlJEX013cXBfeFZqMHVWX0xBYVU0WHlUN0dHdmdNc1Z4ZEk5dkNUTkc1aXdEdzJ6eDZHMW9GN1V5SlNkMThqbm1Dcm50MGc3a1ZRdUkyb1ZOOTlXSG5xQU90QmU3SlNYVXVGelpnenNHR3dNaExXakYweWtQTGRvUjBQSjhWcUk2MnRIaHM0RHB1NmxJNGZ3",
@@ -11,6 +37,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7c9ea26ecd42",
+    "title": "Dana Desa Dipangkas, Honor Guru PAUD di Kulonprogo Turun hingga Rp50.000 - Harianjogja.com",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0xGaHprb3hOM01jUnFmRkNZaUdGOTNCQzNPMkNtMld5SF9ESm02V3NHYkZDUkhPUEpoR1Q1cnItWjRXYVdmTlRnU3RMUERKQ2NaYWFGY2hVbWpuNFl2OHRtclExRGtwbU5LYWExNE1pdFB4U2plaFVKZG8zcnQwRFVlVGJEdktKSGJaajZzQi16Z2wzODZXUVpWNWhRRFY1aG1GNzd6RVUzdnRIY1MxRzhQWVJlVGsy",
+    "source": "Harianjogja.com",
+    "pub_date": "2026-11-05T17:57:02+07:00",
+    "desc": "Dana Desa Dipangkas, Honor Guru PAUD di Kulonprogo Turun hingga Rp50.000&nbsp;&nbsp;Harianjogja.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "33c8ab9158b7",
