@@ -572,12 +572,38 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "4aba24623822",
+    "title": "Wabup Belu Warning Kades dan Pendamping Desa soal Pengelolaan Dana Desa",
+    "link": "https://kupang.tribunnews.com/regional-ntt/986068/wabup-belu-warning-kades-dan-pendamping-desa-soal-pengelolaan-dana-desa",
+    "source": "Pos-kupang.com",
+    "pub_date": "2026-11-05T05:28:00+07:00",
+    "desc": "Wakil Bupati Belu Vicente Hornai Gonsalves mengingatkan kepala desa, bendahara dan pendamping tidak main-main dengan dana desa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c2c4e63ab3f5",
     "title": "Program Koperasi Desa Merah Putih Digugat ke MK, Dinilai Abaikan Musyawarah Desa dan Bebani Keuangan",
     "link": "https://wartaekonomi.co.id/read645957/program-koperasi-desa-merah-putih-digugat-ke-mk-dinilai-abaikan-musyawarah-desa-dan-bebani-keuangan",
     "source": "Warta Ekonomi",
     "pub_date": "2026-11-05T04:50:00+07:00",
     "desc": "Program Koperasi Desa Merah Putih (KDKMP) digugat ke MK karena dinilai abaikan musyawarah desa dan berpotensi membebani dana desa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a2811199be68",
+    "title": "PKS Tegal Kritik Pemangkasan Dana Desa, Pembangunan Infrastruktur Terancam",
+    "link": "https://www.ayotegal.com/tegal-raya/3417862176/pks-tegal-kritik-pemangkasan-dana-desa-pembangunan-infrastruktur-terancam",
+    "source": "ayotegal.com",
+    "pub_date": "2026-11-05T04:02:00+07:00",
+    "desc": "Desa masih membutuhkan sokongan anggaran yang memadai untuk mengejar pemerataan pembangunan dan meningkatkan kesejahteraan masyarakat.",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
