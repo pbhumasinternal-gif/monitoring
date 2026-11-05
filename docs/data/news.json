@@ -286,6 +286,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ac96523326a4",
+    "title": "BUMDes Tasikmalaya didorong terbuka soal keuangan dan terlibat dalam rantai produksi industri lokal",
+    "link": "https://www.msn.com/id-id/berita/other/bumdes-tasikmalaya-didorong-terbuka-soal-keuangan-dan-terlibat-dalam-rantai-produksi-industri-lokal/ar-AA2gOnxd",
+    "source": "Pikiran Rakyat Garut on MSN",
+    "pub_date": "2026-11-05T09:31:24+07:00",
+    "desc": "BUMDes perlu membuktikan bahwa dana dan potensi ekonomi desa benar-benar dikelola secara transparan serta menghasilkan manfaat bagi warga.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3a97185ad6b7",
     "title": "Kontraktor BTS 4G di Wilayah 3T Keluhkan Tagihan Ratusan Miliar Belum Dibayar - Suara Pembaharuan",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTU9SVl9mWUp5eUV0V0QxV1N0WGR2emNzcFR1MkRUWlAtYVp1cVBwVnIyQUk5anBIOUhxNTU1OEMwU2tIWFZOQjZfZ19oWHl2SGltQlQ1TjdIdl81eVZoWEtGTTJGeU1aWldVRldSVFIzdWcxR0owVjB5Q0tDcTh4c0hDQQ",
@@ -398,6 +411,45 @@
     "desc": "Bantuan Pertanian Mawokauw Jaya Beralih ke BUMDes pada 2026&nbsp;&nbsp;Koran Papua",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fb25f39465c2",
+    "title": "Bupati HSU Temui BGN, Dorong BUMDes Pasok Kebutuhan Dapur MBG",
+    "link": "https://radarbanjarmasin.jawapos.com/banua/2611050042/bupati-hsu-temui-bgn-dorong-bumdes-pasok-kebutuhan-dapur-mbg",
+    "source": "Radar Banjarmasin",
+    "pub_date": "2026-11-05T02:48:00+07:00",
+    "desc": "Bupati Kabupaten Hulu Sungai Utara (HSU), H Sahrujani melakukan audiensi dengan jajaran Badan Gizi Nasional (BGN) Pusat di Jakarta ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "231b62bca2c4",
+    "title": "Kapolres Soppeng Ingatkan Kepala agar Transparan dalam Penggunaan Dana Desa",
+    "link": "https://www.ujungjari.com/2026/11/05/kapolres-soppeng-ingatkan-kepala-agar-transparan-dalam-penggunaan-dana-desa",
+    "source": "Ujung Jari",
+    "pub_date": "2026-11-05T02:12:00+07:00",
+    "desc": "SOPPENG,UJUNGJARI.COM — Kapolres Soppeng AKBP Hari Budiyanto, S.H., S.I.K., M.H., memberikan arahan tegas kepada para kepala desa dan perangkat desa agar mengelola Dana Desa (DD) serta Alokasi Dana De ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "94ce88e6f45e",
+    "title": "Baru Dibangun, GOR Desa Cikopo Purwakarta Ambruk",
+    "link": "https://www.koranmandala.com/daerah/224910/baru-dibangun-gor-desa-cikopo-purwakarta-ambruk",
+    "source": "koranmandala.com",
+    "pub_date": "2026-11-05T01:12:00+07:00",
+    "desc": "GOR Desa Cikopo Purwakarta ambruk sebelum rampung dibangun. Proyek Dana Desa Rp400 juta kini disorot terkait kualitas konstruksi dan pengawasan.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
