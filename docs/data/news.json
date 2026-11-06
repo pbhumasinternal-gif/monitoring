@@ -1,5 +1,31 @@
 [
   {
+    "id": "bb4c16dd13df",
+    "title": "BUMDes Maju Makmur Sulap Tanah Kas Desa Ngasinan Sukoharjo Jadi Agrowisata Terpadu - Radar Solo",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU0hoWWY3WjluYTRBSHlCOEQ4Q2VrWFY3UkpDbGtCRXF1MDhhdXByUXc4bTMyTmVVc1V0cnhrcC14TkNvc2tQd01PcXllVVFjZ0dfWmtfaW9xSFlXX0ZXQ2R2NkpIMWs3RjJQTk9XQ3RUNUJEc2Y4ZjdTUVNFX0VISlhwdTRYSjJzRTNVNVBfcENRSnM1VmxtS2JZc2RBa29EUGJLdHVyX1hoZDk2cUtYUDJiUTJja2hobEJjUGNiSU4tR21UaXJVQUF5eVhMUdIB0wFBVV95cUxNdk1na2x1a1JuOVI5akVfbjFlRk5tSEZicWJwM3pIdXhWOEhjbG05REFwNzNwRFJ1MnE2YlFILTBYaktURzZnb0lGdHRBbHZmVC1HUVRGZ0hPYWhWM0Qwd1dleTVaUXN5c19qdVlPOW9HczZDRnF5M0NHWTh0eWJzZ2Q4el9hbTQyMzJxVzhvdUlhb05rTGJVSHQ4aXcwdHZuZFJHVl9DaTAzcXNDbFRnSDBackg1bGtzS2ZlbWFsU1hXOWtLb3Y3blNGOXBjUjB1bXlj",
+    "source": "Radar Solo",
+    "pub_date": "2026-11-06T16:31:43+07:00",
+    "desc": "BUMDes Maju Makmur Sulap Tanah Kas Desa Ngasinan Sukoharjo Jadi Agrowisata Terpadu&nbsp;&nbsp;Radar Solo",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9623c66efe05",
+    "title": "Polsek Lahewa Hadiri dan Amankan Penyaluran BLT Dana Desa Bulan Oktober-November 2026 di Desa Tefao - Website Resmi Polri",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRXl6ZEZBRWxyaThjXzhkTllyRzZDdWFUelVDTVNrZ3ZlSlhzbFE0NEtiSHotZm45VkxWSWcyd1BZZEVIMnBNNEloV1RMWUh0X2FsZDdmc01aRzkxQmZyNG1qdDJ1c0cxQXh0b2hDZWJwZ0V0V0pzd29QeDg1ZTFnWlRYUHhGTi1VSVJFT29rcUx4LWpiWkhqNkxjZmlUOVFSc1RBUEU0eXY4ZkNXbHpwbXBzTERXNzFJS2c4akNEanFDVnUxQ0hCaU1zR0JqdWw2UG1zNVhn",
+    "source": "Website Resmi Polri",
+    "pub_date": "2026-11-06T15:58:09+07:00",
+    "desc": "Polsek Lahewa Hadiri dan Amankan Penyaluran BLT Dana Desa Bulan Oktober-November 2026 di Desa Tefao&nbsp;&nbsp;Website Resmi Polri",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4b7d9260957a",
     "title": "DPRD Katingan Ingatkan Kades: Dana Desa Harus Jelas Penggunaannya - Media Dayak",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcU9fRlZESi1JTFlLdGprRlpJVFNzQWxUV0pCSThnc25Rb1ZZUFBPT2ZSdkRSZEFLZndjWHRfd00ySGtMTjBlLWNBUnhXVTZ4SDg4NUpMa1g5bWFQOUFHdW54RElrNnVFS0FoSTgzeHllZW8tQ0VSbk0yRk1oRDBCVUh0ZWFEZk5UamhPOUJRZGE",
@@ -179,6 +205,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5279444de90a",
+    "title": "4 Desa Dilatih Mandiri Hadapi Risiko Bencana di Bali",
+    "link": "https://bali.idntimes.com/news/bali/4-desa-dilatih-mandiri-hadapi-risiko-bencana-di-bali-00-r544s-h56y6w",
+    "source": "IDN Times Bali",
+    "pub_date": "2026-11-06T01:03:00+07:00",
+    "desc": "Desa Dilatih Mandiri melalui pendampingan pengurangan risiko bencana di Bali. Simak simulasi, pelibatan warga rentan, dan penganggaran desa setempat.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
