@@ -1,5 +1,31 @@
 [
   {
+    "id": "9ea4fcf58d6d",
+    "title": "Minta Perlakuan Khusus Wilayah 3T, Wabup Meranti Suarakan Tantangan MBG di Kepulauan - AmiraRiau",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQy1QUHE3ajRpbDhvb2pWU3ZJSWU3T0NvbjZ2dlFBX0U2SmhBWnJTRjNKeVVrZk1SaU5RSjl5d2hDRjgta3RqUlRkWEl2UG15d2IyNDRhNS05YjJ2QzNybnNKaDgteVlVcm1Ld0JOVEVld2FZYndhaU1PVkloVTk4eHRRQ0hfbkJtODU5a3ljZkZaYlRwQ3BncmdzSWR2QlZZUko5QVc0dUY",
+    "source": "AmiraRiau",
+    "pub_date": "2026-11-06T19:09:52+07:00",
+    "desc": "Minta Perlakuan Khusus Wilayah 3T, Wabup Meranti Suarakan Tantangan MBG di Kepulauan&nbsp;&nbsp;AmiraRiau",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c2968a03c4b8",
+    "title": "Cegah Penyimpangan Dana Desa, Kajati Jateng Perkuat Peran BPD Lewat Jaga Desa - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUdtVjhTd1dSQXo2OTdfajVQUE9LS041OGV2QVdOMlQtSnhXNHVCRUVvODBrZC1iMG8yLW1uM0lFc0VVUWlBWTJ1UjZEZk4zQnh4ejV3UHN1SVFFczUyb3Q3LTc3WmxYc2ZNRlQ3cUpianY3aXd3UFVoS2hRWUdId0l3YjRmNExlRWhMQjV5NVNrb0lpMTg0Q3JaQ1BPNURfOV84TTZoaDJ0TmhJX1F5dFdRaUQ1V3pK",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-06T19:00:00+07:00",
+    "desc": "Cegah Penyimpangan Dana Desa, Kajati Jateng Perkuat Peran BPD Lewat Jaga Desa&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 6,
+    "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
     "id": "c1c63af81073",
     "title": "APDESI Nagan Dukung Penerapan Aplikasi Simpadu-Nara, Cegah Korupsi Dana Desa - Serambinews.com",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVW5vUTAzeXJVYXZfTVYzZnM2RUZtZmNwWTdtbGwxTGpyLWJtaDJNSkIzdnQ0bEpJeXJFZkVHaWQ2LTFjODE0S3VqTHhYRHZETklvR1licVN2Z19jYnl4ZXcxUXh6T0d3dXRHV29jNFlxdVluLTYta3JBYVY2d3dsNE5mQ3VnQktsMUJIb0VyTTlsc1pXWnhWR042ZU9kLXEzbFVMRkFUY0RiSExFWmNSb3BwWXdLQUl6YXN6Wg",
@@ -242,6 +268,19 @@
     "desc": "TKD Grobogan 2027 Turun Berimbas Alokasi Dana Desa Dipotong Jadi Rp96,07 Miliar&nbsp;&nbsp;Harian Muria",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "663171c36924",
+    "title": "Dana Desa Dipotong 50 Persen Biaya Kopdes Merah Putih? Ini Penjelasan Mendes PDT - telisik.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZEFqNEZaWWtNb3ViWjdGc3dfOGxPQmVFdktsdjBMeDM3b0F1aDcwLWg4bjc3NWh5NXBmTHFzRVpZX1NXd0pxVTRsTzVuN2dhOXAzV3czTTFWaGJpekI5UkMwYndWSEF0US1aQkZjQXI5bDVlMEZ4aEZuWUlQOW5EejZBVExMZW8tR3lHRGtMV0FDLWVqRGdjaWlGemRPSDRnOW54OGxpZURScW9mM2dURHJn",
+    "source": "telisik.id",
+    "pub_date": "2026-11-06T10:54:08+07:00",
+    "desc": "Dana Desa Dipotong 50 Persen Biaya Kopdes Merah Putih? Ini Penjelasan Mendes PDT&nbsp;&nbsp;telisik.id",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
