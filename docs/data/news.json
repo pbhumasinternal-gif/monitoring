@@ -169,6 +169,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d417055d0f89",
+    "title": "Polemik Dana BUMDes Kauman Comal Memanas, Pemuda Tegaskan Tak Ada Kaitannya dengan Pilkades - Ketik",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSVd0Vzl3VjNmaW9DQ3M5MGljV0dIelNqSUtjSU5kTGRTNUtSR3RHYUc1NVI5ZnRkYmdWRXBlczNxcWowY2VkdVh1bVlFOGRZampkMjhwZ2hHUXo2WTBuNHZPMm5zX0hoREo0NTRXSWxSd3RsVFRSdG0wdlctWEtuTm5PeGVMSUEwVWRNMV9odFVvUWo4S3lmbnZDUG9Vd3VGSTFKV0xMZXN4YzdQbms3SjlNT1k3b2NhdXhQNDRsZFhTd9IBsgFBVV95cUxNT3JvVVFISmppaVA5MExDVXJibEs0S2JoQmFfTzF0bmJXVUdRMXZqZ1dtRkRYa2lzOHZ2Z1Nic1ZaMXRRXzIxakxvamhOWndFYUZXMEpxYkczTVhvd3k0UXoxVktxUVhCNmpQNVNQWkczQkFqcG5mREZzbklfa2QyX21xY1R5dElvS1VWY1ZpMktja3B5amt1VWJ1UVVXN3dXazdoT1B5cTJUSUZmSTR6NHB3",
+    "source": "Ketik",
+    "pub_date": "2026-11-07T01:47:00+07:00",
+    "desc": "Polemik Dana BUMDes Kauman Comal Memanas, Pemuda Tegaskan Tak Ada Kaitannya dengan Pilkades&nbsp;&nbsp;Ketik",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
     "id": "5330052335e0",
     "title": "Lantik 154 Kepala Desa, Bupati Asep Surya Atmaja Tegaskan: Jangan Khianati Amanah, Kelola Dana Desa Secara Transparan! - bintang-save.com",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSGY2OFFpUTlkbElQd1dCQmZGb0NySngzZDhRcTJBajhCQzhNVjI2eFJQTHg5TFBfV2JHTmhtUkxQcWVXM2NTRGotNlpVcU93Si1hS3pqRmd0ajJ3VUVrekFKVGhMbTQtb2xMTlh0a094VF9JRENnZzR1bUVJT1hCdmRTdFRXaTZEdm1VejlaRUFpRUpucUNLLUdMYllVMXE0NzV1Y3JGbE5WN0tqc3JfcjRFTWg3NDZTLVE3b3lTUTdkOW5oa3RMRWVrZ254bm1kMFloTllnRlBoLXQxeHFBdS1UandBVXlrS29JV2NSWDZVdw",
@@ -71276,6 +71289,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "eff038bb5d2c",
+    "title": "Kolaborasi Kemendes PDT dan Astra Perkuat Pembangunan Desa Lewat Program Unggulan",
+    "link": "https://www.merdeka.com/peristiwa/kolaborasi-kemendes-pdt-dan-astra-perkuat-pembangunan-desa-lewat-program-unggulan-529804-mvk.html",
+    "source": "Merdeka",
+    "pub_date": "2026-04-05T00:00:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) menjalin kolaborasi strategis dengan Astra untuk mendorong kesejahteraan desa di seluruh Indonesia. Sinergi ini berfokus pada ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
