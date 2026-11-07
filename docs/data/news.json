@@ -1,5 +1,31 @@
 [
   {
+    "id": "3bd57fef0935",
+    "title": "Pemandian Kawah Merah Bumdes Karang Tengah, Berkhasiat Untuk Kesehatan - wwb.co.id",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT3c3SFpwTTd3c2s2a3B5TFNKY1QxRWp2OXlDYUtzTnloWFQwTy00VVlaaC1SZUxoVnFiODR4SGdXTExXRnNPelJxd3dGRndGX3NtNV9MTTZMczVLVDdKRTRWVlhFMFNnNWtRVV9naWduc0s0bzgxNm41X1FGSWxGUzBnQzdOOUxzaTBGWV90c0I",
+    "source": "wwb.co.id",
+    "pub_date": "2026-11-07T16:48:00+07:00",
+    "desc": "Pemandian Kawah Merah Bumdes Karang Tengah, Berkhasiat Untuk Kesehatan&nbsp;&nbsp;wwb.co.id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b043829070d8",
+    "title": "Dugaan Penyelewengan Dana Desa, Cipayung Plus Desak Polres Buteng dan Inspektorat Periksa Kades Morikana - Bursa Kota",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdEZfTlQ2aU5GaHVmTllJOFM3SncyMWp1cWFScmZFM1o4OU83eXFhTTBIM293UWg3TWNpRS01ems2R29PNV80cWZVMjhDcVd6Zkg4TkVFOS1hay1tN0JKNzI3akVHbXZQRnR4Z0pUWEltVTM2VmZvWHZWT3gyQ3lqWkVaTlNXVTBRNXVrOThqMzZrS3FlT181S3dZMGp0dmF4V0FBamtRLTJPUDZ5bElTdWJldXA2V3ExS0NXS2JTMzE3NllLUmdkX2tQOVg",
+    "source": "Bursa Kota",
+    "pub_date": "2026-11-07T16:05:59+07:00",
+    "desc": "Dugaan Penyelewengan Dana Desa, Cipayung Plus Desak Polres Buteng dan Inspektorat Periksa Kades Morikana&nbsp;&nbsp;Bursa Kota",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "f9d73865d738",
     "title": "Anggota DPRD Barut ingatkan Kades dan BPD susun Perdes APBDes secara transparan - ANTARA News Kalteng",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckViSENVVm9aZExHSTA4YzlIOVFJNXJRS3JqUmg0MTVoLUMxdWdXbXVJMlo0bV8wLTJETDlicVBNeVhHS09ZTWwwLUV6SmpTcFdIdUU2UXlIellqcHR3LU1FaDQ2cWw5RXlOX0dzU192ZEdyNlFQWndlYk9uT1ZvQUlkWmI4RGpwWFZ1akVROUJ6ekhXRDRzQ1lvQUF0bEx0Mlk1VTl4RDgyUWg5bVpEaDhZcDVMWVo3X0JORXpTLVVydw",
@@ -232,6 +258,19 @@
     "sentiment": "positif",
     "sentiment_score": 6,
     "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "9a17c4fe1a00",
+    "title": "DPMK Berau Dorong 8 Kampung Segera Lengkapi Surat Pertanggungjawaban Dana Desa",
+    "link": "https://kaltim.tribunnews.com/tribun-etam/1173128/dpmk-berau-dorong-8-kampung-segera-lengkapi-surat-pertanggungjawaban-dana-desa",
+    "source": "Tribunkaltim.co",
+    "pub_date": "2026-11-06T20:41:00+07:00",
+    "desc": "Dijelakan Kepala DPMK Berau, Tenteram Rahayu saat ini masih tersisa delapan kampung yang belum menerima anggaran tersebut karena terkendala administrasi Surat Pertanggungjawaban (SPJ). Ia menjelaskan ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "29fdbaae86f9",
