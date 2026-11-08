@@ -104,6 +104,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8d43c6e0960f",
+    "title": "Babinsa Lilimus Kawal Program Revitalisasi SMK Daerah 3T",
+    "link": "https://gentra.co.id/2026/11/08/babinsa-lilimus-kawal-program-revitalisasi-smk-daerah-3t",
+    "source": "gentra.co.id",
+    "pub_date": "2026-11-08T04:28:00+07:00",
+    "desc": "NTT-KUPANG – Dalam rangka mendukung peningkatan kualitas pendidikan di wilayah perbatasan dan daerah tertinggal, Babinsa Desa Lilimus Koramil 1604-03/Naikliu, Kopka Anselmus Koke, mendampingi rombonga ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f8f017578c4b",
     "title": "Gunakan Dana Desa 2026, Pemdes Merpas Benahi Jembatan Akses Pelajar dan Warga - detailnews.id",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUNfWk9DMkxaNExyZ2tEemdnOVFHdlB5NlJyaWU2THFVMS00TVlKVV91OGh4dDViMVZURVkxdDFwTGE0aVRPLWxzLW42SnBfTVloend6bW5BNkJwdjBfV2tzODZoNkg0Y2lUODNERFJCMlNrQ3dTb3RGVDJIY1RoSmFVWS0tMDVwVkpPMmZ6ZmNvMjg5MVNzZUFSNWp5ZXFx",
@@ -778,6 +791,19 @@
     "sentiment": "negatif",
     "sentiment_score": -10,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "c2276ab86999",
+    "title": "Pilkades Grobogan: Dana Desa Turun, Posisi Kades Tetap Diperebutkan - murianews.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNalVJb1o2cms3Ym9HQTdBSE5oRFZQbFZ4YkpNMVFKSlBnX2ZWSkJGa1lJVnBScWVYSWZPb2RmUC1LQ0ZkWVBBX014M2l0VGxYUkhaTG5vLUhKODFkY25ZRHE2ajA1aHlXWjl0Mk96X3pmdGdQbUQtdHlVSzNSaXcxOUUwQnB1QmVXX2RUTzNBcWpFSEQyUGwyWUZJQzZpR0xfdV9DcTg1VmZaeUJSaEJTSURqQW0",
+    "source": "murianews.com",
+    "pub_date": "2026-11-06T16:45:00+07:00",
+    "desc": "Pilkades Grobogan: Dana Desa Turun, Posisi Kades Tetap Diperebutkan&nbsp;&nbsp;murianews.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "bb4c16dd13df",
