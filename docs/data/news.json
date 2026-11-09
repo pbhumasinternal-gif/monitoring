@@ -1,5 +1,18 @@
 [
   {
+    "id": "88efd21cd9e3",
+    "title": "Kemendes intregrasikan program bangun desa dengan KBPP Polri - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXJZeVhNdnB3Z0c1TGs3MDBJS1lwbk1rV09PZ1VGSzNpOWNPZnhsd0pJeDU0UVJaOUJjbXE1cjZ2eGl4Y1dSYk9vYUVmV3pndFhlNWFiRGhRNU9kSkhPOGU1WHpmUlhwZk95Rm1EQXo3SFpLMHJ5WndiVDVwdHhiZV9PaUJMX3pZUmduQ0hPWE5xZzhkX19vRl9WdlphWXJIMDJYOQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-09T22:37:27+07:00",
+    "desc": "Kemendes intregrasikan program bangun desa dengan KBPP Polri&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7126af7833a7",
     "title": "Empat Hak Keuangan Desa Belum Cair, DPRD Kukar Siapkan Forum Bersama OPD - Niaga.Asia",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1pnaTZwc0ZJWEJSaGdaSzNaMHlOVjFVMWxyNUctQmgxZ0xJdGhKV0k0SURjN0taYk45eVdxYlFJbUViRnp4enNGdlQ4ZUpRRE9XTEFwejk0S2ctZ1ZpNVF4TzJuUkRvRjg2YjNNUTd6SDVwMlVLNnViQVhDaUFvNFNTdXdxUkpYYV84WnhlTUxvbEVIN1A3QmhSaw",
@@ -138,6 +151,19 @@
     "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) mengupayakan percepatan peningkatan status ...",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "558edbde4199",
+    "title": "Inspektorat Aceh Utara Turun Tangan, Dana Desa Punti Glumpang VII 2022–2025 Diaudit Khusus - satupena.co.id -",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFlJc1lRYjNJaFFDY1hxVnI1UmRucTUwMWZlNmxDdjJfQmFCOEFybk1pZ2E0aG5ld0hTbGR3Nl9ZVlZoMWJFSzlJWGhvR2hQVUpfbHVRT3ZLdWxENk1xZm5DUkNFRk96M29SQnBFU2w5TGpxZDJRNXp2dVhDTjBOMEpVVk5ObDdRRFQ3R05LQ3RqV0szOVQ2NnN6dUxYQzMtLWd1MzlBOVFESlRhR2QtdVFKSQ",
+    "source": "satupena.co.id -",
+    "pub_date": "2026-11-09T20:55:44+07:00",
+    "desc": "Inspektorat Aceh Utara Turun Tangan, Dana Desa Punti Glumpang VII 2022–2025 Diaudit Khusus&nbsp;&nbsp;satupena.co.id -",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -504,6 +530,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "83545c6cc125",
+    "title": "DPRD Barsel Dorong Pemda Cari Solusi Hapus Status Desa Tertinggal bagi Desa Gagutur - Dayak News",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcnN1VWZFWlg1Ql9mbWdqbjBaYzFuNlJickxXZEZSSHBVX3RyZ2d5UkpxYkZGT3pqTllTWU8ybDV1eUhqZl8wRVBHcWdhUFR2ZFc0MU4xekNBY0RNSkx4X1dvU3g5RFg5Sl9vQk9rajl0aGNvUXh1V1ptdGtWWG4yZmpDeEVWZDVxbGdYbDRDMHFkam9fNnp6aGdyWWkyZXJSZmdfdEVqYktHMi15RDBZSkJYY2RGdlJwT2trcFY2ejd1WjB4",
+    "source": "Dayak News",
+    "pub_date": "2026-11-09T15:52:02+07:00",
+    "desc": "DPRD Barsel Dorong Pemda Cari Solusi Hapus Status Desa Tertinggal bagi Desa Gagutur&nbsp;&nbsp;Dayak News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
