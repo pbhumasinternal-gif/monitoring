@@ -1,5 +1,18 @@
 [
   {
+    "id": "bf7d91830f5c",
+    "title": "Diskum Batam sebut 24 bangunan Kopdes Merah Putih rampung 100 persen",
+    "link": "https://www.antaranews.com/berita/5843679/diskum-batam-sebut-24-bangunan-kopdes-merah-putih-rampung-100-persen",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-10T13:25:31+07:00",
+    "desc": "Dinas Koperasi dan Usaha Mikro (Diskum) Kota Batam, Kepulauan Riau (Kepri), mencatat sebanyak 24 dari 42 bangunan gerai ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9728bcbff369",
     "title": "Baru Menjabat Satu Periode, H Abdul Latief Bawa Desa Mangunreja dari Status Desa Tertinggal ke Desa Berkembang - radarbanten.co.id",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYlQ5X2x6aTZOYzNPRU1vdmVTckhJbllYNWZwb0o3RUVEZk9QTW14Z0xmN0hHcHhJc3pWZXo0bnNUeWJtNGUwc1RZTEgxS1BqWjd3WVlRQVV4U0tqbk4wQ2RnTnRJVEtDODYybmVwdzI3eDB1dEI2YWlaSXlQZF9uUU1tRXpIbTdFWlVfQ09wbXUweXNrMHJ0VGZVTENGYmhUSTVYazVwcnppbm9lNmZXMVR1akJlbjJBMEUwQWhGT2NGeDhhQi1ncjNUbDh3emNiR1VhWjVZZXk4eU9lQVpCM19YZFFNQQ",
@@ -10,6 +23,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "43aef82de138",
+    "title": "Kontestasi Pilkades Tegalharjo Bakal Seru, Petahana Berhadapan dengan Eks Ketua BUMDes - Pemerintah Kabupaten Wonogiri",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX3k1MDdlSTB0T0VlaUsyNW4wZDhNa202NmdtQU9LZjVVXzdSa0dSelQyRWNfSWdWT0xaS3JwOG01Wld3d0Nyb1JBX00tQVAwWTRhMUxjdUxCY1ZfUnNabXp0YkFic3ZmYUxsV2RXSE1oSTM4UzRrbEpGRHZDSXBYeFYwaXJ2ZEZjZURFRHlZeDFWcjBZUk5leGZHTER4V0RyVC1Rb19fQnJLYnRIcTR3RUdR",
+    "source": "Pemerintah Kabupaten Wonogiri",
+    "pub_date": "2026-11-10T12:46:37+07:00",
+    "desc": "Kontestasi Pilkades Tegalharjo Bakal Seru, Petahana Berhadapan dengan Eks Ketua BUMDes&nbsp;&nbsp;Pemerintah Kabupaten Wonogiri",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -359,6 +385,19 @@
     "desc": "Empat Hak Keuangan Desa Belum Cair, DPRD Kukar Siapkan Forum Bersama OPD&nbsp;&nbsp;Niaga.Asia",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7db2568fa498",
+    "title": "Kemendes dorong pemerintah desa punya website, wujudkan akuntabilitas",
+    "link": "https://www.antaranews.com/berita/5843611/kemendes-dorong-pemerintah-desa-punya-website-wujudkan-akuntabilitas",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-09T22:09:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) menyampaikan website desa merupakan wujud akuntabilitas pemerintah desa kepada masyarakat ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -89763,6 +89802,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Pemberdayaan Masyarakat"
+  },
+  {
+    "id": "fc1db81dbe4c",
+    "title": "DJPb Papua Barat: Penyaluran dana desa 12 kabupaten Rp514,079 miliar",
+    "link": "https://sulteng.antaranews.com/berita/273474/djpb-papua-barat-penyaluran-dana-desa-12-kabupaten-rp514079-miliar",
+    "source": "sulteng.antaranews",
+    "pub_date": "2023-06-20T09:03:00+07:00",
+    "desc": "Kepala Seksi PPA II A Kanwil DJPb Provinsi Papua Barat Ardyan Gulit saat diwawancara di Manokwari, terkait penyaluran dana desa tahap satu tahun 2023 untuk Papua Barat dan Papua Barat Daya, Selasa.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "62676add6dfe",
