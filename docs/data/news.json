@@ -78,6 +78,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "cdcf8a0a71c0",
+    "title": "Di balik sinyal, ada dedikasi yang tak terlihat di wilayah 3T Sulut - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT0ZwOU1NcG1TR1Mwc01CREV0NW9hU2NRb1NXM1dkLUR4NV9ScTJMTmdmNk91aGZvYjZtMVF5engwMDZmNzZFdGVXSzg2alM0b2l5QjZEUHE2YnRiWk9QWWlmME01Q1k1bWFDMjVSSjA3ajIxNzY0UnBLSDFqZ3dHckdVTlF0eVctY3pMdGFoS2FtYnZFanZJOWhMOHd3aFhObHpLYTFjRkJYZzdES0xn",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-10T21:34:43+07:00",
+    "desc": "Di balik sinyal, ada dedikasi yang tak terlihat di wilayah 3T Sulut&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3cf4a4d4963d",
     "title": "Kemendes PDT Gandeng B-Universe Kembangkan 75.266 Desa - BeritaSatu.com",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWNHdXdHTXUwZDZ4X0dFVDBDaVZ4bEl3Yy1MWEFQV3k4eGV4YU95V3hqZFhMUGNLRzVPa3FqbjJva2lWWWFIOHMyMExWdXJkOERZekFmU291RlZER1dnQlh2TF94NHZaallyUWFpSkxoQkdaOS1ibEVKVVV2VG4zYVFEVjNyeDBRd2ZHaGk2NW5Dcl9YRW5rbTZzaG1vdw",
@@ -1971,6 +1984,19 @@
     "desc": "DPMD Kukar Dorong BUMDes dan Kopdes Merah Putih Saling Menguatkan&nbsp;&nbsp;Kaltim Faktual",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f6eb6a780dda",
+    "title": "Berita Video - Desa Leosama Belu Alokasikan Dana Desa Berencana Rabat Jalan Masuk Dusun Korbau - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZGx1OWVENWRIX0Q2cG1IbWxiNE55OFZOZVZlNkdmYjh1V2lMX25TMmhQTnh0ZGJKMzhBMXc2N05jS1lYcUw2MV9Bckt4c2lvdGFsLUNKZlFKNkZFQndySjRxejZobTROcEtmNmdxR0owNGdJdDhDVkpKTnpzVWFvLWpzamh4YlJ5aXpFWFdLb2ZoM18yVzJrSGdNc3FvNHVaemFCRnI2S0pDM0VOSWVjbTV4S012NkxPRzNHTGdxTXdfQQ",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-08T19:37:00+07:00",
+    "desc": "Berita Video - Desa Leosama Belu Alokasikan Dana Desa Berencana Rabat Jalan Masuk Dusun Korbau&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -91531,6 +91557,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "5ecfc976602b",
+    "title": "Jabat Direktur di Kemendes PDTT, Dimposma Sihombing : Jangan hanya andalkan APBN bangun daerah tertinggal",
+    "link": "https://sumut.antaranews.com/berita/511359/jabat-direktur-di-kemendes-pdtt-dimposma-sihombing-jangan-hanya-andalkan-apbn-bangun-daerah-tertinggal",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2022-12-02T19:56:00+07:00",
+    "desc": "Direktur Penyerasian Pembangunan Sosial Budaya dan Kelembagaan pada Direktorat Jenderal Percepatan Pembangunan Daerah Tertinggal - Kemendes PDTT, Dimposma ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "ed74f3073fab",
