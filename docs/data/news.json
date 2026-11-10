@@ -1,5 +1,18 @@
 [
   {
+    "id": "bc022ff1f1b4",
+    "title": "Cegah Penyimpangan Dana Desa, Pemkab Klaten Tekankan Transparansi dan Pengawasan - Lingkar TV",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWlpZSmw5M081OTlpWE9FM21rRk55UXE5X2RBRUtvSUczTjJpUDFVdUFrN3k5LTNOTHF5Z091SWJzNkR3Z1pCUlhBUXVIaWxaSk5pTFc1YXRtSWx6cEhKdzJlMjhELU9iUFZ5X2RIbmJJMlJHT2xtbEJPazI2cVk",
+    "source": "Lingkar TV",
+    "pub_date": "2026-11-10T19:32:44+07:00",
+    "desc": "Cegah Penyimpangan Dana Desa, Pemkab Klaten Tekankan Transparansi dan Pengawasan&nbsp;&nbsp;Lingkar TV",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 6,
+    "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
     "id": "efe1eab27ccf",
     "title": "Kemendes PDT Dorong Seluruh Desa Miliki Website untuk Transparansi APBDes dan Peningkatan Pelayanan Publik - pantau.com",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcko0RFY4bE9UREp2VDR2eVpfQk8yUklJajR6WXVrbl8zWXVIcFVUZ0VCaVVOOFE2aTFkM3B6RDBqMkZETWVubDdCRlBlZEZSeHNaWmJybi1yN3NPcEtFallBejllX2xwc0V4b2V2bXJ0SUtSNEhGLUZRTXhZZm9od2g5VzFZdHdxUTJjamFWX1N6enEyd2toUnNsSm5IbGFCVzRLVHJWTzNJUGQzaGdKeXEtbUxHTWFTVEdzcS1nNHVyWEIxM0RBVEhjRURlcFVFN0NsU2FhR2JuVzJXM3c",
@@ -141,6 +154,19 @@
     "sentiment": "positif",
     "sentiment_score": 3,
     "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
+    "id": "85c2eb4a3cce",
+    "title": "Kutai Barat Resmi Berstatus Kabupaten Maju dan Bebas Desa Tertinggal - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0JaR1B1cWdQS2p1cFh6eFprR0tUVUNRNUphUE8wZG42Ty1IT1hQVEFIMzYzb3FxOGdXY1hCNUtWTktxeTJqc3V5dG5aMmRuZ1FLcHBzVHlQRnBTUmNlYXJ3UVFtNldySjVuQzFYRmxmTFoxc3ViQ2ZNeEk5dVkyVngzUW1mUU1xMlJOVjY1NTFIVkNIWXFhVnRFRUVKb3FyYkdrdXBIMXFoaXdqVk1ZMF9HZw",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-10T15:45:00+07:00",
+    "desc": "Kutai Barat Resmi Berstatus Kabupaten Maju dan Bebas Desa Tertinggal&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "a387ed49320c",
@@ -541,6 +567,19 @@
     "desc": "Kemendes mengintregrasikan program bangun desa&nbsp;&nbsp;ANTARA News Mataram",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f68e30a52aa7",
+    "title": "Bahas Ketahanan Energi dengan DPD RI, Wamen ESDM Perkuat Peran Daerah dalam Percepatan EBT",
+    "link": "https://www.antaranews.com/berita/5844735/bahas-ketahanan-energi-dengan-dpd-ri-wamen-esdm-perkuat-peran-daerah-dalam-percepatan-ebt",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-10T04:38:00+07:00",
+    "desc": "Dari panas bumi, PLTA di Kalimantan Utara, hingga listrik bagi desa-desa di wilayah 3T, pembangunan energi tidak bisa berjalan tanpa keterlibatan daerah.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
