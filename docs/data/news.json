@@ -1,5 +1,18 @@
 [
   {
+    "id": "50bf7c651370",
+    "title": "Dana Desa 2027 Terancam Kembali Dipangkas, Kades di Jombang Resah - FaktualNews.co",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWdxVncyeUpmd3p5SnFaWF9TVnFWMk9YNFlxMXBuay1wU3ByckVzYmlhQVM2MWtXVU12RXd1Wi1uRWo5NkhiLUtPNXdoUnZEX2lDMjBmcUdYYVZtSGZrRlA5empmdDNOenVRS3FhR0lFMGFFX19YVEJJRWpIZDhNN04tdkVrWGtIb0lSUVJyNWhiUG5tbWR5MFlZMkdlc0xhZ09fUmh0b25Nc0pM",
+    "source": "FaktualNews.co",
+    "pub_date": "2026-11-11T02:57:00+07:00",
+    "desc": "Dana Desa 2027 Terancam Kembali Dipangkas, Kades di Jombang Resah&nbsp;&nbsp;FaktualNews.co",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "95c6f9ff8633",
     "title": "Satgas MBG Aceh Singkil Minta BGN Segera Aktifkan Dapur di Wilayah 3T - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbVQ4VHNhanlQZkYyaDhUWHBjajNmNERDUFZiOC1VMzg2amlCdWMxNzBrM2RUanEyZEJFLUd2eEN0T29wbzV3R0g5TW5lUjF6RDNPQXJVY3lacnV2UjFqaC11NFBXQ1hGZWg1VzVWTGdrM2dHaEVtbmtOaXNJWm1zNDN2eVdOUlEtQkxyZ2twYUk0b0lsbkdNWDhiR0luNnFGbmwxa3RWanVhajcxTlZlWUJ5bjRyaWgwN3c",
@@ -307,6 +320,19 @@
     "desc": "Wabup Tegal Dorong Perluasan Greenhouse Melon BUMDes Tembok Kidul&nbsp;&nbsp;korantegal.com",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "123ae67b5813",
+    "title": "TINGKATKAN KAPASITAS APARATUR, DPMD PPU TEKANKAN TRANSPARANSI PENGELOLAAN ANGGARAN DESA - KPFM Balikpapan - KPFM Balikpapan",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTWlfb1g4U0kxUlNMakI4dmhDRFEtQVNZdkk0UXBOVERnQ0ViaS13dk9VaTU3S1plZzRlb2xTbXE4Ul9OOUhhek1sUUwwTVhoSEwxWGV2WF9aWnhaMkFLQVZDcTAzZHZmRDVRRVVkU0pFblRrSVI4eXo3WGUwN2U2bEUyaUNDUWQ3MENfYndwQm1Rblp4N2ItbEg3R192UmExNFpsSW5yUEUzM2k0Y2lOdUdld1VkZGFaeTNpTlVTUk9pejjSAcgBQVVfeXFMTnB4U3Q5NXVTd21MbHdETVMzQWxPeGVFX0ROU0l0eHdsN0RQZWNPU0xMV1VYbC1wOVBndGc1WG1SNFp6Z3J2LWIySDJTQXcyQmhzMkRTY0kwb1NaOGtlaGdTYWJXZVJoSGRIRWd2V0FsUlRIZnp0dWwycmtHU1VOSDd3WkxJQ2lnY1E2QlhlNThndHlGLWlDQUF2N0lydllNRzQtYVdoTnNkYTg3a1h0b0luWE1nMy1ESVBkXzJWSUtXOU96elI5VzQ",
+    "source": "KPFM Balikpapan",
+    "pub_date": "2026-11-10T16:33:44+07:00",
+    "desc": "TINGKATKAN KAPASITAS APARATUR, DPMD PPU TEKANKAN TRANSPARANSI PENGELOLAAN ANGGARAN DESA - KPFM Balikpapan&nbsp;&nbsp;KPFM Balikpapan",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -70546,6 +70572,19 @@
     "desc": "Gunakan Dana Desa, Dedi Mulyadi Dorong Penguatan Masjid Kampung di Jawa Barat&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b9e004444dda",
+    "title": "Gubernur NTT meminta distribusi energi menjangkau hingga wilayah 3T - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeUhhaUFtSUo2ZXpzN29RUTZGQ19mUXJRTGVaUURMX1NWNmJQT0pEUjNNUjIxOE1YUEVYaDlzR2lMX21GWnhnazY3UGlBaXpSZWloUUthbkdyVWs3cHV0cWg4Mm1LQlAtZS1PNTRBVVNWYjdvRU9HNi1XU0RVaXVIdWNIbkxyRTQxcEZuMGNySS00MlZjbnVzS2NUcEl3NV9kbWpEazgtclplU0xYdkdENw",
+    "source": "ANTARA News",
+    "pub_date": "2026-06-10T14:00:00+07:00",
+    "desc": "Gubernur NTT meminta distribusi energi menjangkau hingga wilayah 3T&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
