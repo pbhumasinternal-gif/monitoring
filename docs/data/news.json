@@ -1,5 +1,31 @@
 [
   {
+    "id": "7bf35728ee6d",
+    "title": "Dedikasi Teknisi Telkomsel Jaga Jaringan di Wilayah 3T - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWEzdDlIVlpvSWR1TVp1SlcxNFZFT2Z3TnRYNlVxZnVXMV80dFFRQ1ppNzM3eUhvem5UQ3VvN2xfMC1TbkhNQXBMZXljWldudVE5VXdVVUFMX0htSnFCdVo1ZkwwdmVWUTJQQWM4dXZXNms1SDFVM3ZvQTRVcm96ZWNiYkVaNXlyWHFIY0NPUnpPOS0yeVlHZnpR",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-10T18:19:00+07:00",
+    "desc": "Dedikasi Teknisi Telkomsel Jaga Jaringan di Wilayah 3T&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c90fce07596b",
+    "title": "Lima Tahun Anggaran Desa Drokilo Terseret Dugaan Korupsi, Pengawasan Dipertanyakan - Suara Desa",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVjlwLVAzcG55aDFiNnJld2pwM1BCQjJjQWJYcVlQVWNZOHVjSUs2OWFwRkVuRFo0QVh4b1Q0NlllTXkxb3FtNmdVdldWS1dIRXl4WWY0eG4zWk1lblpWUnhMelhIOTlmWlhxNGVVNzZ4R01GNVlaWmJVRUo1UjU1RG1KQk5mTzJZWml0ZzVpd01IakwxMnhiTFpoSERGUHJGcy0xYkY0Q3htNGRQalBTc2lNQy1TOUg2WXc",
+    "source": "Suara Desa",
+    "pub_date": "2026-11-10T18:11:37+07:00",
+    "desc": "Lima Tahun Anggaran Desa Drokilo Terseret Dugaan Korupsi, Pengawasan Dipertanyakan&nbsp;&nbsp;Suara Desa",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -9,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "051d1f93b711",
     "title": "Warga Tilope Datangi Kejari Halteng, Soroti Dana Desa Rp 1,2 Miliar dan Dugaan Pemalsuan Dokumen - KabarHalmahera.com",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYURZellDT2RRS2VkMlBEQUxBTjFxSUJoekFsdEFEZmtfUk9helB0UHF5V0I3WjNoRTE4ZjI1eXdYZlBEcm1DcHY0eFFVREw2b1A4VElnZl9GZzhSVGgxQnJ6TFZ2aGdDWk55S2VQUGRCZ3VrZ3pzdnd6WlAwZm0wWm5HaG96dw",
@@ -110,6 +136,19 @@
     "source": "Jatimnesia.com",
     "pub_date": "2026-11-10T14:23:00+07:00",
     "desc": "Bupati Magetan Perintahkan Periksa Dugaan Penyalahgunaan Dana Desa Tegalarum Bendo.&nbsp;&nbsp;Jatimnesia.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c2e0f8b5b5b8",
+    "title": "KPPN Tanjung : Realisasi penyaluran dana desa 2026 capai Rp131,4 miliar - ANTARA News Kalsel",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUW9ORDV3ZE56WVY3VGNuMktKeVdkN1NsZDFUdXlyLU9odWp3Z2hwWjdJR2FtaTNRajZaeDNYV2N2Q1djbUNkVXc4NE9PTFdfV2N1VVY3MS05SnQ5am5JZ3h2TXAtbE8wQzRLX3BQaG4wcnR6VVVuV2JJS1BzSHBLYzBjdHE4TS1JLWtwdV9xRWh4WE9GR0pBMGxfb3oxMGlVT3VRWUkwc0JGOWNzdjR5OTRR0gG3AUFVX3lxTE5vazMxbFplbWt0b2ozTk9xRThNSnpDUkhkcGY1Ui1UR2haTVZEM0VEOG1teEpwaEVVY0NXZ1gwQWFHa3JkanIwWWJ6X1hpUVFaTVhGc0xWYkpwbkFXYmZNYU8yS2F6R0Z3VG9wVUoyLWhwM2ZiclZQWGNoU2pXNW0zWHNrNzBoMUhuUDFiVXlLVER6WGNwdnpnb184ZzAzMWNvQVlfYkRNTE04YlVXR05PYkEtOE4xcw",
+    "source": "ANTARA News Kalsel",
+    "pub_date": "2026-11-10T14:20:55+07:00",
+    "desc": "KPPN Tanjung : Realisasi penyaluran dana desa 2026 capai Rp131,4 miliar&nbsp;&nbsp;ANTARA News Kalsel",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
