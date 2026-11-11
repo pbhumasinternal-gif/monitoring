@@ -1,5 +1,57 @@
 [
   {
+    "id": "ae347c426f4d",
+    "title": "Wamendes Minta Dana Desa Dioptimalkan untuk Percepatan Penurunan Stunting - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNG9QNWFycERTcHBDcnBfSlp6SlliRGNmdXp4Q3J6RHdBMGpIVU9qdkFYWWxTd1pHUGZuRWhzcHp3X1hURWRJcXJoZFE3blh6REo0NkxnamlFWERaNkRtSF95VmZwdzBHQjZQekUxcjRiWFdTaUZxaVFZRUt4bVFaWTFrMXJpS3BSTmQxWXZDa1N6UV84UkR6M1VFUER6MTdvaXpOaEJnb3hfakpGQ2QtR3U2cGxPT1ZSTHY5d3ZDbE4",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-11T14:12:00+07:00",
+    "desc": "Wamendes Minta Dana Desa Dioptimalkan untuk Percepatan Penurunan Stunting&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ac5cf1f86520",
+    "title": "Retreat Merah Putih Bantu Desa Dimulai 2027, Helmi Hasan Prioritaskan Desa Tertinggal - Berita terbit",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdFgySlJWUjB1aW03dlA0dW1xcjkzZ1NYNGx5SDVnRGFkR3NiYml1dnh5aUZZZGttNTJ3VldtaUNOcFdMN0V0TnEybm9uUEM0OXpyMV94d0VjR1FYZGJESURUVlhVWlpCVEFfTXAtZVNFZFR3Y1VOMEhMVTVwOHg2Y3JiOHB0bC1IVjFReGMyc09jZkpJMFJsYkh5VkwyejRJa29URUdUeEtwUnNwekY5d3owVQ",
+    "source": "Berita terbit",
+    "pub_date": "2026-11-11T14:05:10+07:00",
+    "desc": "Retreat Merah Putih Bantu Desa Dimulai 2027, Helmi Hasan Prioritaskan Desa Tertinggal&nbsp;&nbsp;Berita terbit",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "18222d905bf0",
+    "title": "BUMDes Bersama Mantap Taruli Dalihan Natolu Lumban Julu,Adakan Panen Raya Bawang Merah,Pemkab Toba Harapkan Tingkatkan Produksi - Mitra Mabes News",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcE5mUjY1VTkzem5ueUh1ekhwVWo4cmZBOHJBUTFmZEJCejRXRl91NHhsa0ozYVJ1c2pHeXFhVDMzNzlNNEc4blNhMzVZZXhOUkROSUtLZlZDMEpST1lOWFE5QXdVTElsdmJwQmFSOS1feU04UmNHLTl1TlVjQ2tVTkRUdDNNUQ",
+    "source": "Mitra Mabes News",
+    "pub_date": "2026-11-11T14:00:00+07:00",
+    "desc": "BUMDes Bersama Mantap Taruli Dalihan Natolu Lumban Julu,Adakan Panen Raya Bawang Merah,Pemkab Toba Harapkan Tingkatkan Produksi&nbsp;&nbsp;Mitra Mabes News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4f9c41509333",
+    "title": "PPASN BPSDM Kemendesa PDT laksanakan Bimtek Ketahanan Pangan Lokal Desa - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXJCb1hTaFV1ckJxVGhCRDJBcFE4SlJ1SXJUT0pSdTloZWxUanFBYTNfak5sa1g0OW1haTJmZmFaWEcydE9MV2dDamY2VFRxbzRKV1BRQTZMak93aXZIeHRUZ0ZYNTBwUmNOM1ktWFdITmtRT1lHNGRuRkZIaG5HVk0xMUxPYjk4YWY4cXFobUlHd0haQlpBMjhpT2JfNjFuTHdxZC0xX2w4NVVkSGk4NE5RZDkxcmxiLXpRLWp6V0VfdVgyamt3Z1ZzMkJPalR2",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-11-11T13:58:42+07:00",
+    "desc": "PPASN BPSDM Kemendesa PDT laksanakan Bimtek Ketahanan Pangan Lokal Desa&nbsp;&nbsp;Kompasiana.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "86358a247ef6",
     "title": "Koramil 1614-03/Hu'u Perkuat Kepedulian terhadap Anak Stunting Melalui Pendampingan Bantuan Dana Desa - Gentra News",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ05GenczbEZEQ3RybWF6NG4tTXZ3VHQ5OGVXNk9wQWdSWHFLdS1wWFc3dmVleUpYMXFoMjdmdzVGX3ptM0VRdU53d2hMY0dRbm1vNTRWc19yS05RVzg5YVNNbTE0UjBhb1N6VDJGc0hvOWR3eGtFc0lfUFpZZkk2SHlYdDRUZnRsWk5WRVRJMDNDWGpvZmZTeWNZMV9VdEQtV1pfdDEtX1FUb1c3VVd5ZktIb0xibVZkYUpkekx6bjlGQ3RkZUtiMVFyNUdMQQ",
@@ -7486,6 +7538,19 @@
     "sentiment": "negatif",
     "sentiment_score": -5,
     "sentiment_tag": "Kendala Kinerja & Aset"
+  },
+  {
+    "id": "f932b5e06dc1",
+    "title": "Kecamatan Tanggul Evaluasi Pengembangan BUMDes Mulya Abadi di Desa Manggisan - Pemkab Jember",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXlPZTVjVXA2WXVIR0RDRFVyTmJWVElPa1QxcDNUMUNDckZwLTkwODVKOXhuaUUwMFZDbWFhT2dSb2JDRElfdkhMVkh3aUVYYXNKYTRrYWxSNThiOHZ5VDhxZlRfLWtIVXQ4MmxtQk80LXRrQjdhaTFlWjFQRk5GQlNxX3FkUF9Wak9kOEhVYzAyX0VmRk9yVDY1anZrVFZiU2VvanFBSUs",
+    "source": "Pemkab Jember",
+    "pub_date": "2026-11-02T15:00:00+07:00",
+    "desc": "Kecamatan Tanggul Evaluasi Pengembangan BUMDes Mulya Abadi di Desa Manggisan&nbsp;&nbsp;Pemkab Jember",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "96a7d1754d98",
