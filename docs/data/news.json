@@ -1,5 +1,18 @@
 [
   {
+    "id": "f1552215ef05",
+    "title": "Kemendes Perkuat Layanan Digital dan Sistem Pelaporan untuk Cegah Gratifikasi serta Praktik Korupsi - pantau.com",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRFFUNmtnUTVOemUzSUREMjQxWFd4Nml1ZFlqUm0yZlRsMkw0T1V5SlFGR1gycTVnbmNfRHZTZm41TlBXSF9UamREcFBrUHpZTlpPOGRuWkcxYjFOWXlRQVpqNVNIR3V3M0l3bkpRSHJueW9jemVGR0gwWU8xQUdRc1p3MFVvV1JVV2JsNjF3UmF6ZzBHZkpNcDZrRmtOSE1jejdwRUM5d0FObG95Wi0ybkZTai1tOTNqQ3RpZnVfU21oR1BHVmJZV19EcUZJSVd2MFRvZg",
+    "source": "pantau.com",
+    "pub_date": "2026-11-11T16:28:00+07:00",
+    "desc": "Kemendes Perkuat Layanan Digital dan Sistem Pelaporan untuk Cegah Gratifikasi serta Praktik Korupsi&nbsp;&nbsp;pantau.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
     "id": "5cc0f2fea048",
     "title": "Zulhas: Kopdes Merah Putih akan salurkan berbagai bansos pemerintah",
     "link": "https://www.antaranews.com/berita/5846683/zulhas-kopdes-merah-putih-akan-salurkan-berbagai-bansos-pemerintah",
@@ -494,6 +507,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "548fce1b6dce",
+    "title": "Pekerja BUMN, BUMD hingga BUMDes Bisa Dapat BSU Rp900 Ribu? Ini Ketentuannya",
+    "link": "https://aceh.tribunnews.com/news/1053992/pekerja-bumn-bumd-hingga-bumdes-bisa-dapat-bsu-rp900-ribu-ini-ketentuannya",
+    "source": "Serambinews.com",
+    "pub_date": "2026-11-11T04:41:00+07:00",
+    "desc": "Pekerja yang berstatus karyawan Badan Usaha Milik Negara (BUMN), Badan Usaha Milik Daerah (BUMD), hingga Badan Usaha Milik Desa (BUMDes) berpeluang mendapatkan Bantuan Subsidi Upah (BSU) 2026 sebesar ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "50bf7c651370",
     "title": "Dana Desa 2027 Terancam Kembali Dipangkas, Kades di Jombang Resah - FaktualNews.co",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWdxVncyeUpmd3p5SnFaWF9TVnFWMk9YNFlxMXBuay1wU3ByckVzYmlhQVM2MWtXVU12RXd1Wi1uRWo5NkhiLUtPNXdoUnZEX2lDMjBmcUdYYVZtSGZrRlA5empmdDNOenVRS3FhR0lFMGFFX19YVEJJRWpIZDhNN04tdkVrWGtIb0lSUVJyNWhiUG5tbWR5MFlZMkdlc0xhZ09fUmh0b25Nc0pM",
@@ -790,6 +816,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "01cbfc71de36",
+    "title": "DPMD Katingan Evaluasi Perkembangan Usaha BUMDes - Kalamanthana",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNHdKaWVpVHJFcVRuSGt2eW1uVWhZRUpkczgxbldRUmhoRElEd3BXTzZFeTJVSHp6WVRfMHQzcjdZZm9Qd05ELUVBRHUxZlNLbDVwTUpvalBGNzE1ck9ZY2JIMWJaRHVpZllNeldDbVdvTlk0eFBLTG41UG1PamE2ZG04T2JGVjI3eFpLQjF30gGKAUFVX3lxTE5OQndBenl3N2RXNmxxVzc0RHB6Z0ZhTHdINWJoYmN0dFQwR1NVOWJING9YS0NTYkkyMnZrd1h4UWpDT3c5OFJ3QWEzN3RhcnJHZll6LTJXVzRDdG9aV05PWW53SkhNNV92SkFYSG1ZT29XbnZpNVFEU2czMUxZa0YzdWN4Mm1qSmpNZw",
+    "source": "Kalamanthana",
+    "pub_date": "2026-11-10T17:15:00+07:00",
+    "desc": "DPMD Katingan Evaluasi Perkembangan Usaha BUMDes&nbsp;&nbsp;Kalamanthana",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -85301,6 +85340,19 @@
     "desc": "Menteri Desa Yandri Ajak Kades Manfaatkan Dana Desa Bentuk Desa Berketahanan Pangan&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fe499eedb8be",
+    "title": "Kemendes bersama ITB percepat pencapaian SDGs Desa berbasis TTG di 60 desa",
+    "link": "https://jabar.antaranews.com/berita/566644/kemendes-bersama-itb-percepat-pencapaian-sdgs-desa-berbasis-ttg-di-60-desa",
+    "source": "ANTARA News Jawa Barat",
+    "pub_date": "2024-12-16T14:06:00+07:00",
+    "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) bekerja sama dengan Institut Teknologi Bandung (ITB) sukses mempercepat pencapaian SDGs Desa ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
