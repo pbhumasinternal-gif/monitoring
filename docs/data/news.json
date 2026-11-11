@@ -1,5 +1,44 @@
 [
   {
+    "id": "cd79a047c447",
+    "title": "Mendes tegaskan siap sukseskan Polisi Peduli Pengangguran",
+    "link": "https://www.antaranews.com/berita/5847711/mendes-tegaskan-siap-sukseskan-polisi-peduli-pengangguran",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-11T21:24:38+07:00",
+    "desc": "Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT) Yandri Susanto menegaskan kesiapannya dalam menyukseskan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "88f38dd4b1c2",
+    "title": "Kejari OKI Sita Aset Terpidana Korupsi Dana Desa Lirik untuk Penuhi Uang Pengganti Rp1 Miliar Lebih - beritaanda.net",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjRka0J0dnNHcmwyVXI4c1ZnOGZXVzVIcGNPb0x5NkFaQ0IzTFotY2VyRVZfOG1vZ0UzbDFUU2U5YkpJNGJoM2FveHdZbG9KQnVQRWpXNF9faWJZaGNjYXhpWnhibDdQS0ptV1JySUEzMG9OTm8yWlZhWkdoZWlTVXBWOElmR1JuRklPa00yVlhBTWlCYXdjcTB6Y1U2TWFlbi1ldHNrRTBMQ3ZVbnkyZktleW9BdEV4V0lOdV93RnY",
+    "source": "beritaanda.net",
+    "pub_date": "2026-11-11T21:02:42+07:00",
+    "desc": "Kejari OKI Sita Aset Terpidana Korupsi Dana Desa Lirik untuk Penuhi Uang Pengganti Rp1 Miliar Lebih&nbsp;&nbsp;beritaanda.net",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "91571ecba299",
+    "title": "Inspektorat Karangasem Fokus Awasi BUMDes pada 2027 - NUSABALI.com",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd0g0T0pqVGl0MTRsbTgtVnZiRXFZNWU4M0dIaUUxOWNBcEl2YWI0ZTlaNnpkY0hMR2hYaDZleUVpakpEQ1R1UC0yQjFwcmNPQkpEM0owR0JDc3ljQ014T04zZ2txMTZCckRLSk5lLXhkblZOSllNd2Z2Q0hzSDFhVXdVdFlPQ2oxekJ0OURiX25ZS0Mw",
+    "source": "NUSABALI.com",
+    "pub_date": "2026-11-11T21:00:32+07:00",
+    "desc": "Inspektorat Karangasem Fokus Awasi BUMDes pada 2027&nbsp;&nbsp;NUSABALI.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e0ee56b27b99",
     "title": "Hadiri Acara APRINDO, Menko Pangan Bahas Izin Ritel dan Koperasi Desa",
     "link": "https://news.detik.com/berita/d-8748925/hadiri-acara-aprindo-menko-pangan-bahas-izin-ritel-dan-koperasi-desa",
@@ -21,6 +60,19 @@
     "desc": "Kemendes Pacu Potensi Desa untuk Jadi Motor Pertumbuhan Ekonomi Nasional&nbsp;&nbsp;Tribunnews.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "30c8e60d3a2b",
+    "title": "Revitalisasi Sekolah Prioritaskan Wilayah 3T - SinPo.id",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IMllvaGJrNXJLVXJfbkZDNnNFclRHY0V4Um9zcllUUnlibmlwQWtnUm5zTk5DRGR0MUd2dlk2X0xaZ0tXb2w0LVRWNk9BYUJLR3V4dktVQzVob2dYUzhxb1B2RXBaLTE2LW9TY2ZEQ2I5VFh6WlNyNGlBdw",
+    "source": "SinPo.id",
+    "pub_date": "2026-11-11T20:40:00+07:00",
+    "desc": "Revitalisasi Sekolah Prioritaskan Wilayah 3T&nbsp;&nbsp;SinPo.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
