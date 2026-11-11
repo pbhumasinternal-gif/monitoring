@@ -1,5 +1,44 @@
 [
   {
+    "id": "4ce13938415c",
+    "title": "Gandeng Pemda dan DPD RI, Kementerian ESDM Pacu Transisi Energi Hingga Wilayah 3T - Suara Pemerintah",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUV9PM3FDNHJhQzZqeGNNM2hLTGpRczB3bHNndVRua25uQXdkaU9Ga2NGNDFXMVZQWGRSSGZxaURmdm1xLUI1VjdTZnNmYjNVcy1mOHV6dHVlYTJpMWQtX3lTOVRQTkVscHhxaGZ2YmdCU2V2TUlNdFM2OHZ5NWE5NjRBQ2dQejNkVlpDNm01OUU5OHNza0V6d3hSN1pjT1l5Z0Z3V21XZTVmSjdKbkRuVDBma293Qjg",
+    "source": "Suara Pemerintah",
+    "pub_date": "2026-11-11T10:00:18+07:00",
+    "desc": "Gandeng Pemda dan DPD RI, Kementerian ESDM Pacu Transisi Energi Hingga Wilayah 3T&nbsp;&nbsp;Suara Pemerintah",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "14f35896ae5b",
+    "title": "Eks Kades Wonua Kongga di Konsel Jadi Tersangka Korupsi Dana Desa, Kerugian Negara Rp807 Juta - Kendariinfo",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVm40dFNWTnY0M3JoN3NuUkxoQVpaaHpFVVNnVFlHTHVtRUptQnY0WlVLU21aLWFiOHc1UW4tY1B4VTZKdHhDS3h6OWhfVVpWMlc1bzhENXRPZnhXYVJHM1JyeFNlOWNYMzRuaE9rTXZGaTdiNThMWF96TUhyMllObjVQd2hoOE4wd2xNekdpTGQ1elVzaDEwdUVObG9ybGZYajhWU3RvMi0zVWVwV2kzS09KLUYwZ1Fa0gG-AUFVX3lxTE4tX3dfcC1OODNya19jTVRwajFrdld3Qjk4TWFPQTM0UUJna0U0UF9YWE8zakJxOFdiaWJmN1BXVUVjSnRGdk1WUHh0WW9EOTdHT2M1V3VEOVhRNHFUVkROWm9nX0VrWTk0dlRYRHhXWFFYd1FVbEZhU0dyRHMySlJJb1JjUHlpWWVaQTdzYmJLQ0lPdkpyZ285Y203ZHJfaWs3TTQ2eHlYZzJ6YzQ0R0NnRWZpV2FTbHI2ejl3ckE",
+    "source": "Kendariinfo",
+    "pub_date": "2026-11-11T09:49:53+07:00",
+    "desc": "Eks Kades Wonua Kongga di Konsel Jadi Tersangka Korupsi Dana Desa, Kerugian Negara Rp807 Juta&nbsp;&nbsp;Kendariinfo",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -18,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "89381b8a5e48",
+    "title": "Kalsel kemarin dari dana desa hingga geopark Meratus - ANTARA News Kalsel",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlZZTjJqdFNXb3RTM3Y2Y3hJMjQ3YVUxb2V4amtia1E2UDlxelVBS2pWWTh6LVhtQlhBR29DZ2tPQXRuZUdKQTdNNzdjU2h2TnYxRVBaTDJkcUVNaFZFWUx0bFZBUEk4a2lDVzdrNU0wQ0NnNldmc2l3N3pBMGRJTkRPY2FZa3c0VDBKbDFxMFJXcTFnNXdSOG1ELUPSAaIBQVVfeXFMT2hMTlVOT0JweU9jMUJSUXA0Q25waWtzM1AydXY5b2FUV2gtdDd1M1dHZzNzdjdXS1djdW1wclAwU01hV1VLWnFoUUdMTjdTbUhqX2RydnVKSGJralBDOTdCWUdnVl94MklRdjlpTEJzdGRJS1pyZ00wSTJzRGlvQlFEQWx3OWRCZ2h6eHB6N29heWZmNEY0dkE5aEJYdDJJSmxR",
+    "source": "ANTARA News Kalsel",
+    "pub_date": "2026-11-11T09:40:19+07:00",
+    "desc": "Kalsel kemarin dari dana desa hingga geopark Meratus&nbsp;&nbsp;ANTARA News Kalsel",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1277cda33d14",
     "title": "Bupati Cen Ingatkan Kades: Jangan Sampai Dana Desa Jadi Sumber Masalah - Mandala POS",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUhld2hQal8tbVg0a01oQmlobHF3clNuVHM1RnBVMmd2VEVuclZLNS1rMVZULTU3b2xMdDdUSkZKWU5Kem9oNmlfRGc1WWdROGxSY2VQckRhVlV3eVF3VXVFTm0tVzZrNktuV1U3eTI3bTZwVXBwa0o4eDFlb25iaE9GcDRCTldwN2k5UFdQeFlJTklib183bjZDZG9pMW1T",
