@@ -1,5 +1,44 @@
 [
   {
+    "id": "e0ee56b27b99",
+    "title": "Hadiri Acara APRINDO, Menko Pangan Bahas Izin Ritel dan Koperasi Desa",
+    "link": "https://news.detik.com/berita/d-8748925/hadiri-acara-aprindo-menko-pangan-bahas-izin-ritel-dan-koperasi-desa",
+    "source": "detikcom",
+    "pub_date": "2026-11-11T20:46:52+07:00",
+    "desc": "Menteri Pangan Zulkifli Hasan menegaskan tidak ada moratorium ritel modern. Dia dorong kolaborasi ritel dan UMKM untuk tingkatkan daya saing produk lokal.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "51881c68a506",
+    "title": "Kemendes Pacu Potensi Desa untuk Jadi Motor Pertumbuhan Ekonomi Nasional - Tribunnews.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSDhGSTN5SnFYdENpY3JicUpobW5VMzZ0RkhfVDZ6QWJCTU9SRXg1R2dyMWhwY1h3TXpWVFNBUC1MU0tsXzR6NXFoME04VmVoWU1SSzdnNjFfbEhfNWFSQzFFNEhBc2hScmNZVFRSZ0lfVURpRDZCUngxeVNpOEJmd1drSk10MW8xRUZqLUp4bGQ2TkdLYXRxaDR0MjR1SkRfaENjSk9SUUtCcTZ3VXo2SmhHc0lWUTQ",
+    "source": "Tribunnews.com",
+    "pub_date": "2026-11-11T20:45:00+07:00",
+    "desc": "Kemendes Pacu Potensi Desa untuk Jadi Motor Pertumbuhan Ekonomi Nasional&nbsp;&nbsp;Tribunnews.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "73fcfbb692d9",
+    "title": "Sidang Korupsi Dana Desa Lampoko Berlanjut, 7 Saksi Diperiksa Termasuk Kadis PMD Polman - KABARDESA.CO.ID",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TSUhhZldnQjBZNHZrbnlJQmZxeEdNRmdLS0xYVEktMFQxb05uREZLdFRGZVJxMWFQcHpDZmlvZHc0V2w5SUVtbkoxVlVvVlRoRFVidWtSNVloWlktTHVSNk0zOF9qVkR3bmhiVkkyMzZ1ZWJWaFZrSkUtdW9pQQ",
+    "source": "KABARDESA.CO.ID",
+    "pub_date": "2026-11-11T20:38:38+07:00",
+    "desc": "Sidang Korupsi Dana Desa Lampoko Berlanjut, 7 Saksi Diperiksa Termasuk Kadis PMD Polman&nbsp;&nbsp;KABARDESA.CO.ID",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "19d00378538a",
     "title": "Pemprov Banten kaji kenaikan bantuan keuangan desa tahun depan - ANTARA News Banten",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRzFFcjJkbk1kZHhVUW1XLTFvMmdwZXA1QW5oaG5OeUVxZ1pmNG1BRHZra1Bab2RhVTZtbU5VLWk4dGhpVldqVlZLdUJaTzdLemJDRmhVcXJOTlVyQ01BOWtHLWpfMFkxUUR6aVBLSkJQVzl0ZjMzeTJiYldyWjhnZTNLT1d5V3RUT0g0U1RvdUpFZVpLb2FibTZwQkN6XzNKVlk4dWo1c3VUUdIBrwFBVV95cUxQeGd0dlhONFJ2R0FaZzY2Wi1pZFU5Um1paUxOaURjU2hYUWt5cVZsa25tNFYyY21DYlVxQXIxNTJ0azl6M3ltWUZpWmhzM2Zxei1Da0o5bno1bVFWOFNkZFozNzg4SjdNc1lhZkxMdmliVkozcGVJS0ZsRzlkbWpVN1FWY1hzSENwOV9hdlN1c2RqUGxIb3M3VnNkcE85bjNHTHdsS3ZUY0huaFBkVEVv",
@@ -1181,6 +1220,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4bdea184985e",
+    "title": "Mantan Kades Wonua Kongga Ditahan, Diduga Korupsi Dana Desa Rp807,7 Juta - Suara Sultra",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONFdzYjl3T1lIMGJ0LVVuZkpyUk5XTkd0UEpCMGpjVjVLRGQ0QzhBSTVEakEyMmRRS29hV3JuMW5FNzdMTi11OTYzc2cwQ015WTBCbDRGNVhsTks0S0lCV1FRTEwwWXp3ejdIQ3FpUlhuUTJXX3VYRnd2dGtzR2NqcE50SU9XX1ZGRTd6cWlid0F5c1hEUkJFZUZfUVpSM0c0ZmVSMDNB",
+    "source": "Suara Sultra",
+    "pub_date": "2026-11-10T15:00:00+07:00",
+    "desc": "Mantan Kades Wonua Kongga Ditahan, Diduga Korupsi Dana Desa Rp807,7 Juta&nbsp;&nbsp;Suara Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "69dbbfcd83ec",
