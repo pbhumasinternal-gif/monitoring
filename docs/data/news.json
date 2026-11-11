@@ -572,6 +572,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "1057648c3dc1",
+    "title": "Kerugian Negara Rp943 Juta, Polres Aceh Selatan Terbitkan DPO Kasus Korupsi Dana Desa Gunung Pulo - Laras News",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVjh3UU1BYVIyYUhIX2Rma0IxZ0tpWVhQVEZVOFpJajZicm9BZEtCbHdOUEg1MGJLZVFINVN2ZkZYNTZ1VExXODFoZWJya0o4TWZFcF9fbVZJdmFHekxYamRfQ2tDQVM4cTZkd0Jid1pyLW4tbVB2NU9FMm0xSmJfSEFqU1p1eTBlVVdWVWdaNjg3d1B4SmUtVU1Ka2JFak9BcFozdnZRZjZ0dmV2X3dkM3cyOF9pS2RCbTRxQWhOOVh1dk5vOXRCWEVhZnZyRm1SVFNaRQ",
+    "source": "Laras News",
+    "pub_date": "2026-11-11T13:50:44+07:00",
+    "desc": "Kerugian Negara Rp943 Juta, Polres Aceh Selatan Terbitkan DPO Kasus Korupsi Dana Desa Gunung Pulo&nbsp;&nbsp;Laras News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -11,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "62e9b5cc55cd",
     "title": "BUMDes Karyamukti Garut: Ternak Kambing dan Smart Farming Dongkrak Ekonomi Desa - Jabaronline",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdm5jOUZMWXQ3TFREd2tQNlFIbWhuQUVYLUFnOTdWZmgtUl82dC1NUjcxWGs1ZlZTTDdXZnBfU21ZcEdRRnhGSVo0SHJId0xuSko0VXFDZ1ZnUXNPa2tEQzRESnRoOVBYTVhZOW51NlJiNWthdjQ4Y2VOVFBTMlFjNU1nbE1iS1NBdEUwODVPSDZfYnY5MWVaUTZ1eU4yTnZuRUhvSw",
@@ -90514,6 +90527,19 @@
     "desc": "Kemenkeu Paparkan Arah Kebijakan 2024, dari Dana Desa hingga Otsus&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e8bdb0ab4cc9",
+    "title": "Di China, Kemendesa PDTT Ajak 20 Kades Pelajari Pembangunan Berkelanjutan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWdoeG95cTlRajBOYVdrZUtHQWRSWjFqd0Z0czJaSVpCbHpYZWQyNkFrbFZIVktXcnVDczBnYm1TSEZkeHlGR3ZkWFpSUmZIaUgybVlXeGdkS0k0ZnFXNDU2cDZRX0R0SDUzUkNVekFKTFltNjV2TVRrcWgxdTlYZkRDaXg1cTlzZWh4SWZOdGRnVkcyV09hM0xsekRCU0g0UFJIazdhUzBPUUE2QjI1OVBSUXNVNFBhZ0QxeUlrS01mRUU",
+    "source": "Kompas.com",
+    "pub_date": "2023-10-20T14:00:00+07:00",
+    "desc": "Di China, Kemendesa PDTT Ajak 20 Kades Pelajari Pembangunan Berkelanjutan&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
