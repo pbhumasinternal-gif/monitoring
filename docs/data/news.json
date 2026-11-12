@@ -1,5 +1,18 @@
 [
   {
+    "id": "1de7fbb03294",
+    "title": "Sosialisasi Koperasi Merah Putih di Padang, Andre Rosiade Dorong Potensi Ekonomi Desa-Kelurahan",
+    "link": "https://news.detik.com/berita/d-8749973/sosialisasi-koperasi-merah-putih-di-padang-andre-rosiade-dorong-potensi-ekonomi-desa-kelurahan",
+    "source": "detikcom",
+    "pub_date": "2026-11-12T15:01:02+07:00",
+    "desc": "Wakil Ketua Komisi VI DPR RI Andre Rosiade dorong Koperasi Desa/Kelurahan Merah Putih jadi pusat pengembangan ekonomi.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d86c22b00d94",
     "title": "Kemenhaj Gandeng Kemendes PDT Perluas Literasi Haji dan Umrah Hingga ke Pelosok - Amphuri",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlYyaDFtSW1MajJKSkhHMFdXYVBHdEE0akE3V2NRR1cydGVrZG9qMG9sb0lwSHJzWE5saV9rQU90QjVLQXVkeXMtSWlOM1VzNUhwUVBqbjlOQ3huS25EZjJLVlhUMEVOTkQxRlpnenpOcnZVaWNFd3VDWHlzYnlmWGF1eDhvajZxLVJlclUyOE9MU1Q0SEt0WlpTWUpKZmJQ",
@@ -193,6 +206,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "66fc2e9d0211",
+    "title": "Kajari Natuna Ajak Warga Awasi Dana Desa, Pelapor Dugaan Korupsi Dijamin Dilindungi - Kutipan.co",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0pYQkhnbjJ5YTRKZFJHWV9WakRUeTVDTzNJTVh2TXdPdWdqMW5jR3FyczZlcjBxWHFLSjk1U2xoRjlWSFg2OGdna09VZ0pHTDB1bTZaYW5xVi1fdTVUNUo4eUZ3WFlCZ0FXZm5qQ0V1SVI3eGJFRmNjQlE5YlZ3SnNMemZWVk5UMGFHc3M4QVpSWWRneHpRWC1jZnFZOUVhdzFFLQ",
+    "source": "Kutipan.co",
+    "pub_date": "2026-11-12T11:26:43+07:00",
+    "desc": "Kajari Natuna Ajak Warga Awasi Dana Desa, Pelapor Dugaan Korupsi Dijamin Dilindungi&nbsp;&nbsp;Kutipan.co",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "1016eee14414",
@@ -95298,6 +95324,19 @@
     "desc": "Demi Capai Tujuan SDGs Desa, Kemendesa PDTT Lakukan Pendataan Besar-besaran&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1c8ae12432e2",
+    "title": "Mendes: BUMDes untuk Kesejahteraan Masyarakat Bukan Hanya Pendapatan Desa",
+    "link": "https://www.tempo.co/ekonomi/mendes-bumdes-untuk-kesejahteraan-masyarakat-bukan-hanya-pendapatan-desa--450957",
+    "source": "Tempo",
+    "pub_date": "2021-11-25T04:55:00+07:00",
+    "desc": "TEMPO.CO, Jakarta - Menteri Desa Pembangunan Daerah Tertinggal dan Transmigrasi (PDTT) Abdul Halim Iskandar meminta Badan Usaha Milik Desa (BUMDes) harus mampu meningkatkan kesejahteraan masyarakat ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
