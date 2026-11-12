@@ -286,6 +286,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "301c1a658854",
+    "title": "Dana Desa (DD) 4 Desa di Jember Terancam tak Bisa Salur, Dispemasdes Dorong Kades Lengkapi Persyaratan Administrasi - BERNAS.id",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYlJJQTg5ZlN3b3FBWEdBZnFzako2VmpPY1BsNTJkcE5XWURvejl4NUJzYUtUUkJMMnNVdzRrQ29fUkRNa3pfVTdFSmhrVW5oczdZQ0c1bTRQbEQ1NF9QVnUzQlUxcXFUbU5TVk4yZ3Y2YlVoUHgzbXM0alBwRzNVanFRM0dXdnFIeURKZE1zbTc0X0NXb1ZUcVRZazV5N2VJbDh1d0J1OGpySlJnby0yV1Q1QkxSbTBmd3pjQXhTUEJWby04VjBKRlVwdDBjMi1IRktrSjNGM19TNHQt",
+    "source": "BERNAS.id",
+    "pub_date": "2026-11-11T19:01:46+07:00",
+    "desc": "Dana Desa (DD) 4 Desa di Jember Terancam tak Bisa Salur, Dispemasdes Dorong Kades Lengkapi Persyaratan Administrasi&nbsp;&nbsp;BERNAS.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "79cbd19da81b",
     "title": "Mendes Yandri Siap Sukseskan Poliran 2026, Dorong Desa Jadi Pusat Penciptaan Lapangan Kerja - LINGKAR.news",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUFPRkRjYU5GYkRxUFR4RFRBTWVKSGVfUk1PaTZ2bHZRVUNneG1tcUIyX2wzMGF6LV82WFN3Rm9EWHlYTWhGdTZ6QnFaOThEbnVJR3hXeGFjSU1LYmV0UTVFWjM0Wjl1ZWZ3ZldBTm12bGRYeHgyNXRHaTlEQy1nUThFR1RWbi1RS1VJTjVqYTNPOUpsajQzRERfdVFBSjVRZ0kwbmREWU1CbmRPaTNCUU1BbmxSR2RxVzlxeUNn",
@@ -32810,6 +32823,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "df8261a8b275",
+    "title": "Pasutri Lamandau Korupsi Dana Desa, Rp 490 Juta Dipakai Hiburan-Beli Tanah - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFJmYTV6NEtoYWtzWnEtR21RUzVySzlnM3FiSGRIRDluZkhxSVk4cjVJTFI0bGJydkQxVWE3azUtek14T24zRmlwODBKVVVrUDVKQTVtVDFwNzZkaWVmbEZFc1pySjZfTDRFQmtDWlpiRlBya09TSHphYnlxZ2VYaWlMdXBRdWgxVzJHZ2lvNmhkZHg3X2l6eXFPcENxV0N0RjFwRVNQdm9Wb2lYempoZzJOMU9JbW9NSXVQeFY1TXRiaXlhdm5jMkltdDlMaGNB0gHWAUFVX3lxTE5mRDdzSDc5eUFxMXFWNUppVTVJMmVIVFJaaG42aDIwbjYyVmx0S0lfZWlrOXhsNE80eWZMVzZpRGFpbEJaVzcycTdWY3BBWWlibi14VjJFMFVyOGJkeHVybVZwaFdCZmdFeUIwZ1BCZU5vMlRIUkN5R2pYeGxUNXpEVm5TOThRMmdTYUNudlFzUVFPUkxfZ2hCYk5TYUNXbjZ3WXRmUmNheF9YcWczbFM0a05FbUZFVW5oNzhyWkZVUHUxNDQ3RDd4VldKV0xyenQydzd0Y1E",
+    "source": "detikcom",
+    "pub_date": "2026-10-02T14:00:00+07:00",
+    "desc": "Pasutri Lamandau Korupsi Dana Desa, Rp 490 Juta Dipakai Hiburan-Beli Tanah&nbsp;&nbsp;detikcom",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "5afc234ed199",
