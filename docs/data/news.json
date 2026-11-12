@@ -13,6 +13,19 @@
     "sentiment_tag": "Tekanan Anggaran"
   },
   {
+    "id": "70aaaedf735a",
+    "title": "Dugaan Korupsi Dana Desa Gunung Pulo Aceh Selatan, Bendahara M Yulizar Masuk DPO Polisi - Serambinews.com",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUGhLQVo0TXZTNnJIOG4wUHhhVk01bHgtOUZTYldINzU3bDN4eE16TXQ1T3ZTTFM5VGVydVZBUFNxakNORTR0THAtZ0p1WkxQVjdPUzFtX0lLSHBHdVljSFBZNjdNZ0lIa3k4M1lLMUZ1Z3hkbTgtMG8yZmFudUF5a1pCdFk0aU14eFRDcURLSnlrdTVCSnRRaFpqdENOZ3JLVUlQVzkwLTJMeUJiZWQ1X25Nd1pKQ1Flbm13bTJLSG5vckpIZDQyYXg1OA",
+    "source": "Serambinews.com",
+    "pub_date": "2026-11-12T19:25:51+07:00",
+    "desc": "Dugaan Korupsi Dana Desa Gunung Pulo Aceh Selatan, Bendahara M Yulizar Masuk DPO Polisi&nbsp;&nbsp;Serambinews.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "ccd0f4c3f236",
     "title": "Pemkab Murung Raya perkuat SDM pengelolaan keuangan desa - ANTARA News Kalteng",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYTYyeEZYSUJiRlVsTUw0bUlmTmZGYUNBXy1NWG1pSDNoZUJRVjZ5Skhqcm9RR1ZyR2FKd1U4cXd2VmlzRGRSVE5Uc0JneUxqcDJodkQ5UzBjN2s0Q0FXOFdkMGtfZ1NoTmEwcHJXNEV3cXVqMnNNS203UWV5YWgwRnV1WkF2ZElmV1pOV2xyUTlBX09yd0pRMlNoSzV3X3BzRDBZ",
@@ -530,6 +543,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4b914e722484",
+    "title": "Kemenhaj dan Kemendes Kolaborasi Cegah Penipuan Haji & Umrah di Desa",
+    "link": "https://koran-jakarta.com/2026-11-12/kemenhaj-dan-kemendes-kolaborasi-cegah-penipuan-haji-umrah-di-desa",
+    "source": "Koran Jakarta",
+    "pub_date": "2026-11-12T04:41:00+07:00",
+    "desc": "Kemenhaj dan Kemendes Kolaborasi Cegah Penipuan Haji & Umrah di Desa - Keterbatasan akses informasi mengenai penyelenggaraan ibadah haji dan umrah menjadi salah satu faktor yang membuat masyarakat di ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
