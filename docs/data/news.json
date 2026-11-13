@@ -1,5 +1,31 @@
 [
   {
+    "id": "0d1b4bb8a001",
+    "title": "Cegah Korupsi Dana Desa, Polres Butur Sosialisasikan Hukum dan Asistensi - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTQ0bWhmWmViNmlCWWd2dVM0dzRUNTRvcHZvWmpGaDFCNEZFeTJJZWJuSFd0R0lkdmpYWGRjQVV5azVGZUxDeFNvQmQwWXpOSjZvd1RoemFGNDVVVTFrU25SNWlqWXRQVjg3TlBtNUFVZ0t3WE1hbHpKNDM1RER4YTlaUkFWOU1PczVISmpkVE5jSk1fQ2J4TmZON2M4ZG1qQmM5clBWRm9NdWYzV21oSzR3ejU0LXM",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-13T15:13:00+07:00",
+    "desc": "Cegah Korupsi Dana Desa, Polres Butur Sosialisasikan Hukum dan Asistensi&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 6,
+    "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
+    "id": "a2b9f816d0c2",
+    "title": "Mendes Yandri Dorong Pengembangan Potensi Desa untuk Perluas Lapangan Kerja - NTVNews.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZERkQ2IwR3g0WjB5ZmM0OTh5dUJjOVN6akRfWDFjY0hPb1htYmFqUjFCUXB0X1dMb0xXRUVMdTRkbE9TalFaRXhnTFlYOFhQNEdKUzhnMWN1Y0xIbnlfMzY4VDNDU2RhQlB1ZEg0YTQyVlR3Rlk1enppZHVjU211dnRqQmxBUGJpZlM5eV9nYUE3eWJTTWdORzZiUHRfNWRZZ0ZKSVYzZXQ0T1RrUGJrNk5R",
+    "source": "NTVNews.id",
+    "pub_date": "2026-11-13T15:10:00+07:00",
+    "desc": "Mendes Yandri Dorong Pengembangan Potensi Desa untuk Perluas Lapangan Kerja&nbsp;&nbsp;NTVNews.id",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "314d917c5343",
     "title": "Mendes dorong diversifikasi ekonomi desa untuk buka lapangan kerja",
     "link": "https://www.antaranews.com/berita/5851415/mendes-dorong-diversifikasi-ekonomi-desa-untuk-buka-lapangan-kerja",
@@ -90774,6 +90800,19 @@
     "desc": "Kemendes Sebut BUMDes Teruji Jaga Pondasi Tata Kelola Pembangunan Desa&nbsp;&nbsp;detikNews",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0a938a92a952",
+    "title": "Anggaran Dana Desa di Kota Batu 2024 Naik Jadi Rp 20,3 Miliar - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaXduSnNTYmMxMzhtMHNRQXJkaTB6V0VYa1YtRWxNYklaN3Jqd3J4bzBTcUJGSHlIclRTS0FIYXNsVVp6V2xlXzNhT1lQVjQ2T1dmLVdlWGQwMklKMm1VMmZZUTVOOFBlVzhTU2VSUGpoUElXZWpSbDZCMm5zWmFHbGZVM2lISWk2cndYLWVZYUszeE94OGF1cnhZYmg1N0QtemxwcW1ER21DZDRaSzlheTY3aGo",
+    "source": "Kompas.com",
+    "pub_date": "2024-02-28T15:00:00+07:00",
+    "desc": "Anggaran Dana Desa di Kota Batu 2024 Naik Jadi Rp 20,3 Miliar&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
