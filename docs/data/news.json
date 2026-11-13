@@ -1,5 +1,31 @@
 [
   {
+    "id": "7efa85fd15a5",
+    "title": "Menelisik Hambatan Serapan Dana Desa - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjZ0WWVBMWU4bnQ2b2YzS0U0WWxmSmNEX0hxbzNpTF9hZ2xHbTU2MmllUnNubXRHc0JLUVFuMWRXcUFBcjZGOXg3d1gwWXhjX3BDckVJVlBuamFwTnh2MklCYUV3TDc5MGYwbDNLZEdYWmVEdHVlUkpGYW9rMkEyWWdKbEtRTUJXWnJ5cGJIdXVwb2lKdy1mWEtMVHZvU1Ut",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-11-13T15:32:33+07:00",
+    "desc": "Menelisik Hambatan Serapan Dana Desa&nbsp;&nbsp;Kompasiana.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b0344ce6488b",
+    "title": "Katingan optimalkan BUMDes untuk tingkatkan pendapatan asli desa - ANTARA News Kalteng",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT05aOVRnd043VDBKVUczbTVIUS1YWlYwaVdYWVFrTElEWGcxclpITkhDQWNkd3RDZ2psMmlxaUFacGd2LTdoLV9QVkF3ZzFtME5haDZiWFMzUXYyaFk5aFpfeElkU28tOFh2Y1pra2s3QXZhYmtoOFBLckFWRVVudjE1WDEwUEhoUVdMck4xRDV0dTlMVjNFRXNmSEhiT19MWWEta1RZVW5hYmN3bGc",
+    "source": "ANTARA News Kalteng",
+    "pub_date": "2026-11-13T15:16:40+07:00",
+    "desc": "Katingan optimalkan BUMDes untuk tingkatkan pendapatan asli desa&nbsp;&nbsp;ANTARA News Kalteng",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0d1b4bb8a001",
     "title": "Cegah Korupsi Dana Desa, Polres Butur Sosialisasikan Hukum dan Asistensi - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTQ0bWhmWmViNmlCWWd2dVM0dzRUNTRvcHZvWmpGaDFCNEZFeTJJZWJuSFd0R0lkdmpYWGRjQVV5azVGZUxDeFNvQmQwWXpOSjZvd1RoemFGNDVVVTFrU25SNWlqWXRQVjg3TlBtNUFVZ0t3WE1hbHpKNDM1RER4YTlaUkFWOU1PczVISmpkVE5jSk1fQ2J4TmZON2M4ZG1qQmM5clBWRm9NdWYzV21oSzR3ejU0LXM",
@@ -100214,6 +100240,19 @@
     "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "350e225d79ac",
+    "title": "Membangun Masyarakat Desa Tertinggal - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMXlEYlFaMjI1MWlJRmtvaWdZdVcwNTFGSVZmODBnNXZYRHNDYnVlbE0xdGhfY09YbjJXeDRnblBNa3l4YjlvNWhXYXU5T0xwbVUzcWluUkNhamRIcVJBWm1nYzlqV2ZVeXZIMmdBdWlNdXBiMXptbjFvSG1JQzlndWVzUS16aW9uN1RPc2E3QQ",
+    "source": "Kompas.com",
+    "pub_date": "2019-03-01T00:15:52+07:00",
+    "desc": "Membangun Masyarakat Desa Tertinggal&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
