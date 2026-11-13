@@ -325,6 +325,19 @@
     "sentiment_tag": "Penguatan Ekonomi"
   },
   {
+    "id": "2c2b285601b5",
+    "title": "Dongkrak PAD, Desa Purisemanding Jombang Andalkan Bumdes dan KDKMP",
+    "link": "https://jombangbanget.jawapos.com/desa-kita/2611140002/dongkrak-pad-desa-purisemanding-jombang-andalkan-bumdes-dan-kdkmp",
+    "source": "Jombang Banget",
+    "pub_date": "2026-11-13T15:40:00+07:00",
+    "desc": "Desa Purisemanding, Jombang, mengoptimalkan Bumdes dan KDKMP untuk meningkatkan PAD serta menggerakkan ekonomi warga di tengah efisiensi anggaran.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7efa85fd15a5",
     "title": "Menelisik Hambatan Serapan Dana Desa - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQjZ0WWVBMWU4bnQ2b2YzS0U0WWxmSmNEX0hxbzNpTF9hZ2xHbTU2MmllUnNubXRHc0JLUVFuMWRXcUFBcjZGOXg3d1gwWXhjX3BDckVJVlBuamFwTnh2MklCYUV3TDc5MGYwbDNLZEdYWmVEdHVlUkpGYW9rMkEyWWdKbEtRTUJXWnJ5cGJIdXVwb2lKdy1mWEtMVHZvU1Ut",
@@ -102386,6 +102399,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "48c2b95681f5",
+    "title": "Diduga Korupsi Dana Desa Rp 500 Juta, Kades di Garut Dicokok Polisi - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNnBDbzFBLUNZdzVsQmFoc1BGc1Y1RHo5Z0lfQ2RDdk1UMWZ6QjNQampaZmZkNW84SDI5Mmg0SEl2cDdNUW52SnFxN09CbnJObWZtYnduSFh4d3B0RU9rXzEwa1RBWHB2RldLLUt3YTdQXzFoSHhWZ0xtTG5VZW5CbTV3T2E2aUhYSUxSdWhQN1hCVVhTZXh3ejRhNVFhSEp3NnM2Q0lpRUM1UQ",
+    "source": "detikNews",
+    "pub_date": "2017-02-25T15:00:00+07:00",
+    "desc": "Diduga Korupsi Dana Desa Rp 500 Juta, Kades di Garut Dicokok Polisi&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "73f5b472414b",
