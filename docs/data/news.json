@@ -1,5 +1,18 @@
 [
   {
+    "id": "a087d92263a6",
+    "title": "Mendes Yandri Susanto apresiasi peran Muhammadiyah jaga keutuhan bangsa - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWmp1NXhLRVdrWlV1T1BmQnl4c3laODR3cllMY1pyYUZXSUFuUDhwX3VQc1dDR21qOTFoM0JNbFl5eXBDVTdRX2hLZEZtU3JBTzFWYmhmM2JYdF9YenlaR3owLWE2TlRnQjZtT3NMdjdhOXdmclktME5tYnpGY2I4YTRtYUJvRUNaa1IxcFRiS09PWC1INnowM2gtSVQxSkVGUUZjMzd0Z1pLbkc5bGRqWDFaTzIzaVk",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-14T17:14:08+07:00",
+    "desc": "Mendes Yandri Susanto apresiasi peran Muhammadiyah jaga keutuhan bangsa&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "a32e42a2ce42",
     "title": "‎Mendes apresiasi peran Muhammadiyah jaga keutuhan bangsa",
     "link": "https://www.antaranews.com/berita/5854167/mendes-apresiasi-peran-muhammadiyah-jaga-keutuhan-bangsa",
@@ -83626,6 +83639,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f048f6978dc5",
+    "title": "Jaksa Pengawal Daerah Tertinggal - Adhyaksa Awards 2025 - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZjluZHIzSXpZYTc1X200QWF6VVpCa2xuU1pTdFpKcXlWQ3VaU01hakZiX2IyczBEWm9wZHNCLUJtOTg3YVlJMHVoWElsbldnUUp2OXB4VlpndGRoay1mMFhZTDBsQ3BHeXR4ZjBMcVpQdTEwZXI3R0x2azc4aDFPQVNpbkt4ZFEwZ0FwZWZHVFFQZmRKc28zTWlmWkU2OURhQXJaMWFOQ21jOEV3MUE",
+    "source": "20detik",
+    "pub_date": "2025-09-29T14:00:00+07:00",
+    "desc": "Jaksa Pengawal Daerah Tertinggal - Adhyaksa Awards 2025&nbsp;&nbsp;20detik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
