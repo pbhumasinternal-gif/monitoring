@@ -1,5 +1,18 @@
 [
   {
+    "id": "8452ff384ba5",
+    "title": "Dana Desa Susut Rp373 Juta, Randuagung Hidupkan 4 Deswita #KompasianaDESA Halaman 1 - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEdUYW1BVnZPT3NHZkk0ZERVTUVoMERhbGJrNkw5SzhGMEtzaWI0dEdNMGNGS3IyMWZPUEZOYmV6LTZBS3B0VFh4NHNXMm5RUF94MDR1ajZ2Qm4tMndOZFNSSTRyWXp0Y0N0MG9pcjVIVVpidEFxSjJpZUpVN0REQmdLU0RPdWFWQ0dPZDRRd3I2T09ISFVRVm9OVDcxMllFWmVrVlFGaVRzQ2Y2UFhaMkpkTnZpUlAxMDlxTlg0dXA5Nm5MUXJha3lVYmxSN1IwZ2xLVg",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-11-14T18:02:15+07:00",
+    "desc": "Dana Desa Susut Rp373 Juta, Randuagung Hidupkan 4 Deswita #KompasianaDESA Halaman 1&nbsp;&nbsp;Kompasiana.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c4b2005d08cf",
     "title": "[HOAKS] Link Daftar Bantuan Dana Desa Tahap 3 dari Kemensos - Tribratanews",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRXdUZHkwNkxRcU5xSlVRdGJOOVg4Ri10Q3BUMWpraTRZWUw1WjZ3NkFjcFhMb1phZmFUTjY4S0I3MTdrbVBqSTgwTXBUS0t0VDdfM3Z1X3pobl91UGhIemRsSDdYZmNJMnFQZjRfZ2xUTzlpUEdnaFo4WWE1eVdYZWVtcFdHNE1OSURNODhBRVlZLWRrREV4c2dfVk1WOEE",
@@ -71,6 +84,19 @@
     "source": "Pojoksatu",
     "pub_date": "2026-11-14T15:30:12+07:00",
     "desc": "Beasiswa D2 ke Jepang 2026 Dibuka Kemendes PDT, Lulusan SMA Bisa Daftar, Ini Syarat dan Fasilitasnya&nbsp;&nbsp;Pojoksatu",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "53c50df4b26a",
+    "title": "Foto : Prabowo Goda Yandri Susanto yang Ngotot Minta Jadi Mendes, Awalnya untuk Bahlil Halaman 1 - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcTEzU3UtWDJtZXhVdTNOclZmQ0pEMGpRVjdSVGE5aVkzMi0yUUV0ZVFYZGZZRFBtTmJQa2d2VWd1VWRjMXlYVDItWWZBSGo0Qk40X0NuY1Rnc2xzZ0xNYnJWQ0owN2h1aW9FQ0xaV3ZyTkVaaUV5MmQ5WlZvNkx0U2VXYW8xdE5lT0t3YlUzWTRyb1hPWl9vTUtPSUhzNkxfbmdUN0trY0ZGWi1EYjh4dmRfVy1mWEVHcnJYZDhVd3pfcE1sc19ZRHlfZHg",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-14T15:14:23+07:00",
+    "desc": "Foto : Prabowo Goda Yandri Susanto yang Ngotot Minta Jadi Mendes, Awalnya untuk Bahlil Halaman 1&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -99473,6 +99499,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "negatif",
     "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "51b3645f8f84",
+    "title": "Diduga Tilap Dana Desa Rp 206 Juta, Eks Kades di Sabang Ditahan Kejari - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRExpVmdjbTUzSngzWE9QYng1VnFybDVpVmkyTVJnTG1vM2tVM2hfRFdqU2FKX0RJcUx3ckVPR3RES2pHcWJ5eWdYVHVsOXNlYTFsaVA2SkJjaGNmM05YWEtPb01rYTE5NHlSdVA2dDdEejBrSkJpX0JVcmp5b2p0cGx0MjRualQ3ejFucXY1bldUV3I5aE1lMWJ1QVFCdTVlRE4wR0J2MnNOdFlEaVE",
+    "source": "detikNews",
+    "pub_date": "2020-07-20T14:00:00+07:00",
+    "desc": "Diduga Tilap Dana Desa Rp 206 Juta, Eks Kades di Sabang Ditahan Kejari&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -4,
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
