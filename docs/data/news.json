@@ -1,5 +1,18 @@
 [
   {
+    "id": "a32e42a2ce42",
+    "title": "‎Mendes apresiasi peran Muhammadiyah jaga keutuhan bangsa",
+    "link": "https://www.antaranews.com/berita/5854167/mendes-apresiasi-peran-muhammadiyah-jaga-keutuhan-bangsa",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-14T16:45:30+07:00",
+    "desc": "&lrm;&lrm;Menteri Desa, Pembangunan Daerah Tertinggal&nbsp;dan Transmigrasi (Mendes PDT),&nbsp;Yandri Susanto ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "a2a1689c20fc",
     "title": "MBG Terus Berkembang, BGN Perkuat Layanan hingga Wilayah 3T - garuda tv",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVUpSNm15MW0xeUtJaXRoMDEzUjI0Rm5BUHBHSW5PMUJsLXp3YVNpUElBd1c5X2dhT0lEajJHVVlTR2JxTVpOaFNVZzlaYlJ4cWpkbHk2eTliT1RZZnpDbUJTaVI0OFZDcVhDbHQtYlV4Y2VuVmkzU0dRZ2ZJN0VQMGV1UQ",
@@ -100886,6 +100899,19 @@
     "source": "Kompas.com",
     "pub_date": "2019-08-02T14:00:00+07:00",
     "desc": "Dua Kabupaten di Banten Keluar dari Status Daerah Tertinggal&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "03c4f6addb57",
+    "title": "Akhirnya Jeneponto Keluar dari Status Daerah Tertinggal",
+    "link": "https://makassar.terkini.id/akhirnya-jeneponto-keluar-dari-status-daerah-tertinggal",
+    "source": "Makassar Terkini",
+    "pub_date": "2019-08-01T16:09:00+07:00",
+    "desc": "Terkini.id,Jeneponto – Kabupaten Jeneponto yang merupakan satu-satunya daerah tertinggal di Sulawesi Selatan telah dinyatakan keluar dari daerah tertinggal oleh pemerintah pusat. Hal itu diungkapkan, ...",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
