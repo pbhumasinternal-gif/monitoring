@@ -79131,6 +79131,19 @@
     "sentiment_tag": "Tekanan Anggaran"
   },
   {
+    "id": "71b806fa687e",
+    "title": "Kades di NTB Tolak Pemangkasan Dana Desa untuk Modal Kopdes Merah Putih - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONU5wWTZrcXQyQ2U1cDl1c1J3ZjJycDZ3OGhkdzBRbHVhU0hNT3FQLU1IZkl3NWJFcm1DNFFVYVhNSk9oc0hpUVQ2eWZqQ3NaV0x2dFk1T25Bb3lrU3FXMkVzRjI1dU9kTHJYYURHMFdzZU1TdE9ESTQ5b2FLNG9KZjUzdC1rSE91MEgwanNpMlpKVnpGckl5TnMyemxLaTZ3TlREeEwzLU52ZHgwTFdWck9QRHnSAboBQVVfeXFMTW1DZzhQcThsd2QxcnZoX2VHb1pmTDR3VjJaZy1qSXc3b3Z3V0pkOVVVS3htS3BBeFRNZ2pZamozWWpOeVB3aWtzUHoyVjFqYTNqWmJnT0l4NjRRUXJVYk01ZU4xT1djWUhrRWZYV3RuMTlhV2pIQnZjSlpoLXJBSUltV19Zdy1ObzN3RXlaemNyT1hPOFhGLTZvUmZtNzd2QTMwWTJyQXc0dTBjZ2tlbmNYMHhlMFVnWDhB",
+    "source": "detikcom",
+    "pub_date": "2026-02-20T15:00:00+07:00",
+    "desc": "Kades di NTB Tolak Pemangkasan Dana Desa untuk Modal Kopdes Merah Putih&nbsp;&nbsp;detikcom",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "bc5cb9d3a3f6",
     "title": "Panduan Pengelolaan Dana Desa 2026, Skema Penyaluran Lengkap Daftar Alokasi per Daerah",
     "link": "https://batam.tribunnews.com/news/676527/dana-desa-2026-regulasi-baru-skema-penyaluran-dan-daftar-lengkap-per-daerah",
@@ -82158,6 +82171,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1ba52277170d",
+    "title": "Dana Desa Tahap II Tak Cair, Apdesi Kaltim: Separuh Desa Terdampak, Ribuan Kades Siap Turun ke Jakarta - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZS1QR3JpZUFCT20xNXRPRTFlc1RGemhPbVhLUzF4Tk94Z3J1b0J5U1JoNVFENWszTUtjQno0OEIweDZiZ1FmRWc3dWZjenFZTzZNXy1OZnk4UGJZY2pwWk91UmxmbXhSTlV0X01IQnRNcV8yYTBSQzFHSTZmeDdxYVBxRkJDei1KZmxLTUswM3EyZlRhemdWUkRWaGV3Q014eEZ5ZHVyakIteUhybXI3eFIteTlrMXNYRWhQbjUybWdISDQ",
+    "source": "Kompas.com",
+    "pub_date": "2025-12-05T15:00:00+07:00",
+    "desc": "Dana Desa Tahap II Tak Cair, Apdesi Kaltim: Separuh Desa Terdampak, Ribuan Kades Siap Turun ke Jakarta&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Polemik & Aksi Massa"
   },
   {
     "id": "010977bd67a4",
@@ -101913,6 +101939,19 @@
     "source": "Kompas.com",
     "pub_date": "2018-10-23T14:00:00+07:00",
     "desc": "Pemotongan Dana Desa untuk Kelurahan Dinilai Berpotensi Ganggu Stabilitas Anggaran&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "10482f59fde8",
+    "title": "Sri Mulyani: Alokasi Dana Kelurahan Berasal dari Dana Desa - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTTdfZEYyOWcxR29JMW9RdmVHTWFvUGNOMWNxZFdmUEE5d2k5ZFhkYkVTZERyZENRYnI5bldzTXNFeVpxUXBnMFJGNmZhT0hQWWVocjRJcVpvQVR4cUp6QWpxaDlWTjkxOUE4b09IYzBkdTVSMEJXdlZ1WVF5VlF4aTlfeGFtd3VVcmNJNFJGaFhsZ0M4QktPSk94UjE0UEppc09MQjBuOTdxOU9pX1ljLXVvLVFYQQ",
+    "source": "detikFinance",
+    "pub_date": "2018-10-23T14:00:00+07:00",
+    "desc": "Sri Mulyani: Alokasi Dana Kelurahan Berasal dari Dana Desa&nbsp;&nbsp;detikFinance",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
