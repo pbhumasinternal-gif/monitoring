@@ -91,6 +91,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b54bc614dfde",
+    "title": "DPRD Jayapura minta pemda perkuat pelayanan pendidikan daerah 3T",
+    "link": "https://papua.antaranews.com/berita/721836/dprd-jayapura-minta-pemda-perkuat-pelayanan-pendidikan-daerah-3t",
+    "source": "ANTARA Papua",
+    "pub_date": "2026-11-15T15:48:00+07:00",
+    "desc": "Dewan Perwakilan Rakyat Daerah (DPRD) Kabupaten Jayapura, Papua meminta pemerintah daerah memperkuat pelayanan pendidikan di wilayah tertinggal, terdepan dan terluar ANTARA News papua 3 ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "eacdd18df372",
     "title": "275 Dapur MBG Diperkuat di Tanah Papua, Sasar Wilayah 3T dan Stunting Tinggi - garuda tv",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZczhHbWZxQUZNcHJRdW1uY0cxMUZtTWdpQ2c0VTBlcTJUcWJ2SFZUdGZnXzVZdXVqcEl4bW5ycU9UdnpDaWpMdXNkVFNtdEY1THVuR1dYQjlraEZJWVJ1QUVWNzJ3cU1WcWM1MmFvQm5zZl85X0pvNTZnLTlEZVk",
@@ -81677,6 +81690,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "efd8afda5015",
+    "title": "25 desa di Batang gagal cairkan dana desa Rp7,5 miliar - ANTARA News Jateng",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3lFM3NTdG9LbTlMT1pRbkNrckR3NnNQdmh4R2kxNmlySUItMHdlb2VBb2s5ajZOMy1ZamswVlR1M2t1UktKUWFfRFBnNEJBT0w1aUpzUXVBTzk1aExJZmtKRDVKR202WkxxaXltVG8zR1lXZXZPZk1vdjFSZ1VFcm56bzJwS0hURkNmX19VeVpneUdOUlpTd0E2RXRPdw",
+    "source": "ANTARA News Jateng",
+    "pub_date": "2026-01-04T15:00:00+07:00",
+    "desc": "25 desa di Batang gagal cairkan dana desa Rp7,5 miliar&nbsp;&nbsp;ANTARA News Jateng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "a12504573459",
