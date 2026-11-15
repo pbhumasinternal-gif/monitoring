@@ -923,6 +923,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "a91caed538d1",
+    "title": "Bupati Melawi Terima Penghargaan Lencana Bakti Desa Pertama dari Kemendes PDTT - Inside Pontianak",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbUl0ZEhtcXhRd2N0V3JOYkhac0dDTVd4X2VnRko4cXNsQ2ZrUEtrd1M3TVd2Nk81Szc3bFRRN1k1SUExRTQ1RC00d2xIZEk0MUN2YkRtRGhTLWNMVzZwVGJCMXNrY2sxREJwTkNRS09OaFd0Y2JvejdXQ1haOUtFUGVNVVJpOS02cjVhZldzd01uTmxpc1V1Q3gxbmJRMzBic25JdGpyY1ZwVG1YbjRhU19PMHRTOVQxeFlv",
+    "source": "Inside Pontianak",
+    "pub_date": "2026-11-13T17:40:00+07:00",
+    "desc": "Bupati Melawi Terima Penghargaan Lencana Bakti Desa Pertama dari Kemendes PDTT&nbsp;&nbsp;Inside Pontianak",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "09c993928054",
     "title": "Hadapi Penurunan Dana Desa, Pemkab PPU Tingkatkan Kompetensi Aparatur Desa - Kaltim Post",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNUhsdWRteXNlZHJNYkpOLWUwM1FIQ2NCbkFJekFRbnE1SEM0SHR5WXhlcUl3SEhBbmZqYUtvalQ5OWRYRkVZTkVyWkJ3WGFfeF9hLUZYSk9sSVFTRzlNMzhMdmJKaWJVaTktYmQ0LUR5Q3FheXdTcWhScm5sS0VWZFktTGo5X3dpdW1ibkwxYXBFeFJsX1lfVU9LMnRBenNnaE8xUTVSSTVpeHhsank4RTZzSWhMQjlwenl5bmYxREPSAcYBQVVfeXFMTVVyNTQ2a1B2dEJSWWtVQkZ4NVJuT3FULVVBeklrNHRHdnl6anBsMTFkM2FJQmFZSE9pVjFRX1FaZkFpaWZnLTNCRXVvVUNqcXlPUHVqbnkwbVJzMGJ5aW41cEtaR1g0ZTNsbjhMT2JXTXhiWUoxR21ydUIxRDl6M292TkhwenpET1pNdzlxRzgzTV8zUVFPbUZSV1dteFBEeDgwTmN6V1poSXNzY1Z6ODVlOTdSOThTTlFwa0NBOFRqLU5yTEhB",
@@ -103618,6 +103631,19 @@
     "desc": "Massa Pendamping Dana Desa Demo di Depan Istana Protes Kemendes&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ed7a3eedd50e",
+    "title": "Bantuan Dana Desa Sulteng Capai Rp1,24 Triliun - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOHpxQ0J0ZmI1c2g3U1lua0hZdTdTcW1ub3pCblN6V25xUl94UUQ0Y05FOGRDWkF1aTktMlpzcnl1R0ROekhPUFpXNDhzMENUTG8xanBoQkR4YnVxQkZGQXdyazFWLURKT1AxMHJ0S0dzdHNjQVVWeFdWdWhWclVtYl95NmFsdkkwR3VIR3M4aThxNHc",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2016-03-17T14:00:00+07:00",
+    "desc": "Bantuan Dana Desa Sulteng Capai Rp1,24 Triliun&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
