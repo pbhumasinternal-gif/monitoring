@@ -1,5 +1,44 @@
 [
   {
+    "id": "52cefc83030b",
+    "title": "Senyum Bahagia Warga Desa Kolak Terima BLT Dana Desa Rp1,2 Juta - Banggai Kece",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcHo4M3JFaDAwNk04dEcwR3g3UHZVa05DdENFYmcxVFBKdkpFMkRoUEVvYlhTMFJZbXJEc190UkJLeUxyRC1iWXhMR0dTd2J5U1RiTXdZcktLeW9DVGYyeDV5NWZzaDZnc2tfYWN1RnFsWlpVallvT2FnUTZNam1pM3NsZmtiQ19GbGk0aEotc0x3YUdsUU5pQzc4ZEtZUQ",
+    "source": "Banggai Kece",
+    "pub_date": "2026-11-16T13:56:19+07:00",
+    "desc": "Senyum Bahagia Warga Desa Kolak Terima BLT Dana Desa Rp1,2 Juta&nbsp;&nbsp;Banggai Kece",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6570c355d556",
+    "title": "Atasi Kendala Pembukuan, Mahasiswa KKN Dampingi BUMDes Guyub Sentosa - Kompasiana.com",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMEFiNzRMUTg0VjRVdXJqdXR4M1JxNWRJZHRjcW5IWENhSTVCNkpvV3I5ZjhQY1JOcGZPaENrZ3NlTlN6dVdtWFVxaHY4NGtGcDlKOXNodWhBV25FTkhuMjhyUjZadkUwMHhfYkNrYjAySVJTSGZYY2JSRDVDOVU5WDk1U2wzQ0VZaFZGWXQ5U2xRRkVvcXNHMXNmcjlVdVJuMmdxd3lkdlZrTmtsQVgyaXNRenM1Y0txNVVWUS1mSG4yX2NoZ1NMXzh3",
+    "source": "Kompasiana.com",
+    "pub_date": "2026-11-16T13:41:15+07:00",
+    "desc": "Atasi Kendala Pembukuan, Mahasiswa KKN Dampingi BUMDes Guyub Sentosa&nbsp;&nbsp;Kompasiana.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ed06e309aaaf",
+    "title": "Wamendes: Desa harus maju tanpa kehilangan akar budaya",
+    "link": "https://www.antaranews.com/berita/5856775/wamendes-desa-harus-maju-tanpa-kehilangan-akar-budaya",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-16T13:31:44+07:00",
+    "desc": "Wakil Menteri Desa dan Pembangunan Daerah Tertinggal (Wamendes PDT) Ahmad Riza Patria menegaskan pembangunan desa harus ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e8d8c9fc96e0",
     "title": "Klaten Siapkan Wisata Nataru, BUMDes dan UMKM Ikut Bergerak - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3pSWFBPTUJPRTZjNXAzX042MWNOaW1wamZhdm9vOE9XN0VvZHVRckc4RmFOUnRHMm1FTUtzX281U3RIOWlyWTIwN1J1VnF0NWJUTlhPemk4dWJ5bml0Z2ZZbktjR2xvYlpoWlpQMkxpQ0NDcHdGYnRMdDlJM0lhVVlmT1NZVkg2MU9KLTZGcm9mOGhWZDVsQThWZXZpT2lQaFVV",
@@ -3586,6 +3625,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "8b45f6182da7",
+    "title": "Rumah Sakit Terapung Jadi Alternatif Atasi Ketimpangan Fasilitas Medis di Wilayah 3T - Akurat.co",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3JCV0tZSnV2QVB3TWZTOGx6TlljUHZFbENrbzRVSXl3WkpqTUZRdzh0RlVuMFNlUnZHWkNFSEFrdkdzOU5uU3dES0hYekdzTHN1QWFCR0ZJTERDcklyQjVEZ0dXeFVhNDJ5aWJSSXZBempzaXBjZ2tBMTF0S1lMT2RIbTRSeFRONVJLb2M4R0x3REtrUlNEd3pVX0VidWxDSllDbkZmRUdUWm9yTVdZenBocmpsemhZSGlpdQ",
+    "source": "Akurat.co",
+    "pub_date": "2026-11-11T12:42:00+07:00",
+    "desc": "Rumah Sakit Terapung Jadi Alternatif Atasi Ketimpangan Fasilitas Medis di Wilayah 3T&nbsp;&nbsp;Akurat.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "d479abded4e4",
