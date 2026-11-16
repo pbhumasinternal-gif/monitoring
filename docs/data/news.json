@@ -1,5 +1,18 @@
 [
   {
+    "id": "528caa11fb4f",
+    "title": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri - Pikiran Lampung",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGQ5QzBJazMzdnAxZy1uMTIzNkV4ak5sb2xUWkkyZEJ4NVVxMEVPZlVMYmYxRFNXNnRLWE41cUZ6ejEwblU4MGMtTGhIY2MwY2paSVNycFppTG9MVEFPR2ZzWncyNFJiam1hanJhZXJZTUoteFROUDdOX1doLTFYOFhhYXU",
+    "source": "Pikiran Lampung",
+    "pub_date": "2026-11-17T06:15:06+07:00",
+    "desc": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri&nbsp;&nbsp;Pikiran Lampung",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "9d926d48dc34",
     "title": "Wagub Vanath Minta Kebijakan UHC Berpihak pada Daerah Kepulauan dan Wilayah 3T - Terasmaluku",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3RhNTFwamVYbFZBc1B2ZTBwWTJjeGM0Z1ZmX2RaNXRIb0lFc1pJcVFJNHhkb0FWVnE3MHVvZGhIc0U4WjQ3T1NRQ1lKYnZjMnBIc2JpTnpCZEpzWjREbTJQakU3enFuWkVuOXFVdE1LQ29SVmdNTkZKakM5NHF1dHA3MHlfcFBGUTZfbkRkSllDaVBqRFptUkY1dWpiMUtvZnhrOUdPWmJGYmItbzZTSGZR",
@@ -37,6 +50,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4f203bf28b4a",
+    "title": "Dana desa dipangkas 70 persen, Ika PDIP DPRD Jabar angkat suara!",
+    "link": "https://www.msn.com/id-id/berita/other/dana-desa-dipangkas-70-persen-ika-pdip-dprd-jabar-angkat-suara/ar-AA2hzxQk",
+    "source": "Kabar Banjar on MSN",
+    "pub_date": "2026-11-16T22:06:57+07:00",
+    "desc": "Ika Siti Rahmatika, Legislator Fraksi PDI Perjuangan imenilai pemangkasan anggaran desa hingga 70 persen berdampak luas terhadap pembangunan ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "1df4f470c56e",
