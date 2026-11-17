@@ -1,5 +1,31 @@
 [
   {
+    "id": "ffe3590f8793",
+    "title": "Pemkab Pesawaran Gandeng Kejaksaan Dorong BUMDes Jadi Ruang Kemandirian Desa - Medinaslampungnews",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX2tXOXJUV3NGTWhVMEgxeldkQ2JSM012LTZKQmZEYWdHckZETi1ic2tqeXBNd09kNlAwWGNLcHE4RWpBSzBXV2NSdFRZOExXN1hEbWc1dXotczNHZExXM0d4dGtXYjZfcExYSkIweVdxaUZybmlBU2daSVV2ZmxIcUNwNVVoaGJ6Zkt6ekc5M01VbG1vUDVEM3FqNi0yWXJmSGRNVzY1VHNreTQ4WHR6eTdHVUk2SWdrRkp4ci1WOTJ3cUE",
+    "source": "Medinaslampungnews",
+    "pub_date": "2026-11-17T09:39:44+07:00",
+    "desc": "Pemkab Pesawaran Gandeng Kejaksaan Dorong BUMDes Jadi Ruang Kemandirian Desa&nbsp;&nbsp;Medinaslampungnews",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "507f5e3954c1",
+    "title": "Koalisi gugat Kopdes Merah Putih ke MK, tolak Dana Desa dipotong - IDNFinancials",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1hyTGxvaVFJQUFzREJqZC1JWVBneWxEYnZhaFRfS2tRV0J0ZkRLVGViMjFOaU5ZTjlRSEMwRzRfRXJhT0FLNl9wNmVPNExFb2Ewd1RqdERyRlQxTlEta1JpZ0FCVzNVeDNGOUlWaGVoTk1OTWVMbU5ETU02RnI2bUVQcVRnVGMzeWVSUTJMOWhIVG50SGJlYklFZ2p0cUJoMDQxTzllOFF5MlU",
+    "source": "IDNFinancials",
+    "pub_date": "2026-11-17T09:30:00+07:00",
+    "desc": "Koalisi gugat Kopdes Merah Putih ke MK, tolak Dana Desa dipotong&nbsp;&nbsp;IDNFinancials",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4ca1f2e52152",
     "title": "Duduk Perkara Kades Probolinggo Ditagih Kembalikan Rp520 Juta, Terungkap Penyimpangan Dana Desa - Tribunjatim.com",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ20wNXU2VERaRmJJVmI3MHg0RGVkREs4ZVFKQ1B4TFdSdFBIUDhaeE9xN0NDd1pKdExVcS1rSFdzY29QVTNNak1yTW9JS3k1ckZCbFhoZEd1c185b0l4N1plSXJxTnhnNm5ITVh0NUViS1Y5dFN1VkN1Qjc0cnA5MGZUeWJqQ09vblZLTnhRekZKa0tqRFZIRndIbnQyMnUwLVpweG12ZWp4SXlVVzhkdzl3bEdpRlFsOTBqd3lFTUdyOHlaZHRkQzVmaVNuNzFOaHc",
@@ -853,6 +879,19 @@
     "desc": "Pesawaran (LM) : Penguatan tata kelola dan pengembangan potensi ekonomi lokal menjadi langkah penting dalam mendorong kemandirian desa. Melalui Program Inovasi Andan Jejama BUMDes (AJB), Pemerintah Ka ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c05d15bb160d",
+    "title": "Kemensetneg, Kemendes-PDT, dan IFAD Perkuat Pemberdayaan Ekonomi Desa melalui Kerja Sama Selatan-Selatan dan Triangular",
+    "link": "https://setneg.go.id/baca/index/kemensetneg_kemendes_pdt_dan_ifad_perkuat_pemberdayaan_ekonomi_desa_melalui_kerja_sama_selatan_selatan_dan_triangular",
+    "source": "Kementerian Sekretariat Negara",
+    "pub_date": "2026-11-15T23:00:00+07:00",
+    "desc": "Kementerian Sekretariat Negara (Kemensetneg) melalui Biro Kerja Sama Teknik Luar Negeri (KTLN) berkolaborasi dengan Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes-PDT) serta Internationa ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
