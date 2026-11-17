@@ -1,5 +1,18 @@
 [
   {
+    "id": "9db217f1910d",
+    "title": "Dana Desa Jadi Perhatian Kejari Maros, Kades Diminta Tertib Administrasi - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdldZY1RqNzFGU2xWanJvVDg3azExUzVfTlZnS0tjQlMwS0d3WTV1U2RzY09MTmhXaVBXeUNybC1qWHpNbzF5X2dlb3pNVnlRblBMUUl5QUdmbjZHaUNCMkhpb3dUWXUyOWdoMVRjVEVoTnhzeTNTQVZQRDM1VWlaai1jWjhHeDVDNkdqSlpnaWVMeTd6SzBoQ3ZaLXBUajZUQlZlT1QyM0JHdnBhTlBObTU5b1lLME0",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-17T18:46:00+07:00",
+    "desc": "Dana Desa Jadi Perhatian Kejari Maros, Kades Diminta Tertib Administrasi&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e75d075c1d90",
     "title": "BLT Dana Desa Bali Baru Tersalurkan 83 Persen - BALIPOST.com",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVlVYSEhxRXRQRkZicW9TNnYxOUl0S29mY3BjdFZ0bmRubU84bU52Wmgwc2lmZXZ5TDQyYVRuZzVYN1gtX24yeXNWcktYeWx5eXY1SEZUZm9VSUU1WkRjRTJnLW92SWZaeGs5eTFwUEUtSWVqWDV5NVdOcHlJT29YOW1wYjl6bFB0aWxuanhB",
@@ -528,6 +541,19 @@
     "desc": "Wagub Vanath Minta Kebijakan UHC Berpihak pada Daerah Kepulauan dan Wilayah 3T&nbsp;&nbsp;Terasmaluku",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "db26f5946f03",
+    "title": "Guyub Rukun, BUMDes Makmur dan Pedagang Pasar Ikuti Nyadran Kali Odo",
+    "link": "https://www.kompasiana.com/bumdesmakmurgedangan8826/6afc3f4234777c04c94c6e33/guyub-rukun-bumdes-makmur-dan-pedagang-pasar-ikuti-nyadran-kali-odo",
+    "source": "Kompasiana",
+    "pub_date": "2026-11-17T03:49:00+07:00",
+    "desc": "BUMDes Makmur bersama pedagang Pasar Desa Gedangan menyumbangkan gunungan sayur dan jajanan pasar dalam tradisi Nyadran Kali Odo pada 10 Mei 2026.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -3260,6 +3286,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0f8b510e1aeb",
+    "title": "#daerah tertinggal terdepan dan terluar",
+    "link": "https://www.antaranews.com/tag/daerah-tertinggal-terdepan-dan-terluar",
+    "source": "Antara News",
+    "pub_date": "2026-11-12T23:00:00+07:00",
+    "desc": "Siswa SMPN 8 Komodo membawa ompreng berisi sajian program Makan Bergizi Gratis (MBG) di Labuan Bajo, Manggarai Barat, ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
