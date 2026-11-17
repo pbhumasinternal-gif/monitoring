@@ -1,5 +1,31 @@
 [
   {
+    "id": "4ca1f2e52152",
+    "title": "Duduk Perkara Kades Probolinggo Ditagih Kembalikan Rp520 Juta, Terungkap Penyimpangan Dana Desa - Tribunjatim.com",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ20wNXU2VERaRmJJVmI3MHg0RGVkREs4ZVFKQ1B4TFdSdFBIUDhaeE9xN0NDd1pKdExVcS1rSFdzY29QVTNNak1yTW9JS3k1ckZCbFhoZEd1c185b0l4N1plSXJxTnhnNm5ITVh0NUViS1Y5dFN1VkN1Qjc0cnA5MGZUeWJqQ09vblZLTnhRekZKa0tqRFZIRndIbnQyMnUwLVpweG12ZWp4SXlVVzhkdzl3bEdpRlFsOTBqd3lFTUdyOHlaZHRkQzVmaVNuNzFOaHc",
+    "source": "Tribunjatim.com",
+    "pub_date": "2026-11-17T08:53:00+07:00",
+    "desc": "Duduk Perkara Kades Probolinggo Ditagih Kembalikan Rp520 Juta, Terungkap Penyimpangan Dana Desa&nbsp;&nbsp;Tribunjatim.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -6,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "cd1da8e18fd9",
+    "title": "Dana Desa dan TKD Rp520 Juta Jadi Temuan, Kades Bulang Probolinggo Terancam Dilaporkan ke Polisi - beritajatim.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPclNGM0xhLWhsQ18wUU05VkpvRFUwYkxvTTZjbkljcmdpX2k2Q2Q5N05lTnBjUnNRLTNVVi16VkxOVHp5RmNFRWM1alRvTENNQmtVLVBfYnVaTFNVMjZrbGNnbnR4b0tNNmxqQXdCMzV3SEloa0c1MXdsbkx2WlU1WjFFOXpVUWZ2NzZWekd3TkdzODNGN2ZsUFpEa290bnhrc2p6MVdISW1zM2tYaWRuSUQ2QXN3UTVtd0NF",
+    "source": "beritajatim.com",
+    "pub_date": "2026-11-17T08:11:45+07:00",
+    "desc": "Dana Desa dan TKD Rp520 Juta Jadi Temuan, Kades Bulang Probolinggo Terancam Dilaporkan ke Polisi&nbsp;&nbsp;beritajatim.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2623f7ea5963",
     "title": "Buka Raker APDESI Pasangkayu, Asisten I Badaruddin Ingatkan Kades Jangan Salah Kelola Dana Desa - Tribun-sulbar.com",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSWZrX0YtNE5ia0VacnFYOUZHS0V5LUNfWko5NXZIeXNnVVF2VnFyd01XNWFRRkwzZ0phNHRqYm9OZnFtV1ZMVjUtalhNbl8tZzh0U0YyZTluY09zLUVaUGxjbWJLbkQybWRvdkdjdFJqM2pHVi1KbXdISjEwcHEzQ0tTaGoxNlFkcUJCUlJ1MVdNLUQ1UWFfUld2Njg1RDZDdFA0dzNSX0lqZTZfVUdwWkQzT1NqcHlhZFNNQy1tbVBhM0pEa1ZMMDhIQVNrdlJhcU1DS1p4d0U",
@@ -656,6 +682,19 @@
     "source": "RRI.co.id",
     "pub_date": "2026-11-16T12:43:00+07:00",
     "desc": "Klaten Siapkan Wisata Nataru, BUMDes dan UMKM Ikut Bergerak&nbsp;&nbsp;RRI.co.id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "35faaac8bc6a",
+    "title": "Pemprov NTT minta pengelola BUMDes gali potensi ekonomi desa",
+    "link": "https://kupang.antaranews.com/berita/116886/pemprov-ntt-minta-pengelola-bumdes-gali-potensi-ekonomi-desa",
+    "source": "ANTARA News Nusa Tenggara Timur",
+    "pub_date": "2026-11-16T12:21:00+07:00",
+    "desc": "Kepala Dinas Pemberdayaan Masyarakat Desa Provinsi Nusa Tenggara Timur Viktor Manek meminta para pengelola Badan Usaha Milik Desa (BUMDes) untuk menggali berbagai potensi sumber ANTARA News ntt 5 ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
