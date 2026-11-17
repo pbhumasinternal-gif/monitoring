@@ -1,5 +1,31 @@
 [
   {
+    "id": "ee88a3b5b4c6",
+    "title": "OJK Jambi butuh peran pers perluas edukasi keuangan wilayah 3T - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFNVMXVYNzVUR2ZPUzJRcGlqMHE2bkp5NWVJRF9DWWJWNmVHUFhjZUlWNEd6d2lMbkVlMVFFRGV6cnVPY2JlT0NJZERFRm1NeW5MdUMzSGxFTnRqYlpKck84X09WRXJmYm56V0JqS1JkS2JTUWczYi0wd1FkUTJnZ0hMdDFCQXRQSWZnT2VJOHpXZDZEbDBqT3hrQlBHTWl6bzBERVpnV1rSAa4BQVVfeXFMTnNrWDhPZmJ0UGRlelNETFJoWU44MnRPSEVNOHdCVWMtRkNJc0h6SGt2QVp5bUdjOERCQWlld2VEUVpuTGlxeng0OUhRUV83N0xYU1VEd0ZOYXFPZ3ZpbmZrYy10SjRXVlNmbjRWQmVpYU5nem1rMmVZcVV6R2lJSjYtR1g2MDNvT19zSHVOTExRSWxOUWJtWnRpZU5iWnFpSWNsQmNKOVlGanBUYjdR",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-11-17T22:06:47+07:00",
+    "desc": "OJK Jambi butuh peran pers perluas edukasi keuangan wilayah 3T&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ddcdc4b4ebcd",
+    "title": "Raihan WTP Bukan Berarti Bebas Temuan, Mendes Yandri Komitmen Benahi Tata Kelola Kemendes PDT - Lingkar TV",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcXBWZmdPeWN4RjZWZmhrOXhCUkRHanI0X2sxb2J0bU1MeVFGVG04a0V4X2Y4WjNQZGhfVjEyUmxIRW9jeGNvZklPZTIzM29PNGdYZnQ2S2NmcEcxTUVLQ1pxd3d6OXZtWE5JSTZLNXVwY0hxUnlONW8wb2hITWR6b2Z1UUxtMzVLZkZYa3MzSllfQWJvaUdVMGFQQVN6Wi1zS2Q0Z1JxRU85Y19FSjZ3NkxQRGJ0UQ",
+    "source": "Lingkar TV",
+    "pub_date": "2026-11-17T21:59:01+07:00",
+    "desc": "Raihan WTP Bukan Berarti Bebas Temuan, Mendes Yandri Komitmen Benahi Tata Kelola Kemendes PDT&nbsp;&nbsp;Lingkar TV",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "72748fd4e691",
     "title": "Hattrick Keuangan Internasional! Program TEKAD Kemendes PDT Sabet WTP ke-6 dari BPK - mantranews",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMTNIcGV4RjRpSmtaSTZib1JxMU5mMFVfdHlmTWZ1M0lHWmJ4UUJ5YmN3Y0d0a2NWT1Bscl90cDdFSDBHbVVDYXpBTXJXdFdBcmJ1OXJ3MlZ5WnA3OHpxOUYweDk4Y21JRWpXaEZnUDJaUTVmeXdvSkFfSW44cVBNTE1rR1NGaV9xRjFpRTZiNmpTX1ItenViRWF1THpUR0c2TlYyWVg5eEV3bG10eWlrZHVIQQ",
@@ -1766,6 +1792,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2797c63cb9f4",
+    "title": "Mencegah Korupsi Dana Desa dari Hulu Perencanaan Lewat Sistem Peringatan Dini - Bandungraya.net",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWkxsbFlxUU9EZlJYcTFZTEpqb3ZDQWxIcHlOUkxLWWkxd2Q3ZUMtakUybGhheTVaal9JMGp0ak9LNTV3NGZWS1dqUVZ2NlhGZ0FSbWxXTkZSUHhOVkZSVkRwTHB6cDJ4djRzWHl1dXI5Q21rMTNhSDlGbWxVS2R1TXRydG1TRkF4X3NoSTN5U01uZHpVUGpQYl81QVlHZmpzY3FTZExOejMxMklaVmc",
+    "source": "Bandungraya.net",
+    "pub_date": "2026-11-15T14:14:46+07:00",
+    "desc": "Mencegah Korupsi Dana Desa dari Hulu Perencanaan Lewat Sistem Peringatan Dini&nbsp;&nbsp;Bandungraya.net",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 4,
+    "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
     "id": "d12b6540319d",
@@ -85408,6 +85447,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "665592f9f978",
+    "title": "Polisi periksa mantan kades di Konawe terkaIt korupsi dana desa Rp472 juta - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFN1Y0lvUEt5LUVjTmluUXBKdHNad1FyMVAwRm92VUc3Rk5hY29iVnZsYUVWSlRrc0M5Mnk0dWVYMkk3dG9oMVRWc2lBTXFaanJ4eGxnUmRkNmhJSlBhZmxzTTgtb2ZPZVZVc0xna2dkTUgwX2dPbWtyQ3F4UmRnVzFhUXQ1NzIyTFVvVE5jc3dQam43RF9HRk9aLWFvMHRET1lEdXhXUkNNVThRcUpnM0pOdmRFZWRGSFE",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2025-11-11T15:00:00+07:00",
+    "desc": "Polisi periksa mantan kades di Konawe terkaIt korupsi dana desa Rp472 juta&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "fe3600e2229c",
