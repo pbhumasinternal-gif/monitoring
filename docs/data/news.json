@@ -1,5 +1,18 @@
 [
   {
+    "id": "901db4c78813",
+    "title": "BNN Gandeng Kemendes dan Polri Gelar Lomba Desa Bersinar 2026, Perkuat Benteng Pencegahan Narkoba dari Desa - Monitor Pos",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNWFWMFpLNVpPcEhpRDZWMzJfeE5IbG1YcWZIeWQyUjhjckdtb1c1SzhyYzdxbGRsMDdNMUlIN3dlenlHUUlrREp2NGxJMWNtSUk5eThPdVc5bUwyY2pGOFQ1YTRYRVBpeVNKQ1M4UF9aZFhOSUdPd1NVZDdzMThjV2pn",
+    "source": "Monitor Pos",
+    "pub_date": "2026-11-17T10:02:00+07:00",
+    "desc": "BNN Gandeng Kemendes dan Polri Gelar Lomba Desa Bersinar 2026, Perkuat Benteng Pencegahan Narkoba dari Desa&nbsp;&nbsp;Monitor Pos",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ffe3590f8793",
     "title": "Pemkab Pesawaran Gandeng Kejaksaan Dorong BUMDes Jadi Ruang Kemandirian Desa - Medinaslampungnews",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX2tXOXJUV3NGTWhVMEgxeldkQ2JSM012LTZKQmZEYWdHckZETi1ic2tqeXBNd09kNlAwWGNLcHE4RWpBSzBXV2NSdFRZOExXN1hEbWc1dXotczNHZExXM0d4dGtXYjZfcExYSkIweVdxaUZybmlBU2daSVV2ZmxIcUNwNVVoaGJ6Zkt6ekc5M01VbG1vUDVEM3FqNi0yWXJmSGRNVzY1VHNreTQ4WHR6eTdHVUk2SWdrRkp4ci1WOTJ3cUE",
@@ -674,6 +687,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
+    "id": "6040ac597500",
+    "title": "Dua Tahun Terakhir Pemerintahan Prabowo, DPP LIRA Soroti Program MBG Belum Sentuh Daerah 3T dan Minta Serap Hasil Nelayan Lokal",
+    "link": "https://www.rakyatpos.id/2026/11/dua-tahun-terakhir-pemerintahan-prabowo-dpp-lira-soroti-program-mbg-belum-sentuh-daerah-3t-dan-minta-serap-hasil-nelayan-lokal.html",
+    "source": "rakyatpos",
+    "pub_date": "2026-11-16T14:05:00+07:00",
+    "desc": "JAKARTA-BELARAKYAT-Dewan Pimpinan Pusat Pusat Penerangan Rakyat (DPP LIRA) Bidang Kelautan dan Perikanan mendorong pemerintah pusat untuk segera mempercepat realisasi program andalan Pangan Bergizi Gr ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "43dad5a6dee1",
@@ -95753,6 +95779,19 @@
     "desc": "Percepat Proses Warga Daftar JKN, Kemendesa PDTT bersama BPJS Kesehatan Hadirkan Program Pesiar&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9472435e07b3",
+    "title": "BBM Satu harga terus terjangkau wilayah 3T di Papua - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMzFxcDR6VG9fRFJwR0l1a2ZMSlN5cXJaSC15RkRKSmJ5TlhZd3g1SVc5VTJmUlBoWnpVYTc4S1puOFVNWUFpZm8tRkpnWmw4MHdJUlR0dDZpREl1Xzk4VnhoQWY0UklFUlA4WGZYSloxLS1SdjNzcWhFVjNicS1NTHlvdU5xTWsyNTlQdkxUUzhiNEhPXzV6bjVR",
+    "source": "ANTARA News Papua",
+    "pub_date": "2023-08-27T14:00:00+07:00",
+    "desc": "BBM Satu harga terus terjangkau wilayah 3T di Papua&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
