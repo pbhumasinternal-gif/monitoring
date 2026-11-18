@@ -1,5 +1,31 @@
 [
   {
+    "id": "38149bb5b008",
+    "title": "Ombudsman Cek Kondisi Kopdes di 14 Lokasi, Ini Hasilnya",
+    "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8758730/ombudsman-cek-kondisi-kopdes-di-14-lokasi-ini-hasilnya",
+    "source": "detikFinance",
+    "pub_date": "2026-11-18T16:38:48+07:00",
+    "desc": "Ombudsman Indonesia memaparkan hasil pengawasan terhadap pelaksanaan program Koperasi Desa/Kelurahan Merah Putih (KDKMP).",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d653ba465c9d",
+    "title": "Pramono jelaskan kendaraan Kopdes hanya parkir sementara di lahan DKI",
+    "link": "https://www.antaranews.com/berita/5862591/pramono-jelaskan-kendaraan-kopdes-hanya-parkir-sementara-di-lahan-dki",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T16:35:07+07:00",
+    "desc": "Gubernur DKI Jakarta Pramono Anung Wibowo menegaskan keberadaan mobil pikap dan truk Koperasi Desa/Kelurahan (Kopdes) ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "543236fe7a10",
     "title": "Raih WTP 10 Kali, Lasarus Minta Kemendes PDT Terus Jaga Akuntabilitas - jurnas.com",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmlzbWM4dGdCY1hzY2xBdll1WnNScm0wdVc3VURPQl9aNnpOS3Q1SlVMNTZzcE9JZjdRZkJqVlFISm1lcE5rOGlQS0ItZHZFWEM2eVpOcHRaWDYzMjBQR1lCZXBEQVhJdkRLTTRmNDlwcVI5eFU1TUlVcElqX0FkLVNqZzVLckUyLW84MERWQUVqTGNKYzBsVTdpNDFlM3Nudm1TOTE2SEU",
@@ -11,6 +37,32 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "29b541a47f9d",
+    "title": "Rugikan Negara Rp900 Juta, Empat Tersangka Korupsi Dana Desa Tengah-Tengah Malteng Dijebloskan ke Penjara - Ameks Online",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ2RqVkM4c1NGZVpIR1haV3R4YTBrQ21CcE03RlZfX09SOVBVbnhlbXpISVF4T2o3cGhMZkYxeUNfRWVNQmdmVDBJTTlQd1FCZlZyWmZmdmZ6SUNtRjZORXBfZVB5a1JmZUxJWS0zVXEwSmtwT213c19ocTliRlQxaUphMmJITjVHLXdoOEVORWhKbTcxOXd1aG81bWY3U2MyUXIxaExOQ3J1NURSZUpyRExpTy1TOWgwakJsUGtOSTRualctc1RuTEN6dEx5SGNNVllVU1Y5dHFudw",
+    "source": "Ameks Online",
+    "pub_date": "2026-11-18T16:25:10+07:00",
+    "desc": "Rugikan Negara Rp900 Juta, Empat Tersangka Korupsi Dana Desa Tengah-Tengah Malteng Dijebloskan ke Penjara&nbsp;&nbsp;Ameks Online",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "93edd7b08cb8",
+    "title": "Tersangka Korupsi Dana Desa Tengah-Tengah Dijebloskan ke Penjara - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3BHYTdra1FDbHRUSUI4RXhuOFVybEl0d0hQeGlDSWVMdE9PSlFKbU9zUVFRUDJaUkRvcHFLa29zbjh1SGxuUFZnWDlvZVl0U2RRUnJuWktjbFVGbHFvYXVBc1JKRkVHNUlMN0RfRHk1SGRKb2JETThrV2RkLW1xd0hRa2JTNGJ0dWR2T01faFdnNmFkNEw4X19LZ3dxaVE3Tmtjb2tWSWwwU2ZM",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-18T16:22:00+07:00",
+    "desc": "Tersangka Korupsi Dana Desa Tengah-Tengah Dijebloskan ke Penjara&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "adee6756a835",
