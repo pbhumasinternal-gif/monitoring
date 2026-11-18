@@ -1,5 +1,18 @@
 [
   {
+    "id": "e5cfc25b5061",
+    "title": "Ombudsman soroti 10 indikator pengawasan Program KDKMP",
+    "link": "https://www.antaranews.com/berita/5863851/ombudsman-soroti-10-indikator-pengawasan-program-kdkmp",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T23:32:42+07:00",
+    "desc": "Ombudsman RI menyoroti 10 indikator dalam pengawasan terhadap Kementerian Koperasi dan PT Agrinas Pangan Nusantara ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f39a9411cd15",
     "title": "Zulhas Kawal Efisiensi Anggaran MBG dan Percepatan Layanan di Wilayah 3T - NTVNews.id",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkpUd3pRRS1HNU9jczB6cDF3M3pycTZSRV9WdUNscGxUTHB2SS1sbmU2a3NZNnh0VlZQMktuM3Y5cDJlVDd2WjdFa1JpY2QxTWJVbFlSWUpoNHZpYlJBaVBQeE9uNEpDUFdKTW9YSHppZG1JZ3IxOWd2VzBUNnZ2OV9LVlJkbVUxSTdEWVRCR1BPWkYzOUFyeEttZm1WRDEzZHVBSnlsaERDbWZIS0E",
@@ -6940,6 +6953,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "35132ebf9589",
+    "title": "Pemdes Harus Optimalkan BUMDes sebagai Penggerak Ekonomi - Kalteng.co",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcnFleWhuRFBQdmNpampDblhRcHI0UlZFRUtMS2xzMFAyUzVzZUZyTjZjUklrZzlKY29fOGcyb09wc2ZIWkdSMmtqX1A5TUdFZkhvN091a3R0Q3Jxb19RQzQ4ai1SejE5MFRsYzhrWFdyVG1GQ3pUTVlyNzl6QlRFekxR",
+    "source": "Kalteng.co",
+    "pub_date": "2026-11-10T15:00:00+07:00",
+    "desc": "Pemdes Harus Optimalkan BUMDes sebagai Penggerak Ekonomi&nbsp;&nbsp;Kalteng.co",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "69dbbfcd83ec",
@@ -14865,6 +14891,19 @@
     "source": "RevolusiNews",
     "pub_date": "2026-11-01T09:33:52+07:00",
     "desc": "Audiensi Jilid II, FMLPD Desak Penjelasan Dana BUMDes dan BPD&nbsp;&nbsp;RevolusiNews",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1adb59f55c9b",
+    "title": "Kemendes berkolaborasi dengan beragam pihak dukung BUMDes pasok pangan Makan Bergizi Gratis",
+    "link": "https://makassar.antaranews.com/berita/564542/kemendes-berkolaborasi-dengan-beragam-pihak-dukung-bumdes-pasok-pangan-makan-bergizi-gratis",
+    "source": "ANTARA News Makassar",
+    "pub_date": "2026-11-01T09:04:00+07:00",
+    "desc": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (Kemendes PDTT) berkolaborasi dengan beragam pihak untuk mendukung Badan Usaha Milik Desa (BUMDes) menjadi ANTARA News makassar 14 ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
