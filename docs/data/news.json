@@ -1,5 +1,18 @@
 [
   {
+    "id": "7b42457fd098",
+    "title": "Dana Desa Terus Dikucurkan, Wabup Romli Sebut Tak Ada Desa Mandiri di Lampura - rmollampung.id",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaERNTEhmRjV2T1NIdjJqX2VQenNSY29DZ0NJdXBaTHV5NjdkR1lzVDlvdGJTVXBnWlFkOUp3X1FNb0tORHp3RzdIS05LcUtpUW9ZSGUzVDJPaEFGYldoM3dPVE50dTJjUTVUblJ3a1RCQWtGdU94RlI1c1lRUjJjUklrQWk5OV93NENEcnlVajgxV1JucFpndktzUG5DTTlP",
+    "source": "rmollampung.id",
+    "pub_date": "2026-11-18T17:14:55+07:00",
+    "desc": "Dana Desa Terus Dikucurkan, Wabup Romli Sebut Tak Ada Desa Mandiri di Lampura&nbsp;&nbsp;rmollampung.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Kendala & Sorotan"
+  },
+  {
     "id": "38149bb5b008",
     "title": "Ombudsman Cek Kondisi Kopdes di 14 Lokasi, Ini Hasilnya",
     "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8758730/ombudsman-cek-kondisi-kopdes-di-14-lokasi-ini-hasilnya",
@@ -63,6 +76,19 @@
     "sentiment": "negatif",
     "sentiment_score": -14,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "4b373e75daf4",
+    "title": "Truk Kopdes Parkir di Lahan BUMD, Pramono: Cuma Sementara, Tak Ada Kerja Sama",
+    "link": "https://news.detik.com/berita/d-8758686/truk-kopdes-parkir-di-lahan-bumd-pramono-cuma-sementara-tak-ada-kerja-sama",
+    "source": "detikcom",
+    "pub_date": "2026-11-18T16:19:24+07:00",
+    "desc": "Gubernur DKI Pramono Anung buka suara soal truk Koperasi Desa (Kopdes) Merah Putih yang terparkir di lahan milik BUMD DKI di Rorotan, Cilincing, Jakarta Utara.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "adee6756a835",
@@ -424,6 +450,19 @@
     "desc": "Rapat Komisi V DPR dengen Kemendes PDT&nbsp;&nbsp;RM.ID",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "189d990a29ec",
+    "title": "Mudahkan Petani, Pupuk Indonesia Perluas Distribusi hingga Daerah 3T",
+    "link": "https://koran-jakarta.com/2026-11-18/mudahkan-petani-pupuk-indonesia-perluas-distribusi-hingga-daerah-3t",
+    "source": "Koran Jakarta",
+    "pub_date": "2026-11-18T01:53:00+07:00",
+    "desc": "Mudahkan Petani, Pupuk Indonesia Perluas Distribusi hingga Daerah 3T - PT Pupuk Indonesia memperluas jaringan distribusi pupuk bersubsidi hingga wilayah tertinggal, terdepan, dan terluar (3T) untuk me ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -84545,6 +84584,19 @@
     "source": "ANTARA News Jambi",
     "pub_date": "2025-12-19T15:00:00+07:00",
     "desc": "Mendes PDT: 20 ribu Kopdes Merah Putih sudah dibangun pada akhir 2025&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1d4a1a8d67cc",
+    "title": "Mendes PDT sebut sebanyak 20 ribu Kopdes Merah Putih sudah dibangun pada akhir 2025 - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0h2NC1iZHRQeG8yano1dk9OYWlKaEtRakkxTEZjRlFXR0NOa2VKcVhieG1oRTM4MWNDOTRNa3ZTMlNaWVVtSVVOMExFc0RTd2ZZbEw2RUhfVDBkU2M2a0tZWnhZQ3dxRHYwZGZhc0pUd3JoY1B3Mi1LMW0tdXNnV0dPT3ctYUNIak5jZFJWS0xyVjZaaVc0Z3dzWHBManNvaUV4NmEtUEdzVVJsZFYwV09lMldjVmd0MlJxVHVNbVZrdDBa",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2025-12-19T15:00:00+07:00",
+    "desc": "Mendes PDT sebut sebanyak 20 ribu Kopdes Merah Putih sudah dibangun pada akhir 2025&nbsp;&nbsp;ANTARA News Yogyakarta",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
