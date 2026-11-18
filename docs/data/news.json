@@ -1,5 +1,44 @@
 [
   {
+    "id": "f45abee6e562",
+    "title": "Pupuk Indonesia libatkan 2.484 Kopdes salurkan pupuk subsidi",
+    "link": "https://www.antaranews.com/berita/5862271/pupuk-indonesia-libatkan-2484-kopdes-salurkan-pupuk-subsidi",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T15:16:50+07:00",
+    "desc": "PT Pupuk Indonesia melibatkan 2.484 Koperasi Desa/Kelurahan Merah Putih sebagai titik serah pupuk bersubsidi guna ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0a646a2d815d",
+    "title": "Korupsi Dana Desa untuk Biayai Selingkuhan, Eks Kades di Langkat Tetap Divonis 2,5 Tahun Penjara - Tribun-medan.com",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaFFnUkJQQVNla2ZkZkNUME9IUlRxOVF6bHlnaHg1UXM4TkxBckI1R0s4SG1TTDZZNjVjTDgtcXYydmZvT3VRWjNfZFpKMWpYVnZDblFPcmRjZjR5U2k5TGNtd3ZZcWFYb29aS3R6ZVUzb08zdkVfUTI0RXRUS2MycVdzRnEyMXNWRkdVb1ZSdkJWdnF5MXpiYVlXX2NER2FiWDZ6NlBuT0VtRG1ISi1OVWVwM2J2U1FvQjNGTTEwMkUxUDNTd2FpZEtya0J2d0VpemJ1elY2Q2xuSk1zbUE",
+    "source": "Tribun-medan.com",
+    "pub_date": "2026-11-18T15:08:02+07:00",
+    "desc": "Korupsi Dana Desa untuk Biayai Selingkuhan, Eks Kades di Langkat Tetap Divonis 2,5 Tahun Penjara&nbsp;&nbsp;Tribun-medan.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "0f279850cd6b",
+    "title": "Tim Pengabdian FEB UB Kembangkan Sistem Informasi Digital untuk Perkuat Transparansi BUMDes Desa Ngijo - TIMES Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM3BsRUpmQk81dmxuZElUZktvUnZ1dUIwVDY2QnB4SmozcTI2UHFON1VSM20tRkJMMVBwWFlvdFdpc1JxdFRQR0ZKdDVoY3ZNa0xjclVnODE0b3YybUM2aVdGOHNBV01SbDdsQ05ldTNobHk2TmtxcHMtSjQyeml5Ujk4ZlNaTWVwblRUZkJBUng1ZTFqNW12MU9RSGVCZ24tbU9jZURVa1hBTWtlQWtUNU1sZkIydTJtV2hWRlFxdlAzME04eFc1UUhyUWhPeWpIbGMxS2pwXzUxdlRrVDFNbFRQUFhwcDhfdGk2dA",
+    "source": "TIMES Indonesia",
+    "pub_date": "2026-11-18T14:56:00+07:00",
+    "desc": "Tim Pengabdian FEB UB Kembangkan Sistem Informasi Digital untuk Perkuat Transparansi BUMDes Desa Ngijo&nbsp;&nbsp;TIMES Indonesia",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6b01b3172eff",
     "title": "PEMERINTAH KECAMATAN TAMBAN CATUR HADIRI PENYALURAN BLT DANA DESA TAHUN ANGGARAN 2026 DI DESA TAMBAN BARU TIMUR - kapuas infokom publik",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeHU2ZGIxbnFsalhJMzZaalB6aUZScEFDeXctd3RKSGx1VEhIYVVFcDc4c1Q1TFBIb3p3UU1oYTM0OEdIOWJ6X2hlSDBGUmFPU3pIUWlLcG15V0dKMFBjNmNveWhiMXNMb0xRWDJ5YTVYWGtDLUROcU9aeVdMcjN5U2lFY0IyWW1ZUktoNERsa1JneWVIXzkzZzZJX1o4V2FVVktBLVFzN2liVWUwMURuOE8tMlU0ZC1sTXhaM3hJdVdVZEx1NzY1dmxjWDc5cmNSWkd6Y3dzU1VMUUtJVFd2UFlERkM2VC11enZqZTd3",
@@ -1670,6 +1709,19 @@
     "source": "Bintangpost.com",
     "pub_date": "2026-11-16T15:00:00+07:00",
     "desc": "Bersama Kejari, Bupati Pesawaran Luncurkan Program Andan Jejama BUMDes&nbsp;&nbsp;Bintangpost.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "eec45e00f8d0",
+    "title": "Pemkab Pesawaran dan Kejari Luncurkan Program AJB, Perkuat Tata Kelola dan Ekonomi BUMDes - Tinta Informasi",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1hNYVhkdFZnbG9lMEpZUzE2MkU4eF9CR2lVU1hFaTBFbGxXRm5NWE5qcHpRNHhpdU1MV2NEaTN4X2NQQmZZMndzVXo1OTkyS1NodG56ZHlvdTlraG5YQnlDNWtsazhSem9GRE83VlhrcnhqM2ctUjRmTUlSVW1meGVSTXRyeFRndmNFVVIxZWl2VmtIc3Raek9yQS15R3BYY2NMcXY5V3VWa2lJekZ6aFZlcUQxWUJMaEc5dXZwZmJEZw",
+    "source": "Tinta Informasi",
+    "pub_date": "2026-11-16T15:00:00+07:00",
+    "desc": "Pemkab Pesawaran dan Kejari Luncurkan Program AJB, Perkuat Tata Kelola dan Ekonomi BUMDes&nbsp;&nbsp;Tinta Informasi",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -88205,6 +88257,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "79a54e6370c0",
+    "title": "Kemendes dan Kementerian PKP kolaborasi bangun rumah di desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNjJoV005MVhwV2FNVVZkUHBLVDZNci00TzJOaXRYTjVqd2h0SnNhMjMzekxMZ0M5M0tqQXlReHVlYUFXbmlWS1FlV0tSbVNDVEJ0RU1PR3IyM0JPT0E2N1Vpd0pnRFdkdVYyaFN2aUFZQnpQY2hrb3JXY3RibzllaEFlZ2NzYUVWaEhnaWd0cXBQODVCeExjZWRHLTZmTVozSzBBLdIBpwFBVV95cUxOUDQ0N3VlV2FjdXBRbkhwYlp3aHZMZ0l6ME44M1FMUWtFai1wQWRYX3FaNXhlTDVMR2ZYY0h3eER6SnRJUFNPYXhfT2gtTkZwenlDNENTU1hoMXJFUE85OXhyU3doMWNMbnNmajluaTVaSTRlYlJqbG1RVDNIdzVNN2tCTjhNMi00LTgyUlFTNFRhaHdXZmFEdXZOcHlxb0p4U3BqM2xNdw",
+    "source": "ANTARA News",
+    "pub_date": "2025-07-17T14:00:00+07:00",
+    "desc": "Kemendes dan Kementerian PKP kolaborasi bangun rumah di desa&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a756ea59a5f9",
     "title": "Kemendes Gelar Pameran Start-up, Mendes: Bisa Kerja Sama dengan BUMDes-Kopdes - detikNews",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXZDdG00Z1Q5czVJMWo1TXdtOW1wUk9oRkhJcVNDWWVhODBoQ2hyWWJQUG02WFJ6NFRURGFkYmFmNUI2Q016N2hyXzlMYVpnYm0yZU9WT3Qxekp2UU9tV3AwSFp4aHcxTEM3VXVENzN3bnZULTdVSDNSUlRfVlBCU1FveGxQd0hDVmRlWE1HS2tyUGU1MTRVMldyWnpVSXVBeTBtMGJEeXNqSF84V0NSVlQ1N0J6d9IBuwFBVV95cUxNVXJyZU9aVG1CUXZ1V3BRQjRIVlNlWE9OV2NxWTB1eTFWTEtETWt0RGczbEVBVnZ3Ty1yOFlPSkc1Z0JuLVVveU45OEV2VXNWVWhaUlBaOS0ybExaZXhOaWNUNzZZeVQzcE9CNVliQjlLRVk1SGRFYWE2b2dpLTc3SlZwRi1mSG1KbnlnNlFOeS1velZQLXVaLUNrNnVFbDlQOC1RLUxLMWVWTXBTYm1pVjRYLTFjdURBZVNJ",
@@ -102086,6 +102151,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "851d2fc8b4c5",
+    "title": "Kemendes-BPS bahas KBLI guna mudahkan BUMDes akses perbankan",
+    "link": "https://www.antaranews.com/berita/2073522/kemendes-bps-bahas-kbli-guna-mudahkan-bumdes-akses-perbankan",
+    "source": "Antara News",
+    "pub_date": "2021-03-31T14:37:00+07:00",
+    "desc": "Mendes PDTT Abdul Halim Iskandar (kiri), dan Kepala BPS Suhariyanto membahas Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) untuk Badan Usaha Milik Desa (BUMDes) di Jakarta, Rabu (31/3/2021). ANTARA ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
