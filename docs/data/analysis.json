@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19 12:31 WIB",
+  "last_updated": "2026-11-19 13:01 WIB",
   "days_analyzed": 30,
   "total_checked": 2111,
-  "dominant_topic": "Dana Desa (863 berita), BUM Desa (509 berita), Kemendesa PDT (401 berita), Daerah Tertinggal (338 berita)",
+  "dominant_topic": "Dana Desa (866 berita), BUM Desa (509 berita), Kemendesa PDT (402 berita), Daerah Tertinggal (334 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,10 +13,16 @@
     ],
     "cases": [
       {
+        "title": "Pengadilan Tinggi Medan tetap menjatuhkan hukuman penjara 2 tahun 6 bulan terhadap mantan Kepala Desa Serapuh Asli, Kecamatan Tanjung Pura, Kabupaten Langkat, Nazrul Hapis dalam perkara korupsi dana desa. Dalam amar putusan Pengadilan Ti - Instagram",
+        "source": "Instagram",
+        "topic": "Dana Desa",
+        "core_issue": "Pengadilan Tinggi Medan tetap menjatuhkan hukuman penjara 2 tahun 6 bulan terhadap mantan Kepala Desa Serapuh Asli, Kecamatan Tanjung Pura, Kabupaten Langkat, Nazrul Hapis dalam perkara korupsi dana d..."
+      },
+      {
         "title": "Kasus Dugaan Korupsi Dana Desa Maumutin, Dua Tersangka Dilimpahkan ke Kejari Belu - RRI.co.id",
         "source": "RRI.co.id",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "Kasus Dugaan Korupsi Dana Desa Maumutin, Dua Tersangka Dilimpahkan ke Kejari Belu&nbsp;&nbsp;RRI.co.id..."
       },
       {
         "title": "Kejari Konawe Geledah Kantor dan Rumah Kades Pasir Putih, Usut Dugaan Korupsi Dana Desa Rp500 Juta - Tribunnewssultra.com",
@@ -28,7 +34,7 @@
         "title": "Tutup Celah Penyimpangan Dana Desa, Inspektorat KLU Perkuat Peran BPD Hingga Camat - Katada",
         "source": "Katada",
         "topic": "Dana Desa",
-        "core_issue": "Tutup Celah Penyimpangan Dana Desa, Inspektorat KLU Perkuat Peran BPD Hingga Camat&nbsp;&nbsp;Katada..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Mantan Kades Akar-Akar Ditahan, Dugaan Korupsi Dana Desa Rugikan Negara Rp451 Juta - Katada",
@@ -46,19 +52,13 @@
         "title": "Empat Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan, Kerugian Negara Ditaksir Rp900 Juta - porostimur.com",
         "source": "porostimur.com",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "Empat Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan, Kerugian Negara Ditaksir Rp900 Juta&nbsp;&nbsp;porostimur.com..."
       },
       {
         "title": "Wabup Brebes ingatkan 292 kades di Brebes soal dana desa, tegaskan jangan ada kegiatan fiktif dan mark up",
         "source": "Suara Flores on MSN",
         "topic": "Dana Desa",
         "core_issue": "if(matchMedia(\"(prefers-color-scheme:dark)\").matches){const s=document.createElement(\"style\");document.head.appendChild(s);s.type=\"text/css\";s.appendChild(document.createTextNode(\"body{background:#242..."
-      },
-      {
-        "title": "Ketua Lembaga Pengawasan Anggaran RI Desak APH Usut Dana Desa Bontosunggu, Soroti Dugaan Penyimpangan Anggaran - Cakrawalainfo.co.id",
-        "source": "Cakrawalainfo.co.id",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
   },
@@ -81,7 +81,7 @@
         "title": "Gudang Garam, Ketahanan Pangan BUMDes di Lasem Rembang Bikin Kades dan BPD Tenang - Lensa Nusantara",
         "source": "Lensa Nusantara",
         "topic": "BUM Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_achieve": "Gudang Garam, Ketahanan Pangan BUMDes di Lasem Rembang Bikin Kades dan BPD Tenang&nbsp;&nbsp;Lensa Nusantara..."
       },
       {
         "title": "Pemkab Seluma Perkuat Tata Kelola BUMDes, Pengelola Didorong Lebih Profesional dan Transparan - Teropong Publik",
@@ -111,13 +111,13 @@
         "title": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri - Pikiran Lampung",
         "source": "Pikiran Lampung",
         "topic": "BUM Desa",
-        "core_achieve": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri&nbsp;&nbsp;Pikiran Lampung..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Cegah Korupsi Dana Desa, Bupati Dadang Supriatna Tegaskan Pentingnya Pengawasan Sejak Tahap Perencanaan - Jurnal Soreang",
         "source": "Jurnal Soreang",
         "topic": "Dana Desa",
-        "core_achieve": "Cegah Korupsi Dana Desa, Bupati Dadang Supriatna Tegaskan Pentingnya Pengawasan Sejak Tahap Perencanaan&nbsp;&nbsp;Jurnal Soreang..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
   }
