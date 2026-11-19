@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19 19:01 WIB",
+  "last_updated": "2026-11-19 19:08 WIB",
   "days_analyzed": 30,
-  "total_checked": 2110,
-  "dominant_topic": "Dana Desa (867 berita), BUM Desa (507 berita), Kemendesa PDT (408 berita), Daerah Tertinggal (328 berita)",
+  "total_checked": 2114,
+  "dominant_topic": "Dana Desa (871 berita), BUM Desa (507 berita), Kemendesa PDT (408 berita), Daerah Tertinggal (328 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -12,6 +12,18 @@
       "Mendorong publikasi regulasi pencegahan penyimpangan agar diskursus publik bergeser dari sanksi ke perbaikan sistem."
     ],
     "cases": [
+      {
+        "title": "Eks Plt Kades Dusun Baru Jadi Tersangka Korupsi Dana Desa Rp296 Juta - Kilas.co.id",
+        "source": "Kilas.co.id",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+      },
+      {
+        "title": "Kasus Dugaan Korupsi Dana Desa Sukarami, Kejari OKU Selatan Serahkan Cik Ani dan Barang Bukti ke JPU - Warta Terkini News",
+        "source": "Warta Terkini News",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+      },
       {
         "title": "Sosok Yandri Susanto, Menteri PDT yang Dicatut Gus Alex di Sidang Korupsi Haji, Disebut Minta Rp10 M - Surya.co.id",
         "source": "Surya.co.id",
@@ -47,18 +59,6 @@
         "source": "Bengkulu Ekspress",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
-      },
-      {
-        "title": "Pengadilan Tinggi Medan tetap menjatuhkan hukuman penjara 2 tahun 6 bulan terhadap mantan Kepala Desa Serapuh Asli, Kecamatan Tanjung Pura, Kabupaten Langkat, Nazrul Hapis dalam perkara korupsi dana desa. Dalam amar putusan Pengadilan Ti - Instagram",
-        "source": "Instagram",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
-      },
-      {
-        "title": "Kasus Dugaan Korupsi Dana Desa Maumutin, Dua Tersangka Dilimpahkan ke Kejari Belu - RRI.co.id",
-        "source": "RRI.co.id",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
   },
@@ -71,6 +71,12 @@
       "Menyusun rubrik khusus 'Kabar Desa Mandiri' di kanal media sosial resmi Kementerian."
     ],
     "cases": [
+      {
+        "title": "Ayoh Yohana Sukses Bawa Desa Pabuaran Lebih Maju, Bukti Nyata Dana Desa untuk Warga - Media Indonews",
+        "source": "Media Indonews",
+        "topic": "Dana Desa",
+        "core_achieve": "Ayoh Yohana Sukses Bawa Desa Pabuaran Lebih Maju, Bukti Nyata Dana Desa untuk Warga&nbsp;&nbsp;Media Indonews..."
+      },
       {
         "title": "Desa di Riau berhasil cegah karhutla gambut, tapi terkendala pemangkasan dana desa & penolakan warga - CNA.id",
         "source": "CNA.id",
@@ -99,7 +105,7 @@
         "title": "Pemkab Seluma Perkuat Tata Kelola BUMDes, Pengelola Didorong Lebih Profesional dan Transparan - Teropong Publik",
         "source": "Teropong Publik",
         "topic": "BUM Desa",
-        "core_achieve": "Pemkab Seluma Perkuat Tata Kelola BUMDes, Pengelola Didorong Lebih Profesional dan Transparan&nbsp;&nbsp;Teropong Publik..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Pemkab Pesawaran dan Kejari Perkuat Ekonomi Desa Melalui Program Andan Jejama BUMDes - Tinta Informasi",
@@ -111,13 +117,7 @@
         "title": "Komisi V DPR Apresiasi Kemendes PDT Raih Opini WTP, Minta Tindak Lanjut Temuan BPK Dipercepat - InfoPublik",
         "source": "InfoPublik",
         "topic": "Kemendesa PDT",
-        "core_achieve": "Komisi V DPR Apresiasi Kemendes PDT Raih Opini WTP, Minta Tindak Lanjut Temuan BPK Dipercepat&nbsp;&nbsp;InfoPublik..."
-      },
-      {
-        "title": "Capaian Opini WTP di Apresiasi Komisi V DPR RI, Mendes Yandri Tegaskan Komitmen Tingkatkan Akuntabilitas - reaksi media",
-        "source": "reaksi media",
-        "topic": "Kemendesa PDT",
-        "core_achieve": "Capaian Opini WTP di Apresiasi Komisi V DPR RI, Mendes Yandri Tegaskan Komitmen Tingkatkan Akuntabilitas&nbsp;&nbsp;reaksi media..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
   }
