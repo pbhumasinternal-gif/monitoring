@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19 08:31 WIB",
+  "last_updated": "2026-11-19 09:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 2116,
-  "dominant_topic": "Dana Desa (862 berita), BUM Desa (512 berita), Kemendesa PDT (401 berita), Daerah Tertinggal (341 berita)",
+  "total_checked": 2118,
+  "dominant_topic": "Dana Desa (864 berita), BUM Desa (512 berita), Kemendesa PDT (401 berita), Daerah Tertinggal (341 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,10 +13,22 @@
     ],
     "cases": [
       {
+        "title": "Mantan Kades Akar-Akar Ditahan, Dugaan Korupsi Dana Desa Rugikan Negara Rp451 Juta - Katada",
+        "source": "Katada",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+      },
+      {
+        "title": "Kejari Geledah Rumah Kades Pasir Putih Konkep Terkait Dugaan Korupsi Dana Desa Rp500 Juta - Kendariinfo",
+        "source": "Kendariinfo",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+      },
+      {
         "title": "Empat Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan, Kerugian Negara Ditaksir Rp900 Juta - porostimur.com",
         "source": "porostimur.com",
         "topic": "Dana Desa",
-        "core_issue": "Empat Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan, Kerugian Negara Ditaksir Rp900 Juta&nbsp;&nbsp;porostimur.com..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Ketua Lembaga Pengawasan Anggaran RI Desak APH Usut Dana Desa Bontosunggu, Soroti Dugaan Penyimpangan Anggaran - Cakrawalainfo.co.id",
@@ -28,13 +40,13 @@
         "title": "4 Tersangka Korupsi Dana Desa Tengah-tengah Dijebloskan ke Penjara Setelah Pelimpahan dari Polisi - Tribunambon.com",
         "source": "Tribunambon.com",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x7013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "4 Tersangka Korupsi Dana Desa Tengah-tengah Dijebloskan ke Penjara Setelah Pelimpahan dari Polisi&nbsp;&nbsp;Tribunambon.com..."
       },
       {
         "title": "4 Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan - Radio DMS Ambon",
         "source": "Radio DMS Ambon",
         "topic": "Dana Desa",
-        "core_issue": "4 Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan&nbsp;&nbsp;Radio DMS Ambon..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Polemik Dana Desa Guruapin Halmahera Selatan: BPKAD Sebut Sudah Cair, DPMD dan Kades Membantah - Tribunternate.com",
@@ -47,18 +59,6 @@
         "source": "rmollampung.id",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
-      },
-      {
-        "title": "Rugikan Negara Rp900 Juta, Empat Tersangka Korupsi Dana Desa Tengah-Tengah Malteng Dijebloskan ke Penjara - Ameks Online",
-        "source": "Ameks Online",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
-      },
-      {
-        "title": "Tersangka Korupsi Dana Desa Tengah-Tengah Dijebloskan ke Penjara - RRI.co.id",
-        "source": "RRI.co.id",
-        "topic": "Dana Desa",
-        "core_issue": "Tersangka Korupsi Dana Desa Tengah-Tengah Dijebloskan ke Penjara&nbsp;&nbsp;RRI.co.id..."
       }
     ]
   },
@@ -99,7 +99,7 @@
         "title": "Komisi V DPR Apresiasi Kemendes PDT Raih Opini WTP, Minta Tindak Lanjut Temuan BPK Dipercepat - InfoPublik",
         "source": "InfoPublik",
         "topic": "Kemendesa PDT",
-        "core_achieve": "Komisi V DPR Apresiasi Kemendes PDT Raih Opini WTP, Minta Tindak Lanjut Temuan BPK Dipercepat&nbsp;&nbsp;InfoPublik..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Capaian Opini WTP di Apresiasi Komisi V DPR RI, Mendes Yandri Tegaskan Komitmen Tingkatkan Akuntabilitas - reaksi media",
@@ -111,13 +111,13 @@
         "title": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri - Pikiran Lampung",
         "source": "Pikiran Lampung",
         "topic": "BUM Desa",
-        "core_achieve": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri&nbsp;&nbsp;Pikiran Lampung..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Cegah Korupsi Dana Desa, Bupati Dadang Supriatna Tegaskan Pentingnya Pengawasan Sejak Tahap Perencanaan - Jurnal Soreang",
         "source": "Jurnal Soreang",
         "topic": "Dana Desa",
-        "core_achieve": "Cegah Korupsi Dana Desa, Bupati Dadang Supriatna Tegaskan Pentingnya Pengawasan Sejak Tahap Perencanaan&nbsp;&nbsp;Jurnal Soreang..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
   }
