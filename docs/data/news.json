@@ -1,5 +1,18 @@
 [
   {
+    "id": "5bcc8ae47f0f",
+    "title": "Cegah Realisasi Dana Desa 2026 Mandek, DPMD Kapuas Hulu Awasi Ketat Pelaksanaan Program di 278 Desa - Pontianak Post",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN2VEX3ozZnRMdFRlcUhoNVRwc2tuUzM3TWRUWFFuSVcydTNrd1ZROHEyYURBZFF3MDNkbW9WWm1Rck1WMkJkelNNRGJuM1RsZGZkNGtzb1kxNXBNZU5scXVPMUNlNExlMVZzcExXVmhtSTIzN29PQ0hFc1lKeEFvOUFBSXZNb3BGbmlDeFdmMk1jWGV6cVlRd0lOcFhNN0c0VUt3bjZpU3FZcm9Wd3MycUJKblNEb05PY2lzY1c4Ti1Jck9taDRuWUJMYTB5cWdhSm5LN25VRzY0RmhTekNkOXNNYUN6a3NyS2JF0gHwAUFVX3lxTFBHRG5xS0NqWG1sWVdwYjUteFZ4UjJVNHB4QW9DMEoyMWxJSFAzbmdmNkhWcmtmY3F4UFNROFZKMVVNS2pONVVtY0tlSWZrWnc5dG4wZUxFNEpuVExQVWNLVk45UFNDTVY0ZXFWUXBBc2trZU1IX1FUZVN6X0pBcktFUDFCTjZsRzNySU1VWUwxR204WUc2SW4yd3oxUWUzM2tvdElHZVdCZ1JtV0xHLXZJV3oxYVEtWHVxaDhjcXVNMUIwTFpsMnZJQmFpMW1YNk14N3NJcklTMjlmMlJSaG9oeHhvTzc4TzlsU3ZjU3dsdA",
+    "source": "Pontianak Post",
+    "pub_date": "2026-11-19T14:53:06+07:00",
+    "desc": "Cegah Realisasi Dana Desa 2026 Mandek, DPMD Kapuas Hulu Awasi Ketat Pelaksanaan Program di 278 Desa&nbsp;&nbsp;Pontianak Post",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5a047d042b16",
     "title": "Kemendes gandeng pendamping desa kawal pendaftaran Lomba Website Desa",
     "link": "https://www.antaranews.com/berita/5864751/kemendes-gandeng-pendamping-desa-kawal-pendaftaran-lomba-website-desa",
@@ -364,6 +377,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "bcb5c83b994c",
+    "title": "Dana Desa Dipangkas 58 Persen, Sumberdem Malah Jadi Juara Smart Fiscal Kabupaten Malang! - Expose Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZTRHSUZkeUFrYm9tRkFNZERkZWJoeG1GMVBYNUdwV2xiT2lSWFJpSVRfN0dmTms2RFkzVm82bWY2dk9qRUw5ZlNWQkVSZzN2N2RRVVRibThid2RzQ2NZZmUtOUwtS1VYakJKLVlBeTYxcFJCeWpyNG9yS2IyUW5lX0JiYzZNRkpKT09OVnpJZHZZSUNMN1Rvb0Z2OWs5eDhsYVNtLXlnYlE2SUtGX2ppYlZyNWpNdw",
+    "source": "Expose Indonesia",
+    "pub_date": "2026-11-19T08:11:41+07:00",
+    "desc": "Dana Desa Dipangkas 58 Persen, Sumberdem Malah Jadi Juara Smart Fiscal Kabupaten Malang!&nbsp;&nbsp;Expose Indonesia",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "9c376d6ffa15",
     "title": "Soal Ratusan Kendaraan Kopdes di Rorotan, Ombudsman: Jangan Ditelantarkan!",
     "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8759230/soal-ratusan-kendaraan-kopdes-di-rorotan-ombudsman-jangan-ditelantarkan",
@@ -375,6 +401,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7e6845a977c5",
+    "title": "Anggaran ketahanan pangan Rp250 juta, BUMDes Rancawuluh sisakan satu ekor sapi",
+    "link": "https://www.msn.com/id-id/berita/other/anggaran-ketahanan-pangan-rp250-juta-bumdes-rancawuluh-sisakan-satu-ekor-sapi/ar-AA2hKQ1f",
+    "source": "Suara Flores on MSN",
+    "pub_date": "2026-11-19T07:02:25+07:00",
+    "desc": "Anggaran ketahanan pangan Rp250 juta di BUMDes Rancawuluh jadi sorotan setelah delapan sapi dibeli, kini tersisa satu ekor.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "c9e0ffce5781",
