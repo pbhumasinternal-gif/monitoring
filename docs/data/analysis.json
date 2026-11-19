@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-19 12:01 WIB",
+  "last_updated": "2026-11-19 12:31 WIB",
   "days_analyzed": 30,
   "total_checked": 2111,
-  "dominant_topic": "Dana Desa (864 berita), BUM Desa (508 berita), Kemendesa PDT (400 berita), Daerah Tertinggal (339 berita)",
+  "dominant_topic": "Dana Desa (863 berita), BUM Desa (509 berita), Kemendesa PDT (401 berita), Daerah Tertinggal (338 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,6 +13,12 @@
     ],
     "cases": [
       {
+        "title": "Kasus Dugaan Korupsi Dana Desa Maumutin, Dua Tersangka Dilimpahkan ke Kejari Belu - RRI.co.id",
+        "source": "RRI.co.id",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+      },
+      {
         "title": "Kejari Konawe Geledah Kantor dan Rumah Kades Pasir Putih, Usut Dugaan Korupsi Dana Desa Rp500 Juta - Tribunnewssultra.com",
         "source": "Tribunnewssultra.com",
         "topic": "Dana Desa",
@@ -22,7 +28,7 @@
         "title": "Tutup Celah Penyimpangan Dana Desa, Inspektorat KLU Perkuat Peran BPD Hingga Camat - Katada",
         "source": "Katada",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "Tutup Celah Penyimpangan Dana Desa, Inspektorat KLU Perkuat Peran BPD Hingga Camat&nbsp;&nbsp;Katada..."
       },
       {
         "title": "Mantan Kades Akar-Akar Ditahan, Dugaan Korupsi Dana Desa Rugikan Negara Rp451 Juta - Katada",
@@ -34,7 +40,7 @@
         "title": "Kejari Geledah Rumah Kades Pasir Putih Konkep Terkait Dugaan Korupsi Dana Desa Rp500 Juta - Kendariinfo",
         "source": "Kendariinfo",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "Kejari Geledah Rumah Kades Pasir Putih Konkep Terkait Dugaan Korupsi Dana Desa Rp500 Juta&nbsp;&nbsp;Kendariinfo..."
       },
       {
         "title": "Empat Tersangka Korupsi Dana Desa Tengah-Tengah Ditahan, Kerugian Negara Ditaksir Rp900 Juta - porostimur.com",
@@ -53,12 +59,6 @@
         "source": "Cakrawalainfo.co.id",
         "topic": "Dana Desa",
         "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
-      },
-      {
-        "title": "4 Tersangka Korupsi Dana Desa Tengah-tengah Dijebloskan ke Penjara Setelah Pelimpahan dari Polisi - Tribunambon.com",
-        "source": "Tribunambon.com",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
   },
@@ -75,7 +75,7 @@
         "title": "Lasarus Minta Kemendes Perkuat Pengawasan-Tuntaskan Temuan BPK - katakini.com",
         "source": "katakini.com",
         "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_achieve": "Lasarus Minta Kemendes Perkuat Pengawasan-Tuntaskan Temuan BPK&nbsp;&nbsp;katakini.com..."
       },
       {
         "title": "Gudang Garam, Ketahanan Pangan BUMDes di Lasem Rembang Bikin Kades dan BPD Tenang - Lensa Nusantara",
@@ -87,7 +87,7 @@
         "title": "Pemkab Seluma Perkuat Tata Kelola BUMDes, Pengelola Didorong Lebih Profesional dan Transparan - Teropong Publik",
         "source": "Teropong Publik",
         "topic": "BUM Desa",
-        "core_achieve": "Pemkab Seluma Perkuat Tata Kelola BUMDes, Pengelola Didorong Lebih Profesional dan Transparan&nbsp;&nbsp;Teropong Publik..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Pemkab Pesawaran dan Kejari Perkuat Ekonomi Desa Melalui Program Andan Jejama BUMDes - Tinta Informasi",
@@ -111,7 +111,7 @@
         "title": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri - Pikiran Lampung",
         "source": "Pikiran Lampung",
         "topic": "BUM Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x6013406, 0x30088, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_achieve": "Pemkab Pesawaran Luncurkan Inovasi Andan Jejama BUMDes, Dorong Ekonomi Desa Lebih Mandiri&nbsp;&nbsp;Pikiran Lampung..."
       },
       {
         "title": "Cegah Korupsi Dana Desa, Bupati Dadang Supriatna Tegaskan Pentingnya Pengawasan Sejak Tahap Perencanaan - Jurnal Soreang",
