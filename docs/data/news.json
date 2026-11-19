@@ -364,6 +364,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f56a2eea2b24",
+    "title": "Bumdes Mbg - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3R1lvY3MtOTRzUmlNakItYlBwRVNhYzlpSDVHVnFPdWkyY1dEVEJkUmNUdnNTMlMwdGJTYWs0dWNtVlo3WjVfNUtLeHIydmlhQlhzd2l0WlJFZw",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-19T16:54:10+07:00",
+    "desc": "Bumdes Mbg&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "34b301fe5a32",
     "title": "Posyantekdes: Menghubungkan Inovasi Kampus, BUMDES dan Kreativitas Warga Halaman 1 - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS19KZkx0NlUwNDVVbmJPYXpCWUFMNU9fU056MTR3dFBENTlPRDlTQXFVTTV3Z0xrMWdZVkZxTDdUOHBia2hIcG1CWk9SSkdFMk5CcFVoX0c1TjBrRXMxU1JtdUFRaFlxSU1Ndy1pcG9SV2R1VmZITkdiQ3ZCb200SFA3TzlrWDg0bUgtbjhTLW1TMVNoMUlGYWt6czE1Nnh2cVJBdXU0aXBoMnFOVV9ONDhrUlpRQXpoVTVKbk9MZk1vdjZ1eEdJdy1OOVI2QQ",
@@ -715,6 +728,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "f64bbbf0cd0d",
+    "title": "Kumpulan Berita bumdes di bangka - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SSUM1ZFBUWDZwbXJNdzJTS2Z1dmdRLTQxdTBQd1p3VTBmbGhETGxSU3RFT1RMclB6ekpteFlYR3p5WnVHbjdvV1ZDQWlNajBTQjU1ZXdrZUJRcmVINERYMDF3",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-19T11:18:15+07:00",
+    "desc": "Kumpulan Berita bumdes di bangka&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f30343c03678",
     "title": "Babinsa Koramil 1607-03/Ropang Aktif Dampingi Penyelesaian Permasalahan BUMDes di Wilayah Binaan - Gentra News",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPejdVRkJTYnhPdkVuU3B4MFd2U28xajljR3FXWlFWckVSWk5TQk55SWQ4N1V4TG1vV1ZnSGdIMHBGZzFLTVV0eDJCMTdadktYVzU1c2hjXzNvbzdCa0dpbmZ0NnNpWmwzTHhBUmlVZ3Z2dEdma3lxNDZySXZlZ0pJUUc0NUNIMGxMVE1jeHZsNDN2c0RFaDZ1RDg0b2p1YzNlbjVZMWs3ZXVZYkdMYWlYanhGZnB3Y1pidTZvRExtRy1PdGlBN2V6eA",
@@ -897,6 +923,32 @@
     "sentiment_tag": "Tekanan Anggaran"
   },
   {
+    "id": "92fcb945eb12",
+    "title": "Kumpulan Berita Dana Desa Dharmasraya - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZX1BqZjAzU0dONm9CdTJjbmJDaVJiWWVzRjJKNVV5SXc0MzdYSVhMN1pLTmF3bGFWVGd2TldOckk3TVpka1YzeUgtUHR5X3FLaUs0VkpFYTkteVZ0YlQ3dGZmWm53UE1VZWc",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-19T07:47:29+07:00",
+    "desc": "Kumpulan Berita Dana Desa Dharmasraya&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f30f68bbee5c",
+    "title": "Kumpulan Berita dana desa batanghari - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RT0NRcUl0WU9IUVhFQjltOFNNZkFLVGY5MEpjQ19xbWFCUnN4bWlsQW5yOXdlWUltcTN2QkpBczlqTDRubk43RWxvUFFUWkx2QzBNVkJzLXhDd0g4WTRONDd4czctd1U",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-11-19T07:40:22+07:00",
+    "desc": "Kumpulan Berita dana desa batanghari&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9c376d6ffa15",
     "title": "Soal Ratusan Kendaraan Kopdes di Rorotan, Ombudsman: Jangan Ditelantarkan!",
     "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8759230/soal-ratusan-kendaraan-kopdes-di-rorotan-ombudsman-jangan-ditelantarkan",
@@ -921,6 +973,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "08549deebfa5",
+    "title": "Bumdes Desa Siak Riau - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55VzZnVWpjclM5ZnV0SV9sQTNGZmU5SWZDZ0lsQjVTeXlfcVVYQlRMc19aN1BKNWg1Ty02dWdHZkhUOTNUZnJDN092TzRYd0IzUzFSWkNWanlvVi0xb0ZGZUVLWU1tZw",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-19T06:55:37+07:00",
+    "desc": "Bumdes Desa Siak Riau&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "c9e0ffce5781",
@@ -988,6 +1053,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3d9915abef3d",
+    "title": "Kumpulan Berita Bumdes Mart2018 - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DWk1TUzlMUURWUmRua0V0WkIydzFZUkMwYUc3Z1N2cnZKQk5nVTQ5cW1VbUJ1TS0tbjNBdkVHdmRwQlBHaDFHR2JrZWhWQjdqdXdCN0Ywa3pnX1FWaXphOV80dw",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-19T03:51:15+07:00",
+    "desc": "Kumpulan Berita Bumdes Mart2018&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a0d4725da9e4",
     "title": "DD Susut Rp373 Juta, Dengkol Bidik PADes lewat BUMDes Gen Z #KompasianaDESA",
     "link": "https://www.kompasiana.com/fajarpuger5758/6afec85634777c580f2a3e9a/dd-susut-rp373-juta-dengkol-bidik-pades-lewat-bumdes-gen-z-kompasianadesa",
@@ -996,6 +1074,19 @@
     "desc": "Dana Desa 2027 menyusut Rp373 juta. Dengkol tak hanya menata ulang belanja, tetapi mulai membidik kemandirian ekonomi melalui PADes dan BUMDes yang di ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8702c4c2f4ed",
+    "title": "Pemkab Biak Numfor Akan Salurkan Dana Desa Rp149 Miliar - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMERtT1NvREotTnJNRDgwWlVUMW1XZUFnSm93czV0cXpqSGg2bktZeTNYMzJsbHlnbFhKRUJEdXE3RndBNl9pQUVzTU9kYjNETmw2ZXJoZGJCY1AzNnh3b0VmTjlvTm5ISk5vc1BDNlFHeFltZm11dTNxZ24tOXpVbXRTTUlxSmhrWUE5NGJFSTBmaGtF",
+    "source": "ANTARA News Papua",
+    "pub_date": "2026-11-19T02:16:31+07:00",
+    "desc": "Pemkab Biak Numfor Akan Salurkan Dana Desa Rp149 Miliar&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -1011,6 +1102,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "603dc04740bd",
+    "title": "Papua Dana Desa Di Papua - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SVTRSdjNKdkVNendGbU10OVdqRHJ0MmRUeVpFLVpWNExITGdCa080SjRDb3VSLVpGZTdxMHA3RmllNk1KLUdHOUFHWUU4SkdUeWNpdk9IWDIyUHE3WW05cDFidDR5Q0QzaDdyaQ",
+    "source": "ANTARA News Papua",
+    "pub_date": "2026-11-19T02:10:25+07:00",
+    "desc": "Papua Dana Desa Di Papua&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -1300,6 +1404,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "52e69e8ea28b",
+    "title": "Kumpulan Berita Bumdes Di Mitra Dapat Oenyertaan Modal - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUnJjMXdoYnN0Zl9qazRhNHpMLWFYMXFKVE5FenM0eW1YR29CcE9GZ19EVDlZWG9QTjBLSnEwQ3JpV1JqN2tHWG1YSjhXaWpoZTEzRHhpMjVTa2E5TDdVenRoTXBXbDNGTEt0cWFYVHM3WERIV1FGcVJ4Q0N4UGM",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-18T19:02:55+07:00",
+    "desc": "Kumpulan Berita Bumdes Di Mitra Dapat Oenyertaan Modal&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b975779ccdd9",
     "title": "Hanya Seribu Rupiah per Kubik, Pengelola BUMDes Mambalan Harapkan Dukungan Kolam Steril",
     "link": "https://lombokpost.jawapos.com/giri-menang/2611190008/hanya-seribu-rupiah-per-kubik-pengelola-bumdes-mambalan-harapkan-dukungan-kolam-steril",
@@ -1441,6 +1558,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Kendala & Sorotan"
+  },
+  {
+    "id": "0a79bfa8ff6c",
+    "title": "Kumpulan Berita inovasi bumdes - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5MFFUcEc1YVg4WG5FQWl3NkZvTHFndC1oLWdnT0w0aFNXUEstcHdNYUtCNzlpaUJhY2hrSExMMFlIdDdrR1NubE9hQ2U1b3J1ZXpjR0MyelVtNEtQb0E",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-18T16:58:35+07:00",
+    "desc": "Kumpulan Berita inovasi bumdes&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "38149bb5b008",
@@ -1716,6 +1846,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "2cc379c97eee",
+    "title": "Kumpulan Berita Dana Desa Untuk 24 Desa Di Lombok Tengah Diaudit - ANTARA News Mataram",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGI4c1M4N2tvUXJObEZMN2lNaWFUbHBDLXJkNlJHdUFxM3lYNHlKSzNWVnVwZGhGcUpBMHpnRzRDLU1iNmpfRDk3VzZqLV90VVE1ekdzeERaTExmeWFnN01NdHJwWVJhQUtzX252ckNGZkd2SnBlLVcxRDdaOVExWGx2UnJzbGJqTHJB",
+    "source": "ANTARA News Mataram",
+    "pub_date": "2026-11-18T14:22:17+07:00",
+    "desc": "Kumpulan Berita Dana Desa Untuk 24 Desa Di Lombok Tengah Diaudit&nbsp;&nbsp;ANTARA News Mataram",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "81acd1e8550b",
     "title": "Undhira Integrasikan TPS3R dan BUMDes, Sampah Organik Jadi Produk Ekonomi - NUSABALI.com",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOHRNWlBPX3dIMnkzdUhNSENUa2lRc2ZVLUZibDNNV2xUMDZrRWFUMDhqX2luRFlqczlDY2ozTzExaVhITVVZM3dxa3o0UmlLN245NkozakZWTTFVR0RRaFlIaVRBTUlHM0FKaVZSTjlVOGFweWRKTkZ5MGI4X0xnTjh2a0dCWEJ1VldaR0M1ODhMRG5qUVBSLUcwc3hyOGFCQ3ZPczBnQ2hqRnY1eXd2aQ",
@@ -1833,6 +1976,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "978b92529510",
+    "title": "Kumpulan Berita dana desa bangun drainase - ANTARA News Sumatera Utara",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jNFdFOVZzVWpHak1xbFpYdVlFakVCRHlUcEI0VEZpdlE2cG5GUjVkOXRnQWdFR0Q4ZDdVMFR3SFBrekVrOGpqOEZlMFNMVy1PREh6VnZfWUJwaHVMZk53U1JmNkZxMEVOOFE",
+    "source": "ANTARA News Sumatera Utara",
+    "pub_date": "2026-11-18T11:55:56+07:00",
+    "desc": "Kumpulan Berita dana desa bangun drainase&nbsp;&nbsp;ANTARA News Sumatera Utara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3f1b5578ba6f",
     "title": "Kolaborasi AI Indonesia Korea Selatan Perkuat Kesehatan Wilayah 3T - Head Topics",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVFBWGZzaEQ0TzVhLXlJajJmejJ6R1pCZ25xRU9kZnpHZTk0YWZCRXpnRHFBQmZrNUFNUV95cEN2aktXd210TFlDdFBlZUtJNTMtRDFjbUt2emZDUWZaVFNwNDA2UHpYTU1HeGlmTVhRQWpwT2RGTEowZkpOUHZPbzExUlVmY01LaDl4WlFXR1kwb3c4R0tlQ3I3VQ",
@@ -1843,6 +1999,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "383318b46302",
+    "title": "Kumpulan Berita Badan Hukum Bumdes - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LTVgxT1VwX1RQY2FVdFo2NXhMdGZtSE4tRHB0SUVfQXZPRV9saFR3WTFjdDFqOGJjYThNZERNcEh2dV9tTUEzSnhCU29ldjYtMkxiRXR3VEFieUZQYTNSdEhEcVU",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-18T11:39:43+07:00",
+    "desc": "Kumpulan Berita Badan Hukum Bumdes&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -1937,6 +2106,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ec40dec56b0c",
+    "title": "Kumpulan Berita Munas Bumdes - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04MklUYmduVkx3UGVxX3dtdXJVd1hWZmk2cFFHam91T1Q2MUFaWDlaS3BBRjZBaGQ5X0xucmpLN1pDWnJhSlpPYWNqTVNnSnpWRV9MZVF5dkNTWG1ETHc",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-18T09:34:10+07:00",
+    "desc": "Kumpulan Berita Munas Bumdes&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6ebba5bc3809",
+    "title": "Bumdes Wajib Miliki 5 Divisi Waserda - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hd0YyYmNxSTZfQVhSSnJLeFh1OU5XblhxU2VNQjQyZExCRURvR0Q4XzQ4T2E0UWJ5OHY2VkZ3TFBLbmdXeTRBM0NRMVZjSzNjVWM2RW53Ul9EWE1GSmhiUFlSOUZQVkR2djYtUmk1Y3BGOE56b2xHbm0ydw",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-18T09:28:01+07:00",
+    "desc": "Bumdes Wajib Miliki 5 Divisi Waserda&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "454d1cd5bda0",
     "title": "Kumpulan Berita bupati pengentasan desa tertinggal harus dari akarnya - ANTARA News Banten",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVUJVM2hVOUcxengwdUdwOW5leGFaYkxuajhxR1NLbDJlOFo1LWdFaHZPVEZGYnBoZHJ2NDg5NkljQU55UEdycGQ2QmNDSHNpeW1oTGpCd1l5Zkh1b2xGQ3RSNFVmdkFPVmpYelFKMlMyMUZPdmxzNG5jVVFRVlpCVzZuMzlaNkNkM2lZOEpMSS0",
@@ -1963,6 +2158,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "7cbdc06d5dfe",
+    "title": "Jumlah Dana Desa - ANTARA News Sumsel",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xbmpQdDFUQzQ3UTRhdHFXWTZNaHBUYjRzTlVRSl92V2RMWUtTMjFINlA1VS1BLWYtWGk4OFlzQ2JUdmhKOGp5TVJ6Y1lKMl9hTzY5ZWs1dVNjWEdmWVBnS28wUQ",
+    "source": "ANTARA News Sumsel",
+    "pub_date": "2026-11-18T08:33:10+07:00",
+    "desc": "Jumlah Dana Desa&nbsp;&nbsp;ANTARA News Sumsel",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2c58214de40f",
     "title": "Kumpulan Berita pembangunan daerah tertinggal di kawasan perbatasan - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY3ZicFczWUtPT0htMms0bWtxOXJjU2JnSnhwaWd3NmFVNnRCSTNWZW1OTGRueG5Vb3BNcXp4MFh6clNmUUpiQmFHLTJQZHVOanV1MDMzME00dkt2LWFGQVhmaHBEWFpScEs5QmV2Qnd4bzh6bFJRblc4Z0UyRlRHYVF5NkF4OWVzQWxfZnhaX1A",
@@ -1976,6 +2184,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a50a095b4203",
+    "title": "Kumpulan Berita Kucuran Dana Desa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUY29nQWdzT016QUFmSlBwb0syRlA3Nk4waFJ1Szd1SU1ud2h2VWRXNVEtcXVDNzhCdUFTNUpBcEpuSzFZRFdybEZpSzdneGotVEpvTHAxVE5mNXI0OU1HQThrOVA",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-18T08:19:44+07:00",
+    "desc": "Kumpulan Berita Kucuran Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0ff045f5573b",
+    "title": "Kumpulan Berita Bantuan Langsung Tunai Dana Desa Pasaman - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUWw4Z1ppMWI4ejJQR1R2OWNMOHRDQW5uYzdDcThCQ2VVcFJ0MFVTX2FtSE0tZlA2Sk9LTnpwMjZMTl9oTkp3S2t6c0xXTVc2MUQ3aEEzdHp1bjJsa3hEanl3c19Edmx0NVI1TU9QWVdJQ21jU2FrcFVfUFVmMEFyRUs3cw",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-18T07:30:46+07:00",
+    "desc": "Kumpulan Berita Bantuan Langsung Tunai Dana Desa Pasaman&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0e46e481f0a6",
     "title": "Kami mempunyai 176 berita tentang guru daerah tertinggal. - ANTARA News Sumbar",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sUWRGSkttNHVkVGp4ei1tV1lyZnNpZ18wN0R5MWtiWDRaV3VmOGZneFA5Tm9EZTUwQlhieEY4allSdXlYY2lTVEhFdlVPSFl6cFJSWTc2WGY0WFI4NXJUeXAzRmRBbElUWHlj",
@@ -1986,6 +2220,71 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3d90a8aa86d1",
+    "title": "Anggaran Dana Desa 2019 - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtVXFDcnlqVW1vbXhySHBTNTFOUWEyZHBHTHh5MnJ1MHFmSVQ4RzFYdG5jVTZpRG1DdElMRDlsSlFMYWF6cS00N3EyWTl6Z2phaHpOYjFhRXc2MG9ISjRMTE92Qlp6YkE4",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-18T07:00:21+07:00",
+    "desc": "Anggaran Dana Desa 2019&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4f4fea3f2b1f",
+    "title": "Kumpulan Berita Pendamping Dana Desa - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55SkFSY0IwcnpWbU95OXdRdHgyXzVxTkc4Mzg4RWVpMi1JUjhGT2swdVZvM3JNV18xd0dQT2FCMEJHUzdWSU5JODVsOThFSGloUGtBOXYzM0ZOM0RDeWd3QUREeC1ZRTM1dXc",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-18T06:53:41+07:00",
+    "desc": "Kumpulan Berita Pendamping Dana Desa&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a50151297bbd",
+    "title": "Nasib Koperasi Pasca Kelahiran Bumdes - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Wk16bGsyMDhyc3o4UzdnTXhza3RTRnNJS2JDa3YxY0lPSUJJNHVRck54Q1BrZUM1M3d2N3AzajJUZndEZkV2Z21HczZaQmJuMVFSZk41d2FhR1VpSV9Xb1VheExjb0RyYno1dDFOY0F0WDQyaE01Zm5xUQ",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-18T06:50:42+07:00",
+    "desc": "Nasib Koperasi Pasca Kelahiran Bumdes&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "99f1f468f330",
+    "title": "Kumpulan Berita Penguatan Ekosistem Bumdes - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tQWJtNFpKQXRkUkFiUmVBcVRwU1NkdEg1MlZLdjdOVThpeTluZURpOGNzYkFNb3dZX3ltVjdOeFl3S1NmQ1J0REQ5STdwdUI3dnJtUnRPR00tSFAwSy1ERUJwbndqNW80S1AyUmg1ZnU",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T06:44:34+07:00",
+    "desc": "Kumpulan Berita Penguatan Ekosistem Bumdes&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "352f2d0d2f8f",
+    "title": "Kumpulan Berita Reformulasi Dana Desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IMDliWWZzNS0xQnFOOWN3VC1WVFJxbE1Ya2d0X253RDR2OG5nVk5yNWtvOEN6SVgwQkRpN0JZRjFsdDZtNW1WNEZyam5nWFJiVWplR2JhVl9wczFMekxXYmFuMFRHYm1oOVE",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T06:34:57+07:00",
+    "desc": "Kumpulan Berita Reformulasi Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -2041,6 +2340,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "07c2b449d0a2",
+    "title": "Kumpulan Berita Anggaran Dana Desa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQzBxaEQ0d0FpelZtdW9BOEt3V1I5UWxmMThDM0NaQWpCejU5aktTUEx0ajZ2QmkzekNKUTFDMUhjUUlQNnlMX0ZwOHRHWVVaR0M4NDE4dFhsQ2FKV1hpR0w5TlJ1QQ",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-18T04:18:10+07:00",
+    "desc": "Kumpulan Berita Anggaran Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "84e09ff516e9",
+    "title": "Kumpulan Berita Bumdes Di Pariaman - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51WEJYMGRzMkQ1Njg1V3pQcXpPWl93ekowbUVFbDVoZDhMenF1Tm1PSnpJTjlkNnc1NnRLc2JHTEFldGQxNlA0ajNEMjBHZkxPTTFhMEFlV0Rwd1g3LUdtbWY1Qm95Zw",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-18T03:51:37+07:00",
+    "desc": "Kumpulan Berita Bumdes Di Pariaman&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "189d990a29ec",
     "title": "Mudahkan Petani, Pupuk Indonesia Perluas Distribusi hingga Daerah 3T",
     "link": "https://koran-jakarta.com/2026-11-18/mudahkan-petani-pupuk-indonesia-perluas-distribusi-hingga-daerah-3t",
@@ -2073,6 +2398,19 @@
     "source": "Bacakoran",
     "pub_date": "2026-11-17T23:21:00+07:00",
     "desc": "MonevBUMDesdiKecamatanLebongSaktiHampirTuntas - https://radarlebong.bacakoran.co/&nbsp;&nbsp;Bacakoran",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b4250bfd3deb",
+    "title": "Kumpulan Berita Bumdes Koto Ranah Dharmasraya - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NaUdVV0k5SDJYbjBGcC0tQU5nYzN3T05GRjJCM0luaE93bnVWaXh1RFRXZzBMazJhQzlMVF9VUVFCQ1Z1Y3o3WmVwZ2RHQUVXXzZXUjBxdVI3SHhjQVYzRUFwdjBPV3ZBeUFOMVFjOHpvY2x4",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-17T23:00:53+07:00",
+    "desc": "Kumpulan Berita Bumdes Koto Ranah Dharmasraya&nbsp;&nbsp;ANTARA News Sumbar",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -2223,6 +2561,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "35029c63633e",
+    "title": "Kumpulan Berita Dana Desa Dan Dana Nagari - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zdGM1azc1XzBHczBQRkxlX2xoYWpUd1kxMHB0U05raWdocWJldnlyUkxmZ1hkWl85eXJjNVM3bUtNNm5WTFZJd3JSZnlobG96clZHOGF2a2s0SDdvVHBQTGdBWmxWZ2xKRWhhSEJWVQ",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-17T20:13:51+07:00",
+    "desc": "Kumpulan Berita Dana Desa Dan Dana Nagari&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b53fbe0e42db",
     "title": "Pemkab Gumas Akui Tekanan Fiskal. Infrastruktur, PAD hingga Dana Desa Jadi Sorotan! - Media Dayak",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMTBCWlVWSFRKelo4bWktUzh6d0VCUG4zYUFQTEVzMWNOS2h3XzBwS2ttM2piTHhKNFlGeEhReUJIT3EwWlJqVGZ5bXpTODZjUjdzSlJFWkZCb1ZZSHY2LUpXME9zajI1NmM1TUE5WnVZbDYySm01LXBPaXlSUEdKR3VKc3NCT2xNRFVhVTdqZVNZcm13NnlJWjY2R2cxQTltc0tEVGlB",
@@ -2312,6 +2663,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "05a1a378e195",
+    "title": "Kumpulan Berita Bumdes Sigi - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwd1hMZnZTMldpQkhDVHhWMGVXdlVnQVpPanlyM01BRWJkcm5IdW5NSHh3YlNxV2Nfd3d2dWZPdDNmdURXTjZVekhaWjIzOW9VRlM0dzgzN0U1MlkzbWc",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-17T19:18:29+07:00",
+    "desc": "Kumpulan Berita Bumdes Sigi&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "ab8eea01b6d3",
@@ -2413,6 +2777,19 @@
     "desc": "Jangkau pelosok Nusantara! Program makan bergizi gratis kini aktifkan 1.500 SPPG di wilayah 3T termasuk Labuan Bajo&nbsp;&nbsp;ANTARA News",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "91c0d479e65b",
+    "title": "Kumpulan Berita Bumdes Abadi Uling - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ISjVjbnZQNDFqcTBMTEZnejY5a1BYeV9VN3BBR2ZpWnZKWWlibEpYWEQtVGNycWJHYW5rZk1IMDhhcld3dGd1SVpuNGhPalk3aGlmQktqbjM5ZHRCc0VqaU9JZHlrLW8",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-17T18:03:24+07:00",
+    "desc": "Kumpulan Berita Bumdes Abadi Uling&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -2639,6 +3016,32 @@
     "sentiment_tag": "Kendala Kinerja & Aset"
   },
   {
+    "id": "956e73df751f",
+    "title": "Dana Desa Riau 2019 - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5aU29WYzMtdkQwcEZQUUNhekVqUDlPb3QtUjJtWXAwMWFKRnpzWkxPVV9FVlJGN3dhSEFBR3JDZmFYUGxVX3dfLUlKSTJ0alUwa1Q1a1FqQzBvd19GUW56VDdnY2w",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-17T14:19:01+07:00",
+    "desc": "Dana Desa Riau 2019&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9be4d005a9f5",
+    "title": "Kumpulan Berita Dana Desa Di Pasaman - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lVTNscFV4a3dfMjJuTUdzcjJfOUxIVmIzNVlETUJmWnZPOVFpQWhaaDZzLTFOa1NRLVQzQmNMUFhZdXRLQlBxbERUZFBESW9JUVk1emdmWklIM3dxWkdFYzJkM2FxRkRX",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-17T14:03:25+07:00",
+    "desc": "Kumpulan Berita Dana Desa Di Pasaman&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "41ecd5c7c1be",
     "title": "DPMK Fakfak Tekankan Transparansi Pengelolaan Dana Kampung - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeFFwbUl2QlNJQnpYdGg4TjBfQVE3NGpReDNQNTZZdGw5S3NmOGY0TFRaOUFhNTRZUzFPNmRmdFhlWkpBaVV5WjlXZDJTUEp0QXRLOXVpQjlTQ2I3RTJ2N1VUaFZMUGRNS201S21IaXMzY0F5YkJXR2x5RGZwcTg5RFJaaU1ibDJPd1ZFWFVRZnVzV1VaUk44ZU9aQk0yeFoxcnR6MERB",
@@ -2650,6 +3053,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5bbeb69494b7",
+    "title": "Kemendes Terima Banyak Laporan Penyimpangan Dana Desa - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHV3S19qc0U3aTloUVBXNTA4TERXcGJweWJaZF9NRXFEQWNjR0xIaGdFUnZrWTFMX25wSHdwenNCdWM5em51MmNKd2lyTHJlajFZbVVDX2VqdGxIVkVURFJ5RTF0YkgyemZrZjlhcVJqeGVTX3BTZmo5MzN1LTBtMDNrNGhvSFVBTl90RkR1bEJhdVU",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-17T13:28:03+07:00",
+    "desc": "Kemendes Terima Banyak Laporan Penyimpangan Dana Desa&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -6,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "a8a72cb695cd",
@@ -2704,6 +3120,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f49f1c178dd9",
+    "title": "Kumpulan Berita monitoring dana desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mRzRoT0htQURPdkk1UFhqRENLa054RmhiZDdLVG9aYzRmVV9nVjAtRk1ndEp5Qll2R1NVeGVnUVVBb252NFVDQ25KUEkxUGFkYTgyREJXQlBpVW5NZ253NQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-17T12:05:45+07:00",
+    "desc": "Kumpulan Berita monitoring dana desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2654d13bd277",
     "title": "Mitra SPPG Bangun Tenda di Kantor BGN Jakarta Pusat, Tuntut Pembayaran Dapur Wilayah 3T - GoNews.co",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTBwUHdQWHoxRlBlU3g5U3dJN0xfWUMxMTU0dGNCcHZBaHFkRkc4S3N3b291ckh1UzJUcDVnQ0xDWWlvbDZsS3lWZlBYVWRMQ0I3a19yNzMtUjllOVNGUVlEWmU0eFgwcDBWUzhrUk1FdF9TbjA4eDhHbHJGdXlyR2FpT1Z4WDI4cHhwV1VRV0plemtfcF8zUExfWHkwU3BFUnhqbElwWmZac1k1R1hHUXlJa3FPY3E5a0dSY3ZpQlFvRUNSek1Nb3k2NA",
@@ -2741,6 +3170,32 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "7e06912d8ce7",
+    "title": "Kumpulan Berita Dana Desa Poso - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aY3pQdUMwZE16SVJycWp0dUlIdlpIMTV0WG5SVncyOHJDX25kWlJrY1JVMlJudTdJRXAtNGZvMmFNSkxvQVFnQUJEdkdwUjhHWjI0WGhrVjUzWWRaTXd1TFNB",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-17T11:20:55+07:00",
+    "desc": "Kumpulan Berita Dana Desa Poso&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f73779c9159e",
+    "title": "Kumpulan Berita proyek dana desa - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XRERwR0FDN3pva01xNDhOQXNCemRZYTNqV0ZzNFFTRlRlS0hCV2FlLVBHUGtXX1d3bDBha3lCWDFPU3lYQTFfMzZWZWw4RllmVlN6UFhfX2RlemVWVmJvenFB",
+    "source": "Antara News jatim",
+    "pub_date": "2026-11-17T11:05:24+07:00",
+    "desc": "Kumpulan Berita proyek dana desa&nbsp;&nbsp;Antara News jatim",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "6e66626589de",
@@ -2886,6 +3341,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ec35029f7d4d",
+    "title": "Bumdes Yogyakarta - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JazhaOTJkTWlkeVMtMTAzTG1RblVaT01Ddk1yaGNOcXE1WUJSeGJrbFA1Ny13eUNoWHhiR3FrUHVCcDhiQUNpejVtUzBnSXM5TnpLWU5ISG9XLVVtbjF4SDBCYw",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-17T07:12:52+07:00",
+    "desc": "Bumdes Yogyakarta&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0c000f846f1a",
     "title": "Kemendes Dorong Festival YouTuber Desa 2027 Jadi Penggerak Ekonomi Kreatif dan Sumber Penghasilan Baru Masyarakat",
     "link": "https://www.pantau.com/ekonomi/379720/kemendes-dorong-festival-youtuber-desa-2027-jadi-penggerak-ekonomi-kreatif-dan-sumber-penghasilan-baru-masyarakat",
@@ -2894,6 +3362,19 @@
     "desc": "Kemendes Dorong Festival YouTuber Desa 2027 Jadi Penggerak Ekonomi Kreatif dan Sumber Penghasilan Baru Masyarakat ...",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "df7647eb6199",
+    "title": "Bumdes Riau 2019 - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZUctdUREeGl3TnJWeEI4QmJfN3V2RE54NkZUT29WNENKeTJENlJrQUhITGpsMk1vNlhFdGYya1Noc0VDM2pwT2tja0JfMTZhaVhSa2ZHaHV2TnhSY0pj",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-17T06:18:33+07:00",
+    "desc": "Bumdes Riau 2019&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -2938,12 +3419,38 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "6584a64255b5",
+    "title": "Blt Dari Dana Desa - ANTARA News Sumsel",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvSVE1Z3NGbEJRR0g1dk9CV050VVBEOUlXUEg0YVYtMmJQNDVJODdLZDluY1ZKQy0zY09xWXNHUTU0WDV2T1NINFE2X0QxZWFhdVl6dTBDRDVXQnRISFJvT181WS0",
+    "source": "ANTARA News Sumsel",
+    "pub_date": "2026-11-17T04:35:30+07:00",
+    "desc": "Blt Dari Dana Desa&nbsp;&nbsp;ANTARA News Sumsel",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "309476c9a724",
     "title": "Pemerintah Desa Karang Endak Gelar Musyawarah Monitoring dan Evaluasi Dana Desa Tahun Anggaran 2026 - Media Sinar Dunia",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjRqd014X0ZvRW5UX3huRXdUckttTXV1VVlmbXNuZU1wV09MMFlaTjZ1TkhCbk9lUXZrbFExRU9OYU5Nel9mRWVDQ1RlVm5sXzZGem1LbGRGSmxLQXpNU3loM0R2ZF9pRV9rQzkyS0pzTHVtWWlpc2lDaHZSZTg5T29OWC03M0pJUnFjODdFNnA3LUo0SXhORDNSczN5V3lSU3JLSGFYNXBOelJMUTRnSzdmNVFMU1UxLXhsM0JPYmxTVFlfM2c",
     "source": "Media Sinar Dunia",
     "pub_date": "2026-11-17T04:23:00+07:00",
     "desc": "Pemerintah Desa Karang Endak Gelar Musyawarah Monitoring dan Evaluasi Dana Desa Tahun Anggaran 2026&nbsp;&nbsp;Media Sinar Dunia",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "44302d47114e",
+    "title": "Pemerintah Desa Karang Endah Gelar Musyawarah Monitoring dan Evaluasi Dana Desa Tahun Anggaran 2026 - Media Sinar Dunia",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcU9zWmVfaDlWVTl4S2tlalNFWUladDUxbXFtd09ybHEyQk5TRm51dXRkS0FXd2M5emotS3NRaGstTGNZN3pqZTQ2MlBoQjJvd1Y2U1JrYkt1Zk9LMDBqeGRuSXhVTEdjdmRvTzRLTlFWaU4xTFp1Y1UxdzZ5b2EtNkpBblFHd0xvUjRzZ3ZjTjJfdWRlM2cyYUJvNm9jNVhQdHhMWW5VVm9kbEQzVGFJSnZzeV9uajBPbHVkdlBXdVppU2ptcDVSdWFRNU54OFUwMzRJ",
+    "source": "Media Sinar Dunia",
+    "pub_date": "2026-11-17T04:23:00+07:00",
+    "desc": "Pemerintah Desa Karang Endah Gelar Musyawarah Monitoring dan Evaluasi Dana Desa Tahun Anggaran 2026&nbsp;&nbsp;Media Sinar Dunia",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -2970,6 +3477,32 @@
     "source": "Kompasiana",
     "pub_date": "2026-11-17T03:49:00+07:00",
     "desc": "BUMDes Makmur bersama pedagang Pasar Desa Gedangan menyumbangkan gunungan sayur dan jajanan pasar dalam tradisi Nyadran Kali Odo pada 10 Mei 2026.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3278fb9760bb",
+    "title": "Kumpulan Berita bumdes di bangka barat - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iRjlrU1Z3YzdqSTlpbkwyMzFQWlRaSmRRbG95ZGJDcWFhVEt0NzhWNWwxWDJNWHFKanR1VUkwTF8xNkhoRW8xdFZtYU5FWTdtRkdiRGJrSnhPX2RWSDJFWW9mTmlfQ0g2",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-17T03:34:07+07:00",
+    "desc": "Kumpulan Berita bumdes di bangka barat&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a2235e257eea",
+    "title": "Kumpulan Berita Bumdes Award - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBqS0pneHJDaTBnTmNreXZVS1k5QkZ5cXFzVzBKYVpiLTdOc21zdkNySWZpYXNabG53ZWUzV0VXU0QzQ3lHblliYUp4NlRvVFNOY3doTlgybTFWbmNaaHc",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-17T03:31:04+07:00",
+    "desc": "Kumpulan Berita Bumdes Award&nbsp;&nbsp;ANTARA News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -3289,6 +3822,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "791c3a2768bc",
+    "title": "Kumpulan Berita Penghargaan Penyerapan Dana Desa - Berita Kepulauan Riau Terkini - ANTARA News Kepri",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mNXRXX1IyVGZseC1OVkN1SWctN3FDYk9KTmdZdXZfYzExRWFkeFlCM2xsMlhZUE16S2FjSVZKQmhGUmlKbzRtMDNMUS16Zmp2TGhscDNhb0hCTUdVQU14aVVwVzJidlFPX1c2TTRReEg2bVAtSnc",
+    "source": "ANTARA News Kepri",
+    "pub_date": "2026-11-16T18:36:10+07:00",
+    "desc": "Kumpulan Berita Penghargaan Penyerapan Dana Desa - Berita Kepulauan Riau Terkini&nbsp;&nbsp;ANTARA News Kepri",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "d0eaa268c23f",
     "title": "Pemkab Bandung perkuat pengawasan distribusi LPG 3 kg melalui KDKMP",
     "link": "https://www.antaranews.com/berita/5857655/pemkab-bandung-perkuat-pengawasan-distribusi-lpg-3-kg-melalui-kdkmp",
@@ -3334,6 +3880,19 @@
     "source": "suratoncologycentre.in",
     "pub_date": "2026-11-16T18:01:36+07:00",
     "desc": "Anggaran Desa Terbatas, Bankeu Kabupaten Bogor Jadi Penopang Pembangunan Infrastruktur&nbsp;&nbsp;suratoncologycentre.in",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d009a55a4300",
+    "title": "Bantul Upayakan Dana Desa - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wWS13cUlKLWVVU09RV2tXTXJpeTRfN3FIRmdJa1VqZjVFZ25ZZTdtX0RZWXNuUFRpRWJKMWdIc2c3ZTk4RHIyZHdqLXVySzdOclUtNkRJbTNlNXVFcGk0MTFISi1ody1iUWRnLVBR",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-16T17:36:24+07:00",
+    "desc": "Bantul Upayakan Dana Desa&nbsp;&nbsp;ANTARA News Yogyakarta",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -3536,6 +4095,32 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "a49a3451a91c",
+    "title": "Kumpulan Berita Pemkab Parigi Dorong Dana Desa Bantu Stunting - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOckpZRXNQZUNOX25IQmhuWnc5bl9Ec1JZR2o0NDBsQlo1SXBaYmVVWXMzUG8yZUFkYk12M1d5djVTZC1mRDY5eWFJbVBjRkxFbDhrOEdSWHJOUWVhYWNPRnM5SV9kMVVULXBDN2FGc0ZLaVVkMG95eVQ2MDdqZ2JORDBfYWZvQUlOWHB3",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-16T14:47:34+07:00",
+    "desc": "Kumpulan Berita Pemkab Parigi Dorong Dana Desa Bantu Stunting&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "355610f258bf",
+    "title": "Kumpulan Berita Korupsi Dana Desa Rarampadende - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NcGd6bHF5QnB0bnBoWXZLWUZaeEhpaUEwQWFTbXF6UjJSRWdRYVpTc0RMYnhqRTRrY3ctZEY2SlVBSGlmMnhFLWdxRWdHTGx3OTBiS1hBMURvNDRmZUY2elN5bTN6a0dEbWhXSDA1dUdhLVpmTHlJ",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-16T14:45:23+07:00",
+    "desc": "Kumpulan Berita Korupsi Dana Desa Rarampadende&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "378a44343f44",
     "title": "Kepala Desa Guruapin Dilaporkan ke Kejati Malut atas Dugaan Penyelewengan Dana Desa - penamalut.com",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNblFBbXFHaW9WYk9OU01pUFpVeDZYay1LY0FVbVgxVkhteVl0Rks0Smo5bWtTdlNfelUwdXg4NnpYNE9YNTZiMHRMa1pDNXVheVBIY1V3M21UN3F5dEdRY2hFbnM0RlFxMkl3MkxfZm1XR2JLbzBBRERPYmhVTU5xWlVQYzdBLUVXTC1UZVY0cm5Qa2hlN090SHpSOGhocTNCMnFwQjRxaEZLTmpsNmZja2Y4ZVo0aHg3",
@@ -3679,6 +4264,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3f7642819b48",
+    "title": "Terkait Dana Desa - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBST3ZFMllaa0pRZ0czUVZrOW5QX0dkZkRRWjl1cGQxOTBZdWRzaFFHWU53Y3huZk5SWnhhN05qZ1VsQXJIdXNDX041RndVYzJmbnJFclF6UlNpaXc1U29XdHdB",
+    "source": "ANTARA News Riau",
+    "pub_date": "2026-11-16T12:57:52+07:00",
+    "desc": "Terkait Dana Desa&nbsp;&nbsp;ANTARA News Riau",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e8d8c9fc96e0",
     "title": "Klaten Siapkan Wisata Nataru, BUMDes dan UMKM Ikut Bergerak - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3pSWFBPTUJPRTZjNXAzX042MWNOaW1wamZhdm9vOE9XN0VvZHVRckc4RmFOUnRHMm1FTUtzX281U3RIOWlyWTIwN1J1VnF0NWJUTlhPemk4dWJ5bml0Z2ZZbktjR2xvYlpoWlpQMkxpQ0NDcHdGYnRMdDlJM0lhVVlmT1NZVkg2MU9KLTZGcm9mOGhWZDVsQThWZXZpT2lQaFVV",
@@ -3796,12 +4394,77 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f05fbd26c5b8",
+    "title": "Kumpulan Berita Bumdes Di Ntt - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qZFhjZkN4SnVjT2FsN0ZsQXBWczFfUWJCQUd1ZmRWcVdqNW9UOW9Oa0VTMDhkMWY0UWtldFdGT3ZYa2FjbDA5YVAxb3pYNV9NMldZLXBHZ3htMkVhSTZV",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-16T10:31:06+07:00",
+    "desc": "Kumpulan Berita Bumdes Di Ntt&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b67ad3591508",
+    "title": "Kumpulan Berita alokasi dana desa kalbar - ANTARA News Kalimantan Barat - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4eFpucUpiU0U1RFlqNzF4VnBFeDNucGFZYms4MmVSbmpiMGRTd2VaTklLaFFrT2FaR2ZpQWw0MERhU0JNRk9YSzZFQnlfNUNzWjNpcndfOWg4eDJBR2R4RE56NnVMUkZTM1VTMFZR",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-16T07:42:32+07:00",
+    "desc": "Kumpulan Berita alokasi dana desa kalbar - ANTARA News Kalimantan Barat&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1b756dfd9d99",
+    "title": "Kumpulan Berita penggunaan dana desa di jambi - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpcHZyUzh2a1pCMHhNWlE0SDVMVGdnYW15RV9aUzZiWkZrOWNGbjh3eFRCeWRsWkhQVVU3UDJBanZ2ZkxWS0ZOMlRNRGdmcjdoUXBMMVBvSFhvdHhKZkhOS3RGcW92di15SjA5S1dncUtCZw",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-11-16T07:32:52+07:00",
+    "desc": "Kumpulan Berita penggunaan dana desa di jambi&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0a144a9951d2",
+    "title": "Kumpulan Berita Dana Desa Di Ntt - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1udUxQVmkxTFFKOHlPbVNXd01HSGFnSEVTUWhfUlVITjFodzEtTk1fR0JDTG1aZ3VVNXZfVS11eXJ3UkQ2TDJzZHdlNThVTm96RDNyVW9pem14QWZyNHY0U1YxSQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-16T07:32:20+07:00",
+    "desc": "Kumpulan Berita Dana Desa Di Ntt&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e7457208c594",
     "title": "Pengelolaan Dana Desa Harus Tepat Sasaran - Kalteng Ekspres",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDNmRkNCZmhYZVhxeFNqN0gxNHdBVXJWQ0lIa2VxS1psQjNNUnVvcVpOSk51allzRnIwRjJmdzFQTnlxdC1qTVdvajkzWlZHRVIzR1VLMUhCN2htelY1QlM1bi11eE85Wjk3S3RvNk9NYW04Q3F5WEN0V2kxak1QbUs5SQ",
     "source": "Kalteng Ekspres",
     "pub_date": "2026-11-16T07:08:00+07:00",
     "desc": "Pengelolaan Dana Desa Harus Tepat Sasaran&nbsp;&nbsp;Kalteng Ekspres",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a21a9493b711",
+    "title": "Kumpulan Berita Realisasi Penyaluran Dana Desa Ntt - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1BdExlaWJMSVRzSTJlU05TalFMSTBJMWpVNnZ6S0NaY3JsY3hHNi0yU2hmaFg1SnJzZUJIS3FSVW10UzhVVG5telprNThEeHFNdEE1S3NTWHlrNnhxc19nNkFFaEh1b0tPMlViX1MyYTllQmxMSFNSeHlzSQ",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-16T04:36:05+07:00",
+    "desc": "Kumpulan Berita Realisasi Penyaluran Dana Desa Ntt&nbsp;&nbsp;ANTARA News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -3828,6 +4491,19 @@
     "source": "lampungmonitor.com",
     "pub_date": "2026-11-16T03:14:00+07:00",
     "desc": "Pesawaran (LM) : Penguatan tata kelola dan pengembangan potensi ekonomi lokal menjadi langkah penting dalam mendorong kemandirian desa. Melalui Program Inovasi Andan Jejama BUMDes (AJB), Pemerintah Ka ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "327a84b61553",
+    "title": "Kumpulan Berita badan usaha milik desa hsu - ANTARA News Kalsel",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tN3FmNVpnR1RmckktRkhQVUswZ2VUYnRNMHNmNnZGQUZWWkxKYjFQRjIxZkw2SDFjZEZpTTgyUGt1S0MxMWJRNHFFRHZ1elg4Y1lXd2R4NjJ1bHcxZ0t0SFhvYnB0ZkxNc0ZrWA",
+    "source": "ANTARA News Kalsel",
+    "pub_date": "2026-11-16T02:58:56+07:00",
+    "desc": "Kumpulan Berita badan usaha milik desa hsu&nbsp;&nbsp;ANTARA News Kalsel",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -3887,6 +4563,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "49d3cce8a5bc",
+    "title": "Kumpulan Berita bumdes kayong utara - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MS2RuX29DR3FUX05pcTVRYVBwenpIajNQMW8zYnZhaGgxRkZJN2JVNmVyM0JJTmowQjhBNVc5M24xbmZCUWNRT2tUbUJhNDlhUzdvaUJZRHY3MDJUTXdNNlp2MkE1Zw",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-15T20:42:51+07:00",
+    "desc": "Kumpulan Berita bumdes kayong utara&nbsp;&nbsp;ANTARA News",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ab5559953274",
     "title": "Inspektorat SBB Segera Periksa Dana Desa Kaibobo, Dua Proyek Fisik Jadi Sorotan - porostimur.com",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQalp4RTAwX0pGZXdVRVVLYkY3UGl0ZjJGYy1WYmlELWpyRmVwUFB6Yy1HZGp0VWxCTzlPNmxuWUlKTm5wVTRGa3ZRVkFzbkh6ajU2QzY2bmlUV2h6cGRBSFY3ZjlnU1FKVlJJZUFvU2xaMFN5VDZSdkZQODAyalp1NUpjZUxZeUhZMW9wSmZ0dnhKd0U2a3E4cU9pRlkyRGVnWjJUdw",
@@ -3926,6 +4615,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "4b0a36da1e5d",
+    "title": "Sppg Bumdes Tridadi - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fQkdabXl3QVp2bUF1QzlxeXBpVVBwQ3lhQlV0c2xNcExtRDdHSjJRRjNROTdPRXRzRVNiYUxOS2RmdmJNcDZOUVhkVDVFZGhpbERiZXRQU1plNEt3eXhlVkZrZ1Q",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-15T18:01:06+07:00",
+    "desc": "Sppg Bumdes Tridadi&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "dcad1cc28849",
     "title": "Kumpulan Berita daerah tertinggal helmi faisal zaini - ANTARA News Kalsel",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Zajlwc2ZzbXh5SnpLc0x3bW1wMXN2WEg3R3ZRNGM2TkhpRmpjTk1GcUh4T2w3NjhweWJpNW5NLUIyMGNhbXhxWjZLanhiZEFtVVRtZGdoYUxwbVdfd2dCWXFRTUxzVi1zYnMyMFBMa1dMckpWbW5YdEZR",
@@ -3936,6 +4638,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "01f9fd37c841",
+    "title": "Kumpulan Berita Penyaluran Blt Dana Desa Ntt - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IaGhnSXZLRmhtOTY1d2dvV3lsblF2RzJZM1lVanFoUXBub2ZtUVlINFlQSzFQMXlQaXp0dTJRNWZ1UmdTS3BPazRNNHY1MXV5alRrMDVnNEtDV3lRQXowaTlWcWVSYkJ6TldDOEhGSWJPUDg",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-15T17:30:49+07:00",
+    "desc": "Kumpulan Berita Penyaluran Blt Dana Desa Ntt&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -4043,6 +4758,19 @@
     "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
+    "id": "04789f805577",
+    "title": "Kumpulan Berita bimtek bumdes hsu - ANTARA News Kalsel",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlaXc3UFVqeGdfMVpGbjByZzB6dFpRdTRJWHNjaFoyU1B5b3ZfRW9NY0FKYk5GZXpUcjVHT3MzRmdKM29XbnF4cXhKYXgtZkdKR3ZQTUh5cm9SWHBGMWIyUg",
+    "source": "ANTARA News Kalsel",
+    "pub_date": "2026-11-15T13:08:12+07:00",
+    "desc": "Kumpulan Berita bimtek bumdes hsu&nbsp;&nbsp;ANTARA News Kalsel",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b5a97d4aaa42",
     "title": "Gibran Kawal Pemerataan Program di Papua dan Wilayah 3T - CentralBatam",
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DcHJldnMwejZRdlpObG9jdjVJRExfOEtSekw5WGdWd0RSZ1NrNFVFODFhRmE4M0l4RldiT1l5bkdjbkZmVFpZRjVNcmhiUWQ1TWNEeEVhU2hYLXEyWUVTa3BfTlRsM0FRVXY4",
@@ -4064,6 +4792,19 @@
     "desc": "Menengok Kiprah Gibran di Papua dan Wilayah 3T, dari Pendidikan hingga Ekonomi Lokal&nbsp;&nbsp;Liputan6.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e04c71a5aef5",
+    "title": "Kumpulan Berita dana desa tahap pertama - ANTARA News Kalsel",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVVWQ1Nm5ZRFJyTkJDeDY1S1pyT1QzWENMY01NWEhzSy02MjVLbGZINzBuQXJ0Q1l0WEFoVjhIVEFrYzZObEV0TFBSR093Nmt1SUxmaldManpNaUtyQ1J1Yy0zTlNyNXRG",
+    "source": "ANTARA News Kalsel",
+    "pub_date": "2026-11-15T11:38:28+07:00",
+    "desc": "Kumpulan Berita dana desa tahap pertama&nbsp;&nbsp;ANTARA News Kalsel",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -4142,6 +4883,19 @@
     "desc": "Kerinci dan Sungai Penuh Diproyeksi Terima Dana Desa Rp93,84 Miliar pada 2027&nbsp;&nbsp;RRI.co.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6e6c240ff674",
+    "title": "Bumdes Di Musi Banyuasin - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81QlR1WnZwRXlpc1lYWktKTnNWZmw4WUZDSlhEdkVTLUY4WnEwWEdBQ3VLWEg3a3Q2MHpabWVmaER3djBDaEpxTkhGZDAwOWFaakJYVFFmMXZnUjdtaFV1SUhyUDdCN3hwczcw",
+    "source": "ANTARA News Papua",
+    "pub_date": "2026-11-15T04:11:26+07:00",
+    "desc": "Bumdes Di Musi Banyuasin&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
