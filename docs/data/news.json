@@ -546,6 +546,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "0819febbfa53",
+    "title": "Desa Berdaya Batu Mekar Perkuat BUMDes Lewat Peternakan Sapi, Siapkan 10 Ekor - NTBSatu",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0NsWDZiZG1HTVRaRHVBd2RZRXpLTThUQzhDb2lET0gxZUgtSlB5WFlNM3NxenkzNkFnSGtpeE94UEt2QVRLUjlZbjNYVWZvY2dEejl6T2pUbXJYcHFsY1VwbUVJR2t2N2NtZVBsRlVyeXlEa2RPT0JNUng5M1l6OWtGbHZWaTFTU1VtRWttcl9DUFRrNWxXdGNBdUFPSzU4NDRIY0FEVFN4U3NKTTVBWkFVbUtnV0ZCUElHeHBDa1k0M2dCTmc",
+    "source": "NTBSatu",
+    "pub_date": "2026-11-20T17:51:32+07:00",
+    "desc": "Desa Berdaya Batu Mekar Perkuat BUMDes Lewat Peternakan Sapi, Siapkan 10 Ekor&nbsp;&nbsp;NTBSatu",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "df77395c6d40",
     "title": "Bersama Telkom DigiUp, Siswa Disabilitas dan Wilayah 3T Dapatkan Keterampilan Digital - Media Indonesia",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1VlUk4wM0lOaXdYM2JUS1Z5MVJ3Y2JSdE9XOFFBZXFYV1NBSjdEVkczOTBMZEhRbGFPeDN1ODl0b3BabUNyYkk5RzBUcHZoWUd3S2hvQlhaVXA2ZGN0UkdjN0FGXzdRbzlSU253Z292bVh5NEtmSWNKYnJyYmlkTkR1OEZ5OGxxRW9OczZSQkE0eDBsZXFadTBmbnhGVjQzRWN1V1VTWDluME5jZmhpX1ZDX0owSGp0cy1RMGlOT1VlUTZFdE5wcE5FNmI",
@@ -3952,6 +3965,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "57012af77a32",
+    "title": "Kumpulan Berita Penyualuran Dana Desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55YzN0N3d5WFdwaENxMW1vX3ZEVEdJdDBHcFhjcXJtTjNiRk1JM1RlWHo1czZ5SlMxVHJUeUIyTU5DSGlSRnhWcnB0NW9sMmRCeTN5dDd3UlFJWUFNNXI5aG1wbHFESFlHakE",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-17T23:07:40+07:00",
+    "desc": "Kumpulan Berita Penyualuran Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b4250bfd3deb",
     "title": "Kumpulan Berita Bumdes Koto Ranah Dharmasraya - ANTARA News Sumbar",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NaUdVV0k5SDJYbjBGcC0tQU5nYzN3T05GRjJCM0luaE93bnVWaXh1RFRXZzBMazJhQzlMVF9VUVFCQ1Z1Y3o3WmVwZ2RHQUVXXzZXUjBxdVI3SHhjQVYzRUFwdjBPV3ZBeUFOMVFjOHpvY2x4",
@@ -4093,6 +4119,19 @@
     "sentiment": "negatif",
     "sentiment_score": -4,
     "sentiment_tag": "Kendala Infrastruktur & Layanan"
+  },
+  {
+    "id": "83289a3a90e5",
+    "title": "Kumpulan Berita Dana Desa Papua Barat Daya - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50V1JUM1lRbTg1blZoMGVEWjZnTnVHdW41eFBTT0twLXJtWDNvSTQzekxlUHpFV1dzbTdjYUxKb0FTMnlvWlE1U2hsbVFVRFQ3cHFUZGlqMWJ3U0FlZjZPalFuZEJ4MUFEelNCM3dOT2h2dw",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-17T20:26:24+07:00",
+    "desc": "Kumpulan Berita Dana Desa Papua Barat Daya&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "a30aa99a6757",
