@@ -1,5 +1,70 @@
 [
   {
+    "id": "8839c09c05d0",
+    "title": "Mendes: Dana desa untuk KDKMP akan jadi aset desa",
+    "link": "https://www.antaranews.com/berita/5868351/mendes-dana-desa-untuk-kdkmp-akan-jadi-aset-desa",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-20T20:56:03+07:00",
+    "desc": "Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT) Yandri Susanto menyatakan dana desa yang dialokasikan untuk ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4c5298f8726f",
+    "title": "Wilayah 3T Jadi Prioritas Perluasan MBG, BGN Siapkan Special Treatment - JPNN.com",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1RXcG9faGFRZ3RDdTR3eWdFdkZVNHRJU1JPOHUwWHB1VGd1ckp1ZjhVN25HMW45dEpORDVINDI4NlN5SEZRSEU1ckhfeDJoSW1RQlJqZ0dzLV9ERk1PX2ZfbEdFX2hUMUFCQ0EyLWdSSnQtWWRNQ0VuLXZ1LVNkSmRYSS12ZnlpVWp1MER3MFpQOVhqanQzd3N1TdIBngFBVV95cUxOdThLbC05RjdZSnRKYTVKOUpESmlhRnY3d0QtR2R2M1FKa2U1QmNXWlZkUXozc3l5V1hhRXJBd183S3FkdjN6dnVkaGw0MTA3WGlyQTcwenFNS3I0M05VRnFjbHNhRW4yX1l1QXEwT3BRQks0c0NVaWJRRmszMVVwQjhaN3FmRFo1Z1lTTWVrN0xERWNSS01KWVIxWV8wQQ",
+    "source": "JPNN.com",
+    "pub_date": "2026-11-20T20:44:00+07:00",
+    "desc": "Wilayah 3T Jadi Prioritas Perluasan MBG, BGN Siapkan Special Treatment&nbsp;&nbsp;JPNN.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "25ecfab13312",
+    "title": "KPK Pastikan Usut Aliran Uang Korupsi Haji ke Yandri Susanto Cs - Niaga.Asia",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXNFckNDRjUwZjNnOTQxV3lvNHZiWDB1YVh5S2tTVTZFMnlmNVdJWjNrdXVqTGZzbXFRQkZQTklFbzB6VU9QLWxoNFhwOEJYV19ZczhjZTdiSHpNbURaXzNDakRvWUlYUGJydjh3ekZ5cmw3WE9RM0FhdXVlWTBEMUhpQmdmOUVqMzdBTXB6ZWc",
+    "source": "Niaga.Asia",
+    "pub_date": "2026-11-20T20:41:15+07:00",
+    "desc": "KPK Pastikan Usut Aliran Uang Korupsi Haji ke Yandri Susanto Cs&nbsp;&nbsp;Niaga.Asia",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
+    "id": "97c3fc2d74cf",
+    "title": "BGN Siapkan Skema Khusus MBG untuk Wilayah 3T, 3.400 Lokasi Diverifikasi - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODdBa1B0WUZIMVlILW5hazd5VTRuMS1nYlpYSU1SbWEzTldYMkdQUFF6LTRDNEhvcE02TFVWcFJubzdxdnRyUVJiZkNKLXJacE4wcTl1RGJobEJ5M25VTlpUWm5TMlUzY19uU0k4X1hWVWFRSkplU2Exa0lhTE1rNndDRVZHSVM5T2VKUTFReHdEblFQS29NNlpIMTJ4Y3Y2Z2hxd191VXY",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-20T20:36:00+07:00",
+    "desc": "BGN Siapkan Skema Khusus MBG untuk Wilayah 3T, 3.400 Lokasi Diverifikasi&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6679ae84a8b2",
+    "title": "Kopdes Merah Putih Digugat ke MK, Mendes Pastikan Dana Desa Tak Diambil Pusat - detikFinance",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb3Z6ZTdULTY5NEJ1UlczNDlVdHZ3S1hiMXFJX0FtNTMxTlZnZ3VqbmZPdWZRUzREbC00NzNfSjBuaERETnRuVlcwYmxfR0treXREQmhFemFaZ25LalNrc0lHMVBfeEhxYjBpdTQ1Y0xxclcyNl9ZU2xISk5JQUVCQmJ2dWJtX1VSUmFhVDBtMzN5Zk15SEZjcm1wZG9yNXVTWi1ldjlsUmlnQTBwZU1sX0lrcGtDeUpjT3BlRWFtdDFibHBJdWkzMzFhR1BDTG_SAdQBQVVfeXFMTUV5N1VaQU9lZUpkT3Z3UWZCNS1qV3FkcF9iSlRkQkhhcDRhUzMzTHg1NUlLclJ0NTR2Nm5vYjlSRTVYNlJIUXZfbW5Ud3ZoWWxSRUdjX1BxeVN2Ym9WNldXVmtLZ3J4M0JXcldiYVE0aDFqeGlaend0SHZJMzN4NGt1TEZoZXNzWFItZnhmRVJKd1dIY2ZoQUVDS05hRUlTRGhSOEhlWkI3NFVweXFQN25yb1A1TVdqU0tyb0pOS0ZCRno2RlNLZnRaWXIxeXVYTjlIUVU",
+    "source": "detikFinance",
+    "pub_date": "2026-11-20T20:30:06+07:00",
+    "desc": "Kopdes Merah Putih Digugat ke MK, Mendes Pastikan Dana Desa Tak Diambil Pusat&nbsp;&nbsp;detikFinance",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "c6fae3282ac6",
     "title": "Minta Bantuan DPR, Program Jepang Kemendes Justru Jadi Bumerang - Desa Merdeka",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDg3aWhSQlFvZFAyd201bFg3WTlKRGVHeE0wdHpVdlIzN3c5RkJzeVdNZV9TSEJ3LXJhZ2ZFMFdvVmdvYUVzeE5QSTh0d1JzSVUxRVZLazJzWGVGWEtocDN0R0RZNVpuNjQyWUxxZERzTmtYcGFHcDA1ZmZMUWNTeTBfSTNsZGhvNERLYmtyS091UQ",
@@ -882,6 +947,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
+    "id": "577453d7666a",
+    "title": "BGN Kebut Perluasan MBG, Daerah 3T dan Stunting Jadi Prioritas",
+    "link": "https://news.detik.com/berita/d-8762451/bgn-kebut-perluasan-mbg-daerah-3t-dan-stunting-jadi-prioritas",
+    "source": "detikNews",
+    "pub_date": "2026-11-20T05:30:00+07:00",
+    "desc": "Badan Gizi Nasional mempercepat Program Makan Bergizi Gratis untuk 77-78 juta penerima, fokus pada wilayah 3T dan daerah stunting tinggi.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "421d2fcb1f16",
@@ -1961,6 +2039,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4e4cb27f5058",
+    "title": "GMM dan GPAK Soroti Dana Desa Sandarsi Jaya, Desak Kejagung Turun Tangan - Difitnah Mekarkan Desa Fiktif, Lukman Abunawas Hari Ini Laporkan AMS ke Mabes Polri - Rakyat Post Online",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHBxQTQ1cElJMW5SZy1qY3ptVF9SU2NRMkJ3b1V6V0U0Tk0ycUNpa3JWVHdXRmg0U0hIU0NzUmtwajlBU3dFZEZNeHdXdDhHVmNCWEF4ekpzNEhjQ1VIa09nbFNWU2QydWI5dVVnS3J6VGNNeTQzaktxWENVdzlMSHhaTlExQXVnUmFVTU1GOGZqRVQ1WWhLTmVfVU5nUWNBTDRYLTVkM2NwT1RXTkV6RG9R",
+    "source": "Difitnah Mekarkan Desa Fiktif, Lukman Abunawas Hari Ini Laporkan AMS ke Mabes Polri - Rakyat Post Online",
+    "pub_date": "2026-11-19T07:23:37+07:00",
+    "desc": "GMM dan GPAK Soroti Dana Desa Sandarsi Jaya, Desak Kejagung Turun Tangan&nbsp;&nbsp;Difitnah Mekarkan Desa Fiktif, Lukman Abunawas Hari Ini Laporkan AMS ke Mabes Polri - Rakyat Post Online",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "7e6845a977c5",
@@ -105555,6 +105646,19 @@
     "desc": "Presiden Jokowi: Libatkan BUM Desa dalam Transformasi Ekonomi&nbsp;&nbsp;Kementerian Sekretariat Negara",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ee7948fd3613",
+    "title": "Presiden Joko Widodo: Hati-hati pengelolaan dana desa Rp400,1 triliun - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNVJXZW1KcV80bTQ2VzJtT3lDejc0ekJSb1RGNEE3Rl9UM3NLcHZPYzFuZEdzNVkyckN2Rm9VWEhhc3ZaWnNqY0d5V3FsOVJuN3JaZTZDNThtX1VDTFNuYlBhUm9qOTdLQXFpUVFFMXVlSlAwX3lsc19fb3JrY0RXVzBfWnZHVHhVX3RZNHY0cnJ6Y1NwZmpJUm5xRDVWcTFZTDhORnhHczV6Qno2UktrMQ",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2021-12-20T15:00:00+07:00",
+    "desc": "Presiden Joko Widodo: Hati-hati pengelolaan dana desa Rp400,1 triliun&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
