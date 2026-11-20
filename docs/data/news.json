@@ -390,6 +390,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b56087de5dee",
+    "title": "Kumpulan Berita mbg di wilayah 3t - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EcTU0VVNWU0hNb09hZlllZWM2UC1oQzZXQjlWY3NMM09CXzhGM2lnNk1ZekRzaC10b3lqS0pNTkpZLXdqR09oVVBiVzRoei1peVI1cGg3eWtkeEhoZGo3cw",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-20T18:55:24+07:00",
+    "desc": "Kumpulan Berita mbg di wilayah 3t&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "95aef89972c0",
     "title": "Polres Bengkulu Tengah Ungkap 2 Kasus, Korupsi Dana Desa dan Dugaan Eksploitasi Anak - Tribunbengkulu.com",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQb2J3MVhweHIxTV9mZS1PNEliRmlNbTJpYzRxaURucDJoZ2Q4Z2ZfUURTYXdFNU1iVTRPaWhQV01BcVhCSjZiWnZuTkhhQTVEMFY5VFdINGgxeVF6d2JxUUJGTUFVejU0SnBxX1hyeUJJRWlzcEt6ZVItRVhhU3dNUXhwRkJGT2ZTV2lwWU85U0otQjRzLWtITE15aDZXWXZHNXBhbFZRRGJPRktjajkyd0RnQzN4MzBVUXBXUWd3cWU1UWpoSGFVRlBaYmczZjhVY3YwVA",
@@ -104502,6 +104515,19 @@
     "desc": "Majukan 198 Bumdes, KPP Madiun dan Bapenda Jatim Bersinergi&nbsp;&nbsp;Direktorat Jenderal Pajak",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "26bbd113bd87",
+    "title": "Kronologi Kebakaran di Ruang Inspektorat Jenderal Gedung Kemendes Jaksel - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVRtNm5DclFGNFNKUTgtQzZ4LVZHUFZ4dGNkVDY4TmwySXE2ZXVoWWs1SVNsa0Y4TmVyRmZhNnFrWjNuTDI1Z19HMURPRnd1LXJ1UUZ5REVwQmUtcHhvTlBJa0lwNlh0b3RhalFaLTZoODh3Nzc3em1pNEtfRU9hN3kyWEcxVTVYb2pYUkxmaEZLbHRiTzBXbEV5R1ZNQk1odmdSczUwRUpDOG1FSGM2TW530gG3AUFVX3lxTFBHWlhlWHJnMXN1eTN3Y1JNeFZ0bFJ0YXhYRWpjY1haOXFZc2psMG5vRXlYeElWTGljRUxIeGtGYUlXYmt0Qno1aUVkajQzcGtEYV9WdTU5aWNiMHRjMURHMzlXX2lPLXVjcWpwNUc1R3JNRVFyWTNSX3BXRmUwUnVvaWdZVVB5VUtQb2N3TXZYTl80bFdDTmVsMEg1Wk8ySVh2VERicVM5WmUtY3FKdFlxQUx2UzVDZw",
+    "source": "detikNews",
+    "pub_date": "2022-09-16T14:00:00+07:00",
+    "desc": "Kronologi Kebakaran di Ruang Inspektorat Jenderal Gedung Kemendes Jaksel&nbsp;&nbsp;detikNews",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
