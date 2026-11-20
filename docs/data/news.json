@@ -1,5 +1,18 @@
 [
   {
+    "id": "267489aa117e",
+    "title": "Siasati Efisiensi Dana Desa, Lucky Hakim Dorong Kolaborasi Lintas Instansi Bersama PLTU Indramayu - MIN.CO.ID",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFdtOGZkZGphYlhld2EyQUlzYkF1UWdKRjdpYUdOS2dUU2pPbnRnMWJEc05CbmpFYUhLTC1BRWhUV0dGRWhCdmNNenZEb0ZoM0RjY2VXQnNDR3JELVExb2NCVmJTZGZuNnFmbmNCRTlNVGZ0MTd6U0RMaVF4VDFPckE2RWFNbGRKT2dUZVNGSW5VdHlQSThhV1FRTG1wcXdfWGNWVFh1WDdtSnBob2ZvYVF6NTFrR2NDTE5Tc3ZzUWdPQXc3",
+    "source": "MIN.CO.ID",
+    "pub_date": "2026-11-20T23:28:24+07:00",
+    "desc": "Siasati Efisiensi Dana Desa, Lucky Hakim Dorong Kolaborasi Lintas Instansi Bersama PLTU Indramayu&nbsp;&nbsp;MIN.CO.ID",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "a4dae9f6a77a",
     "title": "BPSDM Kementerian Desa PDT Laksanakan MoT Desa Berketahanan Pangan - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMW1CTlNhVmJZNGlaWWFMdVgxOFdya2tMSzFEZUJMSjJpMFlUc0pxeEE2ZzFvdnVyQUJCbnRwQkVkNGZkY1dWc2ZIXzJUYlFicXg1dUJNT3NtQXY3Wjl4dDVIdE1lZFVLcUJXaERPZjQ5UzFlb3dEdGNhYlN4d0I4WmU1SDJMVHBDc0pkSVdRczNBVVZ6bDBIYW1PS0VtRm5zU19kallPelg2QnJYa2tuU1FNRU9qU0ZqdWVkOGk3TDNPb2xqc01nOC1n",
@@ -411,6 +424,19 @@
     "desc": "Koperasi Desa/Kelurahan Merah Putih (KDKMP) terus dibangun pemerintah guna memperkuat perekonomian masyarakat desa. ...",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "df77395c6d40",
+    "title": "Bersama Telkom DigiUp, Siswa Disabilitas dan Wilayah 3T Dapatkan Keterampilan Digital - Media Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1VlUk4wM0lOaXdYM2JUS1Z5MVJ3Y2JSdE9XOFFBZXFYV1NBSjdEVkczOTBMZEhRbGFPeDN1ODl0b3BabUNyYkk5RzBUcHZoWUd3S2hvQlhaVXA2ZGN0UkdjN0FGXzdRbzlSU253Z292bVh5NEtmSWNKYnJyYmlkTkR1OEZ5OGxxRW9OczZSQkE0eDBsZXFadTBmbnhGVjQzRWN1V1VTWDluME5jZmhpX1ZDX0owSGp0cy1RMGlOT1VlUTZFdE5wcE5FNmI",
+    "source": "Media Indonesia",
+    "pub_date": "2026-11-20T17:47:22+07:00",
+    "desc": "Bersama Telkom DigiUp, Siswa Disabilitas dan Wilayah 3T Dapatkan Keterampilan Digital&nbsp;&nbsp;Media Indonesia",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -88556,6 +88582,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "59c81a76d571",
+    "title": "[HOAKS] 700 Kepala Desa Ditangkap KPK karena Penggelapan Dana Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUxyUmlmbk1aNi00TDVsUzh4b2RYLWVKSk5lRlBGSHFZbjF4enh5ZWVId01JNTdDWGVPNG1pWko5UUZGS3RCeUV4UDBOWU01WW1RY0hhWFRNaHBlZlhrUFJsUGFQUTM3cTRFRnlQajNpdmx4WXZqN1Z3T1JuQllLajBFLUxDUXdZR3pUTlVjZ1dPTWZReEhFZHhrQzB4VjQ1YWptYnZFX1hka1h1SF9yTExGejZlc2pPdGh0RzRpbXo",
+    "source": "Kompas.com",
+    "pub_date": "2026-01-02T15:00:00+07:00",
+    "desc": "[HOAKS] 700 Kepala Desa Ditangkap KPK karena Penggelapan Dana Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "b3bf24edee2e",
     "title": "Dana Desa 2025 Belum Cair di 300 Desa di Sulsel, Berpotensi Jadi Silpa 2026 - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTFpRUN4enBqLTFIQlFZZ2V6a0FxU0pHRUxkdk8xV0hJY1ZpOVJhd2FPMnM3Wll2eWtQNUNuYVZWTDB4TVVhVnF2Z0MzRmY1VnY4M3k3MWZZbEpya0lDMS1OekhQbXlyN2xDOVFWR0xpN3Z4dDdXeVVxTlhSYnBFVnVmZDRndTIwRnE0M3dvRzM2aTZiNFpYMkg4Njl5cHdnVFd2Q3NXMUJ1cHVQWWFyRGlpcVZQYkJCQUpwLTF6bVRyVjV6REE0",
@@ -89461,6 +89500,19 @@
     "desc": "Miangas hingga Wamena, FiberStar Genjot Akselerasi Digital di Wilayah 3T&nbsp;&nbsp;Kompas.com",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "eabfd7fcb18b",
+    "title": "Dana Desa Ditahan untuk Kopdes, Paguyuban Kades Demak: Kami Sudah Curiga - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdUNJZWhrdkwteV8yN0xKeEZnZkNCVTR6WC1BaFFiY0VMY3ExekIzalZ1aENWOHVsOXI1c0ZmODNRVTVaZS1kbVdkdUVOaGQwenlxUFJrNEJTZGxkMUhsQXhYb2x5bUM0QVRPa2JLa1RhR09tbmZSZXdLTVhuaDhubWFsU1k5OWNsU3FtdU0wMklIQWVhcHhIZE96NThGQllZeG03cVUwcnJfTVFmMW84U0FJY01JMGJ2bW1NNU5YSGUyUQ",
+    "source": "Kompas.com",
+    "pub_date": "2025-12-04T15:00:00+07:00",
+    "desc": "Dana Desa Ditahan untuk Kopdes, Paguyuban Kades Demak: Kami Sudah Curiga&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -92579,6 +92631,19 @@
     "source": "Kompas.com",
     "pub_date": "2025-07-28T14:00:00+07:00",
     "desc": "Kades Cikujang Korupsi Dana Desa Rp 500 Juta dan Jual Posyandu demi Gaya Hidup&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "90ac540ccb83",
+    "title": "Kades Cikujang Jual Posyandu dan Korupsi Dana Desa Rp 500 Juta demi Gaya Hidup - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdGFLc09NdDlnSUZnZEdXRzRGaGxHeDh2aTktVmJMZ0FObG1iaU1RekNOQnFGa1BjU1I0MzFBdlRlS2hPckE0R29HcDRwVGJHVW52SGI4LTRPeGdtd0NnUkxrYk9ReVNVZlBLQzdnaHZOcmE3MzJPMTBHeUxLcjNOZEFkRUt0bS12OUlmcWhEUWFOcWkzZ2ZuZk0xYUtTNDMwZXY4NmVDaTRBQ3J0QkctbnJIaWZHZkhFc2RvMThSaFdJUzhfQ0E",
+    "source": "Kompas.com",
+    "pub_date": "2025-07-28T14:00:00+07:00",
+    "desc": "Kades Cikujang Jual Posyandu dan Korupsi Dana Desa Rp 500 Juta demi Gaya Hidup&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "negatif",
@@ -112079,6 +112144,19 @@
     "source": "Kompas.com",
     "pub_date": "2017-05-29T14:00:00+07:00",
     "desc": "Auditor Ditangkap KPK, BPK Buka Peluang Audit Ulang Kemendes&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bb837822e9e8",
+    "title": "Ahmad Erani Yustika Jabat Plt Irjen Kemendes Gantikan Sugito yang Tertangkap KPK - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80dFVRRFV3TWNmemJkVmgwS1lUcUZla1VMSzdjZ0Jsb2hHdlE3SEdISkdyZnpZWmZFaTFpdHVyeUFjMDY4OEZLeENvX3Nzb0FWMjhNRkdUTTF3SmUzalA3Nmo5NGk",
+    "source": "Kompas.com",
+    "pub_date": "2017-05-29T14:00:00+07:00",
+    "desc": "Ahmad Erani Yustika Jabat Plt Irjen Kemendes Gantikan Sugito yang Tertangkap KPK&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
