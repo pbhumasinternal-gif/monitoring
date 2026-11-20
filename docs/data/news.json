@@ -1,5 +1,18 @@
 [
   {
+    "id": "c6fae3282ac6",
+    "title": "Minta Bantuan DPR, Program Jepang Kemendes Justru Jadi Bumerang - Desa Merdeka",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbDg3aWhSQlFvZFAyd201bFg3WTlKRGVHeE0wdHpVdlIzN3c5RkJzeVdNZV9TSEJ3LXJhZ2ZFMFdvVmdvYUVzeE5QSTh0d1JzSVUxRVZLazJzWGVGWEtocDN0R0RZNVpuNjQyWUxxZERzTmtYcGFHcDA1ZmZMUWNTeTBfSTNsZGhvNERLYmtyS091UQ",
+    "source": "Desa Merdeka",
+    "pub_date": "2026-11-20T20:01:00+07:00",
+    "desc": "Minta Bantuan DPR, Program Jepang Kemendes Justru Jadi Bumerang&nbsp;&nbsp;Desa Merdeka",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5a51f33efb66",
     "title": "Telkom DigiUp Bekali Siswa Disabilitas dan Wilayah 3T dengan Keterampilan Digital - Tribunjabar.id",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVhJeXZHM0xRRExLNUtLR2FlUmFWdnBNOU5qUUhScGJHV3BLWllFeWZyZzJyZGpHRVBfcjczeUhIYWZpT3ZDRFdJWXlKZDdTZXBzZmZsaVVDeVU5cFhVMU4zRGN6NG5Wb2otVHZkYkZPTGoyZUw4enBFZ3NvRUZRbjFSbW1OS0M1QlQwWC1oY0tIcndCZ1hXczVhcXFjZF84bUdIbTEwek5uRFFvOVRWSUkwdWZJa1NzY2ZyQlNHRFhtZm8",
@@ -154,6 +167,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "49cefe45477f",
+    "title": "Mantan Kades Padang Burnai Ditangkap di Maluku Utara, Korupsi Dana Desa Rugikan Negara Rp170 Juta - Tribunbengkulu.com",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNd3Z0TmhCcUc4OUVkWktlNW9sOXpWc3dvZ0ZOalVKZkdwSlRwMDM0aVpVOGpvR1p1LV9fcnZlSmJpUXFXYTNjRDZ1dUl2MUZrUm1tMEUxcFRsb0J4SHktTWZXQ1oxNFlzMk5pVU1NdzFGSG1FNURPM0JNRGlXWXF3X0dqaExNdWF3MTBkN2Vjd3pCYTl6ZEJ6VTh5MTRINlFmcVdUYm1wdzNhSUhSOUJaYUF1M2hiVUx3NlpiUWdWRDA0d3ZNRm1ZSXNnU1diVGNtSEZqS0hkampWZXZjdEJEWGVFVmh0UQ",
+    "source": "Tribunbengkulu.com",
+    "pub_date": "2026-11-20T18:34:22+07:00",
+    "desc": "Mantan Kades Padang Burnai Ditangkap di Maluku Utara, Korupsi Dana Desa Rugikan Negara Rp170 Juta&nbsp;&nbsp;Tribunbengkulu.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "4d9fc4373100",
@@ -105347,6 +105373,19 @@
     "desc": "Fraksi NasDem Minta Kemendes PDTT Alokasikan Dana Operasional Kades&nbsp;&nbsp;detikcom",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "06db33f2594f",
+    "title": "Implikasi Status Badan Hukum Terhadap Perkembangan Bum Desa - AHU Online",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUXkzUVJ0dGlmVkpqdDlwXy1wVmgtZ3BoWVN2aG94SktiREM1M0gzOXBraDE3Z0xJcjVhVE11bWNENklqaVBEa21VY2FMamJQYnpua2RrbHVCOVBuemloal9WOVgzN0dBbzh6ZldiTDc2WGd3X0RoQlI0cWpZb3dKWTRaVXBwRnI4dEJ2VXRsQVVLLWZFS0RBUEJ0UXNJNGRXZEp6NG9CdTVvUnZoWVhQOENjZXQ0Qmdu",
+    "source": "AHU Online",
+    "pub_date": "2022-01-21T15:00:00+07:00",
+    "desc": "Implikasi Status Badan Hukum Terhadap Perkembangan Bum Desa&nbsp;&nbsp;AHU Online",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
