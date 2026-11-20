@@ -1,5 +1,18 @@
 [
   {
+    "id": "fb6f4a62dc58",
+    "title": "Unpad Terima Penghargaan Kemenimipas atas Dukungan Pendidikan Magister bagi ASN di Wilayah 3T - Universitas Padjadjaran",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNREQtWW44SmtJUnpwWlBDZklyTExRcU5DaWJMdjd2Qy1tYUV0dDBCMFZ6RGQ2TDllVUJqX0t3ZV83cVk0VVBMOTdBcnF3THhQT29RMG9qbFNCclE3ZmtHQV9sdWc4YUtVN28yOVBJQkpBY1BaWUJFSFF3Q2RKcUhqdWN6SmRwcm1LZW1MWXFmbEZjTGpfNGhhWm1sX2VzVDNfdTc2NXJ3ODFNMW9GVE4tMUpTTHNUdnUxMHRuamVibkQ0STN4",
+    "source": "Universitas Padjadjaran",
+    "pub_date": "2026-11-20T14:30:00+07:00",
+    "desc": "Unpad Terima Penghargaan Kemenimipas atas Dukungan Pendidikan Magister bagi ASN di Wilayah 3T&nbsp;&nbsp;Universitas Padjadjaran",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "ac739925c1c3",
     "title": "BGN Perkuat Jangkauan MBG di Wilayah 3T - garuda tv",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmQzhjN0ZpbzVrX1BFUm5KZ01HNndXU0dlQXhuWjFuTnNiT2dpTlVrMTdoNVFGQTBITTl1dHlOWjBzQzFELWtYLXpGZ1pVTDhtQzJZdjh1cUFtckJkblV0bm5NcnpIWnJDZGc",
@@ -455,6 +468,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "810e4b7fa54b",
+    "title": "Kumpulan Berita kemendes pdtt - ANTARA News Kalsel",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11R1FPb3NEV3JaTGgzaU1UcU94TFV5aWhoOXNUdmtWNlZNdTFHZXBqX3RWSExpQjhhU0VaSW5MZ1pvWGh4dFBFOFFfT0hpcURMTjZMU180RHkxQ0VVNEE",
+    "source": "ANTARA News Kalsel",
+    "pub_date": "2026-11-19T21:42:30+07:00",
+    "desc": "Kumpulan Berita kemendes pdtt&nbsp;&nbsp;ANTARA News Kalsel",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e962952fcc60",
     "title": "Nama Lewi Laing Disorot Atas Dugaan Pengelolaan Dana Desa dan BUMDes Long Ampung - jurnalis indonesia",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0FxTjk0ZURWUF8xN3ZlRFZ1bzJreWVYV3dXMHFYRmdPNHNBRi1TUTZFNmJ3Y3c0c1BJdWJJNngzdTRfWkxSdHZ1cFh5SmNneEVJVnpDUTdmWEp4MFJzOHczVkxYZXhQcVl2QmwycGtWVFNHV3liYnBBcXplS3ZPY1VSNXo3YTk0TXNBTkgySUlZWDRjYTM0MHlsTFhMNjFaNW5FRkxDdVlqYUNRd2ZfX2Jn",
@@ -570,6 +596,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "d2131dfdd50f",
+    "title": "Pejabat Kemendes - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2OE1HZmdjQmQxbzk1R3dBelgxU1gxT3lKUm1iQzB5bmxUb2dSRERsbUNHOHNhTDU4ckt1UGtaZnJXUGlFbllMR21ZU3hncXdYZ25BMndJa21iV3RhZk11M0VR",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-19T20:33:42+07:00",
+    "desc": "Pejabat Kemendes&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "90d20573c3a1",
@@ -1677,6 +1716,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2a4e4f52b8cd",
+    "title": "Kumpulan Berita istri yandri susanto - ANTARA News Banten",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyTzlxbHIwTS1TelJZb2FoYzFEeVRHRXFlR3dEUy16QjBiZlgwaG1TVWZGdWthdVdITWVPdWMxQjJCZDZUQW1MWmx5cWdMb2VPejVCQi1teUJqMmdfY1ZBR0lzazMzSlk",
+    "source": "ANTARA News Banten",
+    "pub_date": "2026-11-18T22:11:22+07:00",
+    "desc": "Kumpulan Berita istri yandri susanto&nbsp;&nbsp;ANTARA News Banten",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "0bda0382e87d",
     "title": "Pupuk Indonesia Perluas Distribusi Pupuk Bersubsidi ke Wilayah 3T, Kerahkan Ribuan Truk dan Ratusan Rute Laut - pantau.com",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakp6dEpEWmJJNXQ3LVdiSjF2R2I1cms0MkpLUWxYX1pDV3VLUGpJQUZsMDNHaE10OVFoMXhYazZqNldnU1Y1eEFxSTU0ZkxrQmhKcXRBN2tmYUgtTlJKRWhLSmlobFdCN1pqcC1SSXhUME9sbGdiZk5PbXh0QmtTMUNiVnp1b2ROd1kxTVBTZnA1LUkxaFptMXNpbERJcXpJNHprdjRQME56TFNlUTB2dU9OcnVGYUhlalo3cHgtYkZYVHlicW5Xa3ZPX2xxaGRxWkkyM3d6VXZURE1vQkxj",
@@ -1709,6 +1761,19 @@
     "source": "ANTARA News",
     "pub_date": "2026-11-18T21:11:56+07:00",
     "desc": "PT Pupuk Indonesia (Persero)&nbsp;menyalurkan sebanyak 1.281 ton pupuk subsidi melalui koperasi desa/kelurahan merah ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3f198a875578",
+    "title": "Kumpulan Berita Sekjen Kemendes - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WS0piZjZsQjE2VVI1U0ZCZG5ETmpnRjVRdDltVHJRa3hyZERRSEN3VzYwVGJjUFFKcjdsanBPbWFHdldrYVE0NHkxYWRrZXhpbWhYWVBRc0xIUlQwUFl0Rk1xNA",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-18T20:54:13+07:00",
+    "desc": "Kumpulan Berita Sekjen Kemendes&nbsp;&nbsp;ANTARA News Sulteng",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -2052,6 +2117,19 @@
     "sentiment": "negatif",
     "sentiment_score": -14,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "8de80e8628df",
+    "title": "Yandri Susanto - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MTnF5UkdQdU1SNWViM1BtVHhucUpHeEFfNTByZDNKMFR2VkJuRFZnRUJ2Q2FfY3dIXzNtSmxnZVNjOTZXdDVGUnI2TzRNVVBzNk5pRTRTZkg4YmQwVVBv",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-18T16:24:42+07:00",
+    "desc": "Yandri Susanto&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "93edd7b08cb8",
@@ -2418,6 +2496,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "67166b5e6db4",
+    "title": "Irjen Kemendes Pdtt - ANTARA News Sumsel",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RUi1EdnJaRXd2SGtIaFRPay1KalBSZnlRUmRReVAwdUVpSnhhQ0gxSjdJYnd0dnZKUUZGRmNYS0NUdXhDSUNXVlBhREctaEgyX0Y5ekI4UTRtY2JpOThKdklkWWJYYW8",
+    "source": "ANTARA News Sumsel",
+    "pub_date": "2026-11-18T11:55:55+07:00",
+    "desc": "Irjen Kemendes Pdtt&nbsp;&nbsp;ANTARA News Sumsel",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3f1b5578ba6f",
     "title": "Kolaborasi AI Indonesia Korea Selatan Perkuat Kesehatan Wilayah 3T - Head Topics",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVFBWGZzaEQ0TzVhLXlJajJmejJ6R1pCZ25xRU9kZnpHZTk0YWZCRXpnRHFBQmZrNUFNUV95cEN2aktXd210TFlDdFBlZUtJNTMtRDFjbUt2emZDUWZaVFNwNDA2UHpYTU1HeGlmTVhRQWpwT2RGTEowZkpOUHZPbzExUlVmY01LaDl4WlFXR1kwb3c4R0tlQ3I3VQ",
@@ -2587,6 +2678,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "24886f8ea9ee",
+    "title": "Kumpulan Berita Program Tekad Kemendes - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yeFpLS3kwUkVWMS1lY29ldmNvU29OOUhQS0I3RF9YTXU1bTBPMC1senU5TUZGa19LbXB2R1RPNmF4OFBUZjU0bU1fYTBtQ1dpNVpjeFFYRmdJVGRKSkpEMldJNXRZczZVRndr",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T08:41:12+07:00",
+    "desc": "Kumpulan Berita Program Tekad Kemendes&nbsp;&nbsp;ANTARA News",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "eec3b4098f7f",
     "title": "Dana Desa 2027 Menurun, Bupati Demak Tekankan Pelayanan dan Tata Kelola Desa Tetap Optimal - Portal Demak",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelk2ck54MUw0aUNrLWt4cTRYODJucjVQbWtDMEJHNjF3TUN5RGxfcDRtbmtkWDE1VTdtSTFXN1dMcEk4RUlUeXlJbU9QR0NuSGtRYWFEaGY2R1NZZ3lDRFM1eDFLRThSVWFJaTN3S1V0RVVTYmdYSE5XUHlRUl9VbnVNTzVmZTlDRk01SUdxVlk1SmZsRFU3VUVISmI5ZDB4YXNLWXh5d1RyZW93SzhnS2h6c29YcDdY",
@@ -2634,6 +2738,19 @@
     "desc": "Kumpulan Berita Kucuran Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e29e1ba29b62",
+    "title": "Inspektur Jenderal Kemendes Pdtt - ANTARA News Sumsel",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxS0ptanJYcWQtcW5QNFRQMV9qcU5CSEY5U1BaOWFPYnFDaFBOYW9FQUdfazFONFl1ai1IU1VwcE5zQ1E2Q1YzekEwVDJyb3BkR2lCNTFYNmpTODVBQThWZEFsQ3NsblpUQklsVURleHRnYmZwcWNz",
+    "source": "ANTARA News Sumsel",
+    "pub_date": "2026-11-18T07:53:37+07:00",
+    "desc": "Inspektur Jenderal Kemendes Pdtt&nbsp;&nbsp;ANTARA News Sumsel",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -3427,6 +3544,19 @@
     "desc": "Dana Desa di Banggai 2027 Berkurang Rp100 Miliar&nbsp;&nbsp;Tribunpalu.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3a45d20aa8cf",
+    "title": "Kumpulan Berita Kemendesa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UbHg2cGtiT21lSTdzaFhBTXpFX2pKaHM0MFJHb2lfUllQRmk5aWFydzhQYkh1NWdkQWxvUTlmdXZrTVkwRzVBXzhxOGpjdDJSQWppeHZ4N0ViQQ",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-17T15:19:56+07:00",
+    "desc": "Kumpulan Berita Kemendesa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -4862,6 +4992,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ccd9b0a5d9c2",
+    "title": "Kumpulan Berita Mendes Yandri - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdDFydF9TRmI5SGR5UDVWY1J3Qy10Tkk1UEQ5eVFYTnV1bnFrbGJhWk9uUGFNUGtYSVBIRElCZ2pxWVpmd2RiQ0lsYlVQZ3ZnZmtodE9sV1BGbUUyVGR3",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-11-16T09:35:33+07:00",
+    "desc": "Kumpulan Berita Mendes Yandri&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b67ad3591508",
     "title": "Kumpulan Berita alokasi dana desa kalbar - ANTARA News Kalimantan Barat - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA4eFpucUpiU0U1RFlqNzF4VnBFeDNucGFZYms4MmVSbmpiMGRTd2VaTklLaFFrT2FaR2ZpQWw0MERhU0JNRk9YSzZFQnlfNUNzWjNpcndfOWg4eDJBR2R4RE56NnVMUkZTM1VTMFZR",
@@ -5299,6 +5442,19 @@
     "desc": "LSM BARA API Soroti TPK Desa Bandar Padang, Diduga Tutupi Titik Lokasi Proyek Dana Desa 2023-2025&nbsp;&nbsp;tipikorinvestigasinews",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2da1e3baff10",
+    "title": "Kumpulan Berita menteri desa dan pdt yandri susanto - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Lc250OGMwRW16dGtqdzkydllvNEZ2VnNnR1ZfYWVZdGw4Q1ppRDJIeG1uaXU0ZHU4X0ZCblYyWld2R0pocnVOV0dnOF91ZTBPVkZPVXlvODEwV2RvSmhnejV5X3lYTmNYYmNIdjVGczNkY3hOVDNZY3NR",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-11-15T08:54:59+07:00",
+    "desc": "Kumpulan Berita menteri desa dan pdt yandri susanto&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"

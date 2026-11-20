@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-20 14:31 WIB",
+  "last_updated": "2026-11-20 15:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 2197,
-  "dominant_topic": "Dana Desa (914 berita), BUM Desa (519 berita), Kemendesa PDT (412 berita), Daerah Tertinggal (352 berita)",
+  "total_checked": 2202,
+  "dominant_topic": "Dana Desa (912 berita), BUM Desa (516 berita), Kemendesa PDT (422 berita), Daerah Tertinggal (352 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -16,13 +16,13 @@
         "title": "Tersangka Korupsi Dana Desa di Seluma Seret Nama Bendahara dan Pengacara HT - Satujuang.com",
         "source": "Satujuang.com",
         "topic": "Dana Desa",
-        "core_issue": "Tersangka Korupsi Dana Desa di Seluma Seret Nama Bendahara dan Pengacara HT&nbsp;&nbsp;Satujuang.com..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       },
       {
         "title": "Tekan Tren Korupsi Dana Desa, Pemprov Sulsel Verifikasi Lapangan 10 Desa Percontohan Antikorupsi - Infokini.id",
         "source": "Infokini.id",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "Tekan Tren Korupsi Dana Desa, Pemprov Sulsel Verifikasi Lapangan 10 Desa Percontohan Antikorupsi&nbsp;&nbsp;Infokini.id..."
       },
       {
         "title": "Dana Desa Bojonegoro 2027 Dipangkas Rp 2,7 Miliar, Pemdes Tunggu Kepastian Pagu - kabarbaik.co",
@@ -58,7 +58,7 @@
         "title": "DPD LSM PENJARA Riau Laporkan Dugaan Korupsi Dana Desa Buatan Baru dan Simpang Perak ke Kejati Riau - mitra mabes",
         "source": "mitra mabes",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_issue": "DPD LSM PENJARA Riau Laporkan Dugaan Korupsi Dana Desa Buatan Baru dan Simpang Perak ke Kejati Riau&nbsp;&nbsp;mitra mabes..."
       }
     ]
   },
@@ -71,6 +71,12 @@
       "Menyusun rubrik khusus 'Kabar Desa Mandiri' di kanal media sosial resmi Kementerian."
     ],
     "cases": [
+      {
+        "title": "Unpad Terima Penghargaan Kemenimipas atas Dukungan Pendidikan Magister bagi ASN di Wilayah 3T - Universitas Padjadjaran",
+        "source": "Universitas Padjadjaran",
+        "topic": "Daerah Tertinggal",
+        "core_achieve": "Unpad Terima Penghargaan Kemenimipas atas Dukungan Pendidikan Magister bagi ASN di Wilayah 3T&nbsp;&nbsp;Universitas Padjadjaran..."
+      },
       {
         "title": "Cegah Korupsi Dana Desa, Pemprov Sulsel Verifikasi 10 Calon Desa Percontohan Antikorupsi - Trotoar.id",
         "source": "Trotoar.id",
@@ -87,7 +93,7 @@
         "title": "Apa Kabar Anggaran Ketahanan Pangan dari Dana Desa di Purwakarta - sidikjari.co.id",
         "source": "sidikjari.co.id",
         "topic": "Dana Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
+        "core_achieve": "Apa Kabar Anggaran Ketahanan Pangan dari Dana Desa di Purwakarta&nbsp;&nbsp;sidikjari.co.id..."
       },
       {
         "title": "Ayoh Yohana Sukses Bawa Desa Pabuaran Lebih Maju, Bukti Nyata Dana Desa untuk Warga - Media Indonews",
@@ -105,18 +111,12 @@
         "title": "Anggaran ketahanan pangan Rp250 juta, BUMDes Rancawuluh sisakan satu ekor sapi",
         "source": "Suara Flores on MSN",
         "topic": "BUM Desa",
-        "core_achieve": "if(matchMedia(\"(prefers-color-scheme:dark)\").matches){const s=document.createElement(\"style\");document.head.appendChild(s);s.type=\"text/css\";s.appendChild(document.createTextNode(\"body{background:#242..."
+        "core_achieve": "Anggaran ketahanan pangan Rp250 juta di BUMDes Rancawuluh jadi sorotan setelah delapan sapi dibeli, kini tersisa satu ekor...."
       },
       {
         "title": "Lasarus Minta Kemendes Perkuat Pengawasan-Tuntaskan Temuan BPK - katakini.com",
         "source": "katakini.com",
         "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
-      },
-      {
-        "title": "Gudang Garam, Ketahanan Pangan BUMDes di Lasem Rembang Bikin Kades dan BPD Tenang - Lensa Nusantara",
-        "source": "Lensa Nusantara",
-        "topic": "BUM Desa",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x0, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fonts..."
       }
     ]
