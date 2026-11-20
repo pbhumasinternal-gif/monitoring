@@ -1,5 +1,18 @@
 [
   {
+    "id": "6cb904d9723c",
+    "title": "Penyidik Polres SBD Serahkan Berkas Perkara Korupsi Dana Desa Nangga Mutu ke Kejari Sumba Barat - Pos-kupang.com",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObnR5OHNsR3hhVUFLeC1vNWRKZW1CYW5zeUlVLTJBUGQzVnlXMXVKU1lyc3VjcW9JV2ctdGc0czhJQWg2d2NCQzhJZWVsYmFiSFNxdXU4WWg0YTZsSTdUWHJmSTczR0RhWDRwQlpYdzRjSWFQX0JrQnVPc250a0tMclpvdU14Tll3V1dqZ2lzVVJxNUlwZlQxaHdkeDQwdHc4NEowUVV3TFBVNUJITG9BUnpScnY1OG1CdjdmODNfdjdwQU5oTEFJN3VpdUlfRHctR0pEblhVUmZxZE8zOWc",
+    "source": "Pos-kupang.com",
+    "pub_date": "2026-11-20T06:50:40+07:00",
+    "desc": "Penyidik Polres SBD Serahkan Berkas Perkara Korupsi Dana Desa Nangga Mutu ke Kejari Sumba Barat&nbsp;&nbsp;Pos-kupang.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "372c50bcc642",
     "title": "Warga Pedalaman Mahulu Kesulitan Air Bersih dan Jalan Rusak, Bupati Minta Bantuan Kemendes PDT - Tribunkaltim.co",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRVBWcGhobExwN2M0UGxOUlBGMFZuNGJlOUw0VUpKdmFtREFFMFpJZjNWU0dHS3RLbjBVX1BGN1RoT0VJR2FFTUIwVF9IdE9Xc2hzOFNDOTN6ZFl2UmlERDlaMVYybFJwNFFJQTlXdUJqYkdicGlmM2ZJUWdhMlM1UDM3OWlya0M4Vlo1cnMyZlRiTUdVcGc3SDhkcnc5XzVvS1E1bkVFRzZiUmxKemVuTmNsX1dHeUtyNTVKQ2pIa2tpQlpQdDMxVzhOXzA0alR1LTFHT3oxWjJXenM",
@@ -5624,6 +5637,19 @@
     "desc": "Dak Fisik Dan Dana Desa&nbsp;&nbsp;ANTARA News Riau",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e44b891c0558",
+    "title": "Desa Disiapkan Jadi Pusat Lapangan Kerja",
+    "link": "https://rm.id/baca-berita/government-action/334359/kemendes-pdt-siap-sukseskan-program-poliran-desa-disiapkan-jadi-pusat-lapangan-kerja",
+    "source": "Rakyat Merdeka",
+    "pub_date": "2026-11-14T05:55:00+07:00",
+    "desc": "Yandri Susanto dukung Poliran 2026 untuk menekan pengangguran melalui potensi ekonomi desa. Program ini menyediakan 8.875 lowongan kerja di dalam dan luar negeri.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
