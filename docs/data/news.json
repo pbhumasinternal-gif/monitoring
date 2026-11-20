@@ -1,5 +1,18 @@
 [
   {
+    "id": "ed60d60457d8",
+    "title": "ADD Halmahera Selatan Lampaui Dana Desa dari Pusat - Ketik",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTB5RmRSZjFNLUhQZGNQOER3UWZjUFVlaTIzcl9FbTJRVDdaTUZMOEF2WnZ4WlRyV0U5emVPY2J1U1VWYW14RFM5ZzVnQ3A5azBRTTd2MWYxekQxOEZoaGY4MnU3aXZwNldXRjN4UElwZ0lzdlJLRThneVJWUVhXcUd2UzdnYUNSNW5NR0QtemU4V1VYcjFhMtIBfEFVX3lxTE1IbWFUbjJjSDh2Wk5idmxINGhoLWh1S19mdUREVFpyX2ZmZFNBMTVIZjBRaEFkaVJFYW03RFR0cVNnbVJ0bmUySUQ5V3RITU54dTFxRmlva2pTSzJQWlBEQ2FPYTU2ejB3U0YwdnlSZnlyNkJsM0NoeGlSLTY",
+    "source": "Ketik",
+    "pub_date": "2026-11-20T12:47:00+07:00",
+    "desc": "ADD Halmahera Selatan Lampaui Dana Desa dari Pusat&nbsp;&nbsp;Ketik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6c3f54a7d6de",
     "title": "Mendes PDT: Dana Desa Boleh untuk Rehab Rumah Warga Desa - Kabar Banten",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS25fU3pkVmhIMUVYdkpydF9yUnNWbzc2MjRRTE9yQVNvdDNaOVBZRmFjdlFIbkJUMThwZndUTkhMZjhQWjNRTUpra2xLVTRwQmsyelpXSW5CRC1pZTI4ZjN0ck9sNUlvb1BwcXZhRUhvV3hsZF9iMHR4U01rRGlYaUNrRFlmMV9jRDBwbWxWZ2MyR2dWa3dsNGJKMEE3ckJuTGJvVTlKaTRxQS10X05OeEIzMS1nYmVwS0RuSmt0ak8",
@@ -167,6 +180,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "3a94c5e22377",
+    "title": "Kumpulan Berita Program Percontohan Dana Desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA1eGp4S1ZwUlBsOHFFbGF1dlF4Ri1KVlRYUEhDSUlJYzBiV09fcmJjQVBvMXE5T2ZPQXBud0tNRHJPemhHcDdXTmItVXBMTVUtZ2NtQ1JnQnEwbS1wMmlnaFZoUU5yenUyRHZaX2xoTmgyb2ps",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-20T06:41:49+07:00",
+    "desc": "Kumpulan Berita Program Percontohan Dana Desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "372c50bcc642",
@@ -401,6 +427,19 @@
     "sentiment": "negatif",
     "sentiment_score": -21,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "6c1a77638879",
+    "title": "Kumpulan Berita penyalur dana desa - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03ZWRhdFJZVU5fX2hHdmt3R3RqZ0JHdGRKTGx4X1VPXzRrdHBTTW81YXdydkM1RFpWdVRUc2swVV9hS3FmSWp2Rkg5U20tMC04MTg1WjdKUlRYbVZyR3kyUFBfMDk",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-19T19:31:52+07:00",
+    "desc": "Kumpulan Berita penyalur dana desa&nbsp;&nbsp;ANTARA News",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "237f1262095f",
@@ -107869,6 +107908,19 @@
     "desc": "Pimpin Komisi VIII DPR, Yandri Susanto Diingatkan soal RUU PKS&nbsp;&nbsp;Kompas.com",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "58603c8cc2cd",
+    "title": "Tonton Blak-blakan Wamendes Budi: Kawal Dana Desa, Bela Prabowo - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMkg5VDlrTC0yYmJsZ1N6eWJWeFBaR2hxQVM2dTJRRlNIT3FaYm5xSkY5NWplbU1YQkNQS0wwWmFZbElscXl5MWZtdjBZVjRKWnpXWTJsVjRMWWtOcDUtd2J4TEtOeEZFN0dSaHNadmllNVRBWjYxeURReVBENmZ1LU51V053UXAya08tcHdHWFUwMzRDc1M1M2ZpdDFSdUNaYWVOcWlXbFVFdFU",
+    "source": "20detik",
+    "pub_date": "2019-10-30T14:00:00+07:00",
+    "desc": "Tonton Blak-blakan Wamendes Budi: Kawal Dana Desa, Bela Prabowo&nbsp;&nbsp;20detik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
