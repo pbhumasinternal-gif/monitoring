@@ -1,5 +1,31 @@
 [
   {
+    "id": "b2554e2f6b10",
+    "title": "Mendes Tegaskan Dana Desa untuk Koperasi Merah Putih Tetap Menjadi Aset Desa - faktakalbar",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc3R5cXVpTDJFRmJXZTl1WHk1QzR6WlllU0J2a3RfQzFnZWFzbUVval9uUENWaU1KcDg2WnRRSE9OelN0M3BCRUVFSUFLQTNxY2lqYkFKeURTYW9vQ1h5ZnlLb2tIYXZyMWxYNmhkMFU3Z0RtSzFDQzNCbWFqMHg2bnhGUWlQa3VseHVqN0ppWjl4blVBRWVmQ1g4NzQ3MS1zMzBlcVJtdXFqdw",
+    "source": "faktakalbar",
+    "pub_date": "2026-11-21T10:12:25+07:00",
+    "desc": "Mendes Tegaskan Dana Desa untuk Koperasi Merah Putih Tetap Menjadi Aset Desa&nbsp;&nbsp;faktakalbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ac46b3909b00",
+    "title": "BGN Siapkan Skema Khusus Perluasan Program MBG ke Wilayah 3T - faktakalbar",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmc2RnhrTEc1Q3Q4T21ibjdWS0RXTEo5TGJ1VXdnd0lwVVRCWU5rODNsUGVWQ1JYVmVpb0VzYUJTMmhtTnNCSmVra1JnTUhRdl94M1RtbWVCNV9fLW5weWViZUIyZ3dZUElZc1hET1RhMm04alBKNmxUWnIxVzRSVVZLWGwtWGxPYTVFV3hwNElPY1BU",
+    "source": "faktakalbar",
+    "pub_date": "2026-11-21T10:10:19+07:00",
+    "desc": "BGN Siapkan Skema Khusus Perluasan Program MBG ke Wilayah 3T&nbsp;&nbsp;faktakalbar",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f0293b01c3fa",
     "title": "Bupati Sutinah Lantik Enam Pj Kades, Tekankan Pengelolaan Alokasi Dana Desa - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQlZ5TFlpU1hrNFN4WVhxUGNXb2FtcWJ4UmFlNUhfR2pFcHU5VU5MbVlscllIUUpnN0MzOXV6bXNCaGhNcW1pd25rUV8teWZjQ2FpWUNUTktYTEpOSUJNSUd0M2RWOXRCY3oxSzlNcTVxZDY5LVdHbFgwSldLck9tLWlXLV9nanNpZnJtZ3VCeXVEWExOUmgwNDE1TXl0RU1rMFFHUFdNUVUxZ2wyQWQxMzMyUzlhWEE",
@@ -136,6 +162,19 @@
     "source": "Elshinta",
     "pub_date": "2026-11-21T06:30:14+07:00",
     "desc": "BGN perluas MBG hingga 78 juta penerima, wilayah 3T diprioritaskan&nbsp;&nbsp;Elshinta",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1875e2352a5d",
+    "title": "Mbg Di Wilayah 3t - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ic1ZhMWpjWjBHT2JNellnc2lZT18wS2lFQlRPM3RmRVlHd2tzY01Jc0xPck5BbEdjQ2hQUDh4bVRiS1N3UjY5eFpNcUhsTnl3NWRMMmh5Rk5UaFhlYWpr",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-21T06:24:01+07:00",
+    "desc": "Mbg Di Wilayah 3t&nbsp;&nbsp;ANTARA News Yogyakarta",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -4116,6 +4155,19 @@
     "desc": "Kumpulan Berita Bumdes Di Pariaman&nbsp;&nbsp;ANTARA News Sumbar",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c520a245f9de",
+    "title": "Kumpulan Berita Dai Ke Wilayah 3t - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xZ1FRRW1kaklaNjZmbGE4OTc4dFdwZ3J1SWtEWnM3ZkRxa3JRRGh6b0Njejl2alMtZFlIeDg4bER3Q09idDhnY2F3QmJNQWZFZzdYRjV5empIQUJDUzFhckRqbHE",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-18T03:36:36+07:00",
+    "desc": "Kumpulan Berita Dai Ke Wilayah 3t&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
