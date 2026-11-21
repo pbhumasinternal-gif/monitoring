@@ -325,6 +325,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "96ac212b2113",
+    "title": "Kemendesa PDT Dorong Aglaonema Jadi Penggerak Ekonomi Desa, Pelaku Usaha Minta Dukungan Kurangi Ketergantungan Impor - VIVA Jogja",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbTJYVWoxa3B5QVJvSnN1aFl6WmpMMmV5Rk8yTW1VWnpmN0VsakZCSE5Xa1lVbWxibWNZaWZDMzNuaG1nYlBlZXJYYUFKdUtVZnZrUEZYakVsUk1sd1U0a3lqYUlGUGpPNEJpSm5hQW8wQ0k4aWNxa1NPTUUzdEpuOThvSG1UdXBsR2FXTFRvME40b2xuX19zdnFOd2pQbHBIT3MxMTEzT1NsTGtITURDd05ON1VsTkVHWUU4eWlrMVFKWFMydTNJMEZGczFHT3JBN3hsTkY2QmxZYXl0bUxjdFlzYWhEX3M",
+    "source": "VIVA Jogja",
+    "pub_date": "2026-11-21T15:22:00+07:00",
+    "desc": "Kemendesa PDT Dorong Aglaonema Jadi Penggerak Ekonomi Desa, Pelaku Usaha Minta Dukungan Kurangi Ketergantungan Impor&nbsp;&nbsp;VIVA Jogja",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5f2cab3fa59b",
     "title": "BPH Migas: AI perkuat pengelolaan hilir Migas hingga daerah 3T",
     "link": "https://www.antaranews.com/berita/5869539/bph-migas-ai-perkuat-pengelolaan-hilir-migas-hingga-daerah-3t",
@@ -5975,6 +5988,19 @@
     "desc": "Kumpulan Berita Dana Desa Poso&nbsp;&nbsp;ANTARA News Sulteng",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c0952fb130c6",
+    "title": "Ikk Kemendes - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VWHkzeDN2TzNzeVFhZ2R4UjE0MkstRllrVEE1RGdWbjlvS0thd0tjUTE4TjlVN0JGLXZJN040WTd3QldQdWNpMXZsV3NYQ3JCRGFBWmdSRHVhVGtR",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2026-11-17T11:08:51+07:00",
+    "desc": "Ikk Kemendes&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -104765,6 +104791,19 @@
     "sentiment": "negatif",
     "sentiment_score": -12,
     "sentiment_tag": "Sorotan Transparansi"
+  },
+  {
+    "id": "e78cf374d746",
+    "title": "Modus 2 Pegawai UPK Batuwarno Wonogiri Tilap Duit Bumdes Rp 6,4 M - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdzM0YnVEc0p5RWtrZ2M3d2Rhak53QTZabENyQ1RQZVdEdXA0N1d0WWh4cGlzSmxxOHFsckdsYklEcWZ2SnJlWllEZ0RxTm9KNWNmcVZ0SG9Hc0FpTWdKQUJTdVh6LTdfN1dRNTFtQ1Jfd0w5WjNLLVNWU0JGTkljTURfQnd0T3ROeEFQdTN6OW5hbFpzSTkwWlptMWFMVktSMl9nNWQyeTlUSm90Y29wSdIBtgFBVV95cUxQTnpucmtLa3lNVjJVRG9LckpSX25UeUJObDR0M3llS3BqWXMydUN2cDRuS004WVc4WWhnelFXNHpXa0tqQ0V5Qlp0eTNrVDlKUVY3azNYUUZ6QU5pVFY2MnlOTEJsSmxKOHhzeVIyR1hOWlBsVXdLQV83OU5OaU5LdFNQcF80WDFpcXp6T1VhQjVSaWxaSXFwWTBtaGJ6c2pLZy1zRTJJUGN5Z2RtT2dvX053VXM5UQ",
+    "source": "detikcom",
+    "pub_date": "2023-04-04T14:00:00+07:00",
+    "desc": "Modus 2 Pegawai UPK Batuwarno Wonogiri Tilap Duit Bumdes Rp 6,4 M&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "25553ebdced4",
