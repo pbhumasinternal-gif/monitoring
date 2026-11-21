@@ -1,5 +1,18 @@
 [
   {
+    "id": "700269683ddc",
+    "title": "Kasus Dugaan Korupsi Dana Desa Sugihan Dipertanyakan, Warga Minta Pengelolaan Anggaran 2016–2017 Diusut - Berita Merdeka Online",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaXkzSEZOaUNKUWtfRzB2bjFNTDVvSnVodkZ0aHdlUzZ6SzNpZkY3d2g5U080V3JXcGY4aGFWbWtUNUdzNFFiWER3MmVvb1k4TWo0TV9lUV9LUXZnQnB4Y3NJZHFHRGVRdE53Y0d3ai13VUxLZ3REazVyVHpGTi1DbWl2c3Y2VjI3c3dqdkJOTTJtM056T3pyQXJ5Uy1WTlJ3djlWMTBJb2VDMHlKNlFDc1R0ZEdNdzU2MEJtTFhudWVxZHU1bWZxNl9XRGIxTkxxbWxYd1NYRFUxbC1xQ3MxeUR4cVR6UQ",
+    "source": "Berita Merdeka Online",
+    "pub_date": "2026-11-22T05:45:00+07:00",
+    "desc": "Kasus Dugaan Korupsi Dana Desa Sugihan Dipertanyakan, Warga Minta Pengelolaan Anggaran 2016–2017 Diusut&nbsp;&nbsp;Berita Merdeka Online",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -9,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "22eb25d2ef50",
     "title": "Pemerintah Bantah Ambil Dana Desa untuk Bangun Koperasi Merah Putih - RIAU1.COM",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHJjdW5DeHVma1Rfc3pWX29SRUNKb2VqQXRMOVhQV1o0QXg5ZC1DX3NTaC1KckZpTzlhVjlHNzRMUG5YTHlDLWhqMG1WaFRDVTBDM0lCeVVvUUMwVWp3cXVwM2NFVU9USlN4VVJ1S1FYWXBGVk1UUHRHZk5zRjB1VUxNNDVxVVVHVUdNdmYyZnR2OGVkdEY5Q0ZQVHJRTUh4VjBsR0hKbmo",
@@ -114619,6 +114632,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "00737467e551",
+    "title": "Menteri Marwan: Dana Desa Berhasil Kurangi Kesenjangan",
+    "link": "https://www.beritasatu.com/news/349061/menteri-marwan-dana-desa-berhasil-kurangi-kesenjangan",
+    "source": "BeritaSatu",
+    "pub_date": "2016-02-13T16:40:00+07:00",
+    "desc": "Menteri Desa, Pembangunan Daerah Tertinggal dan Transmigrasi, Marwan Jafar, meninjau pembangunan irigasi yang menggunakan dana desa dan berdialog dengan warga di Desa Tenrigangkae, Kecamatan Mandai, K ...",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "f666f9d76b92",
