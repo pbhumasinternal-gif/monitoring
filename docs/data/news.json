@@ -247,6 +247,19 @@
     "sentiment_tag": "Tekanan Anggaran"
   },
   {
+    "id": "d02e327903e2",
+    "title": "BGN targetkan jangkau 20 juta penerima MBG di daerah 3T dan stunting tinggi",
+    "link": "https://www.msn.com/id-id/ekonomi/ekonomi/bgn-targetkan-jangkau-20-juta-penerima-mbg-di-daerah-3t-dan-stunting-tinggi/ar-AA2hSWI9",
+    "source": "Jawa Pos on MSN",
+    "pub_date": "2026-11-21T02:42:00+07:00",
+    "desc": "BGN menargetkan 20 juta penerima manfaat program Makan Bergizi Gratis untuk daerah 3T dan stunting tinggi.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6a7f14d9b389",
     "title": "Program Makan Bergizi Gratis Prioritas Wilayah 3T - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkl1RzJ6d1Zlb0tNR3BrdUxIQzBubGRyWFRab2Frbzd5ZmtCd05zR3RFMDdtRFZsV25iNUhDSnpoNEZSR0Y2QXpXSFIyTE9vM2xEWlBhVFlZekh1alFHa0FTMU83ZzBhMkJSMGhCa0V5bEROVTNheHV3UzVjZkN6bWpWMXgwWTRlejdqZg",
@@ -2145,6 +2158,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "f5ed6988552b",
+    "title": "Kumpulan Berita Dana Desa Sangihe - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OZElUSTktdmQ5eTJZS3FUdERrN2FzNU9Ocng3UDBzSkZMcC1NcDM1UkQteVZZcV8tazd2bEtDQ3d4aVJteFg5eFVkOXlCcUx4b05mWE1EUkwxcXRuR1dtTFVEOTQ",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-19T14:43:56+07:00",
+    "desc": "Kumpulan Berita Dana Desa Sangihe&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "5a047d042b16",
     "title": "Kemendes gandeng pendamping desa kawal pendaftaran Lomba Website Desa",
     "link": "https://www.antaranews.com/berita/5864751/kemendes-gandeng-pendamping-desa-kawal-pendaftaran-lomba-website-desa",
@@ -2515,6 +2541,19 @@
     "source": "ANTARA News Kalsel",
     "pub_date": "2026-11-19T09:24:54+07:00",
     "desc": "Kumpulan Berita dana desa kotabaru&nbsp;&nbsp;ANTARA News Kalsel",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f8245f56184f",
+    "title": "Kumpulan Berita Jangan Ada Yang Salahgunakan Dana Desa - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUMzeHB2LVcwaW96dENMOV9kUEJ4aXNCVloyN3VBZGVTbDZTV1ZlaUN1MTdwWW9SV2h6OTFnZ3VvVGc1RXVteUpHUGgwQjA4bGxVOGV0a0FMR0lNZ21IUVJpSDhYT3lnSlI0SXM0YnFuZTBBVWxwLWJrZmdPcEp2MQ",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-19T09:18:34+07:00",
+    "desc": "Kumpulan Berita Jangan Ada Yang Salahgunakan Dana Desa&nbsp;&nbsp;ANTARA News Manado",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
