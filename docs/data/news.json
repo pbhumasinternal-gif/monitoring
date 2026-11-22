@@ -26,6 +26,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "cd37e91f0da7",
+    "title": "Kumpulan Berita 82 persen dana desa terealisasi - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0ai1tNGVnNk5ZOVJvYWpUaV9hYlM0dkRIZy1aVGpGYlN6ZXRscmRjTEVhRjZua0djVEQ4enZGazRpenl2SS1zcHNQV21UQk04SVlGY2xWV0dCckJjRExwTDdwenpRakdlM0M2WGlsTWF2UQ",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-11-21T23:25:35+07:00",
+    "desc": "Kumpulan Berita 82 persen dana desa terealisasi&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "6dd73c376d3f",
     "title": "Inspektorat SBB Siapkan Pemeriksaan Dana Desa Kaibobo, Dugaan Penggunaan Rp50 Juta Jadi Sorotan - porostimur.com",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTAwUnVUWkNGN09ycHZTdGg1Q1FZOTNIR2tlenFyTzFfZk5hRURkNXBvdjFpV1g4U1pBam1FY2ppbDd4aTU2OUNNQ0ZIM0JaVl9MVDBHandmYXhyM1VrdEtDclF5WmJ5N2p1dnR5cEVhWWdYc0NHdUI4ZmFqMDZHdHhqd0kwbkF2cVpZLUF2cmRnTVFnTF8yQlJBRmdZcDhkZ0RQVUJ1SVpMSVhmeXoyLW9NdHlOYi01MGc",
@@ -4706,6 +4719,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "faaad2ee5426",
+    "title": "Kumpulan Berita Pungli Pencairan Dana Desa - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FR3B1RjF5d09WdDNtS1A1Wkk4aV9ZWjB3dE1qc3pPNzUwbUF4S0ptdXRBRTJaVm5YLWU1VnpLWTkwcUVlb3NiWS1UMVREQkc3d2g5dHBSNng4MUZ6RnhmMG1UaG1mUU4zblo5aUpkWQ",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-18T11:19:47+07:00",
+    "desc": "Kumpulan Berita Pungli Pencairan Dana Desa&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -4,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "3a3b5575fc7f",
     "title": "Erna Sari Dewi Kuliti Klaim Capaian BPK Kemendes - pantau.com",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblFpbHpfUXpudlAtblVQdTJBd3ZqX29sdWNjUUhsS01MUElLaF9FTUc3SDU1WWtRVnd3SGpReTk2T25yaXJzRVlaZ1hCU1FPRTNfZ0U0MFZDSjR2TmFsVlNGcW8wOXU3LUc1UzVYOUFJQVVPS0dLWGJXejVyclJVeVdZNDdlbUN6azZfYUd6ZWE",
@@ -5003,6 +5029,19 @@
     "sentiment": "negatif",
     "sentiment_score": -11,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "d6c54802afe2",
+    "title": "Kumpulan Berita Pengawasan Dana Desa - ANTARA News Sumbar",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xdkNvd1JHTmlfUXNMVFJtNUJyYWFSQTA5d29SX1hhZnJ6amdSekg3T3Q1RGdWWTkzSmhOQkR5NVV5VndvZHhUY3FBanlzZ1B4UU9XZlN1Z1FvUFlnSHBmWXItUXhTRFlS",
+    "source": "ANTARA News Sumbar",
+    "pub_date": "2026-11-18T06:23:37+07:00",
+    "desc": "Kumpulan Berita Pengawasan Dana Desa&nbsp;&nbsp;ANTARA News Sumbar",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "69aeda9e7eb0",
@@ -90192,6 +90231,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "0a1600d8718b",
+    "title": "Dana Desa Dipangkas Besar-besaran, Asosiasi Kades Trenggalek Bereaksi - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV2JwX1FCZm5KUnNzYTBhdjJzUk93TW9VU0pEcm9yMk1lWWlBR0JWUl9pNDJWMk1NUWtqazdxMzZZOEpoZ0lLNG5iTmdURFFIODJSRkN5aWx4blprTFQ4WFdJNnhkRnItQTczQVU0dVJvb0JPYUlHSlJ5bDVUa28zX2U3OTFrMDFFSGVLdnM0aENIbFBrLTJDNFh0RzZGTkJmQUpRZ0VHV0twNHI3QTMxR3Jsa9IBuAFBVV95cUxNOUIweVNDSjY3V2RfeXNScF92eDd6ckRMc1lfTEtCTW9Qc2t6WWxEZ1piVE9Qbmo5eG5HU1JMeGZnMW1NWXRTX2s3X21XaFpXemRNeU9pcnQ4cVJZVnptMVVsODRNSTY0RGFUek5OTXMwV2Uza0pEbmpFTjFkaXBSQ1pNVVR6dHRPc0xIYmg1VjdyNG83M1dnMHczOWh3czB6Tmw1QUlRT05UUlk2U1NIdU5RR2RfWm92",
+    "source": "detikcom",
+    "pub_date": "2026-01-02T15:00:00+07:00",
+    "desc": "Dana Desa Dipangkas Besar-besaran, Asosiasi Kades Trenggalek Bereaksi&nbsp;&nbsp;detikcom",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "b3bf24edee2e",
