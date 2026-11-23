@@ -1,5 +1,18 @@
 [
   {
+    "id": "093b9790e247",
+    "title": "KPPN Waingapu Percepat Penyaluran Dana Desa di Kabupaten Sumba Barat Daya - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeXFmZkwtNmp5VEdybzBDY1RRaFRMWmtuUzIyYnoycEJmQlJfbmhfUU1RWG9ZY0YzUVBzcWhUbmlWaFlHeUVPRUpnQ3N0OWxjejZJV1lLU3IxYTAzSWFnVHMwZkg2RmlTY3paTkN5TW1HNmhpMGlPUm0tb0p6QlBaVzdjZU00SGd4YzRacndmM3VyQldocXp6ZlhFNFpGdXkyVE9hTnVER2gzeHBNN1RvVzNUbGRqRFZEc3c",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-23T08:32:00+07:00",
+    "desc": "KPPN Waingapu Percepat Penyaluran Dana Desa di Kabupaten Sumba Barat Daya&nbsp;&nbsp;RRI.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "9bc3998a257f",
     "title": "BUMDes Karya Mandiri Indramayu Pasok 300 Kilogram Telur per Pekan untuk Program MBG - Bisnis.com - Foto",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdEpJTGRWZmN6czlJT0RPMGRZelBmM0czSzdjZ0ZVZzBYaG1hdWJKUXlWUmlOVDZPYlRCdXZFUExhdjZfQkZVQWc5dGQwZmVBbk9OT3hfVm1NZWtrN0FpelRLUnI4Wk0xak9RMVZwOTNqelF2NmNqTUxBTlFuaDktWnFocVdTN0hJcmhBNWpiOUhiemdMeGtuR2hlaVkwM2YzYzZ4Y3VOanFqaTRmand1UEVVNUw2dXFDVHFuOW9PQ0U0VnZPVWxXUg",
@@ -50,6 +63,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "e2c12fcc4199",
+    "title": "BGN perluas cakupan MBG jadi 78 juta penerima, wilayah 3T dan daerah stunting tinggi diprioritaskan",
+    "link": "https://www.msn.com/id-id/berita/other/bgn-perluas-cakupan-mbg-jadi-78-juta-penerima-wilayah-3t-dan-daerah-stunting-tinggi-diprioritaskan/ar-AA2hZvYl",
+    "source": "Kabar Indramayu on MSN",
+    "pub_date": "2026-11-23T00:42:41+07:00",
+    "desc": "Badan Gizi Nasional (BGN) terus mempercepat perluasan program Makan Bergizi Gratis (MBG) untuk menjangkau lebih banyak masyarakat. Dari cak ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "71e2fafea07d",
@@ -138,6 +164,19 @@
     "desc": "Produksi telur BUMDes untuk MBG&nbsp;&nbsp;ANTARA Foto",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9ad06bea2edd",
+    "title": "Kades di Madiun Keluhkan Anggaran Desa dan Pembatasan Tanah Bengkok - Radar Madiun",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ1lxSUlvdjJhbFR6VDQ2X2Y0TU5ZNmc2TXVtblFNenNRVVZZYTBaZzZPWVJPX3NHYnNJRTZQaXBoMVhXelRSekpHUHVpOGJJOHZ3bnkxak5tV1FMcDFuWVJOY1dRWEZEV1RLY1haUzRSUWV2N1p0RElwNkNpcE5qdjZHZDFJcVJTLUQ1VlZVTXA3N2RocGxjZ3NLNjlVT3ZsZWJKM25DVmh4SERzSTVERElGbkhxdGdUNU9OODRn0gHDAUFVX3lxTE84QUxIZXBrZ01kbjNuc0tMU0M1T1oyek5ITm1kTWdHZm1ac1NfNGd1OTROdlZ0aE5QazA5T1pCLXNja3FSdFhHN2N1Qkw1TTBhaEZ4dzBTbEMydkJzS3liaUpSd1ptVi1rM2pVQ3VLa1FtRFl6VmNHZkJYd1B4SWd1b09DV2tWNmpDQkRIYmU2Q0djdnQ0OGdOUlctSHo2ODFUZGR5bW1qV0tnYmR3R3NGb1JXdjhRSUJ0OHNFR0VoNndSTQ",
+    "source": "Radar Madiun",
+    "pub_date": "2026-11-22T18:06:14+07:00",
+    "desc": "Kades di Madiun Keluhkan Anggaran Desa dan Pembatasan Tanah Bengkok&nbsp;&nbsp;Radar Madiun",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
