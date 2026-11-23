@@ -1,5 +1,18 @@
 [
   {
+    "id": "e911130151ab",
+    "title": "Ratusan Kendaraan Kopdes Parkir di Rorotan, Menkop: Sudah Didistribusikan",
+    "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8765598/ratusan-kendaraan-kopdes-parkir-di-rorotan-menkop-sudah-didistribusikan",
+    "source": "detikFinance",
+    "pub_date": "2026-11-23T13:08:00+07:00",
+    "desc": "Sudah mulai didistribusikan, ya ke KDKMP di Jabodetabek, ujar Ferry.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d30d97d43194",
     "title": "Mensos tegaskan Koperasi Desa Merah Putih bukan penyalur bansos",
     "link": "https://www.antaranews.com/berita/5871971/mensos-tegaskan-koperasi-desa-merah-putih-bukan-penyalur-bansos",
@@ -114595,6 +114608,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2bc30a2a8430",
+    "title": "Auditor BPK Bantah Hotel Dibayar Kemendes, Jaksa Tunjukkan Kuitansi - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ3gyNXVuNG90ZU5FcGlQOFRNN1Jhd0xjV2NNY0NUMWRMT3ZYdWRnal9sS1Z5Tk95TG5yekJFT1ZOX3gzNVhtcW0yUFU2S0gtc0ZHVFdGUnUxMWtmRzIwWG80NWs4Mjc5LWR2WW5ON1A3cGRRUk1MQVYtbzIxTDJsaXJ2VU5sbS1zQzZHcVJ1YUFXaUV4b0RDbUhjWDdwV2tGSm1jVHI5bmZ3UQ",
+    "source": "detikNews",
+    "pub_date": "2017-09-20T14:00:00+07:00",
+    "desc": "Auditor BPK Bantah Hotel Dibayar Kemendes, Jaksa Tunjukkan Kuitansi&nbsp;&nbsp;detikNews",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "cdd7113ff897",
     "title": "Cerita Petugas Keamanan BPK soal OTT terkait Opini WTP Kemendes - detikNews",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHpzbkVhdzNNcGk1MWd5dThMMnBveUtLN2dMVzdQNFRGUDhpcDBfbWo2cnVYS0dtMHVwdzZ0ZW9vMGc5UnRpS0dPTGJxOUwzQ0ZIZVRpR0xYVkNIRm9aR0VRcDZNOWpwRThLMXJ6c3MyTkwyWkdEcEVRbnN2ZjdMcTNmQVFSa3RIbC11dEdzMXpXQVlRUWVaNkdHbzBYdklFWnhTTjF3",
@@ -115710,6 +115736,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f389a648cc2e",
+    "title": "Kepala BPKP: Jangan Sampai Dana Desa Jadi \"Bencana\" - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNi1vNVlPSHlHNm1JZldpMGxta1JXM3FFUWh2M3QtZEdLZTlLQjRZSFRLSFo3N2JpRVA2SmFRbmtsOURUdl9KbjdLanF0ZDBhdXJaLUcwX3R0NTd3R3prTzY3RlRZSU1yTDJ3UUVpajRXZmdwWXk4UjdZX0RWLWNGVGF2LThfNm1pSXNob1AxNE8wQnZLSWVyOTVCemtHbFlMR0NTVw",
+    "source": "Kompas.com",
+    "pub_date": "2015-11-06T15:00:00+07:00",
+    "desc": "Kepala BPKP: Jangan Sampai Dana Desa Jadi \"Bencana\"&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
