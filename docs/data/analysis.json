@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-23 15:31 WIB",
+  "last_updated": "2026-11-23 16:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 2218,
-  "dominant_topic": "Dana Desa (908 berita), BUM Desa (469 berita), Kemendesa PDT (441 berita), Daerah Tertinggal (400 berita)",
+  "total_checked": 2225,
+  "dominant_topic": "Dana Desa (908 berita), BUM Desa (470 berita), Kemendesa PDT (446 berita), Daerah Tertinggal (401 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,10 +13,22 @@
     ],
     "cases": [
       {
+        "title": "DANA BUMDes LONING Rp285 JUTA DISOROT, MUFIDI, SH SIAP BAWA ASPIRASI 3.000 WARGA KE POLRES PEMALANG: MODAL Rp235 JUTA DIPERTANYAKAN, SIAPA HARUS BERTANGGUNG JAWAB? - DETIK PERISTIWA -",
+        "source": "DETIK PERISTIWA -",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
+        "title": "Dana Desa Mengendap, Kepala Desa Dipanggil Polda 5 Desa di Lumajang Terancam Terseret Kasus Korupsi - File Satu",
+        "source": "File Satu",
+        "topic": "Dana Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
         "title": "Warga Kalukku Barat Geruduk Kantor Desa, Desak Transparansi Dana Desa Hingga Tolak Calon Kadus dari Luar Daerah - Mekora.id",
         "source": "Mekora.id",
         "topic": "Dana Desa",
-        "core_issue": "Warga Kalukku Barat Geruduk Kantor Desa, Desak Transparansi Dana Desa Hingga Tolak Calon Kadus dari Luar Daerah&nbsp;&nbsp;Mekora.id..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Rp. 4.99 Miliar Dana Desa Hilialito Raib Tak Transparan! Kades Baruhati Laia Bungkam Ngaku Di Medan-LP KPK:Segera Lapor Ke APH. - tipikorinvestigasinews",
@@ -34,31 +46,19 @@
         "title": "LHP DANA DESA NEGERI WOLU DISOROT TAJAM! INSPEKTORAT MALTENG DIDESAK JANGAN TUTUP MATA ATAS TEMUAN Rp 531,6 JUTA - mapikornews.com",
         "source": "mapikornews.com",
         "topic": "Dana Desa",
-        "core_issue": "LHP DANA DESA NEGERI WOLU DISOROT TAJAM! INSPEKTORAT MALTENG DIDESAK JANGAN TUTUP MATA ATAS TEMUAN Rp 531,6 JUTA&nbsp;&nbsp;mapikornews.com..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Kasus Korupsi Dana Desa Medang di Lingga, JPU Kejari Lingga Bacakan Tuntutan pada 1 Desember - Tribunbatam.id",
         "source": "Tribunbatam.id",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_issue": "Kasus Korupsi Dana Desa Medang di Lingga, JPU Kejari Lingga Bacakan Tuntutan pada 1 Desember&nbsp;&nbsp;Tribunbatam.id..."
       },
       {
         "title": "Kasus Dugaan Korupsi Dana Desa Sugihan Dipertanyakan, Warga Minta Pengelolaan Anggaran 2016–2017 Diusut - Berita Merdeka Online",
         "source": "Berita Merdeka Online",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "Realisasi Dana Desa Pekon Waringinsari Timur TA 2023-2026 Dipertanyakan Warga - Teropong Indonesia News",
-        "source": "Teropong Indonesia News",
-        "topic": "Dana Desa",
-        "core_issue": "Realisasi Dana Desa Pekon Waringinsari Timur TA 2023-2026 Dipertanyakan Warga&nbsp;&nbsp;Teropong Indonesia News..."
-      },
-      {
-        "title": "Warga Pepelah Bongkar Dugaan Penyelewengan Dana Desa Bertahun-tahun, SPJ Disebut Direkayasa hingga Tanda Tangan Dipalsukan - baraNews",
-        "source": "baraNews",
-        "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_issue": "Kasus Dugaan Korupsi Dana Desa Sugihan Dipertanyakan, Warga Minta Pengelolaan Anggaran 2016–2017 Diusut&nbsp;&nbsp;Berita Merdeka Online..."
       }
     ]
   },
@@ -81,13 +81,13 @@
         "title": "BUMDes Ganggang Panjang Sukses Kembangkan Melon Hidroponik, Sekali Panen Raup Rp40 Juta - Mattanews.co",
         "source": "Mattanews.co",
         "topic": "BUM Desa",
-        "core_achieve": "BUMDes Ganggang Panjang Sukses Kembangkan Melon Hidroponik, Sekali Panen Raup Rp40 Juta&nbsp;&nbsp;Mattanews.co..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "LBH Anti Korupsi Desak Inspektorat SBB Segera Serahkan LHP Dana Desa Laturake ke Polres - porostimur.com",
         "source": "porostimur.com",
         "topic": "Dana Desa",
-        "core_achieve": "LBH Anti Korupsi Desak Inspektorat SBB Segera Serahkan LHP Dana Desa Laturake ke Polres&nbsp;&nbsp;porostimur.com..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Pengelolaan Dana Desa Jadi Perhatian, Aparatur Pemdes di HSU Cegah Korupsi - Tribunnews.com",
@@ -111,13 +111,13 @@
         "title": "Stunting Jawa Tengah 17,1 Persen, Kemendes PDT Apresiasi Penanganan Desa - Qoo Media",
         "source": "Qoo Media",
         "topic": "Kemendesa PDT",
-        "core_achieve": "Stunting Jawa Tengah 17,1 Persen, Kemendes PDT Apresiasi Penanganan Desa&nbsp;&nbsp;Qoo Media..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Angka Stunting Jateng 17,1 Persen, Kemendes PDT Beri Apresiasi Penanganan di Desa - Radar Pati",
         "source": "Radar Pati",
         "topic": "Kemendesa PDT",
-        "core_achieve": "Angka Stunting Jateng 17,1 Persen, Kemendes PDT Beri Apresiasi Penanganan di Desa&nbsp;&nbsp;Radar Pati..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       }
     ]
   }
