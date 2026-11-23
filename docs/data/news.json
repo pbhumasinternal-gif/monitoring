@@ -1,8 +1,60 @@
 [
   {
+    "id": "905736cbf803",
+    "title": "Ghufran Minta Kemendes PDT Klarifikasi Persoalan Beasiswa Jepang di Salatiga - Fraksi PKS",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmtHNzFJdDlJOXNIaGdRamJGSGFnYzdhZERiZUdCRFZhNW4tY3dhbVhtVXg4ejl5LThrbFdORFlqZm1uQmJyX1pMTHNXYmtUZVNRTEkxQV9iSEZOb180Yk1fUkl5OHVTaGRQTFZHUHFPLUdmdlpacFdaVFJrWWpuQi1sWmJFdUk0b0NMTHI1UVdWT3JNTWJpSVpYcjVhc3N1V2UzT01aMFlDbkRpU1Aw",
+    "source": "Fraksi PKS",
+    "pub_date": "2026-11-23T13:48:45+07:00",
+    "desc": "Ghufran Minta Kemendes PDT Klarifikasi Persoalan Beasiswa Jepang di Salatiga&nbsp;&nbsp;Fraksi PKS",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "33dba3a8eee7",
+    "title": "Rp. 4.99 Miliar Dana Desa Hilialito Raib Tak Transparan! Kades Baruhati Laia Bungkam Ngaku Di Medan-LP KPK:Segera Lapor Ke APH. - tipikorinvestigasinews",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVXJkSzVFSzFMbS1oWEdqQWpXeTUtVG9tRjVNQ2JyclJWdVB2aFJKR2ZzZTE4ZWRlZTIwMWRFNDNsZEt3RldzWTA1dklmdnZtLXk0anFKOUF6WlpTZFd3anRvRWdjbHd1YlYyMEp4X1pZZVQ2NjBDSEQ5U1RWU1RYYnN3dDcyV2xMemV6Rk9TNWRwY0hQUFN0eTlXT2hoQmlweDRyZ1l0VTRRVjVVZHJvTml3V2RYRVE0SElhQ2hnUWUzSjVQNjBXT0p0OHFsdGdYV1FsWnBWX2t5UV8xclZEQ2NRUWZnTGtVVjlFcmhHTjNHTUhO",
+    "source": "tipikorinvestigasinews",
+    "pub_date": "2026-11-23T13:45:39+07:00",
+    "desc": "Rp. 4.99 Miliar Dana Desa Hilialito Raib Tak Transparan! Kades Baruhati Laia Bungkam Ngaku Di Medan-LP KPK:Segera Lapor Ke APH.&nbsp;&nbsp;tipikorinvestigasinews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Sorotan Transparansi"
+  },
+  {
+    "id": "bae8442b645e",
+    "title": "Zulhas: Pemerintah siapkan semua barang subsidi disalurkan lewat KDKMP",
+    "link": "https://www.antaranews.com/berita/5872103/zulhas-pemerintah-siapkan-semua-barang-subsidi-disalurkan-lewat-kdkmp",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-23T13:37:27+07:00",
+    "desc": "Menteri Koordinator (Menko) Bidang Pangan Zulkifli Hasan (Zulhas) mengatakan pemerintah menyiapkan seluruh barang ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e911130151ab",
     "title": "Ratusan Kendaraan Kopdes Parkir di Rorotan, Menkop: Sudah Didistribusikan",
     "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8765598/ratusan-kendaraan-kopdes-parkir-di-rorotan-menkop-sudah-didistribusikan",
+    "source": "detikFinance",
+    "pub_date": "2026-11-23T13:08:00+07:00",
+    "desc": "Sudah mulai didistribusikan, ya ke KDKMP di Jabodetabek, ujar Ferry.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5a54f17eed07",
+    "title": "Ratusan Truk Kopdes Parkir di Rorotan, Menkop: Sudah Didistribusikan",
+    "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8765598/ratusan-truk-kopdes-parkir-di-rorotan-menkop-sudah-didistribusikan",
     "source": "detikFinance",
     "pub_date": "2026-11-23T13:08:00+07:00",
     "desc": "Sudah mulai didistribusikan, ya ke KDKMP di Jabodetabek, ujar Ferry.",
@@ -788,6 +840,19 @@
     "desc": "Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) menyebut pemanfaatan teknologi digital dan kecerdasan buatan ...",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "edd5fb0f3f7c",
+    "title": "Bupati Subandi Dorong Desa Kembangkan Greenhouse, BUMDes Ganggang Panjang Catat Omzet Rp40 Juta - Pemerintah Kabupaten Sidoarjo",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV2l4M1RwcnRQc0tSUzh0RXB1YXhhaDlMOGE3WklOOS1JY092dWs0NzM2N1BYNFVSZExFN3dyNHI4REpVMm55V1E1S2xpOTJIeVpLWUI5bWY1T0hmX0pSdlptTVVWN0NZd0M1LXZQWU95NjdRX1NrS2ozWnk5Z0taUVdfMldfWVItZ0tFcjlfVDNXNHhoS0FKMU9Yam9qc09OaGh3U3hkWC1ldVlIbWduQnhybV9xb2JzZnFIWEhNMXN0MmFjUmc",
+    "source": "Pemerintah Kabupaten Sidoarjo",
+    "pub_date": "2026-11-21T15:00:00+07:00",
+    "desc": "Bupati Subandi Dorong Desa Kembangkan Greenhouse, BUMDes Ganggang Panjang Catat Omzet Rp40 Juta&nbsp;&nbsp;Pemerintah Kabupaten Sidoarjo",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -2065,6 +2130,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3a50bcf1653e",
+    "title": "KPK Dalami Aliran Uang Korupsi Kuota Haji ke Pimpinan Komisi VIII DPR, Termasuk Yandri Susanto - Akurat.co",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbUp5RERjVW16SFN1WUljajZkY2pQcXVGMTVqcmNRY1ZsU001X0ttS05VT1FZNG1qbHl0SUZhM3BwemtwNkVvLWUyMkpIOGZnZkRNWkUtNzJBcWJqc0RwU1hHbGtNWWJFeXNkeG0wUUxyNFpaa21FVEZBdldhcnAwb2l0a2lCaWVLZVBRSWk4bGFUNFR3QjJ4Mm5HQVl6UW5mNWFjVVI5dnpFLW94MjFnaC1qVFd4VXdXdnFpMUVYNUpwRkFyNWV3",
+    "source": "Akurat.co",
+    "pub_date": "2026-11-20T17:31:02+07:00",
+    "desc": "KPK Dalami Aliran Uang Korupsi Kuota Haji ke Pimpinan Komisi VIII DPR, Termasuk Yandri Susanto&nbsp;&nbsp;Akurat.co",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "f066655ae5b7",
@@ -98860,6 +98938,19 @@
     "desc": "Menteri Desa Yandri Ajak Kades Manfaatkan Dana Desa Bentuk Desa Berketahanan Pangan&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4d4588ded413",
+    "title": "BPI Kemendes dan ITB permudah akses air bersih bagi warga Misool Timur - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSWJJbjNhU2l4ODU1SnJ4elBvSTJmcWt0T2E2dkktYlcyYjM5YjFwdUJveDRlNGdPaUFJbS1TSjVVelJSV3RtVkRiay15Z1hZcGlPcTNnbUxENjFKOHpEY1lLVm5MUXl2NDVzWUVDMTdPa082N3Z1aVpjNElHYmFZbUg2NGU2T0IzMk0wZFl3WUJUSklIWEZ6WWE5OHU0UEM1cnctZmVEU2Z2ZF9OWldkTFFLOGc",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2024-12-16T15:00:00+07:00",
+    "desc": "BPI Kemendes dan ITB permudah akses air bersih bagi warga Misool Timur&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
