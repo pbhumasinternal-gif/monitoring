@@ -1,5 +1,18 @@
 [
   {
+    "id": "ced6a44450c1",
+    "title": "Zulhas Kebut Pasokan Barang Subsidi ke Kopdes Merah Putih",
+    "link": "https://news.detik.com/berita/d-8767056/zulhas-kebut-pasokan-barang-subsidi-ke-kopdes-merah-putih",
+    "source": "detikcom",
+    "pub_date": "2026-11-24T10:53:17+07:00",
+    "desc": "Pemerintah percepat pasokan barang bersubsidi ke 30.725 Koperasi Desa/Kelurahan Merah Putih. Hanya 2.589 gerai beroperasi.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7e92857d08cd",
     "title": "Pemkab Mahulu Perluas Literasi Keuangan Masyarakat Wilayah 3T - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmREaV90aFhPRzk1YWp4clZGQWU1cHJnQlctM2hMcEhrN3JrcmNnSjZPT09EVXFtaEJFb1FiQUtuYnc5c04wQ3IwMU5DMUVwak85RXk0VDBaUEtpSnJsUHVaZlVpMmdmb1pXOXNhSHRVOXdhUmhpRWlVT09pZFpfaGJOWjk2YW1Rb1ZObzl3NEdrY1lDXzRrWWtRVUlQbHFMUE9CcmRYUXRZdEtMcXhLb0R1cw",
@@ -85707,6 +85720,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d5c14566164a",
+    "title": "Anggaran Dana Desa PALI 2026 Anjlok 35 Persen, Talang Bulang Terima Alokasi Terbesar di Talang Ubi",
+    "link": "https://palembang.tribunnews.com/sumsel/1317260/anggaran-dana-desa-pali-2026-anjlok-35-persen-talang-bulang-terima-alokasi-terbesar-di-talang-ubi",
+    "source": "Sripoku.com",
+    "pub_date": "2026-05-07T18:12:00+07:00",
+    "desc": "Pemerintah Pusat mengalokasikan Dana Desa tahun 2026 sebesar Rp20,77 miliar untuk Kabupaten Penukal Abab Lematang Ilir (PALI), Sumatera Selatan.",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
   },
   {
     "id": "9e1bd808d602",
