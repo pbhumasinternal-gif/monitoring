@@ -13,6 +13,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "9b3d64bfc25f",
+    "title": "Dana Desa di Tuban 2027 Diproyeksi Naik Rp 22 Miliar, Kades Belum Bisa Optimistis - Radar Tuban",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUld2eVlvRnVwNXR0YUM1bXc5S1FfMHRSbkN4ZXVfV0tzV3JBcUJ6bHVkcWw4bkY0NXFjdVNhZTE3TDRqWHB3ckVTSXVkQUxVemduNmprcU0xVnNDLXlOZ0xQdkc0RlR6LU9weEZmSl90SlJ1YzFodHk1bHZqc3pBYzU1blBkNFJGYm1Pc2ZDSVc5M01fbmRrczVvb196N1NOcGJiRU5ORVhBSjZ5c1FGejdFQm84Ti1QbEpmQVl5cTJabHYwMUZjVtIBzgFBVV95cUxPQWNFRnZPZHFoM1ZnY09walBMU2lIWmNCVnZxT1VFUUM0OWRPWHMxUWhSejRENWE4aWl3dlRXOThGcVIzUnRSRVNUSkxIQ19zanpEU2JNTUk0dXFya0Q2bGYxZUEzX2MtNVZFRzZlWUVjN3lTejZSYzZwNHpBZWx2ZWlrOTB0SVlvdWVRcmI0TjQtVjJMaG1iOUEzOTNzczJIcWdCQXN3MVlWZGdmMDl1aDl3OXFyempVb0UxRWE1ZWdPZ2NvaEUzTjFpY2JjZw",
+    "source": "Radar Tuban",
+    "pub_date": "2026-11-24T12:03:03+07:00",
+    "desc": "Dana Desa di Tuban 2027 Diproyeksi Naik Rp 22 Miliar, Kades Belum Bisa Optimistis&nbsp;&nbsp;Radar Tuban",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ced6a44450c1",
     "title": "Zulhas Kebut Pasokan Barang Subsidi ke Kopdes Merah Putih",
     "link": "https://news.detik.com/berita/d-8767056/zulhas-kebut-pasokan-barang-subsidi-ke-kopdes-merah-putih",
@@ -103842,6 +103855,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3faaae834b84",
+    "title": "Penyelewengan Dana Bumdes Dawan Kaler, Kejari Klungkung Periksa 40 Saksi - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFAtb0dnQ3dmZDl2clZCVG5ZeUFIU0ZVcllvRjVBSDM0QUFhbWFmRVRXVkRIYTFUcHNObUh4c2Nld1VNckdXLVA0X1V1dm5LeHZtYTg4ZUYzVHZEdFhhQXRVamdraDBHN1djWGowUVlmQ0xYekNhenZsRlM2aGZCN1BJZDBXN1p3ZU1Fc2l0a19ET0ZlYjczV01qWnd3TFg3SlIwd0NXWHdWekVYa3FQV2JOZ21jZU1JM3pTVVl1clZDZEtwTEHSAcsBQVVfeXFMTnk0NDV4Mm5zTndEY1dHNnMtclFvXzFFaG82dWlGNTI0VXNCNi1zNWpENGs2T1hQOTJWX3RuaTh2NS13R080Vk1odDlVRmdvN3RJS2IzOF9UTjVMN1VWLS16a25PZVN0SHNFUXA2RTllWXJMdlVXdDlDUGNmRlc2ZlRCM2o1dDMyS0JqLTdVblJYVm8wODQ4dzFBV3FzMTQyaW82Qld0d2UwZm4zLUZWVGp3Sk1vQnFHZ202eXdkSFJjTGRwaXhOc0ZTVkk",
+    "source": "detikcom",
+    "pub_date": "2024-01-12T15:00:00+07:00",
+    "desc": "Penyelewengan Dana Bumdes Dawan Kaler, Kejari Klungkung Periksa 40 Saksi&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "089455c9bac0",
