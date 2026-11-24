@@ -910,6 +910,19 @@
     "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
+    "id": "cec2445ddfec",
+    "title": "Bupati Jember Siap Kolaborasi bersama Kemendes PDT Sukseskan Program Presiden Prabowo",
+    "link": "https://memontum.com/bupati-jember-siap-kolaborasi-bersama-kemendes-pdt-sukseskan-program-presiden-prabowo",
+    "source": "Memontum",
+    "pub_date": "2026-11-24T07:24:00+07:00",
+    "desc": "Memontum Jember – Bupati Jember, Muhammad Fawait, mendampingi Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT), Yandri Susanto, meninjau pelaksanaan Pasar Murah di Dusun Watukebo, Desa Ando ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "087133f966ba",
     "title": "105 Desa di Nias Barat Ikuti Pembinaan BUM Desa, Pemkab Dorong Pengelolaan Profesional dan Ekonomi Mandiri - Sumsel Update",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzBfc091cTlZdFFqdkVBYWlXczNjcDl3SHpqalpOMUVOOWVPdHB3MzJ1b2xPemhCbnJGSXhyWVQ4Z2x4RzdZX2FuazI0Q0hCdVlzTlhoal9XckZNSElRNmdsX3ZuT2ZxLUFnYmUyUVBETWNNbkY2d1ZSRmlpbWYwQnQ2WGtoU01iemZNSXphcC1oWXRkeWdLMzBjUVFIRE9peldybl9SSUVORF9LODRmOEJWR0prTGM2WXpxSEJ1WW5SbndaM2NMYmNTdw",
@@ -115253,6 +115266,19 @@
     "desc": "Kemendes Resmikan Pengembangan Desa Agropolitan di Manokwari&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e26373b6d50d",
+    "title": "Realisasi Dana Desa Sudah 60 Persen - ANTARA News Kaltara",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdlFRT3pzVXBQQjgzeVlKWXZhMndDV0k4cEgyRUJfcDdjN1FXNEVFVFFhRURTYnRnVGVRaHFNUXN6aVBKVzk2aXFDMjhyeWVQYWFLQVdJT3VPZVB3THRJbV9iUDNMSmxiRzlfdXo5MmNDQmpLTDJ4SDdmd1ZxaXpPM0lpbWxUczQ",
+    "source": "ANTARA News Kaltara",
+    "pub_date": "2019-07-11T14:00:00+07:00",
+    "desc": "Realisasi Dana Desa Sudah 60 Persen&nbsp;&nbsp;ANTARA News Kaltara",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
