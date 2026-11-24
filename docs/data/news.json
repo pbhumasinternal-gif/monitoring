@@ -1,5 +1,18 @@
 [
   {
+    "id": "692af53ea99d",
+    "title": "BNPPDT evaluasi pembangunan jalan perbatasan Kalimantan hingga Papua",
+    "link": "https://www.antaranews.com/berita/5876183/bnppdt-evaluasi-pembangunan-jalan-perbatasan-kalimantan-hingga-papua",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-25T00:29:26+07:00",
+    "desc": "Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) mengevaluasi pembangunan jalan perbatasan di ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d3bfac718ec9",
     "title": "Gus Fawait Siapkan Jember Jadi Mitra Kemendes PDT, Dukung Program Presiden Prabowo - Kabarpas",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUhhckhTb0dqeWNDb2QtNWZaZk1tRTktQm1NZVl0eWJReVZfWkNycnlFc1lpcWplOEJWeU1SNm10b21scG5tNC1IQXlnMDBDeTdQRmg4MXNhSnhhSU9mQ3kyaVB5UllMYzVENHplOXFjNVVLM2lBNldrc09vUlN3TWtITmc3cmlUc0wtaGk5QXNTalE0T0RDb2lHWVdydmtKa0hudWd3",
@@ -94404,6 +94417,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "88066531ac2d",
+    "title": "Kemendes Umumkan Hasil Lomba Inovasi Desa Nasional 2025, Ini Pemenangnya - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTIteVRTQWlPUlh3MWQ4NEMwU01KcE4wajI2d3ZsTS1HdEk2YWF1Y0RCZFEzYXRhWnV3U3htRDRwd2lEZ0NyTUh5YlZNZmk3R3R6dTlJOEx2U25oZ293VGFXYUhFaUFyN2JuYl9kRTc1OHU2N2ZEWnVYRlFqN05JTm9qd2o5bGk4Zl8zeTJSWGxVaWlqOWVaY1U5SlZPNjlpMjc4ZnFKeHBQQnlKUW9zQ9IBtgFBVV95cUxQWkRhX29Pdm40NXFuNUJHZWpxeHROQS0yT2NRdGNsb3NXSFd3V3FxT3JYSDVSZDk3Unp0dzlyQTlrdFZUTlhwS0J2NXJzYUdZMHRGM3RaMXNMVFQyX2Nwd3UzZTM0cVhxRE9zTE1ZaXpuSGY1Q3VBaVk1eDg3NDBXbDZud1NOdExDM3RJMk5uUkNhNzhYU1ZUZ3VHdVNERDBTSC1PcDNMR1hoekNPMHBNWk1IenZFZw",
+    "source": "detikNews",
+    "pub_date": "2025-11-13T15:00:00+07:00",
+    "desc": "Kemendes Umumkan Hasil Lomba Inovasi Desa Nasional 2025, Ini Pemenangnya&nbsp;&nbsp;detikNews",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "9282fca98b95",
