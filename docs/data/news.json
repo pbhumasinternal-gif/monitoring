@@ -1,5 +1,31 @@
 [
   {
+    "id": "735c0ff8911f",
+    "title": "Kemenkop minta koperasi rangkul peternak ayam mandiri",
+    "link": "https://www.antaranews.com/berita/5874587/kemenkop-minta-koperasi-rangkul-peternak-ayam-mandiri",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-24T14:36:12+07:00",
+    "desc": "Kementerian Koperasi (Kemenkop) mendorong koperasi, termasuk koperasi desa/kelurahan merah putih (KDKMP), merangkul ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8d2009d5b9fd",
+    "title": "Rangkai Rembuk Stunting, Musrenbangdes Keude Kuta Binjei Sepakati Prioritas Dana Desa 2027 - Lentera24.com",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON1Jwd0hMZnZTMDFMeEhWQi01a2haczZYN2s1VEE0LXhZRFZ0Sm5JLTAzemZKWDI3T28zOFVkaHEyNV91c1BZSXZ5ZnVMV0t6SGxQUHFGTzI2WjQ4UllKZVFpdmM1SG5TWUg1eVVtcjhFV3dPNU40VjVoZjhqWHJtU0J3",
+    "source": "Lentera24.com",
+    "pub_date": "2026-11-24T14:33:21+07:00",
+    "desc": "Rangkai Rembuk Stunting, Musrenbangdes Keude Kuta Binjei Sepakati Prioritas Dana Desa 2027&nbsp;&nbsp;Lentera24.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8160d408ee4e",
     "title": "Agrinas salurkan kendaraan KDKMP yang terparkir di Rorotan Jakut",
     "link": "https://www.antaranews.com/berita/5874455/agrinas-salurkan-kendaraan-kdkmp-yang-terparkir-di-rorotan-jakut",
@@ -156,6 +182,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b3eb2f5a6971",
+    "title": "MENTERI DESA DAN PEMBANGUNAN DAERAH TERTINGGAL PDT YANDRI SUSANTO - ANTARA News Jambi",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZkM3emZFajRXT2ROdXo0b1VvS0JyTlNaRlFvcF92VjBWX2ltMnhlVXBTYzZqNTJYNGlaNlp5VUJSTU9BWWtpZFVtWU5teGc1Vnk3dDIzcEs0UGhMdVJUTEVESjVsSmJkODludXMyb0pTaTloVWlFa1QybUIxN2dwdk9KeFJ0b1lhZ0ZONUowZFRhQ3I4aXV5WllDckZWakE1eFE",
+    "source": "ANTARA News Jambi",
+    "pub_date": "2026-11-24T06:25:48+07:00",
+    "desc": "MENTERI DESA DAN PEMBANGUNAN DAERAH TERTINGGAL PDT YANDRI SUSANTO&nbsp;&nbsp;ANTARA News Jambi",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4fe5ba4eba53",
     "title": "Pemkab Nias Barat Gelar Pembinaan dan Pemberdayaan BUMDes 2026 - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQd2drNVJuUGJmeWpGVnppd1B3dzJpMU5xV2F4V2RqSllzWHNTUElUS1R4YWVJd3g0Y1AwN21RMEQtTkYzU2YzS25CY1BkUXhoYU9JVlJmRk1yVm9UNENfR3Y2d3R4V0gxMVFoZ2VQQzJQd1dFOW1wTnBxUDROVUx6dkNQdDQtdElnYURtXzRzT3lnem1IMTdtcnIxaXFGbUVxblFRN3NqUEVmeGhwT1o1NXZ3",
@@ -232,6 +271,19 @@
     "sentiment": "negatif",
     "sentiment_score": -2,
     "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "4b6b7a5bdc65",
+    "title": "Kejari Blitar Didemo, Massa Minta Penyelidikan Kasus BUMDes Ngadirenggo Dihentikan",
+    "link": "https://www.beritabersatu.com/2026/11/24/kejari-blitar-didemo-massa-minta-penyelidikan-kasus-bumdes-ngadirenggo-dihentikan",
+    "source": "Berita Bersatu",
+    "pub_date": "2026-11-23T23:00:00+07:00",
+    "desc": "Kantor Kejaksaan Negeri (Kejari) Kabupaten Blitar di Jalan Ahmad Yani No. 11, Kelurahan Kepanjen Lor, Kecamatan Kepanjenkidul, Kota Blitar, didemo sejumlah massa yang mengatasnamakan Gerakan Masyaraka ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "98dd9f94c9ad",
