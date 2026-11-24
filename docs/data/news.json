@@ -897,6 +897,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "bf0f0c92edba",
+    "title": "Kumpulan Berita 20 dana desa belum tersalurkan - ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mcDBlTkY3NWRhMi1aYkJpaGdydUc5RTN3eEhFbHV4WGNZNVBxNG9PMUtGZk5Zb3Z2R0VvSWJPX2Y1N2NBVlhFOVpBY3A1cDZQbm41TEpLejJMLWR2Q29FbXhpX0tkMjF1eEtucnRvVGd5dw",
+    "source": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+    "pub_date": "2026-11-24T14:01:38+07:00",
+    "desc": "Kumpulan Berita 20 dana desa belum tersalurkan&nbsp;&nbsp;ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8160d408ee4e",
     "title": "Agrinas salurkan kendaraan KDKMP yang terparkir di Rorotan Jakut",
     "link": "https://www.antaranews.com/berita/5874455/agrinas-salurkan-kendaraan-kdkmp-yang-terparkir-di-rorotan-jakut",
@@ -103746,6 +103759,19 @@
     "source": "Kompas.com",
     "pub_date": "2024-06-27T14:00:00+07:00",
     "desc": "Kemendesa PDTT dan IFAD Sepakat Lanjutkan Program Pendampingan di Wilayah Timur Indonesia&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "9c91ca3c304b",
+    "title": "PPSP Kemendes meninjau pengembangan program \"smart village\" di Sigi - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0ZCcXFRd29oTlc5cHNzMEM4SWRSdHVnZzdzcUpEck5lWFUtMXNoRlFNcFhVSWgwdWVQaHBqRnA3Y0FsRUxsY2ktWW1RRG5vQ2VnRlNROWlxVzM3M0pyZDU3cl9kcXBUdTRodGNsQXZSVTY0Y2JmUUdIZzJBQWN1NWRzQ0FUcWxwaGpxYVluVmJMS05DUmE4SVNZTG1QSHdOempCUm5STWU5b0JPRml3",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2024-06-27T14:00:00+07:00",
+    "desc": "PPSP Kemendes meninjau pengembangan program \"smart village\" di Sigi&nbsp;&nbsp;ANTARA News Sulteng",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
