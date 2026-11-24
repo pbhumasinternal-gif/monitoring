@@ -1,5 +1,18 @@
 [
   {
+    "id": "a13993d4b7d1",
+    "title": "Babinsa Kawal Penyaluran BLT Dana Desa Gelaman, Warga Terbantu - JNN.co.id",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWmFkNU56NEJCRFRYWVdzLVZUMDNaaDJQa2k2MVZkUXpETHRZOVdwTWRSeHhLQWU1Wm52bmYyc3hhdm5MUUM0emFmakFvMGdYM09HbXZteVFxRVpUNUxmeGxZeEpNMXY2MW1lNTJYdmVIUnlWT2hSS0R1M2FFT1VyMFRpWldVZnpzNUpoUnFCTHBkM1Z6Q2c",
+    "source": "JNN.co.id",
+    "pub_date": "2026-11-24T15:10:36+07:00",
+    "desc": "Babinsa Kawal Penyaluran BLT Dana Desa Gelaman, Warga Terbantu&nbsp;&nbsp;JNN.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "735c0ff8911f",
     "title": "Kemenkop minta koperasi rangkul peternak ayam mandiri",
     "link": "https://www.antaranews.com/berita/5874587/kemenkop-minta-koperasi-rangkul-peternak-ayam-mandiri",
@@ -234,6 +247,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "4a3edf4dd4bf",
+    "title": "Kumpulan Berita kemendes pdtt dan unicef kerja sama tingkatkan sdm - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOakNDdk5zNHVxc2Z2czFwVVVOWURWM3ctZkNXcXBkRi1TajJHM3h5c1dJSER5Mmo3YUItMUlsaDJULXJwUDhzTzdsQWFUYUltcEtIZE1tY3JScFd5LWVPSE1oM1FvOE9oYTl2SHJMeGtNY1NJeHFmSEJEd0I0UE41MUkzMXpPTW9mRkQ0",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-24T03:15:29+07:00",
+    "desc": "Kumpulan Berita kemendes pdtt dan unicef kerja sama tingkatkan sdm&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ddf0961b6316",
     "title": "BUMDes Jaya Raya Raup Omzet Rp40 Juta dari Melon Hidroponik - شبكة تواصل الإخبارية",
     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wa1pJQ2U3UVBPNHZUYzNwZVVxZmRMTzhVOHdKXzVUU3JLWVFGYnVlRWRzWWQzSFRXRHN6VTViUU1qdC1lY0FIVGRrU2RKUnBfbkpr",
@@ -245,6 +271,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
+    "id": "cd5c77667e73",
+    "title": "Kemendes Gandeng Lima Negara Dorong Kemajuan Desa di Halmahera Barat",
+    "link": "https://www.tribunnews.com/kilas-kementerian/7915847/kemendes-gandeng-lima-negara-dorong-kemajuan-desa-di-halmahera-barat",
+    "source": "TribunNews.com",
+    "pub_date": "2026-11-24T00:26:00+07:00",
+    "desc": "Kemendes dan IFAD menggandeng lima negara melalui Program TEKAD untuk mengembangkan potensi dan kemandirian desa di Halmahera Barat.",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "83d3bff198e4",
