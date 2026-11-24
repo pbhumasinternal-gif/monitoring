@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-24 19:31 WIB",
+  "last_updated": "2026-11-24 20:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 2261,
-  "dominant_topic": "Dana Desa (902 berita), Kemendesa PDT (479 berita), BUM Desa (478 berita), Daerah Tertinggal (402 berita)",
+  "total_checked": 2269,
+  "dominant_topic": "Dana Desa (902 berita), Kemendesa PDT (484 berita), BUM Desa (479 berita), Daerah Tertinggal (404 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -13,16 +13,22 @@
     ],
     "cases": [
       {
+        "title": "GBM Demo Kejari Kabupaten Blitar, Tuntut Transparansi Kasus BUMDes Ngudi Makmur - Javasatu.com",
+        "source": "Javasatu.com",
+        "topic": "BUM Desa",
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
         "title": "Unjuk Rasa GBM di Kejaksaan Negeri Kabupaten Blitar, Tuntut Transparansi Penanganan Dugaan Korupsi Bumdes \"Ngudi Makmur\" - Gempurnews.com",
         "source": "Gempurnews.com",
         "topic": "BUM Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_issue": "Unjuk Rasa GBM di Kejaksaan Negeri Kabupaten Blitar, Tuntut Transparansi Penanganan Dugaan Korupsi Bumdes \"Ngudi Makmur\"&nbsp;&nbsp;Gempurnews.com..."
       },
       {
         "title": "Demo di Kejari Blitar, GMB Soroti Penanganan Dugaan Korupsi BUMDes Ngudi Makmur: Desak Transparansi dan Koordinasi APH - liputanesia.com",
         "source": "liputanesia.com",
         "topic": "BUM Desa",
-        "core_issue": "Demo di Kejari Blitar, GMB Soroti Penanganan Dugaan Korupsi BUMDes Ngudi Makmur: Desak Transparansi dan Koordinasi APH&nbsp;&nbsp;liputanesia.com..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "GMB Geruduk Kejari Kabupaten Blitar, Pertanyakan Penanganan Dugaan Korupsi BUMDes Ngadirenggo - Monitor Indonesia",
@@ -34,13 +40,13 @@
         "title": "GMB Datangi Kejari Blitar, Minta Penyelidikan Dugaan Penyelewengan BUMDes Ngadirenggo Dihentikan - Ketik",
         "source": "Ketik",
         "topic": "BUM Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_issue": "GMB Datangi Kejari Blitar, Minta Penyelidikan Dugaan Penyelewengan BUMDes Ngadirenggo Dihentikan&nbsp;&nbsp;Ketik..."
       },
       {
         "title": "Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan - beritajatim.com",
         "source": "beritajatim.com",
         "topic": "BUM Desa",
-        "core_issue": "Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan&nbsp;&nbsp;beritajatim.com..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Didatangi Puluhan Pendemo, Kejari Blitar Tegaskan Tetap Usut Dugaan Korupsi BUMDes Ngadirenggo",
@@ -53,12 +59,6 @@
         "source": "targetberita",
         "topic": "BUM Desa",
         "core_issue": "DANA BUMDes LONING Rp. 285 JUTA DISOROT, MUFIDI, SH SIAP BAWA ASPIRASI 3.000 WARGA KE POLRES PEMALANG: MODAL Rp. 235 JUTA DIPERTANYAKAN, SIAPA HARUS BERTANGGUNG JAWAB ? - Target Berita {\"@context\":\"ht..."
-      },
-      {
-        "title": "Lumbung Beras Kosong, Modal Ratusan Juta BUM Desa Margahayu Tengah Dipertanyakan: Label Kualitas Beras Jadi Sorotan! - Jayantara News",
-        "source": "Jayantara News",
-        "topic": "BUM Desa",
-        "core_issue": "Lumbung Beras Kosong, Modal Ratusan Juta BUM Desa Margahayu Tengah Dipertanyakan: Label Kualitas Beras Jadi Sorotan!&nbsp;&nbsp;Jayantara News..."
       }
     ]
   },
@@ -72,10 +72,16 @@
     ],
     "cases": [
       {
+        "title": "Harga Jagung Jember Tembus Rp 7.500 per Kilogram, Mendes PDT Apresiasi Potensi Pertanian Pontang - harian.disway.id - HARIAN DISWAY",
+        "source": "HARIAN DISWAY",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
         "title": "Kunjungi Sentra Jagung Jember, Mendes PDT Apresiasi Harga Jual yang Tembus Rp7.500 per Kilogram - Metara News",
         "source": "Metara News",
         "topic": "Kemendesa PDT",
-        "core_achieve": "Kunjungi Sentra Jagung Jember, Mendes PDT Apresiasi Harga Jual yang Tembus Rp7.500 per Kilogram&nbsp;&nbsp;Metara News..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Harga Jagung di Jember Tembus Rp7.500 per Kg, Mendes PDT Yandri Susanto Apresiasi Hasil Panen Petani Pontang - GOnews.id",
@@ -84,10 +90,22 @@
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
+        "title": "Panen Raya Jagung di Pontang, Mendes PDT dan Bupati Jember Perkuat Ketahanan Pangan - Suara Merdeka Jakarta - Suara Merdeka Jakarta",
+        "source": "Suara Merdeka Jakarta",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
         "title": "Panen Jagung di Ambulu Tuai Apresiasi Mendes PDT, Harga Tembus Rp7.400 dan Potensi Pertanian Jember Jadi Sorotan - Seblang.com",
         "source": "Seblang.com",
         "topic": "Kemendesa PDT",
-        "core_achieve": "Panen Jagung di Ambulu Tuai Apresiasi Mendes PDT, Harga Tembus Rp7.400 dan Potensi Pertanian Jember Jadi Sorotan&nbsp;&nbsp;Seblang.com..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
+        "title": "Mendes PDT dan Gus Fawait Panen Raya Jagung di Desa Pontang Jember, Apresiasi Harga Tembus Rp7000 per kilogram - Pojoksatu",
+        "source": "Pojoksatu",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "Mendes PDT dan Gus Fawait Panen Raya Jagung di Desa Pontang Jember, Apresiasi Harga Tembus Rp7000 per kilogram&nbsp;&nbsp;Pojoksatu..."
       },
       {
         "title": "Harga Jagung Jember Tembus Rp7.500 per Kg, Mendes PDT Apresiasi Petani - Bangsapedia",
@@ -100,24 +118,6 @@
         "source": "Seblang.com",
         "topic": "Kemendesa PDT",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "Panen Raya Jagung di Desa Pontang, Mendes PDT Apresiasi Potensi Pertanian Jember - Pojokkiri",
-        "source": "Pojokkiri",
-        "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "BUMDes Harjo Widodo Mangunharjo Kembali Tanam Melon Premium, Perkuat Ketahanan Pangan dan Ekonomi Desa - Pemerintah Kabupaten Wonogiri",
-        "source": "Pemerintah Kabupaten Wonogiri",
-        "topic": "BUM Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "Cegah Korupsi Dana Desa, Tipidkor Polres Subang Beri Pembekalan Aparatur Desa - Pelita Investigasi",
-        "source": "Pelita Investigasi",
-        "topic": "Dana Desa",
-        "core_achieve": "Cegah Korupsi Dana Desa, Tipidkor Polres Subang Beri Pembekalan Aparatur Desa&nbsp;&nbsp;Pelita Investigasi..."
       }
     ]
   }

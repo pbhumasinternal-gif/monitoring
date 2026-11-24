@@ -1,11 +1,63 @@
 [
   {
+    "id": "f6513cadae4d",
+    "title": "BGN pastikan SPPG di wilayah 3T dibuka bertahap - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOejZnQnZFYkIyZmhPZXlQWkhKRl9GVHE4d2NXZHphMzJjcDlmM0JaRHRqMEtoNEFHRkc5SmpBcklKM2FBcFdOZGMzdk9FZzFSc2NlbkRON2xNWGRsN1dHeG0xWENpUVlrUDlMMDhaNm9mdnNBTkVjV2VrMFVKcmJreUdsZ09HMDdNR2plR3B1RlpNaXRaZXRlXzlzVzNiRGNuQzlkZmd5ZHV5VEpFaWZ6TjRoV2I3VmdYY0txeXI5bnU5dURoVzJmdmZNSmRUTE5sclNFdU5xckRkQ1gybDYwOG5oQlQwb2ctNG5CWHZn",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-24T19:51:21+07:00",
+    "desc": "BGN pastikan SPPG di wilayah 3T dibuka bertahap&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "64afaaa4bd2c",
+    "title": "GBM Demo Kejari Kabupaten Blitar, Tuntut Transparansi Kasus BUMDes Ngudi Makmur - Javasatu.com",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVFpYZklxWVVUSVVNQmg2dTczd2lTdU9zMDBvNkFXMFBhTlpFLUhoX2xIZ1B4bzU4ZjJuVXNCNzVqdmYwdWhFcnRvMl95ak1MTHZYQnNTdTNjZ2t5Q1Z6SWlOYVVvcWdvUWFiX3ZIYmxaSGFreEZGUndhRmxoSWNjMXQ5WFpHR3pvQ1VxbVdFdThFQUJub2JralBTZUpXeUVwelVJTmVnWk55dVU",
+    "source": "Javasatu.com",
+    "pub_date": "2026-11-24T19:50:07+07:00",
+    "desc": "GBM Demo Kejari Kabupaten Blitar, Tuntut Transparansi Kasus BUMDes Ngudi Makmur&nbsp;&nbsp;Javasatu.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
+    "id": "591b4324d1a2",
+    "title": "Harga Jagung Jember Tembus Rp 7.500 per Kilogram, Mendes PDT Apresiasi Potensi Pertanian Pontang - harian.disway.id - HARIAN DISWAY",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWWtDa1o3UVU3THJMSTNzME9fZlZuR0liV3cxSjAyTmNScDZkUjZjSEQ0bXdXdU8td1VCUkZaRmE5SEtyR1pPbjlkMUo1TmhwZFNzSU55WHhMMG9KRDRpd3dpUUt1WW5vd2ZvQWdLY1Z2Y1dTV1BCejVwc0xnYWRIb013RWNYaHF3dGNLQUx6SVRDeVNjZlFERzFWZU9PMEtZWTdsTEdyX1hZVUNleGhpZV9Ia2oxQkkyeHdDQUx6THFocmZXUTBDLW5vWdIBygFBVV95cUxPNTlOd21aZjd0c1l6NGhISUt2SDF1dXlxX2w1eDdSemZSOTlGcmZMQjExLWpnbEpZMENhbFlJQUJreFpOR1dqYmtiSFQxUTRoTTBKdGZfMWN6aGhLaklISHYyNE1COXA2V21hTVJIZ2h4RkFxZ3V5VUV0NW5DMlRoUV8tNW5kd1BJQkI0azE0Rmxfd2hBaEswVkhhVHdudjh2TDZJZEpQT3BjVFJiZFBCcTJfdDlmaUVKWnlTVkRzNXF4al84WUJIM2d3",
+    "source": "HARIAN DISWAY",
+    "pub_date": "2026-11-24T19:19:00+07:00",
+    "desc": "Harga Jagung Jember Tembus Rp 7.500 per Kilogram, Mendes PDT Apresiasi Potensi Pertanian Pontang - harian.disway.id&nbsp;&nbsp;HARIAN DISWAY",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "89c5a3f035ed",
     "title": "85 bendahara KDKMP Babel ikuti pelatihan dan sertifikasi kompetensi",
     "link": "https://www.antaranews.com/video/5875391/85-bendahara-kdkmp-babel-ikuti-pelatihan-dan-sertifikasi-kompetensi",
     "source": "ANTARA News",
     "pub_date": "2026-11-24T19:03:21+07:00",
     "desc": "ANTARA - Sebanyak 85 bendahara Koperasi Desa/Kelurahan Merah Putih (KDKMP) mengikuti pelatihan dan sertifikasi ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "219ea7f65b01",
+    "title": "Menteri PDT Yandri Susanto: Gus Fawait Layak Jadi Gubernur Jatim Gantikan Khofifah - sudut kota",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkptVEs1Mjd3SzlpTE9aM3UzOHJZdVhzMkNFZHZMZ1FuRmNTbXVMeWVEQ08ySTRZbTBFRVVkMlpuWkRwc3c1c2FWdXNHQ05zVW85b3JiV1ZNaTQzWHVheUhpeV9GOFN0WHI4bGQ0QnRaM1FtUzNFaDctNG5qc3BqTk8tMllQTDhIWXZPNTF2VTlaaklaaWV0MzlFdWpwX1U0UnNYWUR3",
+    "source": "sudut kota",
+    "pub_date": "2026-11-24T18:57:56+07:00",
+    "desc": "Menteri PDT Yandri Susanto: Gus Fawait Layak Jadi Gubernur Jatim Gantikan Khofifah&nbsp;&nbsp;sudut kota",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -26,6 +78,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "ee823babe9c5",
+    "title": "Mendes PDT Yandri Puji Harga Jagung di Jember Lebih Tinggi Rata-rata Nasional - Lensa Nusantara",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeU01ZU1Da0xtTU1wWklMZmxISGJ1d3FYMFAtZUdzdVNhUFhBRWVqQVhEek9hNk14eFVmRDdPdC0wMGtadHVFeFVtYWlyX2VmS2h0NExQeHFXbEFTUVRLRGpNTW85Qk01eW9WUGJlSFRWQkRwRHBsRlU1bWcwUFMzeVNyZHBJTmxNX3pHWDdyb3dhMWExdzB3MzRCNGpRN1E5ekRCanVodFBPOWVycjQ2ejZnRTI0R3RWMnc",
+    "source": "Lensa Nusantara",
+    "pub_date": "2026-11-24T18:37:31+07:00",
+    "desc": "Mendes PDT Yandri Puji Harga Jagung di Jember Lebih Tinggi Rata-rata Nasional&nbsp;&nbsp;Lensa Nusantara",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "fb5c3c8e511a",
     "title": "Wujudkan Lingkungan Bersih dan Mitigasi Banjir, Jajaran Polres Padangsidimpuan Gelar Aksi Green Policing di BUMDes Pudun Jae - Wartalive.co.id",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOTVOdUFxZmlQNUFrbnJLRGhHQ0MzQVhrUXdueU9hY2lpb0g4YXhsYTlacmh6eElJV0s5WTBTMS1XSE5vanhKNkFzUVVsZHc4Q1pGcFhMcy1JbWdFNXJEclNldmhod3pOazNlR1FOaDIxYzdLamkzTDV3OF9SeWFaTDZRejRVNWRFLUM3anhTVzBvcVZBU1hMb2F2b3hIV0d4SkxXR1FTUFpDU1BibldPYXBZcUZyUnUwd2RkZ3pVbDBHVmYwQmV0aUpSbXUwaHhjSGZSZEI4QTRMUjBaeGk3WkVialRaYnM",
@@ -34,6 +99,19 @@
     "desc": "Wujudkan Lingkungan Bersih dan Mitigasi Banjir, Jajaran Polres Padangsidimpuan Gelar Aksi Green Policing di BUMDes Pudun Jae&nbsp;&nbsp;Wartalive.co.id",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "bc1797508b6c",
+    "title": "Disparitas Guru di Wilayah 3T, Ada SD Hanya Miliki Satu Tenaga Pengajar - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVmxzUEhTT1hvdUUzTGtkUkRrRDZzZ2stdjRYY01vdzlGMEkxMVh6NENlR1JkZFdJTVc4Q2VZb2xkc3pwTmpBRm5QalZoZDRRbnBDYXh2RXo1MkpUV3lwdmxMSlBGRmN1cmI3NF81WWtBNDFkdWNpU2VFcHpxM0FqWmdLcHB6cW1HMjk3eXVLWmNRZVNzc0ZlbnZ6cG51dWowRWw4XzBmcXNUUW9tRFBhU1pB",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-24T18:16:00+07:00",
+    "desc": "Disparitas Guru di Wilayah 3T, Ada SD Hanya Miliki Satu Tenaga Pengajar&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -63,6 +141,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "64b9aded3f3f",
+    "title": "Panen Raya Jagung di Pontang, Mendes PDT dan Bupati Jember Perkuat Ketahanan Pangan - Suara Merdeka Jakarta - Suara Merdeka Jakarta",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaVF2QlIzR2hqMzRjMHgyWGkzVE10dXB5d2I2MnN5cGNvZTlqelNNOGdCOElOR09lS2NwckNaUjVvSGhZMDRQZkZROWxscnVVME9LLXhpVU9EMzFXNi1fZGtJWkFaUlFwNldKa2c0akxjaURfMFFRY2tJUXZENDgxaHh2VnBFaURTVkVrVXZDd0x5cWZpTWpuTkVCVERIVTNfNF9KM2RqaDdoVmxEcS1URGdqRFlFRXFTaUh1WHZHalRGMnA4OUx6aVZiTVoyRHdHc2fSAdcBQVVfeXFMTTJ2NlZ6VGc5OHFxd3lXQlhINGdvZXRSQjM1X3BtVE1JMWllMFJHSmVodFp0X2hySmlXdHpFenpwZU1CRUlMcld6MEtzSloxa0ZwSTh3Mnc2U3FSaTJ6anF6Q3pTUUFDWjhFNWhmbjRXMXNHTDJaMklnc21samVBSHlJdEZIOG44U2VlT3BHMEtCa3BjQVBhWVdOcXZraWswSUNPSnlUb0R0aHhqRGZpb1ZSX3RIU3BDeVdfR0Y2QW9Jc1ZmbFZHLTdMTG0xMEVnMkhGNWxQVDg",
+    "source": "Suara Merdeka Jakarta",
+    "pub_date": "2026-11-24T17:41:20+07:00",
+    "desc": "Panen Raya Jagung di Pontang, Mendes PDT dan Bupati Jember Perkuat Ketahanan Pangan - Suara Merdeka Jakarta&nbsp;&nbsp;Suara Merdeka Jakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "165f521899a0",
@@ -149,6 +240,19 @@
     "source": "Seblang.com",
     "pub_date": "2026-11-24T16:54:41+07:00",
     "desc": "Panen Jagung di Ambulu Tuai Apresiasi Mendes PDT, Harga Tembus Rp7.400 dan Potensi Pertanian Jember Jadi Sorotan&nbsp;&nbsp;Seblang.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "7f95d66efc2e",
+    "title": "Mendes PDT dan Gus Fawait Panen Raya Jagung di Desa Pontang Jember, Apresiasi Harga Tembus Rp7000 per kilogram - Pojoksatu",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3RYdTZ6SXVwOUVIUjQ5R3NRT0k0Zi1wWlBVM01FMTdBX0VYUExSbi1IejNmZGMxZm5ROW45dUFkdVFCQjhYb1J4TFRFN0R4UWd0NXNsemxHdFR3OWRoMzdOUlJrV3NOaXM5YmpyR1hXU3Z6VEFUX3JPeVQ5em0zWlVEVXV4SDNvc3NsT3JCNllpTEZtelF1NWV0c3BUbC1ld3ozUlZOR2Q5cnZjeC0yT2NTcU5GakZEUl9rWlR3MzR0TjB1bE12QUwyZTFyLWZxY1E",
+    "source": "Pojoksatu",
+    "pub_date": "2026-11-24T16:52:00+07:00",
+    "desc": "Mendes PDT dan Gus Fawait Panen Raya Jagung di Desa Pontang Jember, Apresiasi Harga Tembus Rp7000 per kilogram&nbsp;&nbsp;Pojoksatu",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "positif",
