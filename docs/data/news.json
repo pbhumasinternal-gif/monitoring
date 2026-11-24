@@ -1,5 +1,18 @@
 [
   {
+    "id": "da6e4af6f9c9",
+    "title": "Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan - beritajatim.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHNrZFItWmw0N3IzaWNFVE5XYndoS3RaZ1M4VzFOY3Z5bnFoVFdnN2ZsMEU3cWNXWU9JNHpQZy1xcjh1Y2VSYVdyWnpWNEswSTNwZEJyUXlySWI5dXJUTGpBZFhLRnd4NFFnclNRdkVWMV9xUXBacThxbGRwSnpDYXBEVTlQMV9BNFRkVWR1enQyZjlvTVZfYzc0d2VZemZHMDBjUmlrS0gzTnFGT1JRUTZudGx0UQ",
+    "source": "beritajatim.com",
+    "pub_date": "2026-11-24T13:24:09+07:00",
+    "desc": "Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan&nbsp;&nbsp;beritajatim.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "d4e3b07d3af7",
     "title": "Tanah Laut Bebas Desa Tertinggal - Kalimantan Post",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qUFZURzNnVTJJX1BiX0NyQkRzV1pza2g3NkdYdXdDOE1DbmFIS1ZKbmtRb0d4UHBXbkhaYmFHNFhMSjNQUS1sQWpTT25CaE5aUjQyaW5LM3E0ZkI0MFY3bkU2VF9WUGJPZVVsSFFJN0RtNXhaOTU0",
@@ -986,6 +999,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "12b74a928413",
+    "title": "BUMDes Ganggang Panjang - Mattanews.co",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5ZTlfcWFRV2o5d296QjFTSjJ3V1FsMEwxeEQ5bGVoMmx0cUJzdU0xMFhvdGhNcXdBMU9PcWFZamFOeTMyOG5TVHRGQjJGQ1loZlZyR1FCaUx0Rl9MX0E",
+    "source": "Mattanews.co",
+    "pub_date": "2026-11-22T22:29:25+07:00",
+    "desc": "BUMDes Ganggang Panjang&nbsp;&nbsp;Mattanews.co",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "313dcb046fc8",
