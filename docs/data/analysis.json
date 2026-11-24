@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-24 15:31 WIB",
+  "last_updated": "2026-11-24 16:01 WIB",
   "days_analyzed": 30,
-  "total_checked": 2240,
-  "dominant_topic": "Dana Desa (903 berita), BUM Desa (472 berita), Kemendesa PDT (462 berita), Daerah Tertinggal (403 berita)",
+  "total_checked": 2243,
+  "dominant_topic": "Dana Desa (905 berita), BUM Desa (471 berita), Kemendesa PDT (464 berita), Daerah Tertinggal (403 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -34,7 +34,7 @@
         "title": "5 Desa di Lumajang Disorot Dugaan Penyimpangan Dana Desa, Satu Berkas Sudah ke Polda Jatim - MEMOonline.co.id",
         "source": "MEMOonline.co.id",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_issue": "5 Desa di Lumajang Disorot Dugaan Penyimpangan Dana Desa, Satu Berkas Sudah ke Polda Jatim&nbsp;&nbsp;MEMOonline.co.id..."
       },
       {
         "title": "Diduga Mangkrak, Pembangunan Kantor Bumdes Desa Sinarpetir Menelan Biaya 190 Juta Lebih dari Dana Desa Tahun 2025 - zonamerdeka.com",
@@ -84,10 +84,16 @@
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
+        "title": "Komisi V DPR RI Apresiasi Capaian WTP Kemendes PDT, Yandri Tegaskan Komitmen Akuntabilitas",
+        "source": "TribunNews.com",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "Komisi V DPR RI apresiasi opini WTP Kemendes PDT. Mendes Yandri berkomitmen meningkatkan akuntabilitas keuangan...."
+      },
+      {
         "title": "BUMDes Jaya Raya Raup Omzet Rp40 Juta dari Melon Hidroponik - شبكة تواصل الإخبارية",
         "source": "شبكة تواصل الإخبارية",
         "topic": "BUM Desa",
-        "core_achieve": "BUMDes Jaya Raya Raup Omzet Rp40 Juta dari Melon Hidroponik&nbsp;&nbsp;شبكة تواصل الإخبارية..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Dukung Ketahanan Pangan, Babinsa Pantau Usaha Ternak BUMDes di Subulussalam - RRI.co.id",
@@ -112,12 +118,6 @@
         "source": "Mattanews.co",
         "topic": "BUM Desa",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "LBH Anti Korupsi Desak Inspektorat SBB Segera Serahkan LHP Dana Desa Laturake ke Polres - porostimur.com",
-        "source": "porostimur.com",
-        "topic": "Dana Desa",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3809a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       }
     ]
   }
