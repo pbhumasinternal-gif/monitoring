@@ -1,5 +1,18 @@
 [
   {
+    "id": "d4e3b07d3af7",
+    "title": "Tanah Laut Bebas Desa Tertinggal - Kalimantan Post",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qUFZURzNnVTJJX1BiX0NyQkRzV1pza2g3NkdYdXdDOE1DbmFIS1ZKbmtRb0d4UHBXbkhaYmFHNFhMSjNQUS1sQWpTT25CaE5aUjQyaW5LM3E0ZkI0MFY3bkU2VF9WUGJPZVVsSFFJN0RtNXhaOTU0",
+    "source": "Kalimantan Post",
+    "pub_date": "2026-11-24T12:22:10+07:00",
+    "desc": "Tanah Laut Bebas Desa Tertinggal&nbsp;&nbsp;Kalimantan Post",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "ced6a44450c1",
     "title": "Zulhas Kebut Pasokan Barang Subsidi ke Kopdes Merah Putih",
     "link": "https://news.detik.com/berita/d-8767056/zulhas-kebut-pasokan-barang-subsidi-ke-kopdes-merah-putih",
@@ -104310,6 +104323,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "94f8bc2fc449",
+    "title": "Korupsi Dana Desa, Kades di Serang Banten Dituntut 4,5 Tahun Penjara - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnhXOXM0RXJFS0hRYnNmNWlvZzc5OHlhTFBiNFpGcUh4b1FaQm5fRDF1bVBlZktzUTllODNURTR5aWJ1SnZFYTh6Zml5b1VKQnN6RUY1dk5RNFUzbjZuQTlqZF94WlZDXy1uVFVtOEI5ZGJVTVd2LU5acWwwdUI2YjlfYmhXa1plUGRCMGpZcm1fb2FUWmhveVhqcXBiVVBPbE1lN2JESVVpTmRxT1R5MVJPY1pFbUxES0hJXw",
+    "source": "Kompas.com",
+    "pub_date": "2023-11-28T15:00:00+07:00",
+    "desc": "Korupsi Dana Desa, Kades di Serang Banten Dituntut 4,5 Tahun Penjara&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -11,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "a9d32f18a3bd",
