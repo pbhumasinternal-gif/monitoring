@@ -1,5 +1,18 @@
 [
   {
+    "id": "2984d95e685d",
+    "title": "BGN Pastikan Dapur MBG di Wilayah 3T Dibuka Bertahap setelah Verifikasi - InfoPublik",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPU3Zsa00yT3FHa09aSW9WOUVsTEtRZ0p1UDFRUDRueUtfVjNHa1hxSFhjWF94dTdjX0dCeldUS3hWTW5WblBKdTMwWDFKWHBpWTZJTmNZUGk1QzNQU19HenZ6VDZOaGVNTnQ2RTJzQ2p3V2tlWnQtVGlLZFdEV010VG9rZU9ES29lUjFWY201UHFHYlVtNVRJT1I1dW1TV0VWU2tpbTNFdmNMcmIzeVQ1aHhZelJSUlJKMjBjZjZuNU9FaHhaOXUzRUJHQ3VFdw",
+    "source": "InfoPublik",
+    "pub_date": "2026-11-25T06:54:00+07:00",
+    "desc": "BGN Pastikan Dapur MBG di Wilayah 3T Dibuka Bertahap setelah Verifikasi&nbsp;&nbsp;InfoPublik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "8737d6accee5",
     "title": "Ombudsman serahkan LHP IAPS Program KDKMP ke Kemenkop",
     "link": "https://www.antaranews.com/berita/5876287/ombudsman-serahkan-lhp-iaps-program-kdkmp-ke-kemenkop",
@@ -108405,6 +108418,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "6db3b212ebbc",
+    "title": "Bendahara Bumdes Kerta Buana Jadi Tersangka Korupsi Rp 458 Juta! - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSXQtZGtZTlpwTE9jWWtmcmNSVXBNTlVvUHFDNzdRVXE0bmJHZ2g5emhIY2J6akxuaXd5RC1tYzlhdzlEWDRiM01nZkZURHVveWZmYVVObXF2b1pJMFRwTFhMeVFSYnVFWFp2NnVSWVZTekdYVW1HQnpnYkZUSjFvWDlMRzE1ZWNWZW0zbDl0aVZlTEYxRkQ0UDVrcnFlc2FYNVRVWE1qcVV6SDY4SDVFcW00ZFNwRmVCelFF0gHAAUFVX3lxTE5kRDhYRjNRZ2NKQ0ZEMGlaMTg0bGlaWXJ1OThXV3BaS25EYXY5NlhZZF9YVXVwOS1CNW1ZMkpzelFOYzN0WVFPcVE4U3NWcHVfQW9hQmlEcjc4LVoyc0ljREdmbHQ3RlluTnlWUXgwTWZXVDVWc25FaEJvZ004X0c5a3l3WDNKTU1kMzRsQUVCTW9RWFlFeXp5MFFOUVRvcVZOSDlSVXVEM1RRNVpuYWVFNG85NHcyd2ZhUkFuMFBndQ",
+    "source": "detikcom",
+    "pub_date": "2023-02-14T15:00:00+07:00",
+    "desc": "Bendahara Bumdes Kerta Buana Jadi Tersangka Korupsi Rp 458 Juta!&nbsp;&nbsp;detikcom",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "f16082b63219",
