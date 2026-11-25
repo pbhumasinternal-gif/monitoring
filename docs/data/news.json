@@ -1,5 +1,44 @@
 [
   {
+    "id": "120853b9bd92",
+    "title": "Bappenas Perkuat Kehadiran Negara di Wilayah 3T - InfoPublik",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXNWOHZmU18wSzlKeFRUZ1ZiNkNOYkJiYW5kVG1uYmZQQ3dVRlJfQlMwd0dsdVdwRzRpWENZNGtGQzltMnJ1ekRhYTM5N1kzYmpNRmtVQlBnZl9aYUhwV0gwZVdTWUItSkl1c241WGpzOXh4QUhpNlJSckpyRUFSMGRBeURnSm82UkhvUVBOeVBsa3p2ZTB3Mm5tNWtjSDlXejF5aEdnMHhzZ1VLZHc",
+    "source": "InfoPublik",
+    "pub_date": "2026-11-25T21:17:00+07:00",
+    "desc": "Bappenas Perkuat Kehadiran Negara di Wilayah 3T&nbsp;&nbsp;InfoPublik",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b8665a99eab4",
+    "title": "Permudah Warga Wilayah 3T Tukar Uang Lusuh, BI Malang Jemput Bola ke Pasar Ranuagung - Memontum",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTm5QbzZ3ZmxmMUdhS3IwdW5KZjZXa1V3LU5zZ2h2b0F1QmdHT0lTclhVd2dGTnlKZllLZDFTTFhyenNkaXFiT0lwRWlqc042ZmVoTVI5NVhEWUU3VTYzalktRC1pcmZuSXJ1TVBtT05MOTBkZHlVZkIxem92UnVDT0NScnMzLWZuUkVmNklmSXltbTBVZS1semQwZGxqbkpHbGFKT2JxOA",
+    "source": "Memontum",
+    "pub_date": "2026-11-25T21:09:54+07:00",
+    "desc": "Permudah Warga Wilayah 3T Tukar Uang Lusuh, BI Malang Jemput Bola ke Pasar Ranuagung&nbsp;&nbsp;Memontum",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "3ee530a74134",
+    "title": "Penahanan Eks Kades Tersangka Korupsi APBDes di Lombok Dipindah ke Kuripan - detikcom",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS2hYZC1pWUY1cWlBSHROdTVVd3UxQ3pIdzBXc2ZxclhSLUJfOUNwUXpzQ3FsenNVUHJXOVNMbDJ3Rmd4cjJoZXloYTEtNWo3dGVmYl9IMXMwTHptRl94SFZDUndOYnBFX2FBMDZjTm1DX243bENJeTVqNGZIT0hHOUkwUDBycjktZFh5NlhNX3JoY0tpbkxoemtkbjBDcFQ0VlBGZFU3VFV2dkNreE12eXN3U2NzZ0xXMnVYS0F6dzVjR2J3VWtCUWVn0gHPAUFVX3lxTE0ya3NMUnlZV1Z6dE51dGRIUkZpVHJ0ajNmUUg2cHI5Rm1DQWFQVm40UXc2UHpaUHJ1bWc0bFk3WFlMN0dLR3hOb2dmZXlxN3BkcTFIN0lTMzRIa2V1eFJCNTlzYm1fdnlqSGJ6ME1Ib0pHSFdING9Rb0pPaG9BeGZpaTVRTWNXVWl0OWFhRUphTkFORUl4dkpzSkVTbGdNbjZXdUpNRHpHdDV1VVJUUHlBZUlRelVfLW5sY0g5QjR6T2d1MDR3dTBjNkVnM3kwcw",
+    "source": "detikcom",
+    "pub_date": "2026-11-25T20:55:00+07:00",
+    "desc": "Penahanan Eks Kades Tersangka Korupsi APBDes di Lombok Dipindah ke Kuripan&nbsp;&nbsp;detikcom",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -10,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "e69e35cb15ac",
     "title": "Mendes : Industri pengolahan tembakau bangun ekosistem ekonomi desa",
     "link": "https://www.antaranews.com/berita/5878471/mendes-industri-pengolahan-tembakau-bangun-ekosistem-ekonomi-desa",
@@ -47,6 +86,19 @@
     "desc": "Terkait Persoalan Dana Desa Pulau Lalang, Kepala Inspektorat Lingga Belum Beri Tanggapan&nbsp;&nbsp;Radar Kepri",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a7e528f23310",
+    "title": "Kunjungi Pulau Selaru, Kepala BNPPDT Evaluasi Kebutuhan Pembangunan dan Pertahanan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUdJcjB5UXRmby1YekY4TEJ5SFY3SXVnT09nZXhJZ3A5ZlJNRnY4U1dtZ1IxS3pxbS03YkNRQ2NLWVhzYXp1ZEFUUGJjR2MxckRaYVdLMTlUZlk3R2o5SHdoblFtWFRpTFJNMXVTaWVNdHQwOXpHelhaSHdkd1RiNjhOOXp1Mm04S1BrdXVXRGNWZjRkR1VDNE9XaGROMjhsUWVVbl9ubXJZZkVGelV5NlpaUWZfS0xtS24wMVhWam0",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-25T19:33:00+07:00",
+    "desc": "Kunjungi Pulau Selaru, Kepala BNPPDT Evaluasi Kebutuhan Pembangunan dan Pertahanan&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -98813,6 +98865,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "6c7e760f0176",
+    "title": "Dana Desa Tak Kunjung Cair, Warga di Saparua Maluku Tengah Palang Kantor Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVzZfdV9LQWx0NEpnbE1MWE1vcUtONW1kOHJKLTJhUDlsc2xxNDBTbF9FQ2ZjWVhFdk9sbHl4Y1ZYa2lOeXBkaGtNZFpzQUktSE53ZU1mUWd3NnlhTUY2eTZQQldYekpOYnBvSXpkQk5FeHdGdzY1a1BOTFlKWjVJaHVYOGNkTkV6dWJWUWtueW1yNTZjbzBkQ1UtbDlSc1hFWlF4UTRfeV8weFc5YUY5NkRvYmhxaVBKWWlOMHd3SU9lVlk",
+    "source": "Kompas.com",
+    "pub_date": "2025-07-18T14:00:00+07:00",
+    "desc": "Dana Desa Tak Kunjung Cair, Warga di Saparua Maluku Tengah Palang Kantor Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7a473a5e7b87",
     "title": "Rapat Kerja Kementerian Desa dan Pembangunan Daerah Tertinggal Tahun Anggaran 2025 - Kompasiana.com",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZkQ3RjlUM0ZsbS0yUm5hWVJKMm4yQ3lqcmtfVW9FTWFaUTFHc0VKekdqcWFiNnBDSmJ5Z2QyVFllWGszM1BueE55anEtMm5uT1FrZjlEbVpnRFkycDNXa1VwV1hYcFZRUXhOcWhKZ1dlVlhJN1lmTEZhSmR6eG5mNldWWDRYNEdGUVpWMWlpWUxobE85NVpTNDJGT05VNTZCTDgtU0pCYk5OTTJ3c0FjalNoTXlEaElQQzlJOHVxaGdwYldOWEk5U0haYVBYYjVWZ0RMWk1mRE1Pa2tjbVgw",
@@ -101556,6 +101621,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "334b792bcb8c",
+    "title": "Mantan Kades di Kotawaringin Timur Ditahan, Korupsi Dana Desa Rp 387 Juta - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN3lRcVdEeVNiTGpBLTRBS2RtRGdfODI0Mzl3UEhxX05GWGMwa09Ndk14VW9nVVh5MXFybXdxVUZjSXJia3FVblc0eFVQalVJeHA1YWdsZzNPdHFpTnlPdGlRRE1maHROMVF4NUdKYnYwUHhKa29mRDZlMEhydExmY3RZaDVoRWlEV3RHTzNCekhETEJHRlJ4OWdHT21CQmdEdW1OemVLMzVzT3RkMmVrdTNiWGNualZvT25VMWlfTmlkdWx4",
+    "source": "Kompas.com",
+    "pub_date": "2025-02-05T15:00:00+07:00",
+    "desc": "Mantan Kades di Kotawaringin Timur Ditahan, Korupsi Dana Desa Rp 387 Juta&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "566679784b37",
     "title": "Dampak Positif Dana Transfer ke Daerah (TKD) terhadap Kesejahteraan Masyarakat",
     "link": "https://kumparan.com/ery-setyawan-1732093696752467893/dampak-positif-dana-transfer-ke-daerah-tkd-terhadap-kesejahteraan-masyarakat-23zfipen7DB",
@@ -104201,6 +104279,19 @@
     "source": "Kompas.com",
     "pub_date": "2024-10-12T14:00:00+07:00",
     "desc": "Selama 2015-2024, Pemerintah Kucurkan Rp 609,9 Triliun Dana Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "cbbf422f3b0f",
+    "title": "Jadi Motor Penggerak Pembangunan Desa, Kemenkeu Catatkan Perkembangan 10 Tahun Program Dana Desa",
+    "link": "https://www.tribunnews.com/kilas-kementerian/2024/10/10/jadi-motor-penggerak-pembangunan-desa-kemenkeu-catatkan-perkembangan-10-tahun-program-dana-desa",
+    "source": "TribunNews",
+    "pub_date": "2024-10-10T10:45:00+07:00",
+    "desc": "Dengan kebijakan yang tepat, program Dana Desa berpotensi jadi motor penggerak pembangunan berkelanjutan dan kesejahteraan masyarakat desa. TRIBUNNEWS.COM - Dana Desa di Indonesia adalah salah satu ...",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
