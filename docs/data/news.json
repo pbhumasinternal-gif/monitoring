@@ -1,5 +1,31 @@
 [
   {
+    "id": "bb7087eaef25",
+    "title": "BGN Hadapi Kendala Pasokan untuk Buka Dapur MBG di Wilayah 3T - bsinews.id",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11Q1ZHc2l6NFBQUU50M2k5dmJ4ZFY2ZDd0UWg5NEtFcFl6VWhnc0pjV196UmhqeTZqREpBQkZsUzZpcW52aFd5VVYxdm15YldkeVpISWJmdFBHNWtPczBicA",
+    "source": "bsinews.id",
+    "pub_date": "2026-11-25T08:11:28+07:00",
+    "desc": "BGN Hadapi Kendala Pasokan untuk Buka Dapur MBG di Wilayah 3T&nbsp;&nbsp;bsinews.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b2919ce3aeca",
+    "title": "BGN Hadapi Kendala Pasokan Pangan di Wilayah 3T - Lensa Hukum",
+    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SdzRiRjBfdUlqVDVPeXh0UHE4aFN5a05mU3RaN0thOTk2SjYtVHZLSHc5ZUF2N3JQRGNJTzBfSV9BTC1MMk54dHh2V1dxaVVmWFZCcmtyZjBxbEJ5MmhzY1RmMy0",
+    "source": "Lensa Hukum",
+    "pub_date": "2026-11-25T08:10:52+07:00",
+    "desc": "BGN Hadapi Kendala Pasokan Pangan di Wilayah 3T&nbsp;&nbsp;Lensa Hukum",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "85fa3c50fa68",
     "title": "Kemendes PDT Apresiasi Bunga Desaku Gus Fawait, Dinilai Jadi Model Kepemimpinan yang Dekat dengan Rakyat - detiksatu.com",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQW8zNVI0OWQwdDd1anFBNWlzdHI1RzM3V1FYNHJOTWRZTFNESG1FODB1ZEZiUUhibC1vU0tBbHR1eXZRQ3p0S3A5Nmg0VG9aY1Vsbm9RTTRrTXBBQVdoRFdlVWd2TjhjcFg2Z254NHEtRGVvOG5zbUtNOWJiQ0wxTTJBR3I",
@@ -36,6 +62,19 @@
     "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "efc0610799e7",
+    "title": "Masalah Lahan Kopdes Merah Putih Diungkap Ombudsman",
+    "link": "https://finance.detik.com/berita-ekonomi-bisnis/d-8768404/masalah-lahan-kopdes-merah-putih-diungkap-ombudsman",
+    "source": "detikFinance",
+    "pub_date": "2026-11-25T06:55:00+07:00",
+    "desc": "Ombudsman RI mengungkap sederet masalah dalam pelaksanaan program Koperasi Desa/Kelurahan Merah Putih (KDKMP).",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
