@@ -91,6 +91,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b9d662f9dce5",
+    "title": "BUMDes STT 2 Mangkir Laporan 7 Tahun, Warga Curiga Persekongkolan Pengelola Dan Pemerintah Desa - Posmetro Medan",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaXZ5UnJDM2dPcGg4bzdDamo3YlhJY2pHZnRzei1ibDYxZkdXS0tjX002d09TUXdlV0RucEhmRGw1NVFJVTVqOHF0dmhRWEVzUGNMY0s5TkN6M0V5NkRuOVpINC1acEszVW54d3lhaDJMdlRYZlE5TUJqXzlOYU5CaUdvbXZpZU9fem5oQ0pCdHNCTmRzT2pmZmtLdEFnRmN2Q19kOHdWZ1ZYWDV2ZTRhUFU3d1BfLWtLcUEzcW9qcW1LbV9xa0xWbEkzbERGZw",
+    "source": "Posmetro Medan",
+    "pub_date": "2026-11-25T18:57:44+07:00",
+    "desc": "BUMDes STT 2 Mangkir Laporan 7 Tahun, Warga Curiga Persekongkolan Pengelola Dan Pemerintah Desa&nbsp;&nbsp;Posmetro Medan",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -5,
+    "sentiment_tag": "Sorotan Transparansi"
+  },
+  {
     "id": "20974e37e4a4",
     "title": "Kepala BNPPDT Evaluasi Kebutuhan Pembangunan &amp; Pertahanan di Pulau Selaru",
     "link": "https://news.detik.com/berita/d-8769824/kepala-bnppdt-evaluasi-kebutuhan-pembangunan-pertahanan-di-pulau-selaru",
@@ -115,6 +128,19 @@
     "sentiment": "positif",
     "sentiment_score": 3,
     "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
+    "id": "65d077f7ac2d",
+    "title": "Viral! BUMDes Kaduagung Tak Berkembang, Rp170,7 Juta Perlu Dipertanggungjawabkan - DETIK PERISTIWA -",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR3BmektnM1JrRTFCWUR6dzl5b3d2Z0dmcV9fSEdPNWJ3MEJ5OG11aVpFRzNpNUlsTmxSb3A0RzIyaWsxZEpmTU45ekhjNV8yYW5kbkFVV190VlhUZjhFUW9iVjd1ZEd2TDhjRi1TTWxvdGJIa1liZ2NqQ2xZMzlReV9tVmhkdVktZi15YW5sbXJVX0s1NlhySWdlSjhqMGF6TG5jMklTR1ZaU2s",
+    "source": "DETIK PERISTIWA -",
+    "pub_date": "2026-11-25T18:46:31+07:00",
+    "desc": "Viral! BUMDes Kaduagung Tak Berkembang, Rp170,7 Juta Perlu Dipertanggungjawabkan&nbsp;&nbsp;DETIK PERISTIWA -",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "0ba2079864e7",
@@ -546,6 +572,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "d29d2ec0ade9",
+    "title": "Bantah Isu Bangkrut! BUMDes Citra Mandiri Sejahtera Baru Dua Buktikan Masih Aktif dan Untung, Ini 3 Unit Usahanya! - Jabaronline",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOX3hyOWJhMFJ3cFBWdXlMM1VaZVducDlCalBjMFJCNHp1S3cxa2pXZ2J0ckpTdFBPZ3NydDJuLTZvc2dQd084bUkxQlFqRXh6NThoblZMMWZhUkF6Y1dramdGRHprU2JNZ3VQT0MwY0VRUExTZ1EyRjBFcEFlMmIzWkh4S19ISkpQMEpaUjhSUEs0YzYtbjZiY1RET3RLTzk0VXFzXzZ0VVRzWC1PYlZkR2NSVDdSejJUVGQteXpXV1BCUFJLRW1MdC1qUU1MUE51SDlBVk9seHlIbFU",
+    "source": "Jabaronline",
+    "pub_date": "2026-11-25T13:53:00+07:00",
+    "desc": "Bantah Isu Bangkrut! BUMDes Citra Mandiri Sejahtera Baru Dua Buktikan Masih Aktif dan Untung, Ini 3 Unit Usahanya!&nbsp;&nbsp;Jabaronline",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 3,
+    "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
     "id": "db6b6ef6fa3b",
     "title": "Kunjungi Bondowoso, Mendes Yandri Buka Peluang BUMDes Tematik Tembakau - beritajatim.com",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRW1NWmhkX2x5bVFkT19ISWdDWEhQcFl3T3VXM1lGdlFJY2ZVLXFsMkRWMUlsRGZadVg2ai1rQl9aQjQ1c0hjamhScTVHZ0NuSlJpNTFjN2V0bWUzV081WHVyU045aXpwcmRWZkNmZG5YeXVqTi1ydTFacE9lMkNzYzhLVXQ5QThaVmktMHdtQl8tRTlSS1JPaQ",
@@ -645,6 +684,19 @@
     "desc": "BUMDes Cikalong Buktikan Pengelolaan Modal Desa Berbuah Hasil: Budidaya Ikan Nila Sistem Bioflok Mulai Sumbang PADes&nbsp;&nbsp;Jayantara News",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d36661e1f9de",
+    "title": "Bupati Nias Utara Desak Pemerintah Pusat Berpihak pada Daerah 3T: Infrastruktur, Listrik dan Internet Masih Jadi Persoalan",
+    "link": "https://sumselupdate.com/bupati-nias-utara-desak-pemerintah-pusat-berpihak-pada-daerah-3t-infrastruktur-listrik-dan-internet-masih-jadi-persoalan",
+    "source": "Sumsel Update",
+    "pub_date": "2026-11-25T12:30:00+07:00",
+    "desc": "Bupati Nias Utara Desak Pemerintah Pusat Berpihak pada Daerah 3T: Infrastruktur, Listrik dan Internet Masih Jadi Persoalan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
