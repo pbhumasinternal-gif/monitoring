@@ -1,5 +1,31 @@
 [
   {
+    "id": "20974e37e4a4",
+    "title": "Kepala BNPPDT Evaluasi Kebutuhan Pembangunan &amp; Pertahanan di Pulau Selaru",
+    "link": "https://news.detik.com/berita/d-8769824/kepala-bnppdt-evaluasi-kebutuhan-pembangunan-pertahanan-di-pulau-selaru",
+    "source": "detikcom",
+    "pub_date": "2026-11-25T18:54:02+07:00",
+    "desc": "Kepala BNPPDT Jenderal Maruli Simanjuntak melakukan evaluasi di Pulau Selaru untuk merencanakan pembangunan dan penguatan pertahanan di wilayah perbatasan.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "449d53274b04",
+    "title": "Pesta Mangga Situbondo, Mendes PDT Dorong Desa-desa Situbondo Naik Kelas - Maklumat ID",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUjEwNGc0NkJ6S3J1U2paOU9paEdCWXJnTGRPUEdnTjhrUHMtanY3YlFtSTZfNnNrQlVZX21ubHloaVJlV2FNRXI5VmxZT0d1UzJDZlhGM2NfODkwWG41RWJiT2VHcmNuRHM4U25wNm80UXRTY292NzBOdV9vSl9DcEdZdHRmdGl6Q1Z1eW1URHJMZkhCU2Jr",
+    "source": "Maklumat ID",
+    "pub_date": "2026-11-25T18:47:08+07:00",
+    "desc": "Pesta Mangga Situbondo, Mendes PDT Dorong Desa-desa Situbondo Naik Kelas&nbsp;&nbsp;Maklumat ID",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 3,
+    "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
     "id": "32aa678c0bfb",
     "title": "Dana Desa Berkurang, DPMD Kabupaten Malang Sebut Pembangunan Menurun, Kopdes Belum Beroperasi - Suryamalang.com",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFMwZF94Qm1xbk9pUW54UmZqZlM4Z0lSLTR0ZGFrUzlRYkgtQmpiRkN0SGdlTDdEaUxDd0dMRThsdEpaMlVLT3BvakdOTDNwV196b29QX0xWQWR5aWllaXM3LVI4RktoRi1KZDNvVFdXUmVtclNzQ2pVWjdnSHJaN1lJYklqQU5BcTZCZUp4cnNZcjhQcVE2SUhPMEpzZGR3bmNET2dRMzFSdUdudEhPNlJKaGNTdFRCdk5vcXpOUFFxZlFOcjVKYTU4cmphUTF5VmlLVWgwNTE3WV9ES0E",
@@ -8,6 +34,19 @@
     "desc": "Dana Desa Berkurang, DPMD Kabupaten Malang Sebut Pembangunan Menurun, Kopdes Belum Beroperasi&nbsp;&nbsp;Suryamalang.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "25aa058060e6",
+    "title": "Kunjungi Situbondo, Mendes Yandri Buka Peluang Ekspor Mangga dan Rengginang Go Internasional - Seru.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1JFa1hNa3o1OGk0eEh6ZVJGVE5LOFUwN3pCbWNDMkk4c3VZV3RleUFhQndsWVQwYkR3bHVwd3lORktDcjNHMjYxdWpITDVrblduclltNjZHXzRJR1pyMHljTk15VFo2QUhSenM1T3ZWOHJRRGNva2lrajk2Q19QdS15ekJCS3BwWFFKbTlRTVhxU3hEd0J4MXNxQmdHQ3h1eUhDV1gzMTd2NlVNeTFFNTlHMlNCdHoy",
+    "source": "Seru.co.id",
+    "pub_date": "2026-11-25T17:56:59+07:00",
+    "desc": "Kunjungi Situbondo, Mendes Yandri Buka Peluang Ekspor Mangga dan Rengginang Go Internasional&nbsp;&nbsp;Seru.co.id",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
