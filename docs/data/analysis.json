@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-25 17:01 WIB",
+  "last_updated": "2026-11-25 17:31 WIB",
   "days_analyzed": 30,
-  "total_checked": 2318,
-  "dominant_topic": "Dana Desa (907 berita), Kemendesa PDT (515 berita), BUM Desa (477 berita), Daerah Tertinggal (419 berita)",
+  "total_checked": 2323,
+  "dominant_topic": "Dana Desa (904 berita), Kemendesa PDT (521 berita), BUM Desa (478 berita), Daerah Tertinggal (420 berita)",
   "crisis_mitigation": {
     "headline_strategy": "Intensifikasi Narasi Pencegahan & Pembinaan Preventif",
     "narrative_counter": "Menekankan bahwa temuan atau audit pengawasan oleh aparat penegak hukum/APIP merupakan instrumen pembinaan preventif untuk menjamin akuntabilitas penyaluran Dana Desa dan BUMDes, bukan bentuk kegagalan sistemik.",
@@ -40,7 +40,7 @@
         "title": "GMB Ngotot Tak Ada Kerugian Negara di BUMDes Ngudi Makmur, Kejari Blitar Tetap Lakukan Penyelidikan - Serayu Nusantara",
         "source": "Serayu Nusantara",
         "topic": "BUM Desa",
-        "core_issue": "GMB Ngotot Tak Ada Kerugian Negara di BUMDes Ngudi Makmur, Kejari Blitar Tetap Lakukan Penyelidikan&nbsp;&nbsp;Serayu Nusantara..."
+        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Soroti Dugaan Penyimpangan DD dan BUMDes di Tiga Kecamatan Kabupaten Kediri, Presiden ABJI Suliono, S.H Angkat Bicara dan Desak Audit Inspektorat - DETIK PERISTIWA -",
@@ -52,7 +52,7 @@
         "title": "Janji Kembalikan Uang Tak Ditepati, Dugaan Penyelewengan Dana Desa Rp300 Juta Kini Masuk Babak Baru - BUALBUAL.com",
         "source": "BUALBUAL.com",
         "topic": "Dana Desa",
-        "core_issue": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_issue": "Janji Kembalikan Uang Tak Ditepati, Dugaan Penyelewengan Dana Desa Rp300 Juta Kini Masuk Babak Baru&nbsp;&nbsp;BUALBUAL.com..."
       },
       {
         "title": "GMB Demo Kejari Kabupaten Blitar, Tuntut Transparansi Kasus BUMDes Ngudi Makmur - Javasatu.com",
@@ -72,16 +72,28 @@
     ],
     "cases": [
       {
+        "title": "Mendes PDT Apresiasi Pabrik Rokok 88 Bondowoso, Dorong Ekonomi Desa Berbasis Potensi Lokal - Detik Kasus",
+        "source": "Detik Kasus",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+      },
+      {
+        "title": "Mendes Yandri Susanto : Saatnya Desa-Desa Di Kabupaten Situbondo Naik Kelas - jatimupdate.id",
+        "source": "jatimupdate.id",
+        "topic": "Kemendesa PDT",
+        "core_achieve": "Mendes Yandri Susanto : Saatnya Desa-Desa Di Kabupaten Situbondo Naik Kelas&nbsp;&nbsp;jatimupdate.id..."
+      },
+      {
         "title": "Kunker ke Situbondo, Mendes Yandri Susanto Dorong Mangga dan Rengginang Panarukan Tembus Pasar Ekspor - memorandum.disway.id - Memorandum.co.id",
         "source": "Memorandum.co.id",
         "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3809a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       },
       {
         "title": "Mendes PDT Yandri Susanto Bidik Mangga dan Rengginang Situbondo Tembus Pasar Ekspor - Jatim TIMES",
         "source": "Jatim TIMES",
         "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
+        "core_achieve": "Mendes PDT Yandri Susanto Bidik Mangga dan Rengginang Situbondo Tembus Pasar Ekspor&nbsp;&nbsp;Jatim TIMES..."
       },
       {
         "title": "Program Ketahanan Pangan 2025 di Paawaru Gagal, Dana Desa Rp140 Juta Jadi Sorotan - Beritamorut.com",
@@ -104,18 +116,6 @@
       {
         "title": "Kemendes PDT Apresiasi Bunga Desaku Gus Fawait, Dinilai Jadi Model Kepemimpinan yang Dekat dengan Rakyat - detiksatu.com",
         "source": "detiksatu.com",
-        "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "Jember Siap Ikuti Lomba Ketahanan Pangan Kemendes PDT - Radar Bangsa",
-        "source": "Radar Bangsa",
-        "topic": "Kemendesa PDT",
-        "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
-      },
-      {
-        "title": "Yandri Susanto Dorong Gus Fawait Naik Kelas, Menteri Desa Nilai Layak Pimpin Jawa Timur - GOnews.id",
-        "source": "GOnews.id",
         "topic": "Kemendesa PDT",
         "core_achieve": "window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x8008, 0x3009a03, 0x18044, ]; @font-face{font-family:'Roboto';font-style:normal;font-weight:400;font-stretch:normal;src:url(https://fo..."
       }
