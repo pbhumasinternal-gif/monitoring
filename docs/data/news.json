@@ -1,5 +1,18 @@
 [
   {
+    "id": "7782955e5c9f",
+    "title": "Menyalakan Cahaya Pendidikan di Wilayah 3T - Heta News",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGdzRF93eUROV1czOWY5NGNKRXN3b0JzSFpNTDU3RkNtY3JXbmt3MUtoYUROclVLakJqeVprTlc5WkdOSTZJLVBPVV9JQU5BOWM3QUp5M0RTczgzWElBeERVRnQtN2IwNFgyX1RTSi1lVGVwMEpaM1hldHhLYl95dVlhSVdDRDA4aXc",
+    "source": "Heta News",
+    "pub_date": "2026-11-25T15:05:27+07:00",
+    "desc": "Menyalakan Cahaya Pendidikan di Wilayah 3T&nbsp;&nbsp;Heta News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "42de7e9eaafe",
     "title": "Mendes sebut Situbondo layak jadi percontohan desa tematik mangga",
     "link": "https://www.antaranews.com/berita/5877311/mendes-sebut-situbondo-layak-jadi-percontohan-desa-tematik-mangga",
@@ -76,6 +89,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "74d4dc0b3d16",
+    "title": "Diminta Hentikan Penyelidikan Dugaan Korupsi BUMDes Ngedirenggo, Kejari Blitar: Siapa pun Menghalangi, Tangkap! - beritajatim.com",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMzlhUzJlM3h5TDZCaG1KUUJtM2ZaNGpBRFpoam9GZU5MNTVLRW9qZDltUXF2cTAyOElSUkdqN3I1aGNjTUswTTBYZ1FlN1RJdnRyb19VOV8yRjB0V2xUM3BBRWpGM2lGWEJSMlBLVFVFUlgwRDBxRnJkbzVKUWdoYVBBQl9jTHdhUVZFT212NGJWQzhEYXRfMkRWTXdGZFlQRlZHcl9RaUZXWGg2dVpmSzhvU2pwZDRWbmRzbndhVWxQZEY0ZjN1N3hLcw",
+    "source": "beritajatim.com",
+    "pub_date": "2026-11-25T14:08:55+07:00",
+    "desc": "Diminta Hentikan Penyelidikan Dugaan Korupsi BUMDes Ngedirenggo, Kejari Blitar: Siapa pun Menghalangi, Tangkap!&nbsp;&nbsp;beritajatim.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "027e34caeed5",
@@ -111572,6 +111598,19 @@
     "source": "detikNews",
     "pub_date": "2022-03-11T15:00:00+07:00",
     "desc": "Gandeng BKPM, Kemendes Permudah Akses BUMDes ke Investor&nbsp;&nbsp;detikNews",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8b678f9553e1",
+    "title": "25 BUMDes di Ambon geliatkan perekonomian, dorong UMKM",
+    "link": "https://ambon.antaranews.com/berita/119945/25-bumdes-di-ambon-geliatkan-perekonomian-dorong-umkm",
+    "source": "ambon.antaranews",
+    "pub_date": "2022-03-07T14:37:00+07:00",
+    "desc": "Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi (PDTT), Abdul Halim Iskandar mengunjungi gerai usaha di Bumdes Hatukau negeri Batu Merah kota Ambon. ANTARA/HO-Kementrian PDTT/aa.",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
