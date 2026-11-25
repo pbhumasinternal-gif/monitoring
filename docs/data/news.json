@@ -1,5 +1,31 @@
 [
   {
+    "id": "9bec43ba653d",
+    "title": "GMB Desak Kasus BUMDes Ngudi Makmur Disetop, Kajari Blitar: Siapa Menghalangi, Tangkap! - Serayu Nusantara",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZTd1ZGxTa1lSYWdoTHRKQkIzazNnRW56eXFxMTJxeExVTmZ0M2FYOHNZTzVSQmgtSlVkZzZkR2U3dUhYUzdFeEhZRm1CZmZodGlweWlIWEdXNVJyNTNRVkpCcEhEYVZfOFZ4ZE41VkxyTVdBR1FqUXVrNzJCM08zd3NDMC1SZW40cjFiTlNZVjg5TmZTSWRXLTM3VTRFeDJ1QjU0aHBsQkd0bVNvcWVyV0ZR",
+    "source": "Serayu Nusantara",
+    "pub_date": "2026-11-25T09:06:30+07:00",
+    "desc": "GMB Desak Kasus BUMDes Ngudi Makmur Disetop, Kajari Blitar: Siapa Menghalangi, Tangkap!&nbsp;&nbsp;Serayu Nusantara",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "cc3b05fad3c7",
+    "title": "Potret Dedikasi Guru di Daerah Terpencil Wilayah 3T dalam Memperjuangkan Akses Pendidikan Merata - Portal Pekalongan",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdER3OTJ1MWd3MzJyWUhXd3pzOFkyakFPTEpKTXVQdjM1dG1KOGNjeWItOGVkaGYtQ2lTQ01UcFgySFdfc0EwN2k2TFc1SnFQMk5qeHllRTktN21GYTRVMEVER05XcXhnZWNXTXItbktRcWsxSnJSU2p6dGJoMHd1WDhMdXg0Sms5emhvYTRnZC0tOXNHQk8xNTVFZlRxYUVwVGhBSzNSUmZCLUxFanJuTkdrd1pjcjJwdUx5NUFjTGFWaXV1N2JkUElXQU0wQXhRV0V1a3NrOGFsczNNVWFJcFVaM01Cdk9xck15Wnh3bHd5eURFWmRvTUNR",
+    "source": "Portal Pekalongan",
+    "pub_date": "2026-11-25T09:00:00+07:00",
+    "desc": "Potret Dedikasi Guru di Daerah Terpencil Wilayah 3T dalam Memperjuangkan Akses Pendidikan Merata&nbsp;&nbsp;Portal Pekalongan",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "879a9a36192c",
     "title": "BGN Akui Rantai Pasok Hambat Pembukaan Dapur MBG di Wilayah 3T - gadget.qoo10.co.id",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdW1ZYThCZGdNMllGTXN4ZWVfemN2T1I3YlROQV9SXzdrSTUwV3dpTXJlcUEzY3VOY0FTZDRFR3ptZEEtMHlfWW1WeWw3SzRlNTJFUlphT2Vlc05zN0pURnRFVm4zbXlLRzhnSURQMlAxVlZ5R2JON2FBU3FiT0tBOUkzV05ENWY1Zkp1dHVlbHE",
@@ -192,6 +218,19 @@
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "4659ebef778b",
+    "title": "Kumpulan Berita dan pembangunan daerah tertinggal pdt - ANTARA News",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43Y3dxaG93QkoyRTFQRWdGRF9UNGllVnhLS2JyQ19uYmxURkJPcF85c0dZQUY5LUJKR3AwR2F6bW42Y0RPQVJLNWhNdVZCM1RZX1o4VjFpQUlod1RZQ0xvSl9kSWxCU3U2UkxZYjNuRVNiYkI5XzNV",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-25T02:48:58+07:00",
+    "desc": "Kumpulan Berita dan pembangunan daerah tertinggal pdt&nbsp;&nbsp;ANTARA News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -479,6 +518,19 @@
     "sentiment": "positif",
     "sentiment_score": 3,
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "8985f60f5293",
+    "title": "Pembukaan Dapur SPPG Wilayah 3T Berjalan Bertahap Sesuai Standar - jurnas.com",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeXlNZWdGU0xQaVltSkJ2MnEyZm8xQkM0enJkVXc4eEQyVEZRVE9VRVdreF9oRzZ1ZGdybHVOYzYwWmVnelRiMzdaVWxtVkMzeHd5aXVkdHZidVNPVEVlcmFIejN2SWFLcUhtWnBpVjg2V1h2QnA4bEZjMnJ6TTZaNEozWGU3ejVWVjBaWEF1U3ptQTYwdnR5Yy1SanBTSHJRbmozYlI4eWxyLXdtWk10bFotUzQyN1k",
+    "source": "jurnas.com",
+    "pub_date": "2026-11-24T20:25:00+07:00",
+    "desc": "Pembukaan Dapur SPPG Wilayah 3T Berjalan Bertahap Sesuai Standar&nbsp;&nbsp;jurnas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "5d266d2e0f51",
@@ -95938,6 +95990,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "040127658e1b",
+    "title": "Kemendes menegaskan belum ada rekrutmen pendamping desa - ANTARA News Yogyakarta",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTk85SDA4NHNERHpQSWp6TGowbHpQei1lWVBUYUIwci0ybTRDbGNiVVVlaW1fRzRLbG5qR1NFMFFaVDctNFhMN1F0R2tWa21MWnVpWTRYX2Nqa0lTV1h1TzF3M0cyYnJjNmF4aGQzOEhvQm8yMFYxUkVWN0lEYWk1UjNZTm5wY2RsUWRaaGs5dVI2dnowRl90RlNlVWFJb1k",
+    "source": "ANTARA News Yogyakarta",
+    "pub_date": "2025-09-26T14:00:00+07:00",
+    "desc": "Kemendes menegaskan belum ada rekrutmen pendamping desa&nbsp;&nbsp;ANTARA News Yogyakarta",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "9c0fb82da3ad",
