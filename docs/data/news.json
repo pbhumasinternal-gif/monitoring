@@ -1,5 +1,18 @@
 [
   {
+    "id": "1a6ef10b0803",
+    "title": "Soroti Kinerja Inspektorat Kaur,Perjalanan Panjang Laporan BSKN RI Soal Dugaan Korupsi Dana Desa Benteng Harapan Belum Ada Kejelasan, - Sambar.id",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iQlpYN0sydWJDcG9YdUI2MUV3OG81U2w4cktVcEtSMzBOa3l3RFZNakc1V1RBTEgySlFIS2VUZnkyVm00SzMxNDMta3pzTFBCemoxVVh1SmE4ZzVEdk5wZDhtWVhPYlcyQXJLOW9n",
+    "source": "Sambar.id",
+    "pub_date": "2026-11-25T16:32:00+07:00",
+    "desc": "Soroti Kinerja Inspektorat Kaur,Perjalanan Panjang Laporan BSKN RI Soal Dugaan Korupsi Dana Desa Benteng Harapan Belum Ada Kejelasan,&nbsp;&nbsp;Sambar.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "0d1db6a60a14",
     "title": "Polisi Turun Langsung Ke BUMDES Rama Mekar, Kapolsek Cipatat Dorong Ekonomi Desa - SUARA PAKTA",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbTdYY0Y0YVFGMXJJTndIdGhFdDYyOWdYLUFfTmpBSHgwR2V6S2VCX2w3QkFfYTNrTTdzb2xwaDcyaHA1cXRTbUZEQl9BQWJtdkRLdWhnSDlIQmd5UThVNWVsLU53aTdhd094REc2WUpiNGNQTmRfVkJOYlBJSW53endn",
@@ -39,6 +52,45 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "dd63c5ffd518",
+    "title": "BGN Proses Pembukaan Dapur SPPG di Wilayah 3T Bertahap - Lensa Hukum",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DOF8zOGdQVHBLRld5eEhlcEU0djRpcGFMRlp4RFg2NGcyTWt0b2hsM0NBVmY5RTNlWFVVTUpnQjUtaFhUa3VseUhOUWxxUEQtbnRRdjFTeVdpQzB6QXZYb1R3",
+    "source": "Lensa Hukum",
+    "pub_date": "2026-11-25T15:36:52+07:00",
+    "desc": "BGN Proses Pembukaan Dapur SPPG di Wilayah 3T Bertahap&nbsp;&nbsp;Lensa Hukum",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "edbb717cdf8a",
+    "title": "Bappenas Luncurkan Buku Kebijakan Percepatan Pembangunan Daerah 3T - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVlGM2dmVEVsZVBfcG5YSVBqMXE0MEM4ajRRV2cxNWhocXlIVjZxcFUtTG15TmRwUndhVDRwN0UwZ1hRbjJWNXlFVUVLWTRqamZjMzNfelNsT1l3Ti1sQ1ROUWZPd09UdzVKZ2lQQm5idlVCTVJEV2JNbEtKWng2WUhYNVB5UVhOVG9kSkFjNURHNGcxcjdTVmJnZVcxR1otWC04OUZWbFF6S01rVkE",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-25T15:26:00+07:00",
+    "desc": "Bappenas Luncurkan Buku Kebijakan Percepatan Pembangunan Daerah 3T&nbsp;&nbsp;RRI.co.id",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c5f15e7c4d58",
+    "title": "Pemkab Nabire Siapkan Pemerataan Guru, Sekolah di Wilayah 3T Jadi Prioritas - Nabire.Net",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTdraHdXUl9RbGJ2NkQ1Nl9TWlpuSHNxRWVLWE82Y2g0amo3Q2w0U2NDVWRXTFlJbDNUbkdyeUtYTndQWlNRNm1YeHBWeU1vcHBEV2J2QXltdGdUZzYwNG40eXBCbkMxS3NfcndBRlJmcThfNkszdk0yX0tDUkNKWkR4VGU5dkxNRjR5TnJoblo2Nng4SU52NHFUR0hXUlk",
+    "source": "Nabire.Net",
+    "pub_date": "2026-11-25T15:26:00+07:00",
+    "desc": "Pemkab Nabire Siapkan Pemerataan Guru, Sekolah di Wilayah 3T Jadi Prioritas&nbsp;&nbsp;Nabire.Net",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "7782955e5c9f",
     "title": "Menyalakan Cahaya Pendidikan di Wilayah 3T - Heta News",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONGdzRF93eUROV1czOWY5NGNKRXN3b0JzSFpNTDU3RkNtY3JXbmt3MUtoYUROclVLakJqeVprTlc5WkdOSTZJLVBPVV9JQU5BOWM3QUp5M0RTczgzWElBeERVRnQtN2IwNFgyX1RTSi1lVGVwMEpaM1hldHhLYl95dVlhSVdDRDA4aXc",
@@ -47,6 +99,19 @@
     "desc": "Menyalakan Cahaya Pendidikan di Wilayah 3T&nbsp;&nbsp;Heta News",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "12913b87f6af",
+    "title": "Dana Desa Ikut Terdampak Pemangkasan Transfer Pusat, DPRD Ponorogo Soroti Dukungan untuk Desa - Sinergia Mediatama",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT3p3QTdUcWxSQ01JNkdwZGZ6bUxMRU1hX3Nfb1ZFY05GNUZkdkIteWJwa2VLTXljYnlna09XTTNKT214MHZESjJMTy0wZUFPUS1DZ0hjeDJwdDJFZjNVeVNzNFQ2ZVI0a3VROFZjSlBHYlUwVGpyVnhXS3Bib3pQV3FHOUl4MUpLWlVmS2dQM0dwSDFXTDFEQkdRUVQyWUFxT1RrOXFqSjVYbWdscGE3QlpoNFlWOXpnWEEyNmZHTXU",
+    "source": "Sinergia Mediatama",
+    "pub_date": "2026-11-25T14:54:30+07:00",
+    "desc": "Dana Desa Ikut Terdampak Pemangkasan Transfer Pusat, DPRD Ponorogo Soroti Dukungan untuk Desa&nbsp;&nbsp;Sinergia Mediatama",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -149,6 +214,19 @@
     "source": "JambiLINK.id",
     "pub_date": "2026-11-25T14:05:55+07:00",
     "desc": "Kanwil Kemenkum Jambi Harmonisasi 10 Rancangan Aturan, dari Dana Desa hingga Penyertaan Modal BUMD&nbsp;&nbsp;JambiLINK.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0d1ecb8be119",
+    "title": "Atur Dana Desa hingga Layanan Kesehatan, 6 Raperbup Blora Masuk Tahap Harmonisasi - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGV5bU4tQnhaSjJGblVkQmdPZ19EcjRoTGVPVWpobXlGM0NHMGt2UEcxak1HalRLXzZFVUllNFZnQV9lR1ZuSUtSYnBHb3l2VGJJTGlTVXZielhOaTlWQkh2YmVFWmhZTUY1ejJSTHM3YXE3LXhtbktqa0tTSllOdFM4YjE3LXA4aGZPUGlPZnFad3ZiekZjYWpQbnM3ejZyYjBYbG9BbnU5QUNod0hKM1l0dzUtaTc0Q1NmcHhBVDdyQQ",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-25T13:53:00+07:00",
+    "desc": "Atur Dana Desa hingga Layanan Kesehatan, 6 Raperbup Blora Masuk Tahap Harmonisasi&nbsp;&nbsp;RRI.co.id",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
@@ -3430,6 +3508,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d512075e434b",
+    "title": "Soal Dugaan Korupsi Dana Desa Wae Codi, Kejari Manggarai Tunggu Hasil Pemeriksaan Inspektorat - Floresa.co",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa2NjZkpaZUcycEwxR2ZuenhTVmx4VVVLbUQtaUpUNzc0SWxOSmE0NUVjUjlvMjJBWGRjU1dGMGttQmExTUpWclEtS2xnZHB5ai0tdXE1X2M5TWsxRW5qY25DNTdlUm12OXFPQU5GcC1nNlU1ZURBSGJGNE44blJmSWlhY0pnMkhYV1h4dlFmOW5QNlpSOGNwZVdiRnhqYV9HRjBnOU8wYmpzWk1fcFB6ZjVhZ1kxNS1LNnhjMkJLZ2p0dkFYSmdoUDZ3aGZPcDBGV1gzaWV5aHNQeU5xdGZNM1FR",
+    "source": "Floresa.co",
+    "pub_date": "2026-11-21T18:30:33+07:00",
+    "desc": "Soal Dugaan Korupsi Dana Desa Wae Codi, Kejari Manggarai Tunggu Hasil Pemeriksaan Inspektorat&nbsp;&nbsp;Floresa.co",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "7038000af660",
