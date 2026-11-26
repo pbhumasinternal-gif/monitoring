@@ -26,6 +26,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "44c03538955a",
+    "title": "Kumpulan Berita dana desa di pamekasan - Antara News jatim",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SS28wcmFpbEhydW4wMHpBX2lvOHpYWndUMHBEMFp2ZUdseEE1RzFjdm0wdzBRZVRBQk9CMkFUbktSS0ZYbHpMVVRJT2NqbW9WeEJ5eDV1QmQ4WVc2T2pCeDBSYkxEbGZZ",
+    "source": "Antara News jatim",
+    "pub_date": "2026-11-26T22:26:26+07:00",
+    "desc": "Kumpulan Berita dana desa di pamekasan&nbsp;&nbsp;Antara News jatim",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "2ff497e81ebf",
     "title": "Pegadaian Kanwil V gelar edukasi Gencarkan di wilayah 3T Sulut - ANTARA News",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelFVVjFlVVJSbU52UVRWQUxBcXRZak9IVXQxOHZVeE9vU0xKRUVYSFNRRkhBSjFuOG9PdUR5N0xKcmFyS2VmVzJvLVJLWm9kWWY3dzFMTV8ta3dPV1pfbEw3V0JzdjhhclVnNnNFZllCb19hRnFGcUotWGw0cjl1dEtILVJlQ1VleU1aMWpwWENCa1g5YVRyNjRocExyOGZzTWQtNC1YNA",
@@ -50,6 +63,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "d488f64deaf0",
+    "title": "Korupsi Dana Desa, Kades di Pandeglang Mendekam di Penjara - BantenNews.co.id",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEF1RTBaYk9EeUNYRjhtWFBmRnZFa0R3NEdhZ19sU2J3MG1hUlBWYUMxY1V3Vzd6NU14WFZHVlNxY2w0Z2YydV9rdDVsRUxkTUtlb0hGS3NKQXYzaDI4dUxGZUlBdmFIRThES2w2VmZ0dmk3bDd1b2t4S1FxTG55NHJrd0ZraWxDTVFFbmhoN2M",
+    "source": "BantenNews.co.id",
+    "pub_date": "2026-11-26T21:28:38+07:00",
+    "desc": "Korupsi Dana Desa, Kades di Pandeglang Mendekam di Penjara&nbsp;&nbsp;BantenNews.co.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "8d9e1d070c6c",
