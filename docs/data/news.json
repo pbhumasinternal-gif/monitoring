@@ -1,5 +1,18 @@
 [
   {
+    "id": "19981cfe7743",
+    "title": "Kemenkop minta KDKMP bangun jaringan perdagangan antardaerah",
+    "link": "https://www.antaranews.com/berita/5880463/kemenkop-minta-kdkmp-bangun-jaringan-perdagangan-antardaerah",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-26T17:14:10+07:00",
+    "desc": "Kementerian Koperasi (Kemenkop) mendorong Koperasi Desa/Kelurahan Merah Putih (KDKMP) membangun jaringan perdagangan ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "72cc4e87be99",
     "title": "Modal BUMDes Raib, Warga Desa Geruduk Polisi: Salah Siapa? - Desa Merdeka",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSVBlWTY4ZktpemdGVmUtWTVXeUgxc3lnZW9DNWZaV1RoTmwxNXE4dk9WNXQzWElHQUdDQ0VzLUpvSDFmX0ctLXF6VFBFbmJkOWZsSGdUVDhaUXdweWo1SVMzYXJnazlqWXJNTVVOenRRT2NTQjJzMDRiaGFkZnJOd3Bkb0JOUQ",
@@ -221,6 +234,19 @@
     "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
+    "id": "87482a4e74d3",
+    "title": "Foto : Mengenal Beasiswa Kemendes yang Viral, Penerimanya Harus Bayar Rp 80 Juta Halaman 1 - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcUMtYmVtVUEtSXphdzdEcm5SUXpHbS1Kaklxakh5N0lKMGRURzJ6TWxKQ093Z1I4YXh4Z3dmamVtYllJX0ZBaHRaTmxFNUs3ekpEcy1xb0U2dkJBQkN4Q3lGU0tuSS1KcDBzWmo3ZDUtdXNHdU0wbzFGN1NNeFVuNFpEY2F3V3FlSVhPekM2LUJsSUhTY3VpZ3VWRFlPUjBGNHZqc3ZKb3BvQndOU3RZQzgzWHpUdGNjNDNlaGI3WUJBZzR5VmZwZ2FfUFNmZw",
+    "source": "Kompas.com",
+    "pub_date": "2026-11-26T12:31:56+07:00",
+    "desc": "Foto : Mengenal Beasiswa Kemendes yang Viral, Penerimanya Harus Bayar Rp 80 Juta Halaman 1&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "fa6208ea3e4c",
     "title": "Pemkab Mahakam Ulu Kaltim Studi Tiru BUMDes Masingai I Tabalong - Warta Banjar",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFEySVBfblcyMGhIUDlvcHVuSmd4WGpxZGo3ZDRUYlFoNXFKeDdyVklrOHc1dUp2a01BMmFmeERqOGFYVThfS09SM0laSm1mbGpESlctdW5Sc3hmeTZVZlN0T0hiaUlIZVU2dXFya2p3c256RmprMER2aXNVdUxUZnB5U1pDSXZfdm9tb0Y3cENwa19UVGRBd19HdTJGRk0",
@@ -435,6 +461,32 @@
     "source": "Portal JTV",
     "pub_date": "2026-11-26T09:30:00+07:00",
     "desc": "Waketum PAN Yandri Susanto Sebut Gus Fawait Layak Menjadi Gubernur Jatim Pasca Khofifah&nbsp;&nbsp;Portal JTV",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2c104050acea",
+    "title": "MBG Jadi Berkah bagi BUMDes Ciamis, Peternak Telur Kini Punya Pasar Tetap hingga 30 Kg per Minggu",
+    "link": "https://video.tribunnews.com/view/976703/mbg-jadi-berkah-bagi-bumdes-ciamis-peternak-telur-kini-punya-pasar-tetap-hingga-30-kg-per-minggu",
+    "source": "Tribun Video",
+    "pub_date": "2026-11-26T09:07:00+07:00",
+    "desc": "TRIBUN-VIDEO.COM - Tribunners, kita ada informasi terbaru dari Kabupaten Ciamis, Jawa Barat. Program Makan Bergizi Gratis atau MBG ternyata membawa berkah bagi usaha peternakan milik Badan Usaha Milik ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "76b749435206",
+    "title": "230 tim sudah mendaftar, Kemendes bidik 1.000 desa di turnamen esports 2027",
+    "link": "https://www.msn.com/id-id/berita/other/230-tim-sudah-mendaftar-kemendes-bidik-1000-desa-di-turnamen-esports-2027/ar-AA2ihnq9",
+    "source": "Pikiran Rakyat on MSN",
+    "pub_date": "2026-11-26T09:05:00+07:00",
+    "desc": "Kemendes PDT menargetkan 1.000 desa mengikuti TEDNas 2027. Sebanyak 230 tim sudah mendaftar, simak jadwal dan peluangnya.",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
@@ -116772,6 +116824,19 @@
     "source": "Kompas.com",
     "pub_date": "2020-04-27T14:00:00+07:00",
     "desc": "Warga yang Tak Punya NIK Tetap Bisa Terima BLT Dana Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "2df9e31389bc",
+    "title": "Foto : BLT Dana Desa Mulai Dibagikan, Tiap Bulan Keluarga Miskin Dapat Rp 600.000 - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjBZamtMSDYteTI4N2NKdFpFRmpHVWJmZl8xVUZVRU9LRE0tQ1hLWF9tSXJPanBjRFF1QUdnLVdfRTEtYi16VXRPU2NlRHd6TlNHbjJaeGNUV1RSQUp5U3lsZ2dlMHlZS0l4NVZVUW43dWRRWlFxaHZWeHNlOW1zUnhCWHdyaXF4S0ZIcXoxRDM4VldEdU82Zk12R09KNTVxdmEtVVpWZkRheTY1dW1HSXNlbUtlZUhKRmtEeTlNelB1Zw",
+    "source": "Kompas.com",
+    "pub_date": "2020-04-27T14:00:00+07:00",
+    "desc": "Foto : BLT Dana Desa Mulai Dibagikan, Tiap Bulan Keluarga Miskin Dapat Rp 600.000&nbsp;&nbsp;Kompas.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
