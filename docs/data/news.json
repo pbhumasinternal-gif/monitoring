@@ -1,5 +1,18 @@
 [
   {
+    "id": "a65cb8ada3bd",
+    "title": "Wakil Panglima TNI tinjau pembangunan jembatan antarpulau di Touna",
+    "link": "https://www.antaranews.com/berita/5880963/wakil-panglima-tni-tinjau-pembangunan-jembatan-antarpulau-di-touna",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-26T19:34:52+07:00",
+    "desc": "Wakil Panglima TNI sekaligus Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Jenderal TNI ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3f58404903e9",
     "title": "Kemenkum NTB Harmonisasikan 10 Raperbup Sumbawa Barat, Atur Alokasi Dana Desa hingga Batas Wilayah - Grafika News",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTjNoTms4N3ZRbTdHd0w3VFdmbDBHZGg3ZnZpc2JzcmU3amRKenFnNDVfQXpZeER4MXRGRjJaaGZBVTZzX0kybUVMTzZLZVdIOGRJM3ZMd2FvbElZZllCckUwa1FZMV9aamlDU2RnV1FOamZfek9aei1DLVIwcjZGSlB3Qld5aUpoUWtSbUh4ck1FeDd4bHhEZUtjNVl0U3ZyOFo4T3otMldrNS1hc3h3WkNBWDhsTFpJRGgybFhveEdZQzJzeFhfRC1YTlF5dw",
@@ -8,6 +21,19 @@
     "desc": "Kemenkum NTB Harmonisasikan 10 Raperbup Sumbawa Barat, Atur Alokasi Dana Desa hingga Batas Wilayah&nbsp;&nbsp;Grafika News",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "353cb5101a27",
+    "title": "Menguji Logika Rekening Pribadi di Kasus BUMDes Ngadirenggo - Desa Merdeka",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjBKenZpVkRkTHY2Z0F2SDZwXy1hd0NlZFpZTGpYdkdDb3VkcFlmNGlDODF0cG1hZ19yYnhyYXdvTDhIamp3clRLSW40elliUVBfRW5mRjRZT3BzV1poNDhfT1ZEczcwdEQ3U0NieDlHdGpBbUk1UUlEZG5xUHdPS1Y0Vlc4bjJvVC1PMld1TFlmZw",
+    "source": "Desa Merdeka",
+    "pub_date": "2026-11-26T18:15:00+07:00",
+    "desc": "Menguji Logika Rekening Pribadi di Kasus BUMDes Ngadirenggo&nbsp;&nbsp;Desa Merdeka",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
