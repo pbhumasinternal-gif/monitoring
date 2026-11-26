@@ -1,5 +1,31 @@
 [
   {
+    "id": "2f15cefe43ee",
+    "title": "APBD Dairi 2027 Turun Rp190,69 Miliar, Dana Desa Dipangkas Rp62 Miliar - HARIAN MISTAR",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdnRmbzRWQkp5N01iaXFRMWxoRzNpSC11N0wtWnRlc2hMRHpwUHVqdHlOV1lTOTNiZFRGZno1ZmpzdzlqNEhJNmtuVFJpTDRCNTl1eEIzVFNDUVV6eUhfVmhGOHdLaEU0TzNpTlRDYU03Wko3ZnM5RDB0QlNnZWlDRndlZ2FYazdFY1pERTRRTUlHNVlJY290TnJTcTUydw",
+    "source": "HARIAN MISTAR",
+    "pub_date": "2026-11-26T12:54:31+07:00",
+    "desc": "APBD Dairi 2027 Turun Rp190,69 Miliar, Dana Desa Dipangkas Rp62 Miliar&nbsp;&nbsp;HARIAN MISTAR",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
+    "id": "fa6208ea3e4c",
+    "title": "Pemkab Mahakam Ulu Kaltim Studi Tiru BUMDes Masingai I Tabalong - Warta Banjar",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFEySVBfblcyMGhIUDlvcHVuSmd4WGpxZGo3ZDRUYlFoNXFKeDdyVklrOHc1dUp2a01BMmFmeERqOGFYVThfS09SM0laSm1mbGpESlctdW5Sc3hmeTZVZlN0T0hiaUlIZVU2dXFya2p3c256RmprMER2aXNVdUxUZnB5U1pDSXZfdm9tb0Y3cENwa19UVGRBd19HdTJGRk0",
+    "source": "Warta Banjar",
+    "pub_date": "2026-11-26T12:29:03+07:00",
+    "desc": "Pemkab Mahakam Ulu Kaltim Studi Tiru BUMDes Masingai I Tabalong&nbsp;&nbsp;Warta Banjar",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "90235c5d8d2c",
     "title": "Perkuat Perlindungan Sosial, 100 Keluarga di Kopiangker Terakomodasi Program BLT Dana Desa 2026 - Berita Manado",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ3lodkV4Ri0yZU5admw3emFVY3FUQk9hT0VlNGZMaE4yUEtSdF82bi1YUkVSdGZ0Z0RWdGpBWGRlZUJQd1duTmNNNHU3bzI2ME8wU3lQRU1Ib0pjT2s4Q2JfUVh5ZDdJSkZuWUNEZ3JKbENtVFlTV3VDWWFGUFA2bXMtMUlQVEZiQVRQMWcyTk9yYVM1U1JDcklVRmE5Q2tua2JGSzFZU1NobmtXWU5EU29qSDBmd3hnR3YyWA",
@@ -21,6 +47,19 @@
     "desc": "Inspektorat Mamuju Audit Pengelolaan Dana Desa Bonda 2022-2025, Berawal dari Dua Pengaduan&nbsp;&nbsp;Tribun-sulbar.com",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c4eb82d63c4a",
+    "title": "Penasihat Mendes PDT: Industri Harus Buka Peluang Pertumbuhan Ekonomi Warga Desa - JPNN.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWURDODFXQ2FBcVVSM2QxcWlrRTQ5NW9hMHQ0dHhZYm1WNHRfdkFqYUZGei1FZTNadHhBMHRwUVh1dmpWMDFVNjg4VERhc2xUZVZ0N18wOUI3cGlPM3NBckVhM3pRSG1zV1laZk5RbGl2Y0NRR0dNMURuT2ZqQ1FGTVh6VFNLck44czZvWC1PdjJqb3QzeGE3X3RvUTh2QlNRc3VCeGFiSlLSAasBQVVfeXFMUFRrR2xROXJ1UkVXZVRGUjQzcllrSEJxOUNidUkwbkpUMWtpdWo4Ty02SDEwdm1RcDdnZFg5ZVVFc1VzUTJQSUM5LWlvc0ZuSzhTYnVfOEQ2NU9jNkRrX2RWQ3JoQ2d0Z0p5NzFjYXdkaVVsS2hHWDZJT3Y0LU1lS256OVI0OXczU1FIYlBNOHZVVXR1Ynp5ZWtMRUwtTmNUTXhCVDVZSmxzdjdB",
+    "source": "JPNN.com",
+    "pub_date": "2026-11-26T11:51:27+07:00",
+    "desc": "Penasihat Mendes PDT: Industri Harus Buka Peluang Pertumbuhan Ekonomi Warga Desa&nbsp;&nbsp;JPNN.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -50,6 +89,19 @@
     "sentiment": "positif",
     "sentiment_score": 4,
     "sentiment_tag": "Capaian & Pemberdayaan"
+  },
+  {
+    "id": "07f6a6fc9a91",
+    "title": "Beasiswa Magang Jepang Kemendes Minta Biaya hingga Rp 80 Juta - شبكة تواصل الإخبارية",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNLWxiZ0pFWDQ5dVVsMk5tcDVzZTY4akdJYjdoQkxFZk5ucktqaVFBb1MxcTJoUW1TRVVTNnVUaHRXWm1IaU1DNHBieDVfQnNDOFdv",
+    "source": "شبكة تواصل الإخبارية",
+    "pub_date": "2026-11-26T11:32:50+07:00",
+    "desc": "Beasiswa Magang Jepang Kemendes Minta Biaya hingga Rp 80 Juta&nbsp;&nbsp;شبكة تواصل الإخبارية",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "936b831bea63",
