@@ -1,11 +1,37 @@
 [
   {
+    "id": "e10b22a0a3ed",
+    "title": "Dana Desa Dipangkas, LKIPD Justru Undang Bimtek ke Medan : Urgensi atau Beban? - deteksi.co",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbDI5QTRMMXl1SXp2MnJUUWQ5VTZMRDVCZzd6Y2c3X0VkNWFheFJKRkI3Nkg1R0dmZzQ2S1V0enp0eE1FQkY3eXNBQldqWFN6TUZLYzZBenZ6MWZQMjU5ODhGaEZtRTlvWlpIclp0SWh2OWdFX1lkeTNDZk90RG5CU2tUWmE3OHJ1bDgxZ0x2Vlpncy1ObnRRZG5B",
+    "source": "deteksi.co",
+    "pub_date": "2026-11-26T16:19:03+07:00",
+    "desc": "Dana Desa Dipangkas, LKIPD Justru Undang Bimtek ke Medan : Urgensi atau Beban?&nbsp;&nbsp;deteksi.co",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Tekanan Anggaran"
+  },
+  {
     "id": "227292ebfb65",
     "title": "Kemendes PDT upayakan TEDNas 2027 jangkau desa sulit sinyal",
     "link": "https://www.antaranews.com/berita/5880119/kemendes-pdt-upayakan-tednas-2027-jangkau-desa-sulit-sinyal",
     "source": "ANTARA News",
     "pub_date": "2026-11-26T15:58:36+07:00",
     "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) siap mengupayakan agar desa-desa yang masih ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "0b61b04b0130",
+    "title": "Program Makan Bergizi Gratis Mulai Jangkau Wilayah 3T, Ini Pelaksanaannya di Merauke | SAPA SIANG - Kompas.tv",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc0xMd1pfQ1lGU3owTWppU25KazVJaUJ4WnUyWmhqNXhJVDhWTGRVRDFQdUdZZ3EySVZXUF9oVDdOa1RMOXpVVG5fd1czU1RJNFY1NzlvbFJjZkkyUU1iQ2NzcEluNGxfWWZIOGh4X0tkaDVELWw0QWxUbHo1OXFlMElYdVoyUlo2M3R3ZVlfY2I2QVBaNUtrM0pOcFFkdUd4MWZ3dXlRQ1N6VG5kSS1mRHp2c3lFWEJTU0UzVFNKTWQ3Y1BfR3IzV2x2WVLSAdIBQVVfeXFMUEViSU1IQVJTZ2xVRVFDTV84b1haNkR0cV9BNmVmZEtub0ctUHBYTll1R1ZOckJVZTcyM1BFVVE1SUdlbXJHQUZYVzFKVmZLWVpuV3VKOXJERDJJSmJXYzlEcUI0WklzNndobm9sVTFfcjRuYmNsQjZEeUVqV1E3ZDA0SVo3Q2RHWlprS1I5XzFCOXF2S3BkczZ4ckhtVjNmWndCRmJ1ekFSbGx2LTM3bi1SNUplcWVvVzZHNmlJMnoxNGlmZUtlb0JyaUZHVi1VSzRR",
+    "source": "Kompas.tv",
+    "pub_date": "2026-11-26T15:31:00+07:00",
+    "desc": "Program Makan Bergizi Gratis Mulai Jangkau Wilayah 3T, Ini Pelaksanaannya di Merauke | SAPA SIANG&nbsp;&nbsp;Kompas.tv",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -526,6 +552,19 @@
     "source": "ANTARA News",
     "pub_date": "2026-11-26T02:24:00+07:00",
     "desc": "ANTARA - Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT), Yandri Susanto, Rabu (25/11), menyebut Desa ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "b4f681fbbb07",
+    "title": "Bupati Nias Utara Desak Pemerintah Pusat Berpihak pada Daerah 3T",
+    "link": "https://mediakampung.com/nasional/meka-20261126177048/bupati-nias-utara-desak-pemerintah-pusat-berpihak-pada-daerah-3t",
+    "source": "mediakampung",
+    "pub_date": "2026-11-26T01:04:00+07:00",
+    "desc": "Bupati Nias Utara Amizaro Waruwu mendesak pemerintah pusat memperkuat keberpihakan pada daerah 3T, terutama soal infrastruktur, listrik, dan internet.",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
@@ -86866,6 +86905,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "fd4668260ee6",
+    "title": "Pemprov Papua Barat proyeksi Rp194 miliar Dana Desa untuk Koperasi Merah Putih - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXE4UFZnQ1k0Mk5icVNyc2hmdkJPc2IxX0ZJamxNT01CQVhVVEdOcHFNVDZqdjg3ZV9BajJVQUNxRGpMYUZXaW5tUk95T2NRVFQybFU0ekdRekl3cDJ2RFdIeFpUV0liX3dzTzY5dW15RW1oTEp6b2c4dUwzX1o3aFZFTk9JNkdLRVk4Z1RwVmJqNjlXcUU5RWZtX3o2Y0F1TFYtcDhDVmtJa2hlMVFObm1kZWZuMzRqa25BTW9TQWFlZnc20gHKAUFVX3lxTE1NMWZaZmNQY2JVOGVzQjBmb2wyWTF6M2l6MVdHMXNIRjJpNVBOblRBOG9OazJTaFJUZlJwcF9GSzFVOUpRU05hcmVLNHRwS01wUTRtVHZxZmF3eXl6S215MDVuZE53X3ZSTzdmU1B6MXFJRHpzMXJIWnV6OUZib3dWQmZ4Zy1xaG5qcnlxNlpaVGNHdk5TeF83NHlvOHRkaU1Wbm9UcmZ5LTFLeHhxZWRZZ1h1NDJmRjdNbTZPY2xBTW40S0Z6LUoxaEE",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2026-06-22T14:00:00+07:00",
+    "desc": "Pemprov Papua Barat proyeksi Rp194 miliar Dana Desa untuk Koperasi Merah Putih&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "12dad75bd210",
     "title": "BPKP dan Itjen Kemendes PDT Perkuat Sinergi Pengawasan untuk Mengawal Program Prioritas Nasional 2026 - Badan Pengawasan Keuangan dan Pembangunan",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQU0ljRk85YmJWNlpjSWhBYXhibnRmc21XYlZJNFlHZ3ZGTk96blRLaWpDUVI1QWhpaW9JMEFBNEtuajZOeTY0TDZKS2NlM0hOcTFOVW9pTnVKeU5fWlR2MXprZ3JEQ1hLdU8zc1Z3MG12WjBXbXAwQzhKTVo0N08yQ1haR1h0ZEVWeUtEdjlwYV9xQUJoR1NrYjhvV0hCTUpjMTRIVU92akdKTm5oZTNRWnZlaTJ1REdKQzBOdm04clVKZEc3dXl1UkdId2FEZXZFOW5QTS1GMnVjSV95VEtzRDZxdU8yUQ",
@@ -97357,6 +97409,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "7c036055e8ba",
+    "title": "Pemkab Jayawijaya ingatkan kades manfaatkan Dana Desa sesuai dengan juknis - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQUdhdmFqQW1ZMEt2ajgyWFdZTWxGOU5qeFJrM1kzTHlfc3JidWRZQXNEWm5LdlhLQkt5aGs3WHFOa1BWMWpwOEsxNEtsT1JrVTVyVGUzdzVmb2UxSDJtM1B6RFc2VFh5LWVENlBuZk41T1ZBbXNxeE1xTzA5U1QzQ2dwbV95YndOQk5IMFNQdms4Umh5SVlPazRXM05VN3pRa19aNUtXN2I2VGJ0M1AzcjlSRHBaczcy",
+    "source": "ANTARA News Papua",
+    "pub_date": "2025-11-06T15:00:00+07:00",
+    "desc": "Pemkab Jayawijaya ingatkan kades manfaatkan Dana Desa sesuai dengan juknis&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d90d8eca56db",
     "title": "DPMK Biak: Dana desa 2025 biayai program mencegah stunting anak di kampung - ANTARA News Papua",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc1JWMXBpLWhHNGM2VEhHd3NCSEpMckpGRzNiajlUbU96NnkwLUFCcWRUVWljd3dSZVVtbTJZcG4xRnFlYUwtQzRIalFsWk9iTUVBRHBrb0wyNGhjWTZhZDFtS09IdFZtYmM5aTRuWkxXMXpEdVQ1dWczbTJGYy1xeXNFVEw1d0w1LURobnVYT2t0NldXeFVrb1BSTFJNeHluUjZ5al9EZjRYdFB4TEFVemkzdlBOMms",
@@ -98330,6 +98395,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "59466f8cbe94",
+    "title": "Polda Papua tetapkan tersangka korupsi dana desa Rp168 M di Lanny Jaya - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFEtS1k0ejA4SV9rdVlVMk1kZ1VHX0ZQRTNLUkF6ZDEwYTRBclVxOEpVc1M5d0NfT2NMdzBwNFNoZGREQWtPS2kyeHE1YkFEbnNVdFFSVWZNTEQ5M2V3N0t2TDd2S0dBRUVmcDViYU1fMm0xV3BUdTJESnNxTzdhV2tDeG94a3h5Wmktb1lvME9EaUlZSDVfVm93c1NIMktzUV9HUVcyMmZLTjRMVkxvdW43TQ",
+    "source": "ANTARA News Papua",
+    "pub_date": "2025-09-25T14:00:00+07:00",
+    "desc": "Polda Papua tetapkan tersangka korupsi dana desa Rp168 M di Lanny Jaya&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -14,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "aa32341f111d",
@@ -99658,6 +99736,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "ed076aa535e7",
+    "title": "Bupati Puncak distribusi Dana Desa tahap I di dua distrik - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWd2NkhWZ0tDdmV6TjQwbVA1MTRsN05IdTlaRFJkTkdSaUViSlRxcDdSaXdaWk01LTFaeERSZTJFWEtzdjBPYlg2N3lobDA5Z2xCb3FhRlFQR29RY0hISTZJSXJHZEFjSkNoX3l1bG5NUGpOSlhKeFlHRXZuVXFJR2IwclM1WW9mODQzNTJCeFJucWlTX0Nkb3dSYjF6NF9lM0xBYjV2UFrSAa4BQVVfeXFMTlNrZjNsaEt5TDlqYUk4YXlsTXNzbXZQVzVSQ3FzQVdOek5Pem94bXhGQTZZTjdZZF9Cdjk4S1pDM2FEN1R4RjRvaWd6dHdzLVdUbUY1b0FaNkZEUWs4UWdvTkR5dUNZUVM1aS0ycXlXU2RvdVoxLXJLR1czRWNBLThNZjNoOGloZGRIZ3BRcG1UR2hhM3JWczNlNzVMck1ob0M4cXdLVm00T0ZMRkZ3",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2025-07-28T14:00:00+07:00",
+    "desc": "Bupati Puncak distribusi Dana Desa tahap I di dua distrik&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "e6215819e4d8",
     "title": "Berita Terkini Harian Dana Desa Sumsel Terbaru Hari Ini - Kompas.com",
     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kUW1FczEyUXk2d1lSTUlDbWt5VU1Mcjk5dmFsRm5oaWN0Y1AxT2FIT2UybFRtcGVZZFFQalF2dFlvVGFfXzBzLVlya19LN2g2Qnlqd2lB",
@@ -100087,6 +100178,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "2b9929895916",
+    "title": "DPRK Biak perkuat pengawasan dana desa 2025 - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTlkVW1kejZGOG1hcEFIeDdyTTh4ejJ5QUVTMVpSRXhZVWlObHNERU04Q1BhV0hTN1MzbWhidGtPSVNOR0Q3bUdQNVZuM3FJb19iSmdJQlhubWZ4QTgyaG5maUszN2RDTkVHQWR4OVFUaEtRWk1BT0J5NmNxc012WGJ5QlV0ajhlWlNkWDBfdw",
+    "source": "ANTARA News Papua",
+    "pub_date": "2025-07-04T14:00:00+07:00",
+    "desc": "DPRK Biak perkuat pengawasan dana desa 2025&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Mitigasi & Pengawasan"
+  },
+  {
     "id": "f4b3f48c7529",
     "title": "Kemendes PDT: Belum Ada Pembukaan Rekrutmen Pendamping Desa, Masyarakat Diminta Waspada Terhadap Informasi Menyesatkan - pendamping-desa.com",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMmhDanBqaWRPeHpxZ0w3bVVRQWIwbmI1XzRRTlVpTGwySWpqdUlfb2oyS01kMkNZRlpJNldwblJhZXVPbERSTXpPNXNMUHRPeXJsNDR6ZkRraVFLYWo0ODZ2Wk5uaHdpMHBnX3ozQk5LN2JJSkVUODZEM2pOTHZ1M196VQ",
@@ -100368,6 +100472,19 @@
     "desc": "Mendes Yandri Sebut BUMDes dan Koperasi Merah Putih Tak Saling Mematikan&nbsp;&nbsp;detikcom",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "51a6edf11f0a",
+    "title": "Pemkab Supiori Papua benahi tata kelola dana desa di 38 kampung - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0tqZ2pJRWRwd1BaNzBubTN6cjRfR3lTNzBRV1pITGU3QjhVSTY0bDV6RDRHQ3BOMUtpaFd1blg4Z04wSXMzbWMzRE1UUUJXQjBiQklRQkNONUZMbnAydXlyamUxZ3lZaElCZnFyUUlrZjBpWE1DX3pETThPNHBnY2hiOG1TdDZmT01RYnp6cG5tU044amViN25wVi1lSEpQV09YSVhvNUNBQQ",
+    "source": "ANTARA News Papua",
+    "pub_date": "2025-06-22T14:00:00+07:00",
+    "desc": "Pemkab Supiori Papua benahi tata kelola dana desa di 38 kampung&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
