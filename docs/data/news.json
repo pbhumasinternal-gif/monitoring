@@ -1,5 +1,57 @@
 [
   {
+    "id": "52c61cc42d77",
+    "title": "Kemendes PDT dan Bappenas Sosialisasi Program IFAD ke Tiga Kabupaten, Mansel Siap Jemput Bola - Tabura Pos",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkhrd01fVXJfTFlSOGIzN3BLNmF3em5mRHhOcnB6RV9iaWJUU3dObGw5RXdieUJMVVdJX1Z1S1VOMzZVTXNnZHU5T2VaNEZPODBUMWpHZjM0MFRONlVGbjctcEFhSVpLVkVaZ3hMSVNlMzdXOWV1dWFOXzZpZXNzZzViYUdOR24xd2QzRGVrZUZ1cE9mSl9CdGYxNmp5eUZZYmRDTHFBU0lBUHZMbEs4Qk8zblpIRHk0LVM0Rlh5RHZHQVE",
+    "source": "Tabura Pos",
+    "pub_date": "2026-11-27T18:51:57+07:00",
+    "desc": "Kemendes PDT dan Bappenas Sosialisasi Program IFAD ke Tiga Kabupaten, Mansel Siap Jemput Bola&nbsp;&nbsp;Tabura Pos",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "483d7e945d46",
+    "title": "Perkuat Ketahanan Pangan Wilayah 3T, Bulog Bangun Gudang 1.000 Ton di Malinau pada 2027 - Nusantaraterkini.co",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSDY1UFBfS3c5clNvYmxrYU0tVms1LUgtMUxERThYaXBaaC1tZFprd0o3QmVDdndSOEdMc2E2SEVXeDVOR0Frd1kydEVWVU5hSlR6RlpnMkE5MEJVYmFxSFpNZDBOR0FYZ1lBNndtclhfMVd0ejhnY3ZuTUs3RVc0VlJ3S21XMy0wb0MzQVIxeV9OX2Fpbk04VjB6ZGdYNnFNMkk0dkFmTWltbHgxeXFzRkZpTQ",
+    "source": "Nusantaraterkini.co",
+    "pub_date": "2026-11-27T18:43:46+07:00",
+    "desc": "Perkuat Ketahanan Pangan Wilayah 3T, Bulog Bangun Gudang 1.000 Ton di Malinau pada 2027&nbsp;&nbsp;Nusantaraterkini.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "3d327f429464",
+    "title": "Panen Lima Hektare, BUMDes Waled Kota Bidik PAD Desa - Fajar Cirebon",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOblRvWVROMFNheFF0WXdIV0xVYnVQemlQY2NTQ3FoV2dCVXljeFRMSmhQLUpJQUpQa085YnI5d2lMVGpBZjhzdFZ4OTFIbE9ZVXdxWkpEc0dtNFdJbUpnWGFYcWZsSm41NjFLU3pYdkJYYzhOVkJMZVRaTFBraWtBS2oyWQ",
+    "source": "Fajar Cirebon",
+    "pub_date": "2026-11-27T18:29:00+07:00",
+    "desc": "Panen Lima Hektare, BUMDes Waled Kota Bidik PAD Desa&nbsp;&nbsp;Fajar Cirebon",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8053bee3f197",
+    "title": "Bupati Klungkung Lantik 22 Perbekel Serentak, Tekankan Inovasi di Tengah Pemangkasan Dana Desa - Baliberkarya.com",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcS02M1JENS1PMjdzRC1ySFFHSUpyOVZGZnZDT0NMLXBuZ0FzOW92SkdjQ0NTYTM1b3l2N0prdjJOa284Y3lxV0dtNzlkTUlFUFNqckdJUk5PTExoWS0wNHhuaGlBUHhCZVRTbl9BRXNyTlE3amZ5a0ExMmR4MGlCVGdXaG5mUVVZRDlJOGFKNlFJZWF5TUw2ODFOWjFkTDY4SlF2djFrUVpoODdIQUtwVk1HdTU3SE5Hc3ZBTF9PYnN4T2N0QTlvOFZiMFNMUmtDeDItbzZCNVlCUQ",
+    "source": "Baliberkarya.com",
+    "pub_date": "2026-11-27T18:27:18+07:00",
+    "desc": "Bupati Klungkung Lantik 22 Perbekel Serentak, Tekankan Inovasi di Tengah Pemangkasan Dana Desa&nbsp;&nbsp;Baliberkarya.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "4353626e5ba6",
     "title": "BUMDes Dewata Prima Cirebon Panen Raya Inpari 32 - Kabar Cirebon",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb2tXSU5LQWU2ck1wa3JaRk55N2Y4MThzTTJfeTB1SnlCWEg2S2JXMWUyeUM5dzZzQWs2a0pHMEJkRHNCRW5lanJQNFRWNHNvbDJZVEhDZXd1aDRFc0dEbnVMNHhIenZqQ093OHJMeXVFZDM0cV93cms1dTJxUVZKZ1BMaWJwOGNCdWc0dFJNNzBheTIzYzNlQ2ZUcy1pd3VTQXZUQnd6bXoxaUt3cmVmdk9qMmdLLURoRnpn",
@@ -13,6 +65,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "7fcab96c1ef2",
+    "title": "Aparatur Desa di HSU Diingatkan Jangan Pakai Dana Desa untuk Judol - Radar Banjarmasin",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTZqRGJqUzZabkhYZGRJcmV5SVZ6OE9LMDdYOGRLVzVLYUNMbUJEOVp1Y1ZRd3lNTk96R3J0blQwcXpzbEdRSm82TUZhbHpSUFhaSnBFSy11X0haMEc3Q05pUFF1VG9SU08ydXRnX2lySzFPUzFsa0Zob2U5YUo5S3RUd0F1Qk1NcnYtVGJCOTZXdVB1d2tuOHFqVjdwamJxcEtfd3RLcTlFNkNNM2hQR043ajQ1enZMZkNfM9IBwgFBVV95cUxPejhySV9wQWZfTE9zUm5TaGExc1g3YkpqRC1tTVV5VUVKaVlfMjVjSGx4dW8xTE44MmNTNG5KcGxXOHJfNnltNk40a2tQWlIwODdhMXpnWVhCRUk3UTdsWjN3bl91S1lQRk9icHE3Q0JZYmh6cWx5Uk9PZ2lHcTRkVHNvakhjbG5YMjFZektCSU43RjVWOEVPcTB0eWU0YlZrTTBQS2NwbGUyY1NxbS0wNFYwMDhXRkJmUVpwOTdjRHEydw",
+    "source": "Radar Banjarmasin",
+    "pub_date": "2026-11-27T17:40:18+07:00",
+    "desc": "Aparatur Desa di HSU Diingatkan Jangan Pakai Dana Desa untuk Judol&nbsp;&nbsp;Radar Banjarmasin",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -4,
+    "sentiment_tag": "Penyalahgunaan Anggaran"
+  },
+  {
     "id": "eb33dc351543",
     "title": "Pegadaian Sasar Masyarakat Talaud, Perkuat Literasi Keuangan di Wilayah 3T - sulutnewstv.com",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDB0ZFlWakYtUV81U0pEU1RqSzhQQU1SNEdwRTVlT29JUDJWbm1Ic3pWbDNqYzRRY1ZIcXRHMm8teEhBRWFpVlBZR1pwSlhCV0h6UUlVdm5lRm9Sam1EOG9HYmVmUVU2U1NtSGpRZXJVay1FdFlrQjhVLVUySGlvOUxvd0xYY1h2VFhsNHB6OU83Uk92a0xuV3g5Qjh0d0N5UHowTnRJaUt0TkhFUFE",
@@ -24,6 +89,32 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "7b4a83fa8aa0",
+    "title": "Akses Pendidikan Anak di Wilayah 3T Jadi Perhatian, 820 Siswa di Maluku Terima Bantuan - Media Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX25vRERRMExJdzVSdklIV2psb0ZhUnBrcXhJZXFKTmFpTmRMcUlVMEo2RnV1LURTbkk1UnZWUnMtVmVUYlFSSzhodk1aX1V3SUZmNDdaN01fMXFOTkI2bUNpY2ljSVdQUWJfS3RGZVBTajRqQVhySk8tSXZWUWNqOFprNUprWGhKaE5IVEdXUGROaEhyaC1ldUtkaU5FeEhPWFh5dVZQYTNHdVZac3ZjdHZCOXd2SWgzSERpX2VGcUpfMzEwaURnRg",
+    "source": "Media Indonesia",
+    "pub_date": "2026-11-27T17:35:22+07:00",
+    "desc": "Akses Pendidikan Anak di Wilayah 3T Jadi Perhatian, 820 Siswa di Maluku Terima Bantuan&nbsp;&nbsp;Media Indonesia",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c109b26b015c",
+    "title": "Cegah Korupsi Dana Desa, 17 Desa di Lampung Selatan Jalani Penilaian - rmollampung.id",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSWZoREw2M0V6ejJwYTZtb1JTUF94aExjSE9uVHJ5SnFBRk40b2NiQXFzckhWVzZQY0xpSEZJUU9JWTkxamhQb2trNm1leTE2SXFZMG04X2pxSmY4Y0JvRXFpUVI3anZDcVVLbGVFUkY0NU51bTFTS3Z0bEUwYnNuWjFoeGdtd05zdXBXY3Y0R3hqei1V",
+    "source": "rmollampung.id",
+    "pub_date": "2026-11-27T17:33:12+07:00",
+    "desc": "Cegah Korupsi Dana Desa, 17 Desa di Lampung Selatan Jalani Penilaian&nbsp;&nbsp;rmollampung.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "positif",
+    "sentiment_score": 6,
+    "sentiment_tag": "Mitigasi & Pengawasan"
   },
   {
     "id": "955981452893",
@@ -2515,6 +2606,19 @@
     "source": "Heta News",
     "pub_date": "2026-11-25T15:05:27+07:00",
     "desc": "Menyalakan Cahaya Pendidikan di Wilayah 3T&nbsp;&nbsp;Heta News",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8c3d99c29bf5",
+    "title": "DPRD Murung Raya Kawal Percepatan Pembangunan Wilayah 3T - Radar X",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWnFRQjM2Qm5fUi1Ia3dQSkVpWGZkdWotak9KQ1BfM01FVi1CQncwQXhtUUYzanBPV0FhcXFhUExSLVNvd1pkQjVxbl9qT3lMUUVHQjFqX1I4VjlEU0dQT0d0UDNjSFRvenRzdVd1eklDMXJPWXZheXFuRTV6MlB0MW5fQ0tBWHB4",
+    "source": "Radar X",
+    "pub_date": "2026-11-25T15:00:00+07:00",
+    "desc": "DPRD Murung Raya Kawal Percepatan Pembangunan Wilayah 3T&nbsp;&nbsp;Radar X",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
