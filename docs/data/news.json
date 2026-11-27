@@ -1,5 +1,18 @@
 [
   {
+    "id": "7bc033ecdbde",
+    "title": "Dua Pemuda Kritik Pengelolaan Dana Desa Batu Makkada Mamuju, Desak Inspektorat Turun Tangan - Tribun-sulbar.com",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkU5R3A5UUo1a3VzR25WTVIxLXdmRHRoNGJpT2hzLUlvdWVBcGhiWVl3M1N5ZmdJRVlFUUU0N2djbXotSDRyd0hIZXRRbFhBekY2N0tRbWlocGk1bGF5NVExUHVXS2tITUtwN3dUX29FbjNRUDhZUEJobDZmdzJUaVNUSldRa082VFhHSXRyTGFhSndRZUd1NTZRU0ZubVV3cUpfbE9sTDM3YUh0LWh0c2VGQkktZXNueTROYXdDc29aZ09aTEJKVGxJTmItQQ",
+    "source": "Tribun-sulbar.com",
+    "pub_date": "2026-11-27T09:01:40+07:00",
+    "desc": "Dua Pemuda Kritik Pengelolaan Dana Desa Batu Makkada Mamuju, Desak Inspektorat Turun Tangan&nbsp;&nbsp;Tribun-sulbar.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -2,
+    "sentiment_tag": "Sorotan & Evaluasi Publik"
+  },
+  {
     "id": "096ae628dc4b",
     "title": "MPBI Desak Polres SBB Segera Naikkan Status Kasus Dugaan Korupsi Dana Desa Luhu - LenteraMaluku.com",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQWtBQW43SzZYT3ZhLTdIaWJzTHVWU1Bta3ZoRjZCbUxfUmlBcjNDU3c4bkZRNVJjNUgxeHBaZmJiRlhfaG5TeDU4UWstdDdvdzhpZVRYNEdLRXdWbGlBNkg3WUZJSWQzNmFzaDFobjBPNDFCZHdQV0lwQWpfNG82TEkwQWNwZGdEcTh0OWk3TW5LRTlrc2xHYmpFM25BZXhndnJfQUt4UERuUQ",
@@ -323,6 +336,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "604b415da423",
+    "title": "BUMDes Blang Beurandang Dukung Ketahanan Pangan Melalui Pembiayaan Petani",
+    "link": "https://rri.co.id/meulaboh/asta-cita/2929858/bumdes-blang-beurandang-dukung-ketahanan-pangan-melalui-pembiayaan-petani",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-26T17:58:00+07:00",
+    "desc": "Pemerintah Gampong Blang Beurandang, Kecamatan Johan Pahlawan, menjalankan program ketahanan pangan melalui Badan Usaha Milik Desa (BUMDes). Program ini dilakukan dengan membantu kegiatan penanaman, m ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
     "id": "85708f904ea2",
