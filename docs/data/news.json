@@ -1,5 +1,31 @@
 [
   {
+    "id": "7cfa591e0885",
+    "title": "BNPPDT Petakan Kebutuhan Pulau Terluar, Fokus Infrastruktur &amp; Air Bersih",
+    "link": "https://news.detik.com/berita/d-8773259/bnppdt-petakan-kebutuhan-pulau-terluar-fokus-infrastruktur-air-bersih",
+    "source": "detikcom",
+    "pub_date": "2026-11-27T19:23:23+07:00",
+    "desc": "BNPPDT memetakan kebutuhan infrastruktur di pulau terluar dan daerah terpencil. Peninjauan ini bertujuan untuk meningkatkan layanan dasar bagi masyarakat.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "a51dce3a74a7",
+    "title": "Kepala BNPPDT resmikan jembatan Garuda Merah Putih di Selayar",
+    "link": "https://www.antaranews.com/berita/5883199/kepala-bnppdt-resmikan-jembatan-garuda-merah-putih-di-selayar",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-27T19:07:22+07:00",
+    "desc": "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Maruli Simanjuntak meresmikan jembatan Garuda ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "52c61cc42d77",
     "title": "Kemendes PDT dan Bappenas Sosialisasi Program IFAD ke Tiga Kabupaten, Mansel Siap Jemput Bola - Tabura Pos",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYkhrd01fVXJfTFlSOGIzN3BLNmF3em5mRHhOcnB6RV9iaWJUU3dObGw5RXdieUJMVVdJX1Z1S1VOMzZVTXNnZHU5T2VaNEZPODBUMWpHZjM0MFRONlVGbjctcEFhSVpLVkVaZ3hMSVNlMzdXOWV1dWFOXzZpZXNzZzViYUdOR24xd2QzRGVrZUZ1cE9mSl9CdGYxNmp5eUZZYmRDTHFBU0lBUHZMbEs4Qk8zblpIRHk0LVM0Rlh5RHZHQVE",
@@ -710,6 +736,32 @@
     "desc": "Pegadaian Kanwil V Manado gelar edukasi 'Gencarkan' di wilayah 3T&nbsp;&nbsp;ANTARA News Manado",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "20554b95e44f",
+    "title": "Pascagagal Budidaya Nila, Pemdes Banuada Siapkan Pengurus BUMDes Profesional",
+    "link": "https://radarsulbar.fajar.co.id/2026/11/27/pascagagal-budidaya-nila-pemdes-banuada-siapkan-pengurus-bumdes-profesional",
+    "source": "Radar Sulbar",
+    "pub_date": "2026-11-27T04:54:00+07:00",
+    "desc": "MAMUJU, RADAR SULBAR – Pemerintah Desa Banuada, Kecamatan Bonehau, Kabupaten Mamuju, menyiapkan pembenahan pengelolaan Badan Usaha Milik Desa (BUMDes) setelah usaha budidaya ikan nila ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e3a1b6a44e2e",
+    "title": "Biaya Program Kerja ke Jepang Capai Rp 80 Juta, Anggota DPR Kritik Mendes PDT",
+    "link": "https://realitapost.com/biaya-program-kerja-ke-jepang-capai-rp-80-juta-anggota-dpr-kritik-mendes-pdt",
+    "source": "realitapost.com",
+    "pub_date": "2026-11-27T04:18:00+07:00",
+    "desc": "REALITAPOST.COM, JAKARTA — Program beasiswa pendidikan dan kerja ke Jepang yang digagas Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) menuai kritik tajam dari anggota Komisi V DPR ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
