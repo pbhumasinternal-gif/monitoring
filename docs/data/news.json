@@ -1,5 +1,31 @@
 [
   {
+    "id": "7850511b356a",
+    "title": "Kabakom: Kopdes hingga Kampung Nelayan perkuat kemandirian ekonomi",
+    "link": "https://www.antaranews.com/berita/5882723/kabakom-kopdes-hingga-kampung-nelayan-perkuat-kemandirian-ekonomi",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-27T16:38:52+07:00",
+    "desc": "Kepala Badan Komunikasi Pemerintah (Bakom) RI Syahganda Nainggolan&nbsp;menegaskan bahwa Koperasi Desa/Kelurahan dan ...",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "5fd6cd0d0764",
+    "title": "Sedekah Energi Mulai Bergerak, Sasar Masjid hingga Wilayah 3T - iNews.ID",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYlJlVGtfcW45VEJ3a0xZQng0bzRZd1F3LXl5ZEJsNVdydE0tLTF4Znk1UExyUFVyajZuUHZCS0F0SWhNQmtJREVYU3hFa0JDQTNMRlpWc0xTTWRGcHJlaFRjOU1Lc1ZXM2k5UWNETnlsM2Q2dzZIc2VNdkxoUzZlR2ZRNEFyaEhiYm11UXhRYmotdHZrQmQ2QlhZTdIBmgFBVV95cUxPYjl1VTFPN09NRzhmTDM1bkc0WmVBUGlCcDhIbDRXcWZ3UUd5NmZkSHp1S1IyWWFIM21EMXFyOHZGN2RjN1VldmFZb2dBRlZyTVRRYUM5bGtYUFhfeVNnc0l4UTJnRU1qeXRoVVZ4MkFqcEx3RktlUWc5Z0tQUmZZdmxPeEVBOVpNdkdnX19yTXdsRnZySjN6Qk9R",
+    "source": "iNews.ID",
+    "pub_date": "2026-11-27T16:10:02+07:00",
+    "desc": "Sedekah Energi Mulai Bergerak, Sasar Masjid hingga Wilayah 3T&nbsp;&nbsp;iNews.ID",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "d17432e1d896",
     "title": "BUMDes Lebuhku Kreatif Panen Raya Jagung - RRI.co.id",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZy1jeS1fS1VHMzdRbTA0UnBRVTZXdXV3Rlc3ckc3SGFKeU9YVDUzS2NKRl9CQ19aMFNXdjV0TG8yS3BqYkZ5Q00xdEdaT3lIUEx3dDVBTFpJSlg2Y0lrZDBpajF2MlVRVnJJZnBNQ0JVck1JVTU2aWwtTHd6TkRlTGM0cHdlT2RtRVIzRl9OWEdNQ2s",
@@ -2273,6 +2299,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "a29387ca6f6c",
+    "title": "Mendes Yandri Susanto Dorong Mangga dan Rengginang Situbondo Tembus Pasar Ekspor - FaktualNews.co",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMERKSzVBRGhfcnBJeGRxcnQwSnQyT29SMmpNdzJNNjVveF85WFZiNWMxSkh0NnliUUtDYl8yZHliU1p0eS1fR0xUaTBlQW5QR0tHXzBVaDlTSWZCUXJfUFdrT3A2Unc3UEZIVWFYWGpXLVl4TXZoTUswaDVBbC1rTjQ4bmY0aHhvOWtuNXlXTjVkQWpRN2lPcXNtRkU4OEpNaW1ZMWxLZHlnblNnNDJaUUJ0UQ",
+    "source": "FaktualNews.co",
+    "pub_date": "2026-11-25T16:22:00+07:00",
+    "desc": "Mendes Yandri Susanto Dorong Mangga dan Rengginang Situbondo Tembus Pasar Ekspor&nbsp;&nbsp;FaktualNews.co",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "positif",
+    "sentiment_score": 3,
+    "sentiment_tag": "Penguatan Ekonomi"
   },
   {
     "id": "0d1db6a60a14",
