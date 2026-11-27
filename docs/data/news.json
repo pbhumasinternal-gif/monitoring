@@ -1,5 +1,18 @@
 [
   {
+    "id": "b7a8165e03d9",
+    "title": "Kepala BNPPDT Tinjau Pembangunan Infrastruktur Dasar di Pulau Buru",
+    "link": "https://news.detik.com/berita/d-8772474/kepala-bnppdt-tinjau-pembangunan-infrastruktur-dasar-di-pulau-buru",
+    "source": "detikcom",
+    "pub_date": "2026-11-27T12:37:01+07:00",
+    "desc": "Jenderal TNI Maruli Simanjuntak meninjau penyediaan air bersih dan renovasi RTLH di Pulau Buru. Fokus pada kebutuhan infrastruktur dasar masyarakat terpencil.",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "42ee0bf406c4",
     "title": "Selidiki Kontrak Galian C Rp361 Juta dan Dana Desa Tahun Anggaran 2021–2024, Kejari Ambon Kembali Periksa Eks Bendahara Negeri Hative Besar - Ameks Online",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbjRJLVl0d0Y3OEFhUnlIaXItZXpPdU9kTGtDT0doVk1lY1FxTG5jQm5TdC1QNUIxTzFPazFWRE1DUExVSnFDTVFraDNUYkd5dU1RdDZNM1dXR1N6cGs4Y3l4MWxDb2JfUEdhYjVaTk0ybHdDUll0UGQwT0otSkV5d3NJblJtRHY3bGJzVGFpNEljcDFqQVpTcEk2ZlBQUTQtTTZkc2dxT0lxUUtrWlZzSnZnaW9kSnJyZjFBbjlMLXZsZ1hfNHpvSHZRaVpybmdCWmJJMzJ1dm1QQlhzYkRzYzVrc3VlR1RQWGIxMjRuZ1RKVWxUa1JzaTRwZklRZ0g3dTFybWZJRQ",
@@ -127,6 +140,19 @@
     "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8ca74ef1d3ea",
+    "title": "Menteri Pembangunan Daerah Tertinggal - ANTARA News Sumsel",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iRjF6ZU10ajJ4UkxvY0IxdXd2ZTRQUS0wQ3VWSkpsYTIzRk9aUERDS1hZMGRsZmhhTFo2ZmNhVUxNNXV4djJpcTBKTUtXSHluLVBJUjVfVTk1X3V6eWU2Q2pCemdMNUxYMGNpWnZtRFhtNUh2MktEaEhETkhuZw",
+    "source": "ANTARA News Sumsel",
+    "pub_date": "2026-11-27T09:44:03+07:00",
+    "desc": "Menteri Pembangunan Daerah Tertinggal&nbsp;&nbsp;ANTARA News Sumsel",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
@@ -830,6 +856,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "b52037849dae",
+    "title": "TPP Kecamatan Baolan Fasilitasi Penyusunan LPJ BUMDes Dadakitan demi Tata Kelola Transparan - LINGKAR.news",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlNNTm9Sc0E0Ql9aY1ExRnk0ZG1CQUtEWFNTeU9IbC0tckFFOU96MDVPRzRfRFhRNEp6emdHOHJWaFV4WFNONDBkNHlRdUxocUlRZnBRT0tTZWtWN1U5cjFNRTVIdUFTWS1YTEEtUVQxZlBKcEotMFBJTm5yMndvRFFkcmRxWmtXRERXamF1d0VXSjNYbFdGczFxdFRKbkxRNWhVMGQ5OWFBdEpZc0NDaHVHZGpMQUNXLWc0anV3",
+    "source": "LINGKAR.news",
+    "pub_date": "2026-11-26T13:10:43+07:00",
+    "desc": "TPP Kecamatan Baolan Fasilitasi Penyusunan LPJ BUMDes Dadakitan demi Tata Kelola Transparan&nbsp;&nbsp;LINGKAR.news",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 1,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "260a26471502",
@@ -4049,6 +4088,19 @@
     "source": "ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
     "pub_date": "2026-11-24T14:01:38+07:00",
     "desc": "Kumpulan Berita 20 dana desa belum tersalurkan&nbsp;&nbsp;ANTARA News Kalimantan Timur - Berita Terkini Kalimantan Timur",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f6abab3b2f1f",
+    "title": "Dana desa akan dapat digunakan cegah karhutla",
+    "link": "https://sumsel.antaranews.com/berita/408006/dana-desa-akan-dapat-digunakan-cegah-karhutla",
+    "source": "ANTARA News Sumatera Selatan",
+    "pub_date": "2026-11-24T13:53:00+07:00",
+    "desc": "Dana desa akan dapat digunakan untuk pencegahan kebakaran hutan dan lahan (karhutla), kata Kepala Badan Pemberdayaan Masyarakat dan Pemerintah Desa Sumatera Selatan ANTARA News sumsel 35 ...",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
