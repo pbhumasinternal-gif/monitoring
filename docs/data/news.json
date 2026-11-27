@@ -1,5 +1,18 @@
 [
   {
+    "id": "01c71e07de13",
+    "title": "Dinas PMD Mamuju Akan Pantau Pengelolaan BUMDes Desa Bambu - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVRoYUFZRGFUS2FNYURpaE56Q0pnd1pVdnhmQVF2MnJDRlRNS0pQOFE2OTFuM2dYMFUwbkp6YTFEX1hKcTFGbHBvWmNhdHNxbkNvRjdacHVtbk41cEFuYW1sQVdrR3RlRElhXzZvcnNXa0VCTENSVkR4cHhpSE9jZW5EY3NkSmItdGhydEhPcVJxd1lYdi00TXhIYzYxZzdFcXpJ",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-27T07:44:00+07:00",
+    "desc": "Dinas PMD Mamuju Akan Pantau Pengelolaan BUMDes Desa Bambu&nbsp;&nbsp;RRI.co.id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "158d0728ddc1",
     "title": "BNPPDT pastikan infrastruktur dasar jangkau warga di Pulau Buru",
     "link": "https://www.antaranews.com/berita/5881687/bnppdt-pastikan-infrastruktur-dasar-jangkau-warga-di-pulau-buru",
@@ -115,6 +128,19 @@
     "sentiment": "negatif",
     "sentiment_score": -7,
     "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
+    "id": "831c641810cd",
+    "title": "Kumpulan Berita ilpa dana desa - ANTARA News Bangka Belitung",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAta3M1QW1JTG5XSjhtSWhySjdyOFdISFlnNlVmRjFzdEtZNXJuci1yMGxCSDN6b0o3ZTZoQWt3VGVGdmJreWVxOUI5YmNTYWRmTXUweGhOLW50OFU",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-26T21:08:36+07:00",
+    "desc": "Kumpulan Berita ilpa dana desa&nbsp;&nbsp;ANTARA News Bangka Belitung",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "8d9e1d070c6c",
