@@ -1,5 +1,18 @@
 [
   {
+    "id": "d17432e1d896",
+    "title": "BUMDes Lebuhku Kreatif Panen Raya Jagung - RRI.co.id",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZy1jeS1fS1VHMzdRbTA0UnBRVTZXdXV3Rlc3ckc3SGFKeU9YVDUzS2NKRl9CQ19aMFNXdjV0TG8yS3BqYkZ5Q00xdEdaT3lIUEx3dDVBTFpJSlg2Y0lrZDBpajF2MlVRVnJJZnBNQ0JVck1JVTU2aWwtTHd6TkRlTGM0cHdlT2RtRVIzRl9OWEdNQ2s",
+    "source": "RRI.co.id",
+    "pub_date": "2026-11-27T15:32:00+07:00",
+    "desc": "BUMDes Lebuhku Kreatif Panen Raya Jagung&nbsp;&nbsp;RRI.co.id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "983b592e6410",
     "title": "Dewan Mura Tekankan Pentingnya Transparansi Penggunaan Dana Desa - Berita Seputar Borneo",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGJTWlRCY0w5UEpROG1ac1dKdENac1ZtcWZ5My1TY05OZlpfYW5NUVc1SVI3TUhHeXNjdXRldUZNdnJrZzRFYk9jMFlJd2ltYmtETkxwalhTdldUd2hQWVY2UW0yekZ1MHNGSFNKYm1BUnBGblZSUmF3a19HdzZPbzBIMGxpUWVDQWl2cWlESGZaME9wY2pUSjdRVG43dUg4SXotR0V4YUxlQQ",
@@ -11,6 +24,32 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "ffb1223b465b",
+    "title": "Gus Fawait Didoakan Jadi Gubernur Jatim oleh Mendes PDT, Bupati Jember Dinilai sebagai Figur Pemimpin Baru yang Layak untuk Jawa Timur - Pojoksatu",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxORTNXUGZndFdtR2NBWTRfWHZDN3BlYzM0aFRnVTVTM0R0RG9QN2RRQnFGbDl3SmYzb2lUdGlkS0RwX2Fjd1dweUVDZVprSW1IQms1TjFrLVZpdERELV90Sk5DWGxkaHFrY3hoc0N0MW1NRjBKYjFFN1lLMTdwRnBzcWRkQnd0ZXYwNjJmUmJqM3l6am14NlJza2J1RkRpdHNMMms2RU9USFBSZVI5clV5TEphUEZPSkwxV05Kbk5zVFZCNnlmWEZHcVNWVnFneGRHSlBHdGowWDBtR0c4U2FrOVpfeld4VEV2WWh5NE56bi1oUQ",
+    "source": "Pojoksatu",
+    "pub_date": "2026-11-27T15:03:00+07:00",
+    "desc": "Gus Fawait Didoakan Jadi Gubernur Jatim oleh Mendes PDT, Bupati Jember Dinilai sebagai Figur Pemimpin Baru yang Layak untuk Jawa Timur&nbsp;&nbsp;Pojoksatu",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e8d28ee00822",
+    "title": "Presiden Prabowo Apresiasi Guru Inovatif dan Pendidik di Wilayah 3T - Kabarpolitik.com",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHl6U29Bc2lpRGJ0SmQ1Z1lxN3haQTBGR1BTYWNuOVA5NExYZ05DN0JJUkwyMzd6SXFldjE2YlI4dUdjYzN2TkJncDM2NFFxOFQtY21hVDB2UzdaTW5rYUVNWGVjcVUxSHJzRWk1YUxaREEwbTl0d2E2WU9IY1BiemJPelBQczBuVE1JUnhjLXhQczhTLWZfeg",
+    "source": "Kabarpolitik.com",
+    "pub_date": "2026-11-27T14:38:49+07:00",
+    "desc": "Presiden Prabowo Apresiasi Guru Inovatif dan Pendidik di Wilayah 3T&nbsp;&nbsp;Kabarpolitik.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "0b7dd0ceef57",
@@ -117,6 +156,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "0257a57c372c",
+    "title": "Program MBG Jangkau Wilayah 3T, Dapur SPPG Samkai Layani 2.736 Siswa di Merauke | SAPA PAGI - Kompas.tv",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUVI4SkJ0ekViV0pUR2l4MXlTUmg4YkR2d3dOUUtSM1ZUb3hVNWFkS2VtUXJVS3BYREg4TDY0OGtJNm83M0JUMGNVLW1FanFRb0FyRjVxTUk5blNaRm11Vkl5QVhiWnZuU2ktdDZqcW0tNTFMRTAxdEkyUGJfMUljUnRDdGs2SV9ybjZWUjV5TjJHYkE0NnVIOUxlcWFxMndILVJ1bTFNQkhObEJfYnI5YXhlVnRWQmowczdxRWhEbnkxNEhP0gHKAUFVX3lxTE9YTDI4WVpzNGN0bFpDTHk4engxd1N4ajdTUm5ZOW8ydjlrUEUtR2lDUUNYa2FHaXpIMjdZZTNhZkEtOE04QXZyZVU1VjZiMVJJRFV4dGJVeHl6NXlYY1FSUnJLODc2UFNYbXRYOHpEeXlfNFdlWHU0SnM1bnJLU1hCeVd5ZDJ0VDRFYmd1ZUl2MWJRWXhud2VlRUJNdWlDMVhmMm50Vl96aVdsTHNSREdiYmhiSHFDQUljRWljdE1YU1hiWC1ydGtKclE",
+    "source": "Kompas.tv",
+    "pub_date": "2026-11-27T12:59:00+07:00",
+    "desc": "Program MBG Jangkau Wilayah 3T, Dapur SPPG Samkai Layani 2.736 Siswa di Merauke | SAPA PAGI&nbsp;&nbsp;Kompas.tv",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b7a8165e03d9",
     "title": "Kepala BNPPDT Tinjau Pembangunan Infrastruktur Dasar di Pulau Buru",
     "link": "https://news.detik.com/berita/d-8772474/kepala-bnppdt-tinjau-pembangunan-infrastruktur-dasar-di-pulau-buru",
@@ -156,6 +208,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "35e9cf680acf",
+    "title": "Kumpulan Berita Dana Desa Tersalurkan - ANTARA News Manado",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rU1lJb1ZRTFVZTUJjTVNEQjlOMDVpWDV0cjRVOWhCMWlfQ3V4RkVIOE9QVkFLZS0zaFJQME9nSzJ5bjR5M3o3QlNyYlpZWlE1aVpacFNlNHJjdDdTVDlkSUtEYjFfcU5Tc2c",
+    "source": "ANTARA News Manado",
+    "pub_date": "2026-11-27T11:23:22+07:00",
+    "desc": "Kumpulan Berita Dana Desa Tersalurkan&nbsp;&nbsp;ANTARA News Manado",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "f6aca90eb175",
     "title": "Mendes PDT Yandri Susanto Hadiri Pertemuan Guru Ngaji di Ambulu, Puji Program Bunga Desaku Gus Fawait Layak Dicontoh Daerah Lain - Pojoksatu",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeVNYcHlFSnBabEpwWVMxU3hmRnhwWG1FUmUyNVo4SG9Nd1RaTlZyTzBqanVGOWNEeVZXTnA3bzFqR3gxOXdJZl9ub3FzVkRlRW1wVEZaZXNBVTBhM2FiZ3B2cU9NT0RyMmtXMjVlWXVQeVJaTVozSTdpREVKVTZfNk9jTVlxQ0RWMk9kc1VZYlotTmp3eE42Zkw1VUtyS1ZkWHpxMElyYWg5cUQtVHZ5SXNTQUFjTFNzcDB5NDN6dHhTZjN4N1ZLMm5nU3VUMk5UN19EN3JXelRnTzZ2aVBWT0NLcEh3Z2c3Y1E",
@@ -164,6 +229,19 @@
     "desc": "Mendes PDT Yandri Susanto Hadiri Pertemuan Guru Ngaji di Ambulu, Puji Program Bunga Desaku Gus Fawait Layak Dicontoh Daerah Lain&nbsp;&nbsp;Pojoksatu",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c1fc38081217",
+    "title": "TASPEN Perluas Layanan Digital hingga Wilayah 3T, Layani 6,7 Juta Peserta dan Pensiunan - Beritakota",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnVnWG02dGZQVTBfakVkcjNCRHlCWUFrMlhsV05LZllUTzM2a0VHM1IwNVdlcV82N015ZFhlVktBcklaSHlLWkd1N1g3UG1DQ2NoeUdNWEp0anROR095Skt4NERWczJRY3dMamwxRG01R21Na1E4cTRVNzBkUkFyRG1QVFFtQW9nNEtHZXR4Mm1wbV9zX0o5NmhNWmRVRkhWX0hZbFd4WUZ3bm1m",
+    "source": "Beritakota",
+    "pub_date": "2026-11-27T11:07:00+07:00",
+    "desc": "TASPEN Perluas Layanan Digital hingga Wilayah 3T, Layani 6,7 Juta Peserta dan Pensiunan&nbsp;&nbsp;Beritakota",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -110240,6 +110318,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "8576d05b1ee1",
+    "title": "Foto : Wapres Minta 62 Bupati Daerah Tertinggal Aktif Melakukan Intervensi - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTW1HdUl5M2c0VWkzRFNxWS1jdEJfY2dyanVuclducXNCREpzOU9ULTlBbm5TOEZwWk9yTWVkSTU5UUNIVUZ4aHh4SzZlVFVyMEdiQ05RajFsSkpranBqZlh1MEE3a2hOanI2M0pqdjlFc3B3ZkxDWmJjdWZ6b29JMXA2QzV1amFXM3cxbC1XM0VUbHV4LTJuZTFuekZvS3dfTHFKSlhfQ3JSZURiV3JOcVlYcGFjU1kzMkJYRXVSSQ",
+    "source": "Kompas.com",
+    "pub_date": "2023-10-04T14:00:00+07:00",
+    "desc": "Foto : Wapres Minta 62 Bupati Daerah Tertinggal Aktif Melakukan Intervensi&nbsp;&nbsp;Kompas.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": -1,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "399ae6de63fb",
     "title": "Pemerintah Bertekad Entaskan Daerah Tertinggal Melebihi Target RPJMN - Kementerian Sekretariat Negara",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0I1am5ZM1YzQ0l3MHFaT1BkcjJZZE9EYU1yXzBMamFfNnQ1UzA0RVkxOHRzWU96c2pRZ1dLdTJydHFhbDZPc2tseWtITVgwWE5Ta2xUa2lXRXZYQVg1ZVJZb2NBRmluc0pxTUlVSnM0WlJ6ZHFLRENxVDhCWk91RTZnTTJrc3I0VWNOSHdnRlIxN05JaERkQnhGTjY3N3J0eEZteFBpcw",
@@ -110937,6 +111028,19 @@
     "desc": "Yandri Susanto Ajak Santri Ponpes Tangkal Perilaku LGBT & Jauhi Narkoba&nbsp;&nbsp;detikNews",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "630b4f05ba41",
+    "title": "Mambor: Kampung di Wondama terima kucuran dana desa Rp1-2 miliar per tahun - ANTARA News Papua Tengah",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTUlEZ2wtc2RXa3pTZFhaekl5SUIwMHpzNnhuVF9TclplbkdOZEFQYWxNVWFMZWtFX3BBVXlQc1lEVVpLVF91WGFCS3BLeFhxWWNNWDh1WF80Wm1EaEpyWGVFTEdsQjItSXJpSmtDdFdIT3J0Z0dMdXVMcFZ4WEdfTTNJOXl1NDNVeHprN2hiSzNVSUloRndJMTBVSlNDU0dsZUxYR3FjbW1UbXRfSEU2UWVRUU42YWhVVHNIRDJR0gHDAUFVX3lxTFBCODRzLUlEQlBNMFphNVkyaUh4cTNnaGFNS3ZKMGNXYkdoMkNLSWt3dzVZUW1NWElaREhrajJMRllTNEJLeVEwaFBIblJTLVkzUUExQzRyTFl1S1k5eUpYSlRHU3VUUjRlS09ZRnk4NFVXQTROcGdpNUlFU1oxUmNoU0t6TmhyS2tZWUZkdC1DYUFkNkN2UUFNMGRtSEJmNGR5czBSUTQ1SG1Udm9Ud0hiOW1OVmF6N1BQenZwcFh6RHhnbw",
+    "source": "ANTARA News Papua Tengah",
+    "pub_date": "2023-07-28T14:00:00+07:00",
+    "desc": "Mambor: Kampung di Wondama terima kucuran dana desa Rp1-2 miliar per tahun&nbsp;&nbsp;ANTARA News Papua Tengah",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
