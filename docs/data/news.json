@@ -1,5 +1,18 @@
 [
   {
+    "id": "158d0728ddc1",
+    "title": "BNPPDT pastikan infrastruktur dasar jangkau warga di Pulau Buru",
+    "link": "https://www.antaranews.com/berita/5881687/bnppdt-pastikan-infrastruktur-dasar-jangkau-warga-di-pulau-buru",
+    "source": "ANTARA News",
+    "pub_date": "2026-11-27T07:17:15+07:00",
+    "desc": "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Jenderal TNI Maruli Simanjuntak memastikan ...",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "58155e47b0d5",
     "title": "Soroti Dugaan Penyalahgunaan BUMDes di wilayah Kecamatan Bojongpicung, Geram dan LBH SJN Desak Pemerintah Turun Tangan - detik suara rakyat",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQTdnb0dDc3BsRG1ydDZuUjlBdUlLb3U0c2ZOR2pIRnd5aG95a3BYWWJQS29CLXF4UVJWT29XeXd3UEx4TElqMEl1eUotbWVLaEFieXdnZm5qanB3TGxrUTVxMGhDb2dRdUhyWEt1bFViQWRidHoyeEY5dWF2dE9DZC1LWEhiVUE0QTF6X0NuRzc3RDdRNVFDcmpUSXNzZTRlQzJveGpPMzYwYWNwM0pyMi1GTFdOdFhVeHE0NXpiUGFDWkx4NWdUMElna0duRFJydS1mYmFMeGJZZHN0ZVJJM1lTSHM",
@@ -372,6 +385,19 @@
     "desc": "Kementerian Desa dan Pembangunan Daerah Tertinggal (Kemendes PDT) siap mengupayakan agar desa-desa yang masih ...",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "14dfef5e912d",
+    "title": "BGN Dorong Penguatan BUMDes dan Potensi Ekonomi Lokal dalam Program MBG di Jateng",
+    "link": "https://www.inilah.com/bgn-dorong-penguatan-bumdes-dan-potensi-ekonomi-lokal-dalam-program-mbg-di-jateng",
+    "source": "Inilah.com",
+    "pub_date": "2026-11-26T15:34:00+07:00",
+    "desc": "BGN mendorong penguatan BUMDes dan koperasi di Jawa Tengah untuk mendukung Program Makan Bergizi Gratis. Optimalkan potensi ekonomi lokal dan sumber daya desa.",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
