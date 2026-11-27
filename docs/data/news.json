@@ -377,6 +377,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "5d86fa43c7df",
+    "title": "BGN Libatkan Bumdes dalam Program Makan Bergizi Gratis untuk Perkuat Ekonomi Desa di Jawa Tengah",
+    "link": "https://www.pantau.com/nasional/381916/bgn-libatkan-bumdes-dalam-program-makan-bergizi-gratis-untuk-perkuat-ekonomi-desa-di-jawa-tengah",
+    "source": "Pantau.com",
+    "pub_date": "2026-11-27T07:26:00+07:00",
+    "desc": "Foto: (Sumber :Kepala BGN Khairul Hidayati (empat dari kiri) dalam pertemuan bersama Dinas Pemberdayaan Masyarakat, Desa, Kependudukan dan Pencatatan Sipil (Dispermadesdukcapil) Provinsi Jawa Tengah p ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Penguatan Ekonomi"
+  },
+  {
     "id": "158d0728ddc1",
     "title": "BNPPDT pastikan infrastruktur dasar jangkau warga di Pulau Buru",
     "link": "https://www.antaranews.com/berita/5881687/bnppdt-pastikan-infrastruktur-dasar-jangkau-warga-di-pulau-buru",
@@ -114840,6 +114853,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "44c05e468635",
+    "title": "Eks Kades di Bandung Diciduk Usai Korupsi Dana Desa Rp 800 Juta - 20detik",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVS1xOWRGR1ZJTW8xdk1vMF9YSWxpWlctTlFIVWdfWXZvOGVra0lsRlp2MU1Cb25pMWl5b0FQeVRSV2JpX0lLWWJyRThRRl90UUhCRHNFaGhFUlQzRXVWQnRaSzRTeTVoczdkYWhsYkJZNW9WWEh0TEVyOUU2ZXFDYW4xN0hpUGkxeGlicmYtei1PYlExbWVUa011QzJ0Wm5iRTlBZmxVVjVwbkpwZFQtOXRTTGs",
+    "source": "20detik",
+    "pub_date": "2022-01-17T15:00:00+07:00",
+    "desc": "Eks Kades di Bandung Diciduk Usai Korupsi Dana Desa Rp 800 Juta&nbsp;&nbsp;20detik",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "72be9fcc9ef7",
