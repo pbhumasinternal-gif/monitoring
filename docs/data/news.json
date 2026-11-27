@@ -39,6 +39,19 @@
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
   },
   {
+    "id": "8040a4ff3196",
+    "title": "BGN Dorong Desa Berdaya Lewat BUMDes untuk Program MBG - Derap.Id",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTW1PM1hOTjMzTUVmNkhqYl9mZXdIZ0pLNjRmMjJEQW5qbU1JRDdMYWJqYmpPUHI4YWlMbTY4Z29sUHlVV2czUWZqcnR2aWc4WW02ZmppVEhBTk9QVnNIVmJKWktfdk9KVW8wR3N6SnAyOUdycmpKem84WlJUZ2NDUUo3TmxCYmFkS1E",
+    "source": "Derap.Id",
+    "pub_date": "2026-11-27T10:41:44+07:00",
+    "desc": "BGN Dorong Desa Berdaya Lewat BUMDes untuk Program MBG&nbsp;&nbsp;Derap.Id",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b2f75779e0c5",
     "title": "Menkop dorong produk koperasi pesantren masuk rantai pasok KDKMP",
     "link": "https://www.antaranews.com/berita/5881851/menkop-dorong-produk-koperasi-pesantren-masuk-rantai-pasok-kdkmp",
@@ -81063,6 +81076,19 @@
     "desc": "Perkuat Daya Saing Digital dan Layanan Publik, Pemerintah Pacu Perluasan Internet Merata hingga Wilayah 3T&nbsp;&nbsp;Kementerian Sekretariat Negara",
     "topic": "daerahtertinggal",
     "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "8ee034b09091",
+    "title": "Berita Terkini Harian Bumdes Sidodadi Jungsemi Kendal Terbaru Hari Ini - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pSjluajZNS0hjalp5S0N0YkJ6R25SV0Jka2hWbFJWN3pCSmpaOEdvQkk2UW5ob2gzWFgzRTA4ZXFLQ2s4cjREM3FPU1ZMb2lwX3dWWkpqdmw3Z2tKOHVSLUs3cDdmcmtQUFE",
+    "source": "Kompas.com",
+    "pub_date": "2026-07-30T14:00:00+07:00",
+    "desc": "Berita Terkini Harian Bumdes Sidodadi Jungsemi Kendal Terbaru Hari Ini&nbsp;&nbsp;Kompas.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
