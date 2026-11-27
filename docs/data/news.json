@@ -26,6 +26,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "3beb9cba6bcb",
+    "title": "Dana Desa dan Banprov Cibaliung Disorot, Komando HAM Desak DPM​​PD Buka Hasil Monev Kecamatan - RADAR NUSANTARA NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDlsdWJ3UmpPY1Rod21fUXJJYkV0ZEJwWnZFLVAxMnM3cTFqblYtd213RUdsUWU4T3YtYVdxNGV2ZmR1dWNfTEx6cll3ZnR0bWpWZ21lN08yWXNCamdnZW1qbzVwNkxEbS04a0l0UVRaUTNpVHZnRzhlUVBZdGhBV0NkaHFvcXBCMVE",
+    "source": "RADAR NUSANTARA NEWS",
+    "pub_date": "2026-11-27T14:17:00+07:00",
+    "desc": "Dana Desa dan Banprov Cibaliung Disorot, Komando HAM Desak DPM​​PD Buka Hasil Monev Kecamatan&nbsp;&nbsp;RADAR NUSANTARA NEWS",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "3100cb8553bd",
     "title": "Forum BUMDes Jabar Sambangi Pabrik MilkLife, Bos Urip: BUMDes Subang Siap Dukung Ketahanan Pangan Lewat Tanam Jagung - Penanews.net",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFMzUU02c3B4VFdjQW5ZYXpZcXkzYWxmOUJBWTYwSzgwa09OcE02NGVGQTJ5cjZmMHVuUDE2NmNCWHBNZi1mT2ZqN2duREFLWmw5cmpKZWs5UlphejB4UnpNS3BsRVhIekFwSlRsRlQxYkNRMVNoZzlDUldHdWRoOGttZGpnQktXT3FLNk5kZ2lsZkg4eDM1azJ3cDlzTGdBSEYxdGhsX0Fnc1p0c3JNcmJIc3dWdGg5U041UEx2MDZfNVVaY3EzMHJRckFRY2dSVGc",
@@ -409,6 +422,19 @@
     "source": "tipikorinvestigasinews",
     "pub_date": "2026-11-27T00:54:43+07:00",
     "desc": "Disorot Soal Pengelolaan DD APBN 2025 dan BUMDes, Kades Pulau Kemang Beri Klarifikasi&nbsp;&nbsp;tipikorinvestigasinews",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e9fbd26f2eb3",
+    "title": "BGN Dorong Penguatan BUMDes hingga Koperasi untuk Optimalkan Program MBG di Desa",
+    "link": "https://www.akurat.co/nasional/910265/bgn-dorong-penguatan-bumdes-hingga-koperasi-untuk-optimalkan-program-mbg-di-desa",
+    "source": "Akurat.co",
+    "pub_date": "2026-11-26T23:52:00+07:00",
+    "desc": "Kepala Biro Hukum dan Hubungan Masyarakat BGN, Khairul Hidayati. AKURAT.CO Badan Gizi Nasional (BGN) menilai desa memiliki potensi besar untuk berkontribusi dalam keberhasilan Program Makan Bergizi Gr ...",
     "topic": "bumdesa",
     "topic_label": "BUM Desa",
     "sentiment": "netral",
@@ -115646,6 +115672,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "1e13dc4642c3",
+    "title": "Diduga Korupsi Dana Desa hingga Rugikan Negara Rp 600 Juta, Mantan Kades Bonder Lombok Tengah Ditahan - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSk8yM2hQYm96cW9BUWJFYkJkcHYzTzE0NGRIZjdtbHg3eTBCaFlaeUVOMDRpdzB4dkI2Y1RVSkVGNkxaUGI2SXd6dC1QTG1FNDNWaXVnSDVuWWNFaTVtLWFXczhYTUstY2kwWXFDZjZmbEVndmRVZk5saTcxcjI0NWFMaXFfSUktcVYzVGZNTTRxTHFXNExiRGczOVVuRERHc083dXNWRXlnWW05NEg5dDZqTnV4NlF0ZDAtYWZ0WGFza2M",
+    "source": "Kompas.com",
+    "pub_date": "2021-09-24T14:00:00+07:00",
+    "desc": "Diduga Korupsi Dana Desa hingga Rugikan Negara Rp 600 Juta, Mantan Kades Bonder Lombok Tengah Ditahan&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "c71fd784244c",
