@@ -1,5 +1,18 @@
 [
   {
+    "id": "8d1ee4952522",
+    "title": "Festival Anugerah BUM Desa Tahun 2026 Dorong Kemandirian Ekonomi Desa - Suara Purwokerto",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbndCQUlBYWRPdDd1Zm00WklCU3hTelVhLXdmeDdYUTUtT2M1LXlaQ3FDU0xyVXp4c1RPcWxfZEJBWXRya2JHbEpVVFlHT3FhSmZRdFNMbmFtLTROOHo0bzVoMEZhQ0xNV3hsZHZ1LWxCaTJLblNFVmlEcDEzeWpQRkhFdHZRc3NDdVNwRkNVOTJTbjZwM0M3Q3c5UmlTVUZxZWdfY25LSVpMb29RSmNkODY3WllkWXlsZ1BuXy1vUHYyRVBYb01JRmRrdw",
+    "source": "Suara Purwokerto",
+    "pub_date": "2026-11-28T20:07:00+07:00",
+    "desc": "Festival Anugerah BUM Desa Tahun 2026 Dorong Kemandirian Ekonomi Desa&nbsp;&nbsp;Suara Purwokerto",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1d1c79b8c059",
     "title": "Festival Anugerah BUM Desa 2026: Ini Deretan Juara Terbaik di Banyumas - indie banyumas",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVTJYZzJmcTdiUHA5RzNMZ3hja09EWUFNUFdwWk1uSUxFV1JpVEtlX3FFbmtHT3QxWjVibGFpRU5Xc3daaVE2ek1fUjRNU2R5dkFDT3l6cURJMGFvZWNhZWo0aGFvRmUxV3l5S3F2UnlGWkZxb2Y5RWQ4YW5KMzdyNk9SYm45LXhOY0gwQ2xQbFllMzF4X1NQVGZ3UEg",
@@ -37,6 +50,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "c3c58d41915b",
+    "title": "Garda Terdepan Pendidikan di Wilayah 3T, Dedikasi Guru Perbatasan Karimun Tuai Apresiasi Tinggi - HarianHaluanKepri.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPa0t3TDNLczRCT0NhUzFjZTBYQ2dBQUREVS1IdXNFaFQwM2V1eW00SGtfMjctRldFc1UtaFdZMmppSE9QdW9kckZxMUtHTU4tdWQwMDJHa05PTmJ3c1E5QmhFcVVnX25hQ1FUWWlJOEdDU3pRdTZkZW1LWlc1ZUQwUzUtZ3RWM1REcHR2X1ZLOEJILUt3WUVWOFFQYmVRRFYycFdHYUpaZ3dSeDlENjBxNU04NHBWUzhScUtnV1VZY2JKa1U",
+    "source": "HarianHaluanKepri.com",
+    "pub_date": "2026-11-28T19:04:18+07:00",
+    "desc": "Garda Terdepan Pendidikan di Wilayah 3T, Dedikasi Guru Perbatasan Karimun Tuai Apresiasi Tinggi&nbsp;&nbsp;HarianHaluanKepri.com",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Capaian & Pemberdayaan"
   },
   {
     "id": "11bc30b478c5",
@@ -609,6 +635,19 @@
     "sentiment": "positif",
     "sentiment_score": 2,
     "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
+    "id": "5e5f6f811f7a",
+    "title": "Bulog Belitung gandeng BUMDes Kelubi serap jagung petani",
+    "link": "https://babel.antaranews.com/berita/598639/bulog-belitung-gandeng-bumdes-kelubi-serap-jagung-petani",
+    "source": "ANTARA News Bangka Belitung",
+    "pub_date": "2026-11-28T03:00:00+07:00",
+    "desc": "‎Perum Bulog Kantor Cabang Belitung, Kanwil Sumsel dan Babel menjalin komunikasi rencana kerja sama pengadaan komoditas jagung bersama Badan Usaha ...",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
   },
   {
     "id": "c1f7c5721c97",
@@ -104494,6 +104533,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "7d8453740d91",
+    "title": "Wamendes PDT sebut sumber pembiayaan Kopdes bukan hanya dari dana desa - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXFlUWFHclhxNWVjaEc0cTFsLW9SRUpoTlJqNTVJZWNQeVowcWpSRDZuWkhsc19xTVpSRktLWFowcUV0TGphUVBhSmRLcW5CN1FtY01WRHRHUk5wS1Ffclh1eFdmREdYUFZZcDZmQTZxWU0xMnhqelUtWHNwa3pPa0tHX1hOeDRCSWM0dTRMNWlTdjFVclNyWFJxUDNwRnVzcUlwZFFiblhaR3BENjBqSkRCX04",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2025-03-07T15:00:00+07:00",
+    "desc": "Wamendes PDT sebut sumber pembiayaan Kopdes bukan hanya dari dana desa&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "37b563a151ef",
     "title": "Kemendes dan GP Ansor Akan Kolaborasi Percepat Bangun Desa - detikNews",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVB3czdRZVFjX1duQzlaYTdBcFJab0tRMU1DdTNmcTFFdzB2bnNRdTNpdklfQ2lWRmFuMGZFVDc5S3BFVmhMQ2ZDdTNneENqbHJMVmcyeExheXp6OFZNY0x0bjVBdVE0RUxhS3dsNFB0QWVWb2toLVhmSnNVdEVXd3BCeU9GUFhGc1AzTGM0Zy1iejhIVTMwYlpBOC0tSXfSAaQBQVVfeXFMTlI2bVBieUptbDlidXNvdFNrMzd6cEg1dXU3VkdySF94c3JVSk5IVGd1Zmlyb0xpTUJsd1JxeUNRNTZKTDRfZG9hQm9wRVhhZkU5akloTGtvdmRjbmJXMnk4bXUtV05mQWd1LWU1T0VmZVJpaDF5M0syZE5wS2dJMmxmSUZYS3VKTXdTckhKVWdPalk0cWlndElCa1ZVNmVzbXdsRF8",
@@ -121764,6 +121816,19 @@
     "source": "ANTARA News Sultra",
     "pub_date": "2019-01-20T15:00:00+07:00",
     "desc": "Naik, anggaran dana desa Sultra 2019&nbsp;&nbsp;ANTARA News Sultra",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "36bcfdedea60",
+    "title": "Kades harus ikuti aturan kelola dana desa - ANTARA News Sultra",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlJhcURPUzJfbWhmM2F2NzRvQUExZVBuRkFvY295VFdaeVl0M3BJRURkX2ZmbmdHaUwyNkh0LUV6TDdNVGNNYlczVUFUVVh4eS12TVZ6M2ZJLTdzb3RCZnczZUtsWHFYNFBaQ0dER1pfdTE5eXFfRS1JMndjN3JiUkV0NllmZ3lmTDdnVHln",
+    "source": "ANTARA News Sultra",
+    "pub_date": "2019-01-18T15:00:00+07:00",
+    "desc": "Kades harus ikuti aturan kelola dana desa&nbsp;&nbsp;ANTARA News Sultra",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
     "sentiment": "netral",
