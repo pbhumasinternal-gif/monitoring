@@ -1,5 +1,18 @@
 [
   {
+    "id": "10967042c0c5",
+    "title": "Kejari Ambon Kembali Periksa Mantan Bendahara Hative Besar Terkait Dugaan Penyelewengan PAD dan Dana Desa - Babeto.id",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUJVSzFwWnJPT0dwMHYxODh0Q2M4VXlyU1ZWQ3RoeFdoY1ozMjFYTE5Hb3FnREd4ZURNVVpZX2VBREV3cmxwOG1tbDZRZXpxdG5tb0Z5czlOWXVrWF9JUEhjVElVeDBpNFNhUGNaN2QzYlFERENVeDNkWC1QWVpKeGNKdlp3TndwWTZUSFc3ajg5OHZDS29uVklxck5tV0hzZWpJdklCMkRyZ0RUcWY2aUhleWU1NVBDZFNKSU9Nb0F3Zw",
+    "source": "Babeto.id",
+    "pub_date": "2026-11-28T11:33:02+07:00",
+    "desc": "Kejari Ambon Kembali Periksa Mantan Bendahara Hative Besar Terkait Dugaan Penyelewengan PAD dan Dana Desa&nbsp;&nbsp;Babeto.id",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
+  },
+  {
     "id": "bb38e9da162d",
     "title": "Mendes PDT Yandri Susanto Ajak Masyarakat Banten Perangi Pengkhianat Bangsa - Faktabanten.co.id",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzl3VWJCNmtwVHUtRnNKdGEyajVhd0hGU1AtTkNOZXk2UmZYTzFxN2dyTndSQ2ttRkZHTXF1X0MwXzNrY3Q0bTJBX2YzMjRPLXpGV1JpOU1pdk8yb0o1dTRQaFlMOV9oMlNnNUQ1YlBpd0QxUzhINTFLYm9QWEVDNENoSGJuWlVQeTM3c3JkcDFEcGQ0TjhSd0JoVTRxSExJSVFoc2E4d1RTSW9Ddjhn",
@@ -21,6 +34,19 @@
     "desc": "Sebut Nama Bupati Bekasi, Pj Kades Karangrahayu Simpan Dana Desa Secara Pribadi?&nbsp;&nbsp;Bekasiekspres",
     "topic": "danadesa",
     "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "f775eb9eda53",
+    "title": "Keren, BUMDes di Banyuwangi ini Juga Turun Tangan Cegah Banjir - TIMES Indonesia",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1BCSkRNWWhmaHFlWXJHSTFKNGw1NVJvQlVpNGdCSVJkWkoxbzMtZXVhdHRpU3N6NDNjMFE0XzhaWnhRUi1BbC1aaE1lWXdpbmJzdXdsZG12aDNIMEd5clZFaFMxbDNBVDJWTzl0SjZoOHVTX2w2eDlJSkdLRGx5UlA4OU9MMlZ0a0lUWlRGU0pBemM5T1VIMVdEbkdFSVFMRm5CWkRqY3VsUzFHM09CaXNlQ3RaQQ",
+    "source": "TIMES Indonesia",
+    "pub_date": "2026-11-28T10:43:00+07:00",
+    "desc": "Keren, BUMDes di Banyuwangi ini Juga Turun Tangan Cegah Banjir&nbsp;&nbsp;TIMES Indonesia",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
@@ -1100,6 +1126,19 @@
     "desc": "Menteri Koperasi Ferry Juliantono mendorong produk yang dihasilkan koperasi pondok pesantren masuk dalam rantai pasok ...",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "65e239f1848b",
+    "title": "Kaltim Kekurangan 3.900 Guru, Disdikbud Percepat Pemerataan Tenaga Pengajar hingga Wilayah 3T - Klausa.co",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTNrTkEtdkl0YWF0NnJnZXdSNGh0Z2dHQi1pSXo5aW9qRWZ1OUxzdURCSEtELXhuVTlzR3Y3U2MxREtqaC1IVUhBY1hKV0MxekNVOHp3T0FwTTJnWHA1Mnc5Y1NWRXI5Z0JuZTZCcDZwMW05dk1US2JKeHQ0cWxCYjZkTEJPMG9PNzdLcUVyU1JLZl9Jb2lldzhOaG1yZEZpNUZMdnMwcGF5OEFUS015aw",
+    "source": "Klausa.co",
+    "pub_date": "2026-11-27T10:09:00+07:00",
+    "desc": "Kaltim Kekurangan 3.900 Guru, Disdikbud Percepat Pemerataan Tenaga Pengajar hingga Wilayah 3T&nbsp;&nbsp;Klausa.co",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
