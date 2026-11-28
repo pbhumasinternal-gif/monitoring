@@ -1,5 +1,18 @@
 [
   {
+    "id": "812d14283ce8",
+    "title": "Peluang BUMDes Banyumas Garap Potensi Pertanian hingga Ketahanan Pangan - Tribunbanyumas.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX1lNQUVkd1ZhMTUwdUI3NmtWZ1U4TTdDV1ZDUXVUaE5Md0lkRWw1YlhsUVJkd3d3c0ZISDJ5ZXNtTkx2WndLRDRaNl9fYWVmOWRucUNmVm1BQ0RfVlp3MkIxZ2JqMWF1cVdaVDB4aUw5Zlp6cmpvdmtIbTNvU2hJMndCTG9LSHZONm13NmJLWHl1QmJLb21hWGhUOUctV05jYjdRbHF0VFNPdUVhT2JJdm9IT2VUeTFtMlkzbGNJYTd1ZWc",
+    "source": "Tribunbanyumas.com",
+    "pub_date": "2026-11-28T12:17:11+07:00",
+    "desc": "Peluang BUMDes Banyumas Garap Potensi Pertanian hingga Ketahanan Pangan&nbsp;&nbsp;Tribunbanyumas.com",
+    "topic": "bumdesa",
+    "topic_label": "BUM Desa",
+    "sentiment": "positif",
+    "sentiment_score": 2,
+    "sentiment_tag": "Inovasi & Ketahanan Pangan"
+  },
+  {
     "id": "6883cbf713d1",
     "title": "Dana Desa Probolinggo Turun Jadi Rp110–120 Miliar pada 2027, BPD Didorong Awasi Anggaran - Radar Bangsa",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmRrdXQtTGh4ZUtHMFJZNDFnY3VKZzJCNzM2RE90YkdYM3hzSGdrWkpVSWQwQkV3VnBhblZpSEVxbEJMdzdzN09BdjZacWxsUlhUODBZc1NQaExqdXBBdEE5d1JtS2lUNEZyeEhFYk9wek04QjVpdUtDbE9kNXQ0LVU1S19DcGxSZ3RhVWtPbjZ3aWdjTHpyazhMUmJHTEd5OFdVZVdyLU0zX2JtdUt0cFFvcWY",
@@ -1272,6 +1285,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "e9af80e36c10",
+    "title": "Kumpulan Berita sejumlah daerah berisiko selewengkan dana desa - ANTARA News Gorontalo",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWmlrVmNKalJpVG9hdDJiSmVHR3VxV1BFdWVUU3FWcTZzZWxEZW9QTk4xM0VzR21jdm1aNTFIOEZrY0ZCTmxNMllkWkZKSlh6ajRVX0JjUmJuSG5aanZySnJtdm9UYkNCMm5GbkptdlBqUjZfMS1xTG9kaThCaGp1V2dpQUNBZnFsdGRn",
+    "source": "ANTARA News Gorontalo",
+    "pub_date": "2026-11-27T08:32:52+07:00",
+    "desc": "Kumpulan Berita sejumlah daerah berisiko selewengkan dana desa&nbsp;&nbsp;ANTARA News Gorontalo",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "bf3f78d1182d",
@@ -88257,6 +88283,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "29add0c4b3c5",
+    "title": "Abpednas: Kesalahan administrasi Dana Desa tidak langsung dipidana - ANTARA News Sulteng",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWtDMjYyT1ZYLVd6ODBFMmg4d194TGNMZWdCQ0lZY3ZFdXV6aVBmUmQtemhHY1dPdHVmSnVZTjNtY0piLTlXR2NsVHAycEtnaW9vbVpYd3JPcm94Tmt0em5rbmg1eWNTUWpmank0MEx2NDNhM2I1d1VaNC1hbFpJaHYtTU8tZjlOZGZIM2RiWFNqMFNSTlpzN1RfQXhZVy11MXFtYk90MzZ1MWxGb1Jv",
+    "source": "ANTARA News Sulteng",
+    "pub_date": "2026-06-29T14:00:00+07:00",
+    "desc": "Abpednas: Kesalahan administrasi Dana Desa tidak langsung dipidana&nbsp;&nbsp;ANTARA News Sulteng",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "1d1f295c2242",
     "title": "Menangis Melihat Kondisi Sipiongot, Bobby Nasution Janji Hapus Daerah Tertinggal di Sumut - BITV Online",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbEVGcWtDdURkQVYyTVdQRFRxTmFIOGFaNVhpU2MwbENscFlCSHgwVFpDOGdVRlJ4R0lPX3dmdlZPRjZyb1R5cG5EM0Z4Mnh1R2RBRGdHOHJnRFdUekZjN04tcHhqZ0t4YngxNGltZEJYNlBGUWFablc0cGYxZ29odVQ4YVRBek9idjBSZ2FGWE1YTHNyQkx4R0lkVVhuYVVReEpuWks5T1JkNk9vb0tpQXd1TER6THlQVTRnb1EyNTBxa3Bzem1nUlZjNWZaT1Vm0gHQAUFVX3lxTE5Bcy1scl92bEtzYTlycURNbmxZN2J0Z0prLVdjX1I2UUdid0ZBbUtORWJ5bHc1SnJNRWVFcWUwZmViUi1OZUtjRkF4ZWhRakk5NmlfVXlHekU0TFB4aGJHU0RwU1ZYWEJmWkt6YkVGNzdvMTZCR2kwcjJ2N2pWNkhvTVV4VXFwTHpxbnZhMVJvRzJpUHAxdUd6TURvbXc4dFdJRW5Ja0h6MU9mTWFrRldTOFFQMG1yOEppTjh4czVNU0dFd1dORUFqd18xOXpXbXE",
@@ -106762,6 +106801,19 @@
     "source": "Kompas.com",
     "pub_date": "2024-11-15T15:00:00+07:00",
     "desc": "Kemensos dan Kemendes Bangun Kerja Sama Kesejahteraan Sosial di Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "kemendesa",
+    "topic_label": "Kemendesa PDT",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "134a6e52af0f",
+    "title": "Mendes PDT Yandri Susanto temui Mendagri bahas program desa dan perkuat kerja sama - ANTARA News Riau",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUNwaWxFdWNjcGRtRmNRd1RUdkRaWW9pV2kzTEcydFZ0aHZYZVdPYk5RcEhUSGQ1ZjlNaTVzRlFXS1VzbmdndjYtdDFRY2NaSWhOR1AyeHAtaHJoZlVyYzh6bDVPd1d0SllJeEFFT1BVdnNzQmFsenNnQWRXQTFlcklSUmVZeUlvTW1rLXJ3MFowd013M21xaUVJcWExbmJjYjVibEtWT1IwU1lEeGN4SnpjXzFYeTg1WnNXdU96MEI5QQ",
+    "source": "ANTARA News Riau",
+    "pub_date": "2024-11-14T15:00:00+07:00",
+    "desc": "Mendes PDT Yandri Susanto temui Mendagri bahas program desa dan perkuat kerja sama&nbsp;&nbsp;ANTARA News Riau",
     "topic": "kemendesa",
     "topic_label": "Kemendesa PDT",
     "sentiment": "netral",
