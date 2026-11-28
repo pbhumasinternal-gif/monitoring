@@ -90779,6 +90779,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "e8d09274bb7c",
+    "title": "Keuangan Desa - ANTARA News Papua",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QVWlZaDRUN1Rqb1ItTlN0OEZIOFRBYjBJZlVTYUZwSXQ0OGdEZnc5MmtXQ2tMZTVETE1XOElVSVVVR1oyT3VablFuaFM2Wk5VWFE0R1NqNlJxQQ",
+    "source": "ANTARA News Papua",
+    "pub_date": "2026-06-04T21:19:16+07:00",
+    "desc": "Keuangan Desa&nbsp;&nbsp;ANTARA News Papua",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "67b3a04257fe",
     "title": "BGN Moratorium Pembangunan Dapur MBG, Bakal Fokus ke Wilayah 3T - InvestorTrust",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUldxVHk5R0NYOUpRMnBDUFVWLU13c2RjeVlPd3lrWFNtaVJIeFZERVNQQUx0TFc4N0hwT19JbXVYMndMOG9XOFQwX3dsYkprMHdKRDFyUFlkSHpLeEp2c2lDZk12aWYxaEhQSVp4VUhKakEwNy00S3ozUW9RZWpfWDU1NUtnWnp6cXhWQ29MUWZ2VG92djNuYUVBN3lSMk1nYkQ5dkRn",
@@ -117869,6 +117882,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "597098f7b048",
+    "title": "Korupsi Dana Desa-Sempat Jadi Buron, Bu Sekdes di Ambawang Kalsel Ditangkap - detikNews",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNmN2M1FzdlpTQmNHMV9GWC1TbGFiR2g2c1cxRlBYNnZqUzdjQ2J3XzNOOHkwbzRHcFlUNTNXZFVnSmhYUmNVREpuLUI1SnY0UW1oR0NaRlQzVnFhTEdsQ0Q2R01fTjhxUHFuSHBmRzZHbjVULWFjWW5aZVd2aFo2LVhKUkJCTU81a1NmTjR1aVpHbW56M0xKVnc1Z3h0QmxkdDJxOXYzeTdFM3lmR3NuV2RJZmXSAboBQVVfeXFMUE1QS3dqb3djeWJtVWQteTNSeTVuT2dsMlNRS1A0YlE5b01PUzQ5WThNYmEyM1VIdkhEZ3hvS1ZmVEZ4WGJlOFVqNzJqN2Q5dU5xbHc2eFVuNWkwMFNQQ1VkT0FKSWNSZERlYUJJa1VPbl9CNjVKS2E4aEVxcEFaSmViaEdReTJRR0xTeDNSZEtQNENCZG9IRlhzUlROLVhuVHByTlpCQ29VV1RSQXFUdVZZMUctdEZQaUJR",
+    "source": "detikNews",
+    "pub_date": "2021-07-06T14:00:00+07:00",
+    "desc": "Korupsi Dana Desa-Sempat Jadi Buron, Bu Sekdes di Ambawang Kalsel Ditangkap&nbsp;&nbsp;detikNews",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -7,
+    "sentiment_tag": "Kasus Hukum & Korupsi"
   },
   {
     "id": "888c740c1e36",
