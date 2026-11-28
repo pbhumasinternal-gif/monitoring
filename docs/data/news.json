@@ -4472,6 +4472,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "40707a185491",
+    "title": "BGN Hadapi Kendala Pasokan untuk Dapur MBG di Wilayah 3T - MediaKompeten",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RVDBCbWRHd3FWR3NEZkhFYmpQZG9JbUtpeXotdG5TTW1kMk9VWmx3T0NWLUxoMG1jSUtoaUFOQTdMVWdCbjI4dHVIbEpWd2pZMnVacklXbjVfeFhTOGczMjNsSGVnZVRMZkRZRlBR",
+    "source": "MediaKompeten",
+    "pub_date": "2026-11-25T08:10:58+07:00",
+    "desc": "BGN Hadapi Kendala Pasokan untuk Dapur MBG di Wilayah 3T&nbsp;&nbsp;MediaKompeten",
+    "topic": "daerahtertinggal",
+    "topic_label": "Daerah Tertinggal",
+    "sentiment": "netral",
+    "sentiment_score": 0,
+    "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
     "id": "b2919ce3aeca",
     "title": "BGN Hadapi Kendala Pasokan Pangan di Wilayah 3T - Lensa Hukum",
     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SdzRiRjBfdUlqVDVPeXh0UHE4aFN5a05mU3RaN0thOTk2SjYtVHZLSHc5ZUF2N3JQRGNJTzBfSV9BTC1MMk54dHh2V1dxaVVmWFZCcmtyZjBxbEJ5MmhzY1RmMy0",
@@ -120198,6 +120211,19 @@
     "sentiment_tag": "Informatif & Regulasi"
   },
   {
+    "id": "b19f0db96c8c",
+    "title": "Hindari Desa Fiktif, Kemenkeu Perketat Penyaluran Dana Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjFXLTcxVWRQSDkzSU5ESUJ2NmtZME1Fb2JQQWtGeWo3Mk92ZXFNUXVHN0tWR3pzMkZxb2VwR014NnpNeDJpbkt4S3NYa251R0gxdnR6UmVWaTMtb3owRVFYdThUSUU4WGRMMDFCaG0tbWdHbGQtMU8tRVlmSm9qWGFzR2hCUGh3cnVoLUtuS3lkcDdWTXFVOUtZdnhIV01SY2l2VWFFZGhkc0kxdFE",
+    "source": "Kompas.com",
+    "pub_date": "2020-01-15T15:00:00+07:00",
+    "desc": "Hindari Desa Fiktif, Kemenkeu Perketat Penyaluran Dana Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -3,
+    "sentiment_tag": "Sorotan & Evaluasi"
+  },
+  {
     "id": "a6ebf0c295c7",
     "title": "Sri Mulyani Terbitkan Aturan Baru Penyaluran Dana Desa - detikFinance",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakR1NmNRU0FiSExIbWpkeTdTNEpLb0lvcjVHWUpmc2dndW1faDhGYU42QnNjMUVxcWQtUDZWZjBleDFZaWlXcFM4V3ZoRUVXc0tudEo2X0pDUFZuZWFOVUVHMFJvQjhnTmlFRXJQYmZ0bkhfcC1vUGw0VGZCejI0STJjN3lHa3hiS2d5dEVtOGJVZF8wNlR4cUhabzBQXzZ1YnowMUxjbk9LQTVkVGJkT053",
@@ -120274,6 +120300,19 @@
     "sentiment": "netral",
     "sentiment_score": 0,
     "sentiment_tag": "Informatif & Regulasi"
+  },
+  {
+    "id": "fda4299f6aea",
+    "title": "Kaleidoskop 2019: Polemik Desa Fiktif yang Berujung Pembekuan Dana Desa - Kompas.com",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORmhlS3pMaUs0X095V3dUZmItNzN5a2taVG0xUUlhZEpTZk10aS0wMWREc1JmSVNSUnhmTnA2NlgwSFAwOHlTRUhrcVE0WnNodnZzWWJ1eUkxR3JtWkpBTE1LcHdicFZkUVdRWFpVUmRuWHBBeWNSRmpCeFcyUzFkUFk0WmJFckRaY290Mzk2Zkl2bUEtR2F3WEVfVUhFaUc5RG1HVHFkZGlpWUpZaFEyVldWMDVmOXZreXBkY3BsbXhXMUctd0p4R0dfSGU",
+    "source": "Kompas.com",
+    "pub_date": "2019-12-19T15:00:00+07:00",
+    "desc": "Kaleidoskop 2019: Polemik Desa Fiktif yang Berujung Pembekuan Dana Desa&nbsp;&nbsp;Kompas.com",
+    "topic": "danadesa",
+    "topic_label": "Dana Desa",
+    "sentiment": "negatif",
+    "sentiment_score": -5,
+    "sentiment_tag": "Sorotan & Evaluasi"
   },
   {
     "id": "c31ec7d768e2",
